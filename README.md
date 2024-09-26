@@ -12,6 +12,3 @@ Ce **README** est une simple présentation<br>
 ##  !!!! ATTENTION !!!!
 
 COMING SOON
-
-
-<font color="red">This text is red!</font>
