@@ -186,5 +186,5 @@ https://github.com/comfyanonymous/ComfyUI/tags<br>
 COMFYui Manger : https://github.com/ltdrdata/ComfyUI-Manager?tab=readme-ov-file
 
 
-<p><img alt="Github" src="images/Git-Logo.png" width="32" height="29">github : https://github.com/Dfalm-Original</p>
-<p><img alt="Youtube" src="images/youtube+logoToon.png" width="32" height="32">Youtube : https://www.youtube.com/@Dfalm</p>
+<p><img alt="Github" src="http://Dfalm.fr/ComfyUI/Git-Logo.png" width="32">github : <a href="https://github.com/Dfalm-Original/COMFYui" target="_blank">https://github.com/Dfalm-Original/COMFYui</a></p>
+<p><img alt="Youtube" src="http://Dfalm.fr/ComfyUI/youtube+logoToon.png" width="32">Youtube : <a href="https://www.youtube.com/@Dfalm" target="_blank">https://www.youtube.com/@Dfalm</a></p>
