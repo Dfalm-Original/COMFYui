@@ -185,5 +185,6 @@ VIEILLES VERSIONS DE COMFYui :
 https://github.com/comfyanonymous/ComfyUI/tags<br>
 COMFYui Manger : https://github.com/ltdrdata/ComfyUI-Manager?tab=readme-ov-file
 
-github : https://github.com/Dfalm-Original<br>
-Youtube : https://www.youtube.com/@Dfalm
+
+<p><img alt="Github" src="images/Git-Logo.png" width="32" height="29">github : https://github.com/Dfalm-Original</p>
+<p><img alt="Youtube" src="images/youtube+logoToon.png" width="32" height="32">Youtube : https://www.youtube.com/@Dfalm</p>
