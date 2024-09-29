@@ -1,8 +1,10 @@
 <img src="images/CC0_button.svg.png" height="64">
 
 
-## 🔵⚪️🔴 <b>"Quand une idée est bonne elle appartient à tout le monde"</b> . licence<br>
-## 🌎🌍🌏 <b>"When an idea is good it belongs to everyone"</b> . licence
+<h2>🔵⚪️🔴<b>Quand_une_idée_est_bonne_elle_appartient_a_tout_le_monde</b>.licence</h1>
+
+<h2>🌎🌍🌏<b>When_an_idea_is_good_it_belongs_to_everyone</b></font>.licence</h1>
+
 <hr>
 🔵⚪️🔴 Si vous êtes une bonne personne vous citez vos sources et l'auteur qui vous a inspiré
 
