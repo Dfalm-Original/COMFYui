@@ -1,8 +1,11 @@
 <img src="images/CC0_button.svg.png" height="64">
 
 
-<h3>🔵⚪️🔴<b>Quand_une_idee_est_bonne_elle_appartient_a_tout_le_monde</b>.<i>licence</i></h1>
-<h3>🌎🌍🌏<b>When_an_idea_is_good_it_belongs_to_everyone</b></font>.<i>licence</i></h1>
+<h3>🔵⚪️🔴<b>Quand_une_idee_est_bonne_elle_appartient_a_tout_le_monde</b>.<i><a href="https://fr.wikipedia.org/wiki/WTFP" target="_blank">licence</a></i>
+</h1>
+<h3>🌎🌍🌏<b>When_an_idea_is_good_it_belongs_to_everyone</b></font>.<i><a href="https://en.wikipedia.org/wiki/WTFP" target="_blank">licence</a></i>
+</h1>
+
 <hr>
 
 🔵⚪️🔴 Si vous êtes une bonne personne vous citez vos sources et l'auteur qui vous a inspiré
@@ -23,8 +26,9 @@ However I believe in you, you are not a greedy person
 ---
 ---
 
-🔵⚪️🔴 Tout ce que je produits est en <b>"zero"</b> licence <img src="images/CC-0-Violet.png" height="32"><br>
-Libre a vous d'en faire l'usage dont vous avez besoin ou que vous trouvez utile <img src="images/WTFPL_logo.svg.png" height="32"><br>
+🔵⚪️🔴 Tout ce que je produits est en <b>"zero"</b> licence <a href=" https://creativecommons.org/publicdomain/zero/1.0/deed.fr"><img src="images/CC-0-Violet.png" height="32"></a><br>
+Libre a vous d'en faire l'usage dont vous avez besoin ou que vous trouvez utile <a href="https://fr.wikipedia.org/wiki/WTFPL"><img src="images/WTFPL_logo.svg.png" height="32"></a>
+<br>
 
 <p><img alt="WTFPL" src="images//CC-0-Violet.png" height="32">
 <u>Zero Licence</u> :
@@ -32,8 +36,8 @@ Libre a vous d'en faire l'usage dont vous avez besoin ou que vous trouvez utile 
 
 <p><img alt="WTFPL" src="images/WTFPL_logo.svg.png" height="32"> <u>Licence Alternative </u> : <a href="https://fr.wikipedia.org/wiki/WTFPL" target="_blank">https://fr.wikipedia.org/wiki/WTFPL</a></p>
 
-🌎🌍🌏 Everything I produce is under <b>"zero"</b> license <img src="images/CC-0-Violet.png" height="32"><br>
-You are free to use it as you need or find useful <img src="images/WTFPL_logo.svg.png" height="32"><br>
+🌎🌍🌏 Everything I produce is under <b>"zero"</b> license <a href="https://creativecommons.org/publicdomain/zero/1.0/"><img src="images/CC-0-Violet.png" height="32"></a><br>
+You are free to use it as you need or find useful <a href="https://en.wikipedia.org/wiki/WTFPL"><img src="images/WTFPL_logo.svg.png" height="32"></a><br>
 <p><img alt="WTFPL" src="images//CC-0-Violet.png" height="32">
 <u>Zero Licence</u> :
 <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">https://creativecommons.org/publicdomain/zero/1.0/</a></p>

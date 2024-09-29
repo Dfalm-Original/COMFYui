@@ -1,4 +1,4 @@
-### <img src="images/CC-0-Violet.png" height="64"> Dfalm.<i>[Licence](https://github.com/Dfalm-Original/COMFYui?tab=License-1-ov-file)</i>
+### <a href="https://creativecommons.org/publicdomain/zero/1.0/"><img src="images/CC-0-Violet.png" height="48"></a> Dfalm.<i>[Licence ](https://github.com/Dfalm-Original/COMFYui?tab=License-1-ov-file)</i><a href="https://fr.wikipedia.org/wiki/WTFPL"><img src="images/WTFPL_logo.svg.png" height="48"></a>
 # **Divers WorkFlow + Tutos + Config + Misc COMFYui**
 <hr>
 
@@ -221,6 +221,6 @@ ComfyUI/[ComfyUI](https://github.com/comfyanonymous/ComfyUI) - A powerful and mo
 
 ----
 ----
-### <img src="images/CC-0-Violet.png" height="64"> Dfalm.[Licence](https://github.com/Dfalm-Original/COMFYui?tab=License-1-ov-file)
-<p><img alt="Github" src="http://Dfalm.fr/ComfyUI/Git-Logo.png" width="32"> github : <a href="https://github.com/Dfalm-Original/COMFYui" target="_blank">https://github.com/Dfalm-Original/COMFYui</a></p>
-<p><img alt="Youtube" src="http://Dfalm.fr/ComfyUI/youtube+logoToon.png" width="32"> Youtube : <a href="https://www.youtube.com/@Dfalm" target="_blank">https://www.youtube.com/@Dfalm</a></p>
+### <a href="https://creativecommons.org/publicdomain/zero/1.0/"><img src="images/CC-0-Violet.png" height="64"></a> Dfalm.<i>[Licence ](https://github.com/Dfalm-Original/COMFYui?tab=License-1-ov-file)</i><a href="https://fr.wikipedia.org/wiki/WTFPL"><img src="images/WTFPL_logo.svg.png" height="64"></a>
+<p><img alt="Github" src="http://Dfalm.fr/ComfyUI/Git-Logo-Dfalm.png" width="48"> github : <a href="https://github.com/Dfalm-Original/COMFYui" target="_blank">https://github.com/Dfalm-Original/COMFYui</a></p>
+<p><img alt="Youtube" src="http://Dfalm.fr/ComfyUI/youtube+logoToon.png" width="48"> Youtube : <a href="https://www.youtube.com/@Dfalm" target="_blank">https://www.youtube.com/@Dfalm</a></p>
