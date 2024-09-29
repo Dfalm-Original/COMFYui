@@ -4,7 +4,7 @@
 
 #### A - Normalisation<br>B - WorkFlow<br>C - Misc<br>D - In Fine
 ----
-## A - Normalisation
+## INTRODUCTION
 Dans ce chaptire je vais mettre en place une "norme" commune : **Normalisation** pour les différents éléments<br>
 Le premier élément est la Langue<br>
 Pour distinguer le Français de l'Anglais je vais utiliser les icones suivantes :<br>
@@ -27,6 +27,7 @@ Default color proposed by COMFYui<br>
 When these colors are specific I will specify it with the color code
 
 ---
+## A - Normalisation
 - PREVIEW
 - 1 Variables : En vert / In Green
 - 2 Prompts : Couleur / color
@@ -171,8 +172,16 @@ Hauteur / Height : brown (maron)<br>
 <img src="images/couleurs.png" width="25%" height="25%">
 
 ----
-- ## 8 MISC
 
+<h1>B - WORKFLOW</h1>
+Coming soon...
+
+
+----
+
+<h1>C - MISC</h1>
+
+### Conseil / Advice
 🔵⚪️🔴 Pour la preview image j'utilise egalement la couleur noire et uniquement "PREVIEW IMAGE"<br>
 Je conseille d'utiliser les "SD" Prompt generator et Prompt Saver 1️⃣ pour diverses raisons
 
@@ -193,7 +202,8 @@ Couleur / Color : 255 - 150 - 30<br>
 2️⃣ cg-use-everywhere : https://github.com/chrisgoringe/cg-use-everywhere
 
 ---
-## D - In Fine
+<h1>D - In Fine</h1>
+
 ## Liens Utiles - Links usefull :
 VIEILLES VERSIONS / OLDS VERSION  <b>COMFYui</b> :
 https://github.com/comfyanonymous/ComfyUI/tags<br>

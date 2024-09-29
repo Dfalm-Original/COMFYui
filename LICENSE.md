@@ -1,4 +1,4 @@
-<a href="https://creativecommons.org/publicdomain/zero/1.0/"><img src="images/CC0_button.svg.png" height="64"></a>
+<a href="https://creativecommons.org/publicdomain/zero/1.0/"><img src="images/CC0_button.svg.png" height="64"></a><a href="https://fr.wikipedia.org/wiki/WTFPL"><img src="images/WTFPL_logo.svg.png" height="64"></a>
 
 <h3>🔵⚪️🔴<b>Quand_une_idee_est_bonne_elle_appartient_a_tout_le_monde</b>.<i><a href="https://fr.wikipedia.org/wiki/WTFPL" target="_blank">licence</a></i>
 </h1>
@@ -28,24 +28,24 @@ However I believe in you, you are not a greedy person
 🔵⚪️🔴 Tout ce que je produits est en <b>"zero"</b> licence <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.fr"><img src="images/CC-0-Violet.png" height="32"></a><br>
 Libre a vous d'en faire l'usage dont vous avez besoin ou que vous trouvez utile <a href="https://fr.wikipedia.org/wiki/WTFPL"><img src="images/WTFPL_logo.svg.png" height="32"></a>
 <br>
-
-<p><img alt="WTFPL" src="images//CC-0-Violet.png" height="32">
+<img alt="WTFPL" src="images//CC-0-Violet.png" height="32">
 <u>Zero Licence</u> :
-<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.fr" target="_blank">https://creativecommons.org/publicdomain/zero/1.0/deed.fr</a></p>
+<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.fr" target="_blank">https://creativecommons.org/publicdomain/zero/1.0/deed.fr</a>
 
-<p><img alt="WTFPL" src="images/WTFPL_logo.svg.png" height="32"> <u>Licence Alternative </u> : <a href="https://fr.wikipedia.org/wiki/WTFPL" target="_blank">https://fr.wikipedia.org/wiki/WTFPL</a></p>
+<img alt="WTFPL" src="images/WTFPL_logo.svg.png" height="32"> <u>Licence Alternative </u> : <a href="https://fr.wikipedia.org/wiki/WTFPL" target="_blank">https://fr.wikipedia.org/wiki/WTFPL</a><br>
+
 
 🌎🌍🌏 Everything I produce is under <b>"zero"</b> license <a href="https://creativecommons.org/publicdomain/zero/1.0/"><img src="images/CC-0-Violet.png" height="32"></a><br>
 You are free to use it as you need or find useful <a href="https://en.wikipedia.org/wiki/WTFPL"><img src="images/WTFPL_logo.svg.png" height="32"></a><br>
-<p><img alt="WTFPL" src="images//CC-0-Violet.png" height="32">
+<img alt="WTFPL" src="images//CC-0-Violet.png" height="32">
 <u>Zero Licence</u> :
-<a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">https://creativecommons.org/publicdomain/zero/1.0/</a></p>
-
-<p><img alt="WTFPL" src="images/WTFPL_logo.svg.png" height="32">
+<a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">https://creativecommons.org/publicdomain/zero/1.0/</a><br>
+<img alt="WTFPL" src="images/WTFPL_logo.svg.png" height="32">
 <u>Licence Alternative </u>
- : <a href="https://en.wikipedia.org/wiki/WTFPL" target="_blank">https://en.wikipedia.org/wiki/WTFPL</a></p>
+ : <a href="https://en.wikipedia.org/wiki/WTFPL" target="_blank">https://en.wikipedia.org/wiki/WTFPL</a><br><br>
 
-<u>GITHUB Guide</u> : https://docs.github.com/fr/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository
+
+<p><u>GITHUB Guide</u> : https://docs.github.com/fr/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository</p>
 
 
 ### Dfalm
