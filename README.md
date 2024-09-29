@@ -176,29 +176,29 @@ Hauteur / Height : brown (maron)<br>
 - ## 8 MISC
 
 🔵⚪️🔴 Pour la preview image j'utilise egalement la couleur noire et uniquement "PREVIEW IMAGE"<br>
-Je conseille d'utiliser les "SD" Prompt generator et Prompt Saver pour diverses raisons
+Je conseille d'utiliser les "SD" Prompt generator et Prompt Saver 1️⃣ pour diverses raisons
 
 🌎🌍🌏 For the preview image I also use black color and only "PREVIEW IMAGE"<br>
-I recommend using the "SD" Prompt generator and Prompt Saver for various reasons
+I recommend using the "SD" Prompt generator and Prompt Saver 1️⃣ for various reasons
 
 ### BUGS imprevu / unexpected
-🔵⚪️🔴 Pour une raison non determinee il semble y avoir des problemes de performances avec "SD Parameter Generator"📝<br>
-Une astuce consiste a ne pas utiliser la "seed" du noeud, j'utilise (de preference) "Seed Everywhere" 📝
+🔵⚪️🔴 Pour une raison non determinee il semble y avoir des problemes de performances avec "SD Parameter Generator" 1️⃣<br>
+Une astuce consiste a ne pas utiliser la "seed" du noeud, j'utilise (de preference) "Seed Everywhere" 2️⃣
 
-🌎🌍🌏 For some reason there seems to be performance issues with "SD Parameter Generator"📝<br>
-A tip is to not use the node "seed". I use (preferably) "Seed Everywhere" 📝<br>
+🌎🌍🌏 For some reason there seems to be performance issues with "SD Parameter Generator" 1️⃣<br>
+A tip is to not use the node "seed". I use (preferably) "Seed Everywhere" 2️⃣<br>
 <br>
 Couleur / Color : 255 - 150 - 30<br>
 <img src="images/seed-everywhere.png">
 
-📝 SD Prompt Reader Node : https://github.com/receyuki/comfyui-prompt-reader-node<br>
-📝 cg-use-everywhere : https://github.com/chrisgoringe/cg-use-everywhere
+1️⃣ SD Prompt Reader Node : https://github.com/receyuki/comfyui-prompt-reader-node<br>
+2️⃣ cg-use-everywhere : https://github.com/chrisgoringe/cg-use-everywhere
 
 ---
 ## Liens Utiles - Links usefull :
 VIEILLES VERSIONS / OLDS VERSION  <b>COMFYui</b> :
 https://github.com/comfyanonymous/ComfyUI/tags<br>
-<b>COMFYui Manger</b> : https://github.com/ltdrdata/ComfyUI-Manager
+INDISPENSABLE : <b>COMFYui Manger</b> : https://github.com/ltdrdata/ComfyUI-Manager
 
 ### Beginner’s Guide to ComfyUI
 By Andrew : https://stable-diffusion-art.com/comfyui/
@@ -222,6 +222,6 @@ ComfyUI/[ComfyUI](https://github.com/comfyanonymous/ComfyUI) - A powerful and mo
 
 ----
 ----
-### Dfalm
+### <img src="images/CC-0-Violet.png" height="64"> Dfalm 
 <p><img alt="Github" src="http://Dfalm.fr/ComfyUI/Git-Logo.png" width="32"> github : <a href="https://github.com/Dfalm-Original/COMFYui" target="_blank">https://github.com/Dfalm-Original/COMFYui</a></p>
 <p><img alt="Youtube" src="http://Dfalm.fr/ComfyUI/youtube+logoToon.png" width="32"> Youtube : <a href="https://www.youtube.com/@Dfalm" target="_blank">https://www.youtube.com/@Dfalm</a></p>
