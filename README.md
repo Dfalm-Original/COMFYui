@@ -222,6 +222,6 @@ ComfyUI/[ComfyUI](https://github.com/comfyanonymous/ComfyUI) - A powerful and mo
 
 ----
 ----
-### <img src="images/CC-0-Violet.png" height="64"> Dfalm 
+### <img src="images/CC-0-Violet.png" height="64"> Dfalm.[Licence](https://github.com/Dfalm-Original/COMFYui?tab=License-1-ov-file)
 <p><img alt="Github" src="http://Dfalm.fr/ComfyUI/Git-Logo.png" width="32"> github : <a href="https://github.com/Dfalm-Original/COMFYui" target="_blank">https://github.com/Dfalm-Original/COMFYui</a></p>
 <p><img alt="Youtube" src="http://Dfalm.fr/ComfyUI/youtube+logoToon.png" width="32"> Youtube : <a href="https://www.youtube.com/@Dfalm" target="_blank">https://www.youtube.com/@Dfalm</a></p>
