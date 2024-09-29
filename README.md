@@ -1,5 +1,4 @@
-#### <span style="color:green">Script in French pending translations into English and other languages</span>
-
+### <img src="images/CC-0-Violet.png" height="64"> Dfalm.<i>[Licence](https://github.com/Dfalm-Original/COMFYui?tab=License-1-ov-file)</i>
 # **Divers WorkFlow + Tutos + Config + Misc COMFYui**
 <hr>
 
