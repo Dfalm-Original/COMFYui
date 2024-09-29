@@ -75,10 +75,10 @@ In Left 🔵⚪️🔴 In French // A Droite 🌎🌍🌏 En Anglais
 - ## 1 Variables : En vert / In Green :
 <img src="images/variables.png">
 
->### ⌨️ PARAMETRER A DETERMINER PAR L'UTILISATEUR
+>### ⌨️ PARAMETRES A DETERMINER PAR L'UTILISATEUR
 >#### C'est une variable à renseigner ou un interrupteur à choix
 
->### ⌨️ SETTING TO BE DETERMINED BY THE USER
+>### ⌨️ SETTINGS TO BE DETERMINED BY USER
 >#### This is a variable to be filled in or a switch of choice
 
 - Couleur / Color : 0 255 0
@@ -108,7 +108,7 @@ J'utilise deux couleurs / I use 2 colors
 - Safran : 220-200-30<br>
 <img src="images/controlsafran.png">
 
-🔵⚪️🔴 J'utilise les 'controls' pour verifier des variables de retour et donner des informations ; les deux couleurs sont employes en fonction de l'usage (d'autre couleurs peuvent etre utilisees en complement)<br>
+🔵⚪️🔴 J'utilise les 'controls' pour verifier des variables de retour et donner des informations ; les deux couleurs sont employees en fonction de l'usage (d'autres couleurs peuvent etre utilisees en complement)<br>
 *Par exemple un coefficient multiplicateur pour un UPScale<br>
 Ou le nom complet de l'image lorsqu'on concatene le nom du tenseur et du lora au nom choisis par l'utilisateur*<br>
 
@@ -135,7 +135,7 @@ En NOIR (couleur par defaut) / In BLACK (default color)
 Noeud minimisé / Minimised node<br>
 <img src="images/null.png">
 
-🔵⚪️🔴 Les noeuds non pertinents qui peuvent encombrer la lecteure et la comprehension du workflow<br>
+🔵⚪️🔴 Les noeuds non pertinents qui peuvent encombrer la lecture et la comprehension du workflow<br>
 Ou des noeuds "operateurs" genre "boite noire" qui font une serie d'action complexe utile au workflow mais dispensable pour l'UTILISATEUR<br>
 🌎🌍🌏 Irrelevant nodes that can clutter the reader and the understanding of the workflow<br>
 Or "operator" nodes like "black box" that make a series of complex actions useful to the workflow but dispensable for the USER
@@ -181,10 +181,47 @@ Je conseille d'utiliser les "SD" Prompt generator et Prompt Saver pour diverses 
 🌎🌍🌏 For the preview image I also use black color and only "PREVIEW IMAGE"<br>
 I recommend using the "SD" Prompt generator and Prompt Saver for various reasons
 
-VIEILLES VERSIONS DE COMFYui :
+### BUGS imprevu / unexpected
+🔵⚪️🔴 Pour une raison non determinee il semble y avoir des problemes de performances avec "SD Parameter Generator"📝<br>
+Une astuce consiste a ne pas utiliser la "seed" du noeud, j'utilise (de preference) "Seed Everywhere" 📝
+
+🌎🌍🌏 For some reason there seems to be performance issues with "SD Parameter Generator"📝<br>
+A tip is to not use the node "seed". I use (preferably) "Seed Everywhere" 📝<br>
+<br>
+Couleur / Color : 255 - 150 - 30<br>
+<img src="images/seed-everywhere.png">
+
+📝 SD Prompt Reader Node : https://github.com/receyuki/comfyui-prompt-reader-node<br>
+📝 cg-use-everywhere : https://github.com/chrisgoringe/cg-use-everywhere
+
+---
+## Liens Utiles - Links usefull :
+VIEILLES VERSIONS / OLDS VERSION  <b>COMFYui</b> :
 https://github.com/comfyanonymous/ComfyUI/tags<br>
-COMFYui Manger : https://github.com/ltdrdata/ComfyUI-Manager?tab=readme-ov-file
+<b>COMFYui Manger</b> : https://github.com/ltdrdata/ComfyUI-Manager
 
+### Beginner’s Guide to ComfyUI
+By Andrew : https://stable-diffusion-art.com/comfyui/
+### Unlock the Power of ComfyUI: A Beginner's Guide with Hands-On Practice
+And "RUN WORKFLOW" online : https://www.runcomfy.com/tutorials/comfyui-beginners-guide
+### ComfyUI WIKI
+Your Ultimate Companion for Mastering Stable Diffusion ComfyUI : https://comfyui-wiki.com
 
-<p><img alt="Github" src="http://Dfalm.fr/ComfyUI/Git-Logo.png" width="32">github : <a href="https://github.com/Dfalm-Original/COMFYui" target="_blank">https://github.com/Dfalm-Original/COMFYui</a></p>
-<p><img alt="Youtube" src="http://Dfalm.fr/ComfyUI/youtube+logoToon.png" width="32">Youtube : <a href="https://www.youtube.com/@Dfalm" target="_blank">https://www.youtube.com/@Dfalm</a></p>
+----
+### Credit
+ComfyUI/[ComfyUI](https://github.com/comfyanonymous/ComfyUI) - A powerful and modular stable diffusion GUI.
+
+**And, for all ComfyUI custom node developers**
+
+🙏 Un grand merci au / Special Thanks to the  : <b>GOAT [ltdrdata](https://github.com/ltdrdata)</b><br>
+[ComfyUI ltdrdata:FORK](https://github.com/comfyanonymous/ComfyUI)<br>
+[ComfyUI-Manager](https://github.com/ltdrdata/ComfyUI-Manager)<br>
+[ComfyUI-Impact-Pack](https://github.com/ltdrdata/ComfyUI-Impact-Pack)<br>
+[ComfyUI-Inspire-Pack](https://github.com/ltdrdata/ComfyUI-Inspire-Pack)<br>
+[ComfyUI-extension-tutorials](https://github.com/ltdrdata/ComfyUI-extension-tutorials)
+
+----
+----
+### Dfalm
+<p><img alt="Github" src="http://Dfalm.fr/ComfyUI/Git-Logo.png" width="32"> github : <a href="https://github.com/Dfalm-Original/COMFYui" target="_blank">https://github.com/Dfalm-Original/COMFYui</a></p>
+<p><img alt="Youtube" src="http://Dfalm.fr/ComfyUI/youtube+logoToon.png" width="32"> Youtube : <a href="https://www.youtube.com/@Dfalm" target="_blank">https://www.youtube.com/@Dfalm</a></p>
