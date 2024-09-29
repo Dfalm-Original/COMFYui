@@ -1,9 +1,8 @@
-<img src="images/CC0_button.svg.png" height="64">
+<a href="https://creativecommons.org/publicdomain/zero/1.0/"><img src="images/CC0_button.svg.png" height="64"></a>
 
-
-<h3>🔵⚪️🔴<b>Quand_une_idee_est_bonne_elle_appartient_a_tout_le_monde</b>.<i><a href="https://fr.wikipedia.org/wiki/WTFP" target="_blank">licence</a></i>
+<h3>🔵⚪️🔴<b>Quand_une_idee_est_bonne_elle_appartient_a_tout_le_monde</b>.<i><a href="https://fr.wikipedia.org/wiki/WTFPL" target="_blank">licence</a></i>
 </h1>
-<h3>🌎🌍🌏<b>When_an_idea_is_good_it_belongs_to_everyone</b></font>.<i><a href="https://en.wikipedia.org/wiki/WTFP" target="_blank">licence</a></i>
+<h3>🌎🌍🌏<b>When_an_idea_is_good_it_belongs_to_everyone</b></font>.<i><a href="https://en.wikipedia.org/wiki/WTFPL" target="_blank">licence</a></i>
 </h1>
 
 <hr>
@@ -26,7 +25,7 @@ However I believe in you, you are not a greedy person
 ---
 ---
 
-🔵⚪️🔴 Tout ce que je produits est en <b>"zero"</b> licence <a href=" https://creativecommons.org/publicdomain/zero/1.0/deed.fr"><img src="images/CC-0-Violet.png" height="32"></a><br>
+🔵⚪️🔴 Tout ce que je produits est en <b>"zero"</b> licence <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.fr"><img src="images/CC-0-Violet.png" height="32"></a><br>
 Libre a vous d'en faire l'usage dont vous avez besoin ou que vous trouvez utile <a href="https://fr.wikipedia.org/wiki/WTFPL"><img src="images/WTFPL_logo.svg.png" height="32"></a>
 <br>
 

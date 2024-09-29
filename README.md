@@ -2,7 +2,9 @@
 # **Divers WorkFlow + Tutos + Config + Misc COMFYui**
 <hr>
 
-## Normalisation
+#### A - Normalisation<br>B - WorkFlow<br>C - Misc<br>D - In Fine
+----
+## A - Normalisation
 Dans ce chaptire je vais mettre en place une "norme" commune : **Normalisation** pour les différents éléments<br>
 Le premier élément est la Langue<br>
 Pour distinguer le Français de l'Anglais je vais utiliser les icones suivantes :<br>
@@ -37,27 +39,24 @@ When these colors are specific I will specify it with the color code
 -----
 -----
 
-## WorkFlow
+## B - WorkFlow
 Dans ce chapitre je propose des WorkFlow, les liens des exemples, des images et autres...
 
 ----
 ----
 
-## Misc
+## C - Misc
 Divers à déterminer
 
 Ce **README** est une simple présentation<br>
 ( *Plus de détails dans un fichier spécifique* )
 
-##  !!!! ATTENTION !!!!
-
-COMING SOON
 
 -----
 -----
 
 <font color="#001100">
-<h1 id="attention">🗃️ NORMALISATION </h1></font>
+<h1 id="attention"> A - NORMALISATION  🗃️ </h1></font>
 
 ## Permier / First :  Langue / Language
 <h1>🔵⚪️🔴 En Français</h1>
@@ -194,6 +193,7 @@ Couleur / Color : 255 - 150 - 30<br>
 2️⃣ cg-use-everywhere : https://github.com/chrisgoringe/cg-use-everywhere
 
 ---
+## D - In Fine
 ## Liens Utiles - Links usefull :
 VIEILLES VERSIONS / OLDS VERSION  <b>COMFYui</b> :
 https://github.com/comfyanonymous/ComfyUI/tags<br>
