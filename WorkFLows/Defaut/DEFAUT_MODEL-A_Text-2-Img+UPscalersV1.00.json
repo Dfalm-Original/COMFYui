@@ -1,6 +1,6 @@
 {
   "last_node_id": 563,
-  "last_link_id": 1397,
+  "last_link_id": 1400,
   "nodes": [
     {
       "id": 209,
@@ -632,7 +632,7 @@
       },
       "widgets_values": [
         "",
-        "Positive prompt :  Blue cat\nNegative prompt: \nSteps: 7, Sampler: euler_ancestral_karras, CFG scale: 5.0, Seed: 749310129274838, Size: 720x1280, Model: sd_xl_base_1.0, Version: ComfyUI, Extra info: Lora :  RIEN_PAS_DE_LORA --- Par Dfalm 2024 ---  https://github.com/Dfalm-Original/COMFYui -- https://www.youtube.com/@Dfalm "
+        "Positive prompt :  Blue cat\nNegative prompt: \nSteps: 7, Sampler: euler_ancestral_karras, CFG scale: 5.0, Seed: 777926433347134, Size: 720x1280, Model: sd_xl_base_1.0, Version: ComfyUI, Extra info: Lora :  RIEN_PAS_DE_LORA --- Par Dfalm 2024 ---  https://github.com/Dfalm-Original/COMFYui -- https://www.youtube.com/@Dfalm "
       ],
       "color": "#bea31d",
       "bgcolor": "#aa8f09"
@@ -1257,42 +1257,6 @@
       "shape": 1
     },
     {
-      "id": 324,
-      "type": "Note Plus (mtb)",
-      "pos": {
-        "0": -5204.75341796875,
-        "1": 747.97021484375,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
-      },
-      "size": {
-        "0": 393.2670593261719,
-        "1": 166.2142333984375
-      },
-      "flags": {},
-      "order": 8,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [],
-      "title": "Unnamed",
-      "properties": {},
-      "widgets_values": [
-        "<font color=\"#001100\">\n<h1 id=\"attention\">🗃️ NOMENCLATURE️</h1></font>\n\n#🖥 \"show text\" CONTROLE DE SORTIE DE VARIABLE base\n# 0 255 200",
-        "markdown",
-        "",
-        "one_dark"
-      ],
-      "color": "#14ffdc",
-      "bgcolor": "#00fac8",
-      "shape": 1
-    },
-    {
       "id": 325,
       "type": "Note Plus (mtb)",
       "pos": {
@@ -1312,7 +1276,7 @@
         "1": 165.92857360839844
       },
       "flags": {},
-      "order": 9,
+      "order": 8,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -1348,7 +1312,7 @@
         "1": 221.6052703857422
       },
       "flags": {},
-      "order": 10,
+      "order": 9,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -1384,7 +1348,7 @@
         "1": 157.4142608642578
       },
       "flags": {},
-      "order": 11,
+      "order": 10,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -1420,7 +1384,7 @@
         "1": 185.97242736816406
       },
       "flags": {},
-      "order": 12,
+      "order": 11,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -1456,7 +1420,7 @@
         "1": 154.52845764160156
       },
       "flags": {},
-      "order": 13,
+      "order": 12,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -1492,7 +1456,7 @@
         "1": 218.29347229003906
       },
       "flags": {},
-      "order": 14,
+      "order": 13,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -1528,7 +1492,7 @@
         "1": 164.63479614257812
       },
       "flags": {},
-      "order": 15,
+      "order": 14,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -1564,7 +1528,7 @@
         "1": 186.56045532226562
       },
       "flags": {},
-      "order": 16,
+      "order": 15,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -1600,7 +1564,7 @@
         "1": 137.42967224121094
       },
       "flags": {},
-      "order": 17,
+      "order": 16,
       "mode": 2,
       "inputs": [],
       "outputs": [
@@ -1649,7 +1613,7 @@
         "1": 187.1949462890625
       },
       "flags": {},
-      "order": 18,
+      "order": 17,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -1685,7 +1649,7 @@
         "1": 218.65968322753906
       },
       "flags": {},
-      "order": 19,
+      "order": 18,
       "mode": 2,
       "inputs": [],
       "outputs": [],
@@ -1723,7 +1687,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 20,
+      "order": 19,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -1767,7 +1731,7 @@
         "1": 209.58119201660156
       },
       "flags": {},
-      "order": 21,
+      "order": 20,
       "mode": 2,
       "inputs": [],
       "outputs": [],
@@ -1803,7 +1767,7 @@
         "1": 500.1903381347656
       },
       "flags": {},
-      "order": 22,
+      "order": 21,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -1839,7 +1803,7 @@
         "1": 469.0174865722656
       },
       "flags": {},
-      "order": 23,
+      "order": 22,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -1875,7 +1839,7 @@
         "1": 187.31211853027344
       },
       "flags": {},
-      "order": 24,
+      "order": 23,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -1911,7 +1875,7 @@
         "1": 188.05438232421875
       },
       "flags": {},
-      "order": 25,
+      "order": 24,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -1947,7 +1911,7 @@
         "1": 186.2945098876953
       },
       "flags": {},
-      "order": 26,
+      "order": 25,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -2068,7 +2032,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        61932357453370,
+        1005461949445419,
         "randomize",
         20,
         8,
@@ -2710,7 +2674,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 27,
+      "order": 26,
       "mode": 2,
       "inputs": [],
       "outputs": [
@@ -2800,59 +2764,6 @@
       ],
       "color": "#222",
       "bgcolor": "#000"
-    },
-    {
-      "id": 389,
-      "type": "ShowText|pysssss",
-      "pos": {
-        "0": 1785,
-        "1": 205,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
-      },
-      "size": {
-        "0": 294,
-        "1": 76
-      },
-      "flags": {
-        "collapsed": true
-      },
-      "order": 115,
-      "mode": 2,
-      "inputs": [
-        {
-          "name": "text",
-          "type": "STRING",
-          "link": 1287,
-          "widget": {
-            "name": "text"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": null,
-          "shape": 6
-        }
-      ],
-      "title": "Show Text 🐍 - Coeff MULTIPLICATEUR",
-      "properties": {
-        "Node name for S&R": "ShowText|pysssss"
-      },
-      "widgets_values": [
-        "",
-        "2"
-      ],
-      "color": "#14ffdc",
-      "bgcolor": "#00ffc8"
     },
     {
       "id": 461,
@@ -3085,7 +2996,7 @@
         "1": 267.6526184082031
       },
       "flags": {},
-      "order": 28,
+      "order": 27,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -3292,7 +3203,7 @@
         "%date/",
         "FLUX\\creapromptFlux1Dev_v10.safetensors",
         "Flux_vae.safetensors",
-        1113089445282422,
+        435333470185247,
         "randomize",
         20,
         8,
@@ -3429,7 +3340,7 @@
       },
       "widgets_values": [
         2,
-        414236533156622,
+        1107701659457179,
         "randomize",
         8,
         4,
@@ -3641,7 +3552,7 @@
         "%date/",
         "FLUX\\creapromptFlux1Dev_v10.safetensors",
         "Flux_vae.safetensors",
-        896378654379289,
+        452830615735292,
         "randomize",
         20,
         8,
@@ -3687,7 +3598,7 @@
         "1": 936
       },
       "flags": {},
-      "order": 29,
+      "order": 28,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -3848,7 +3759,7 @@
         "sdxl_vae.safetensors",
         "SDXL 1024px",
         "none",
-        754575172712089,
+        376947694573775,
         "randomize",
         7,
         0.8,
@@ -3967,7 +3878,7 @@
         "1": 58
       },
       "flags": {},
-      "order": 30,
+      "order": 29,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -4011,7 +3922,7 @@
         "1": 437.74383544921875
       },
       "flags": {},
-      "order": 31,
+      "order": 30,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -4047,7 +3958,7 @@
         "1": 436.204345703125
       },
       "flags": {},
-      "order": 32,
+      "order": 31,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -4327,7 +4238,7 @@
         "%date/",
         "FLUX\\creapromptFlux1Dev_v10.safetensors",
         "Flux_vae.safetensors",
-        271656501238912,
+        499522671605314,
         "randomize",
         20,
         8,
@@ -4434,7 +4345,7 @@
         "1": 249.78585815429688
       },
       "flags": {},
-      "order": 33,
+      "order": 32,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -4548,7 +4459,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 34,
+      "order": 33,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -4665,7 +4576,7 @@
         "1": 445.7844543457031
       },
       "flags": {},
-      "order": 35,
+      "order": 34,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -4946,7 +4857,7 @@
         "1": 140.90147399902344
       },
       "flags": {},
-      "order": 36,
+      "order": 35,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -4982,7 +4893,7 @@
         "1": 131.43157958984375
       },
       "flags": {},
-      "order": 37,
+      "order": 36,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -5018,7 +4929,7 @@
         "1": 280.0304260253906
       },
       "flags": {},
-      "order": 38,
+      "order": 37,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -5054,7 +4965,7 @@
         "1": 223.02471923828125
       },
       "flags": {},
-      "order": 39,
+      "order": 38,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -5090,7 +5001,7 @@
         "1": 279.3503112792969
       },
       "flags": {},
-      "order": 40,
+      "order": 39,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -5126,7 +5037,7 @@
         "1": 223.02471923828125
       },
       "flags": {},
-      "order": 41,
+      "order": 40,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -5162,7 +5073,7 @@
         "1": 223.5563201904297
       },
       "flags": {},
-      "order": 42,
+      "order": 41,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -5198,7 +5109,7 @@
         "1": 223.28709411621094
       },
       "flags": {},
-      "order": 43,
+      "order": 42,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -5236,7 +5147,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 44,
+      "order": 43,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -5256,7 +5167,7 @@
       },
       "widgets_values": [
         "cosmic-galaxy",
-        114295852848544,
+        376585287983205,
         "randomize"
       ]
     },
@@ -5282,7 +5193,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 45,
+      "order": 44,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -5302,7 +5213,7 @@
       },
       "widgets_values": [
         "cosmic-terms",
-        123242835826934,
+        65706430770226,
         "randomize"
       ]
     },
@@ -5328,7 +5239,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 46,
+      "order": 45,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -5348,7 +5259,7 @@
       },
       "widgets_values": [
         "cosmic-nebula",
-        382398564425327,
+        361741746210189,
         "randomize"
       ]
     },
@@ -5374,7 +5285,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 47,
+      "order": 46,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -5394,7 +5305,7 @@
       },
       "widgets_values": [
         "scenario-desc",
-        457103192411958,
+        725552579363101,
         "randomize"
       ]
     },
@@ -5418,7 +5329,7 @@
         "1": 213.9044952392578
       },
       "flags": {},
-      "order": 48,
+      "order": 47,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -5432,42 +5343,6 @@
       ],
       "color": "#ff14ff",
       "bgcolor": "#fa00ff",
-      "shape": 1
-    },
-    {
-      "id": 500,
-      "type": "Note Plus (mtb)",
-      "pos": {
-        "0": -4782,
-        "1": 749,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
-      },
-      "size": {
-        "0": 387.8760681152344,
-        "1": 165.0363006591797
-      },
-      "flags": {},
-      "order": 49,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [],
-      "title": "Unnamed",
-      "properties": {},
-      "widgets_values": [
-        "<font color=\"#001100\">\n<h1 id=\"attention\">🗃️ NOMENCLATURE️</h1></font>\n\n#🖥 “show text” VARIABLE OUTPUT CONTROL basic\n# 0 255 200\n\n\n",
-        "markdown",
-        "",
-        "one_dark"
-      ],
-      "color": "#14ffdc",
-      "bgcolor": "#00fac8",
       "shape": 1
     },
     {
@@ -5490,7 +5365,7 @@
         "1": 130.64468383789062
       },
       "flags": {},
-      "order": 50,
+      "order": 48,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -5526,7 +5401,7 @@
         "1": 115.99164581298828
       },
       "flags": {},
-      "order": 51,
+      "order": 49,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -5909,7 +5784,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 52,
+      "order": 50,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -5927,9 +5802,9 @@
         "color_restricted": 0
       },
       "widgets_values": [
-        477924279825766,
+        691781229701655,
         "randomize",
-        "246015403829849"
+        "777926433347134"
       ],
       "color": "#ffaa32",
       "bgcolor": "#ff961e"
@@ -5972,7 +5847,9 @@
         "group_restricted": 0,
         "color_restricted": 0
       },
-      "widgets_values": [],
+      "widgets_values": [
+        "<comfy.sd.VAE object at 0x0000018F1CF50CD0>"
+      ],
       "color": "#ffff78",
       "bgcolor": "#ffff64"
     },
@@ -6138,7 +6015,7 @@
         "1": 174
       },
       "flags": {},
-      "order": 53,
+      "order": 51,
       "mode": 0,
       "inputs": [
         {
@@ -6205,7 +6082,7 @@
         "1": 531.4080810546875
       },
       "flags": {},
-      "order": 54,
+      "order": 52,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -6251,7 +6128,7 @@
         "1": 178
       },
       "flags": {},
-      "order": 55,
+      "order": 53,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -6504,7 +6381,7 @@
         "1": 214.49623107910156
       },
       "flags": {},
-      "order": 56,
+      "order": 54,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -6785,7 +6662,7 @@
       "flags": {
         "pinned": false
       },
-      "order": 57,
+      "order": 55,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -6826,7 +6703,7 @@
         "1": 140.39767456054688
       },
       "flags": {},
-      "order": 58,
+      "order": 56,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -6996,37 +6873,6 @@
       "bgcolor": "#00ff00"
     },
     {
-      "id": 523,
-      "type": "Note",
-      "pos": {
-        "0": -1415,
-        "1": -649,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
-      },
-      "size": {
-        "0": 492.0579833984375,
-        "1": 68.30645751953125
-      },
-      "flags": {},
-      "order": 59,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [],
-      "title": "Note - VERSION",
-      "properties": {},
-      "widgets_values": [
-        "DEFAUT_MODEL-A_Text-2-Img+UPscalersV1.00"
-      ],
-      "color": "rgba(0,0,0,.8)"
-    },
-    {
       "id": 557,
       "type": "Note Plus (mtb)",
       "pos": {
@@ -7046,7 +6892,7 @@
         "1": 130.8046875
       },
       "flags": {},
-      "order": 60,
+      "order": 57,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -7061,6 +6907,162 @@
       "color": "#ff14ff",
       "bgcolor": "#fa00ff",
       "shape": 1
+    },
+    {
+      "id": 324,
+      "type": "Note Plus (mtb)",
+      "pos": {
+        "0": -5204.75341796875,
+        "1": 747.97021484375,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0
+      },
+      "size": {
+        "0": 393.2670593261719,
+        "1": 166.2142333984375
+      },
+      "flags": {},
+      "order": 58,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "title": "Unnamed",
+      "properties": {},
+      "widgets_values": [
+        "<font color=\"#001100\">\n<h1 id=\"attention\">🗃️ NOMENCLATURE️</h1></font>\n\n#🖥 \"show text\" CONTROLE DE SORTIE DE VARIABLE base\n# 10 140 100",
+        "markdown",
+        "",
+        "one_dark"
+      ],
+      "color": "#1ea078",
+      "bgcolor": "#0a8c64",
+      "shape": 1
+    },
+    {
+      "id": 500,
+      "type": "Note Plus (mtb)",
+      "pos": {
+        "0": -4782,
+        "1": 749,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0
+      },
+      "size": {
+        "0": 387.8760681152344,
+        "1": 165.0363006591797
+      },
+      "flags": {},
+      "order": 59,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "title": "Unnamed",
+      "properties": {},
+      "widgets_values": [
+        "<font color=\"#001100\">\n<h1 id=\"attention\">🗃️ NOMENCLATURE️</h1></font>\n\n#🖥 “show text” VARIABLE OUTPUT CONTROL basic\n# 10 140 100\n\n\n",
+        "markdown",
+        "",
+        "one_dark"
+      ],
+      "color": "#1ea078",
+      "bgcolor": "#0a8c64",
+      "shape": 1
+    },
+    {
+      "id": 389,
+      "type": "ShowText|pysssss",
+      "pos": {
+        "0": 1785,
+        "1": 205,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0
+      },
+      "size": {
+        "0": 294,
+        "1": 76
+      },
+      "flags": {
+        "collapsed": false
+      },
+      "order": 115,
+      "mode": 2,
+      "inputs": [
+        {
+          "name": "text",
+          "type": "STRING",
+          "link": 1287,
+          "widget": {
+            "name": "text"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": null,
+          "shape": 6
+        }
+      ],
+      "title": "Show Text 🐍 - Coeff MULTIPLICATEUR",
+      "properties": {
+        "Node name for S&R": "ShowText|pysssss"
+      },
+      "widgets_values": [
+        "",
+        "2"
+      ],
+      "color": "#1ea078",
+      "bgcolor": "#0a8c64"
+    },
+    {
+      "id": 523,
+      "type": "Note",
+      "pos": {
+        "0": -1415,
+        "1": -649,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0
+      },
+      "size": {
+        "0": 492.0579833984375,
+        "1": 68.30645751953125
+      },
+      "flags": {},
+      "order": 60,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "title": "Note - VERSION",
+      "properties": {},
+      "widgets_values": [
+        "DEFAUT_MODEL-A_Text-2-Img+UPscalersV1.00"
+      ],
+      "color": "rgba(0,0,0,.8)"
     }
   ],
   "links": [
@@ -8431,6 +8433,30 @@
       205,
       1,
       "VAE"
+    ],
+    [
+      1398,
+      515,
+      0,
+      196,
+      4,
+      "INT"
+    ],
+    [
+      1399,
+      515,
+      0,
+      176,
+      6,
+      "INT"
+    ],
+    [
+      1400,
+      524,
+      2,
+      205,
+      1,
+      "VAE"
     ]
   ],
   "groups": [
@@ -8558,10 +8584,10 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 0.620921323059155,
+      "scale": 0.4665073802097333,
       "offset": [
-        3762.869478703778,
-        218.94844484173518
+        4152.576165564587,
+        1050.018916777089
       ]
     },
     "groupNodes": {}

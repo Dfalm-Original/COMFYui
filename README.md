@@ -1,8 +1,9 @@
 ### <a href="https://creativecommons.org/publicdomain/zero/1.0/"><img src="images/CC-0-Violet.png" height="48"></a> Dfalm.<i>[Licence ](https://github.com/Dfalm-Original/COMFYui?tab=License-1-ov-file)</i><a href="https://fr.wikipedia.org/wiki/WTFPL"><img src="images/WTFPL_logo.svg.png" height="48"></a>
 # **Divers WorkFlow + Tutos + Config + Misc COMFYui**
+# 🚧🚧 WORK IN PROGRESS 🚧🚧
 <hr>
 
-#### A - Normalisation<br>B - WorkFlow<br>C - Misc<br>D - In Fine
+#### A - Normalisation<br>B - WorkFlows<br>C - Misc<br>D - In Fine
 ----
 ## INTRODUCTION
 Dans ce chaptire je vais mettre en place une "norme" commune : **Normalisation** pour les différents éléments<br>
@@ -40,8 +41,14 @@ When these colors are specific I will specify it with the color code
 -----
 -----
 
-## B - WorkFlow
+## B - WorkFlows
 Dans ce chapitre je propose des WorkFlow, les liens des exemples, des images et autres...
+
+VOIR LA PAGE AD HOC : [WorkFLows ](WorkFLows)
+<br>
+REFER TO AD HOC PAGE: [WorkFLows ](WorkFLows)
+
+
 
 ----
 ----
@@ -56,8 +63,7 @@ Ce **README** est une simple présentation<br>
 -----
 -----
 
-<font color="#001100">
-<h1 id="attention"> A - NORMALISATION  🗃️ </h1></font>
+<h1 id="attention"> A - NORMALISATION  🗃️ </h1>
 
 ## Permier / First :  Langue / Language
 <h1>🔵⚪️🔴 En Français</h1>
@@ -68,10 +74,7 @@ Ce **README** est une simple présentation<br>
 A Gauche 🔵⚪️🔴 En Français // In Right 🌎🌍🌏 In English<br>
 In Left 🔵⚪️🔴 In French // A Droite 🌎🌍🌏 En Anglais
 <br>
-<img src="images/preview.png">
-
-
-
+[ CLICK TO DOWNLOAD PNG WORKFLOW ]<br>
 <a href="images/NORME.png"><img src="images/preview.png"></a>
 
 ----
@@ -203,6 +206,27 @@ Couleur / Color : 255 - 150 - 30<br>
 <img src="images/seed-everywhere.png">
 
 1️⃣ SD Prompt Reader Node : https://github.com/receyuki/comfyui-prompt-reader-node<br>
+2️⃣ cg-use-everywhere : https://github.com/chrisgoringe/cg-use-everywhere
+
+# BUG
+🔵⚪️🔴  <u>Bug trivial</u> : parfois la VAE ou la Seed ou les deux sont "déconnectées"<br>
+Le noeud "Everywhere" 2️⃣ ne transmet pas la VAE/seed
+
+🌎🌍🌏 <u>Trivial bug</u>: sometimes VAE or Seed or both are "disconnected"<br>
+The "Everywhere" node 2️⃣ does not transmit VAE/seed
+
+<img src="images/BUG-everywhere-BUG.png" width="30%">
+
+
+## RESOLUTION : 🔵⚪️🔴  / 🌎🌍🌏
+### [F5] rafraichissement du navigateur<br>[F5] browser refresh
+
+
+Puis vérifier que les liens sont actifs / Then check that the links are active :
+<img src="images/Everywhere-Seed.png"><br>
+
+<img src="images/everywhere-VAE.png"><br>
+
 2️⃣ cg-use-everywhere : https://github.com/chrisgoringe/cg-use-everywhere
 
 ---

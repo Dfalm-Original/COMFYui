@@ -1,6 +1,6 @@
 {
   "last_node_id": 564,
-  "last_link_id": 1361,
+  "last_link_id": 1362,
   "nodes": [
     {
       "id": 222,
@@ -920,42 +920,6 @@
       "bgcolor": "#000"
     },
     {
-      "id": 324,
-      "type": "Note Plus (mtb)",
-      "pos": {
-        "0": -3884.81591796875,
-        "1": 746.301513671875,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
-      },
-      "size": {
-        "0": 393.2670593261719,
-        "1": 166.2142333984375
-      },
-      "flags": {},
-      "order": 8,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [],
-      "title": "Unnamed",
-      "properties": {},
-      "widgets_values": [
-        "<font color=\"#001100\">\n<h1 id=\"attention\">🗃️ NOMENCLATURE️</h1></font>\n\n#🖥 \"show text\" CONTROLE DE SORTIE DE VARIABLE base\n# 0 255 200",
-        "markdown",
-        "",
-        "one_dark"
-      ],
-      "color": "#14ffdc",
-      "bgcolor": "#00fac8",
-      "shape": 1
-    },
-    {
       "id": 326,
       "type": "Note Plus (mtb)",
       "pos": {
@@ -975,7 +939,7 @@
         "1": 221.6052703857422
       },
       "flags": {},
-      "order": 9,
+      "order": 8,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -1011,7 +975,7 @@
         "1": 165.92857360839844
       },
       "flags": {},
-      "order": 10,
+      "order": 9,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -1149,7 +1113,7 @@
         "1": 249.2277069091797
       },
       "flags": {},
-      "order": 11,
+      "order": 10,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -1185,7 +1149,7 @@
         "1": 78
       },
       "flags": {},
-      "order": 12,
+      "order": 11,
       "mode": 2,
       "inputs": [],
       "outputs": [
@@ -1238,7 +1202,7 @@
         "1": 78
       },
       "flags": {},
-      "order": 13,
+      "order": 12,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -1621,7 +1585,7 @@
         "1": 218.65968322753906
       },
       "flags": {},
-      "order": 14,
+      "order": 13,
       "mode": 2,
       "inputs": [],
       "outputs": [],
@@ -1717,7 +1681,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 15,
+      "order": 14,
       "mode": 2,
       "inputs": [],
       "outputs": [
@@ -1766,7 +1730,7 @@
         "1": 137.42967224121094
       },
       "flags": {},
-      "order": 16,
+      "order": 15,
       "mode": 2,
       "inputs": [],
       "outputs": [
@@ -1815,7 +1779,7 @@
         "1": 185.97242736816406
       },
       "flags": {},
-      "order": 17,
+      "order": 16,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -1914,7 +1878,7 @@
         "1": 489.9590148925781
       },
       "flags": {},
-      "order": 18,
+      "order": 17,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -1928,78 +1892,6 @@
       ],
       "color": "#149314",
       "bgcolor": "#007f00",
-      "shape": 1
-    },
-    {
-      "id": 523,
-      "type": "Note Plus (mtb)",
-      "pos": {
-        "0": -3460.10546875,
-        "1": 76.66813659667969,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
-      },
-      "size": {
-        "0": 381.6534729003906,
-        "1": 250.31661987304688
-      },
-      "flags": {},
-      "order": 19,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [],
-      "title": "Unnamed",
-      "properties": {},
-      "widgets_values": [
-        "<font color=\"#001100\">\n<h1 id=\"attention\">🗃️ NOMENCLATURE️</h1></font>\n\n#⌨️ SETTING TO BE DETERMINED BY THE USER\n### This is a variable to be filled in or<br> a switch of choice\n## 0 255 0",
-        "markdown",
-        "",
-        "one_dark"
-      ],
-      "color": "#14ff14",
-      "bgcolor": "#00ff00",
-      "shape": 1
-    },
-    {
-      "id": 524,
-      "type": "Note Plus (mtb)",
-      "pos": {
-        "0": -3459.10546875,
-        "1": 747.6679077148438,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
-      },
-      "size": {
-        "0": 380.816650390625,
-        "1": 166.30284118652344
-      },
-      "flags": {},
-      "order": 20,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [],
-      "title": "Unnamed",
-      "properties": {},
-      "widgets_values": [
-        "<font color=\"#001100\">\n<h1 id=\"attention\">🗃️ NOMENCLATURE️</h1></font>\n\n#🖥 “show text” VARIABLE OUTPUT CONTROL basic\n# 0 255 200\n\n\n",
-        "markdown",
-        "",
-        "one_dark"
-      ],
-      "color": "#14ffdc",
-      "bgcolor": "#00fac8",
       "shape": 1
     },
     {
@@ -2022,7 +1914,7 @@
         "1": 167.3756866455078
       },
       "flags": {},
-      "order": 21,
+      "order": 18,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -2058,7 +1950,7 @@
         "1": 220.8101348876953
       },
       "flags": {},
-      "order": 22,
+      "order": 19,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -2094,7 +1986,7 @@
         "1": 157.03956604003906
       },
       "flags": {},
-      "order": 23,
+      "order": 20,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -2130,7 +2022,7 @@
         "1": 467.8898620605469
       },
       "flags": {},
-      "order": 24,
+      "order": 21,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -2166,7 +2058,7 @@
         "1": 219.28912353515625
       },
       "flags": {},
-      "order": 25,
+      "order": 22,
       "mode": 2,
       "inputs": [],
       "outputs": [],
@@ -2202,7 +2094,7 @@
         "1": 187.31211853027344
       },
       "flags": {},
-      "order": 26,
+      "order": 23,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -2238,7 +2130,7 @@
         "1": 188.05438232421875
       },
       "flags": {},
-      "order": 27,
+      "order": 24,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -2274,7 +2166,7 @@
         "1": 189.38523864746094
       },
       "flags": {},
-      "order": 28,
+      "order": 25,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -2310,7 +2202,7 @@
         "1": 187.24090576171875
       },
       "flags": {},
-      "order": 29,
+      "order": 26,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -2346,7 +2238,7 @@
         "1": 185.40028381347656
       },
       "flags": {},
-      "order": 30,
+      "order": 27,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -2442,7 +2334,7 @@
         "1": 124
       },
       "flags": {},
-      "order": 31,
+      "order": 28,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -2460,9 +2352,9 @@
         "color_restricted": 0
       },
       "widgets_values": [
-        126625784037326,
+        1084536352514826,
         "randomize",
-        "528865840510622"
+        "348489511110729"
       ],
       "color": "#ffaa32",
       "bgcolor": "#ff961e"
@@ -2929,8 +2821,8 @@
         "",
         "2"
       ],
-      "color": "#14ffdc",
-      "bgcolor": "#00ffc8"
+      "color": "#1ea078",
+      "bgcolor": "#0a8c64"
     },
     {
       "id": 461,
@@ -3842,7 +3734,7 @@
         "%date/",
         "FLUX\\creapromptFlux1Dev_v10.safetensors",
         "Flux_vae.safetensors",
-        233661168208698,
+        982981016945546,
         "randomize",
         20,
         8,
@@ -3979,7 +3871,7 @@
       },
       "widgets_values": [
         2,
-        449267464575133,
+        197443725478478,
         "randomize",
         8,
         4,
@@ -4191,7 +4083,7 @@
         "%date/",
         "FLUX\\creapromptFlux1Dev_v10.safetensors",
         "Flux_vae.safetensors",
-        641215097105602,
+        922008029639020,
         "randomize",
         20,
         8,
@@ -4237,7 +4129,7 @@
         "1": 956
       },
       "flags": {},
-      "order": 32,
+      "order": 29,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -4381,7 +4273,7 @@
         "sdxl_vae.safetensors",
         "SDXL 1024px",
         "none",
-        64858521542272,
+        816481989522648,
         "randomize",
         7,
         0.8,
@@ -4425,7 +4317,7 @@
         "1": 590.7530517578125
       },
       "flags": {},
-      "order": 33,
+      "order": 30,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -4461,7 +4353,7 @@
         "1": 115.99164581298828
       },
       "flags": {},
-      "order": 34,
+      "order": 31,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -4497,7 +4389,7 @@
         "1": 590.8599853515625
       },
       "flags": {},
-      "order": 35,
+      "order": 32,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -4533,7 +4425,7 @@
         "1": 129.84320068359375
       },
       "flags": {},
-      "order": 36,
+      "order": 33,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -4569,7 +4461,7 @@
         "1": 219.67355346679688
       },
       "flags": {},
-      "order": 37,
+      "order": 34,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -4842,7 +4734,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 38,
+      "order": 35,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -4914,8 +4806,8 @@
         "",
         "FICHIER_sd_xl_base_1.0"
       ],
-      "color": "#149478",
-      "bgcolor": "#008064"
+      "color": "#1ea078",
+      "bgcolor": "#0a8c64"
     },
     {
       "id": 241,
@@ -5061,7 +4953,7 @@
         "1": 408
       },
       "flags": {},
-      "order": 39,
+      "order": 36,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -5119,7 +5011,7 @@
         "1": 378.6979064941406
       },
       "flags": {},
-      "order": 40,
+      "order": 37,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -5169,7 +5061,7 @@
         "1": 283.6979064941406
       },
       "flags": {},
-      "order": 41,
+      "order": 38,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -5224,7 +5116,7 @@
         26
       ],
       "flags": {},
-      "order": 42,
+      "order": 39,
       "mode": 0,
       "inputs": [
         {
@@ -5310,7 +5202,7 @@
         "1": 219.27676391601562
       },
       "flags": {},
-      "order": 43,
+      "order": 40,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -5346,7 +5238,7 @@
         "1": 135.91024780273438
       },
       "flags": {},
-      "order": 44,
+      "order": 41,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -5382,7 +5274,7 @@
         "1": 136.91024780273438
       },
       "flags": {},
-      "order": 45,
+      "order": 42,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -5418,7 +5310,7 @@
         "1": 136.91024780273438
       },
       "flags": {},
-      "order": 46,
+      "order": 43,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -5515,42 +5407,6 @@
       "color": "rgba(0,0,0,.8)"
     },
     {
-      "id": 548,
-      "type": "Note Plus (mtb)",
-      "pos": {
-        "0": -2986.10546875,
-        "1": 44.66810989379883,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
-      },
-      "size": {
-        "0": 375.9128723144531,
-        "1": 267.6526184082031
-      },
-      "flags": {},
-      "order": 47,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [],
-      "title": "Unnamed",
-      "properties": {},
-      "widgets_values": [
-        "<font color=\"#001100\">\n<h1 id=\"attention\">🛃 LICENCE ©️®️™️💲️</h1>\n<hr>\n###=== SHORT ===\n<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\"><img height=\"64\" src=\"https://raw.githubusercontent.com/Dfalm-Original/COMFYui/main/images/CC-0-Violet.png\"></a><a href=\"https://fr.wikipedia.org/wiki/WTFPL\"><img height=\"64\" src=\"https://raw.githubusercontent.com/Dfalm-Original/COMFYui/main/images/WTFPL_logo.svg.png\"></a>\n<hr>\n###=== LONG ===\n# Dfalm.<i>[Licence ](https://github.com/Dfalm-Original/COMFYui?tab=License-1-ov-file)</i>\n\n## [https://github.com/Dfalm...LICENCE](https://github.com/Dfalm-Original/COMFYui?tab=License-1-ov-file)\n</font>",
-        "markdown",
-        "",
-        "one_dark"
-      ],
-      "color": "#5af078",
-      "bgcolor": "#46dc64",
-      "shape": 1
-    },
-    {
       "id": 553,
       "type": "Note Plus (mtb)",
       "pos": {
@@ -5570,7 +5426,7 @@
         "1": 130.64468383789062
       },
       "flags": {},
-      "order": 48,
+      "order": 44,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -5697,7 +5553,7 @@
         "color_restricted": 0
       },
       "widgets_values": [
-        "<comfy.sd.VAE object at 0x0000018F23264090>"
+        "<comfy.sd.VAE object at 0x0000018F214C3490>"
       ],
       "color": "#ffff78",
       "bgcolor": "#ffff64"
@@ -5722,7 +5578,7 @@
         "1": 129.830322265625
       },
       "flags": {},
-      "order": 49,
+      "order": 45,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -5818,7 +5674,7 @@
         "1": 75.7318115234375
       },
       "flags": {},
-      "order": 50,
+      "order": 46,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -5854,7 +5710,7 @@
         "1": 274
       },
       "flags": {},
-      "order": 51,
+      "order": 47,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -5969,7 +5825,7 @@
         "1": 269.074462890625
       },
       "flags": {},
-      "order": 52,
+      "order": 48,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -6005,7 +5861,7 @@
         "1": 269.685302734375
       },
       "flags": {},
-      "order": 53,
+      "order": 49,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -6019,6 +5875,150 @@
       ],
       "color": "#28aaaa",
       "bgcolor": "#149696",
+      "shape": 1
+    },
+    {
+      "id": 548,
+      "type": "Note Plus (mtb)",
+      "pos": {
+        "0": -2986,
+        "1": 45,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0
+      },
+      "size": {
+        "0": 375.9128723144531,
+        "1": 267.6526184082031
+      },
+      "flags": {},
+      "order": 50,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "title": "Unnamed",
+      "properties": {},
+      "widgets_values": [
+        "<font color=\"#001100\">\n<h1 id=\"attention\">🛃 LICENCE ©️®️™️💲️</h1>\n<hr>\n###=== SHORT ===\n<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\"><img height=\"64\" src=\"https://raw.githubusercontent.com/Dfalm-Original/COMFYui/main/images/CC-0-Violet.png\"></a><a href=\"https://fr.wikipedia.org/wiki/WTFPL\"><img height=\"64\" src=\"https://raw.githubusercontent.com/Dfalm-Original/COMFYui/main/images/WTFPL_logo.svg.png\"></a>\n<hr>\n###=== LONG ===\n# Dfalm.<i>[Licence ](https://github.com/Dfalm-Original/COMFYui?tab=License-1-ov-file)</i>\n\n## [https://github.com/Dfalm...LICENCE](https://github.com/Dfalm-Original/COMFYui?tab=License-1-ov-file)\n</font>",
+        "markdown",
+        "",
+        "one_dark"
+      ],
+      "color": "#5af078",
+      "bgcolor": "#46dc64",
+      "shape": 1
+    },
+    {
+      "id": 324,
+      "type": "Note Plus (mtb)",
+      "pos": {
+        "0": -3884.81591796875,
+        "1": 746.301513671875,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0
+      },
+      "size": {
+        "0": 393.2670593261719,
+        "1": 166.2142333984375
+      },
+      "flags": {},
+      "order": 51,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "title": "Unnamed",
+      "properties": {},
+      "widgets_values": [
+        "<font color=\"#001100\">\n<h1 id=\"attention\">🗃️ NOMENCLATURE️</h1></font>\n\n#🖥 \"show text\" CONTROLE DE SORTIE DE VARIABLE base\n# 10 140 100",
+        "markdown",
+        "",
+        "one_dark"
+      ],
+      "color": "#1ea078",
+      "bgcolor": "#0a8c64",
+      "shape": 1
+    },
+    {
+      "id": 524,
+      "type": "Note Plus (mtb)",
+      "pos": {
+        "0": -3459.10546875,
+        "1": 747.6679077148438,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0
+      },
+      "size": {
+        "0": 380.816650390625,
+        "1": 166.30284118652344
+      },
+      "flags": {},
+      "order": 52,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "title": "Unnamed",
+      "properties": {},
+      "widgets_values": [
+        "<font color=\"#001100\">\n<h1 id=\"attention\">🗃️ NOMENCLATURE️</h1></font>\n\n#🖥 “show text” VARIABLE OUTPUT CONTROL basic\n# 10 140 100\n\n\n",
+        "markdown",
+        "",
+        "one_dark"
+      ],
+      "color": "#1ea078",
+      "bgcolor": "#0a8c64",
+      "shape": 1
+    },
+    {
+      "id": 523,
+      "type": "Note Plus (mtb)",
+      "pos": {
+        "0": -3460.10546875,
+        "1": 76.66813659667969,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0
+      },
+      "size": {
+        "0": 381.6534729003906,
+        "1": 250.31661987304688
+      },
+      "flags": {},
+      "order": 53,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "title": "Unnamed",
+      "properties": {},
+      "widgets_values": [
+        "<font color=\"#001100\">\n<h1 id=\"attention\">🗃️ NOMENCLATURE️</h1></font>\n\n#⌨️ SETTING TO BE DETERMINED BY THE USER\n### This is a variable to be filled in or<br> a switch of choice\n## 0 255 0",
+        "markdown",
+        "",
+        "one_dark"
+      ],
+      "color": "#14ff14",
+      "bgcolor": "#00ff00",
       "shape": 1
     },
     {
@@ -6933,6 +6933,14 @@
       436,
       6,
       "INT"
+    ],
+    [
+      1362,
+      531,
+      0,
+      436,
+      6,
+      "INT"
     ]
   ],
   "groups": [
@@ -7048,10 +7056,10 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 0.620921323059155,
+      "scale": 1.7715610000000017,
       "offset": [
-        2926.2850308328693,
-        939.4820078866289
+        3227.506891356476,
+        732.2434212205904
       ]
     },
     "groupNodes": {}
