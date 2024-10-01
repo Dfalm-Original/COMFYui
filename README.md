@@ -70,6 +70,10 @@ In Left 🔵⚪️🔴 In French // A Droite 🌎🌍🌏 En Anglais
 <br>
 <img src="images/preview.png">
 
+
+
+<a href="images/NORME.png"><img src="images/preview.png"></a>
+
 ----
 - ## 1 Variables : En vert / In Green :
 <img src="images/variables.png">
