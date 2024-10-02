@@ -92,7 +92,7 @@ Controle le nom du fichier / Check the file name : **Nom-Fichier+Checkpoint**
 <a href="Defaut/images/DEFAUT_MODEL-A_Text-2-Img+UPscalersV1.00.png"><img src="Defaut/images/DEFAUT_MODEL-A_Text-2-Img+UPscalersV1.00-notes.jpg" height="50%"></a><br>  
 
 
-#### 🔵⚪️🔴 Permet de faire image-to-image avec des options de *prompts* et la possibilité d'*UPScaler* l'image rendue <br>- Par defaut les deux UPscalers sont désactivés ❌<br><br>
+#### 🔵⚪️🔴 Permet de faire *text-to-image* avec des options de *prompts* et la possibilité d'*UPScaler* l'image rendue <br>- Par defaut les deux UPscalers sont désactivés ❌<br><br>
 ## - U1💚/U2💜 - Upscalers ( desactives par defaut )
 
 Le premier Upscaler **U1💚** est un Upscaler "simple" qui agrandit l'image sans post-traitement<br>
@@ -145,7 +145,7 @@ Allows you to choose 4 Options<br>
 -> *1 Line = 1 Prompt* + "Enhanced Bonus"<br>
 
 
-## - Pour les UPScaler voir le chapitre idoine : <u>4️⃣ Upscalers </u>
+## - Pour les UPScaler voir le chapitre idoine / UPScaler go to : <u>4️⃣ Upscalers </u>
 
 <hr>
 
@@ -185,7 +185,7 @@ The **💛i** option allows you to choose between different image options: Load 
 ### All Options remain common:
 #### - **🧡ON/OFF**<br> - **⚪️L** (Lora)<br>- **🔘P** (Prompt)<br>- **🔴S** Save<br>
 
-## - Pour les UPScaler voir le chapitre idoine : <u>4️⃣ Upscalers </u>
+## - Pour les UPScaler voir le chapitre idoine / UPScaler go to : <u>4️⃣ Upscalers </u>
 
 <hr>
 
@@ -194,20 +194,21 @@ The **💛i** option allows you to choose between different image options: Load 
 <a href="Defaut/images/DEFAUT_MODEL-C_Text-2-Img+LoadImage+UPscalersV1.00.png"><img src="Defaut/images/DEFAUT_MODEL-C_Text-2-Img+LoadImage+UPscalersV1.00.jpg" height="50%">
 
 #### 🔵⚪️🔴 Combine le Modele A et le Modele B<br>
-A - Permet de faire image-to-image avec des options de *prompts* <br>
+A - Permet de faire *text-to-image* avec des options de *prompts* <br>
+B - Permet de faire du *image-to-image* avec des options de *prompts* avec l'option '**denoise**' ( **💙 D** )<br>
 ### Toutes les Options restent comnunes :
 #### - **🧡ON/OFF**<br>- **⚪️L** (Lora)<br>- **🔘P** (Prompt)<br>- **🔴S** Sauvegarde / Save<br>- **💛i** (Load-s Images)
 
 ## - **⚫️C** Choix de generation d'image
 Choisir entre 4 options :
 - [1] <b>text 2 image </b> -  Ksampler "calcul" de l'image <br>
-- [2]  <b>Load-Image </b>: une seule image <br>
-- [3]  <b>Load Batch image </b> / répertoire  <br>
-- [4]  <b>Load Image From URL </b>: depuis 'internet' <br>
+- [2] <b>Load-Image </b>: une seule image <br>
+- [3] <b>Load Batch image </b> / répertoire  <br>
+- [4] <b>Load Image From URL </b>: depuis 'internet' <br>
 
 ## - **💙 D** Denoise
-Permet de modifier le '**denoise**' pour les options 2 3 et 4<b> ( *Load-Image - Load Batch image - Load Image From URL* )
-Le '**denoise**' est force a **1** pour l'option **[1]**
+Permet de modifier le '**denoise**' pour les options 2 3 et 4<b> ( *Load-Image - Load Batch image - Load Image From URL* )<br>
+Le '**denoise**' est force a **1.00** pour l'option **[1]**
 
 ## - U1💚/U2💜 - Upscalers ( desactives par defaut )
 Le premier Upscaler **U1💚** est un Upscaler "simple" qui agrandit l'image sans post-traitement<br>
@@ -230,7 +231,8 @@ L'option **💛i** permet de choisir entre différentes options d'images : Load 
 💛 - La troisieme option est '**load image from URL**' permet d'utiliser une images 'direct' depuis l'adresse Web sans avoir besoin de la telecharger pour l'utiliser dans l'option [1] - 💚<br>
 
 #### 🌎🌍🌏 Combine Model A and Model B<br>
-A - Allows image-to-image with *prompts* options <br>
+A - Allows you to do *text-to-image* with *prompts* options <br>
+B - Allows you to do *image-to-image* with *prompts* options with the '**denoise**' option ( **💙 D** )<br>
 ### All Options remain common:
 #### - **🧡ON/OFF**<br>- **⚪️L** (Lora)<br>- **🔘P** (Prompt)<br>- **🔴S** Sauvegarde / Save<br>- **💛i** (Load-s Images)<br>
 
@@ -242,8 +244,8 @@ Choose between 4 options:
 - [4] <b>Load Image From URL</b>: from 'internet' <br>
 
 ## - **💙 D** Denoise
-Allows to modify the '**denoise**' for options 2 3 and 4<b> ( *Load-Image - Load Batch image - Load Image From URL* )
-The '**denoise**' is forced to **1** for option **[1]**
+Allows to modify the '**denoise**' for options 2 3 and 4<b> ( *Load-Image - Load Batch image - Load Image From URL* )<br>
+'**denoise**' is forced to **1.00** for option **[1]**
 
 ## - U1💚/U2💜 - Upscalers ( disabled by default )
 The first Upscaler **U1💚** is a "simple" Upscaler that enlarges the image without post-processing<br>
@@ -265,7 +267,7 @@ The **💛i** option allows you to choose between different image options: Load 
 💙 - The second option is '**load image batch**' allows you to take all the images from a directory<br>
 💛 - The third option is '**load image from URL**' allows you to use an image 'direct' from the web address without having to download it to use it in option [1] - 💚<br>
 
-## - Pour les UPScaler voir le chapitre idoine : <u>4️⃣ Upscalers </u>
+## - Pour les UPScaler voir le chapitre idoine / UPScaler go to : <u>4️⃣ Upscalers </u>
 
 <hr>
 
