@@ -42,7 +42,7 @@ When these colors are specific I will specify it with the color code
 -----
 
 ## B - WorkFlows
-Dans ce chapitre je propose des WorkFlow, les liens des exemples, des images et autres...
+🔵⚪️🔴 Dans ce chapitre je propose des WorkFlow, les liens des exemples, des images et autres...<br>🌎🌍🌏 In this chapter I propose WorkFlow, links to examples, images and others...
 
 #### VOIR LA PAGE AD HOC : [ <u>WorkFLows</u> ](WorkFLows)<br>REFER TO AD HOC PAGE: [ <u>WorkFLows</u> ](WorkFLows)
 
@@ -175,7 +175,8 @@ Hauteur / Height : brown (maron)<br>
 ----
 
 <h1>B - WORKFLOW</h1>
-Coming soon...
+
+#### VOIR LA PAGE AD HOC : [ <u>WorkFLows</u> ](WorkFLows)<br>REFER TO AD HOC PAGE: [ <u>WorkFLows</u> ](WorkFLows)
 
 
 ----
