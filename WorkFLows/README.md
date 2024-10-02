@@ -5,7 +5,7 @@
 #### A - Normalisation<br>B - WorkFlows<br>C - Misc<br>D - In Fine
 ----
 ## INTRODUCTION
-Dans ce chaptire je vais mettre en place une "norme" commune : **Normalisation** pour les différents éléments<br>
+Rappel de la "norme" commune : **Normalisation** pour les différents éléments<br>
 Le premier élément est la Langue<br>
 Pour distinguer le Français de l'Anglais je vais utiliser les icones suivantes :<br>
 🔵⚪️🔴 En Français<br>
@@ -16,7 +16,7 @@ Couleur par défaut proposée par COMFYui<br>
 Lorsque ces couleurs sont spécifiques je le préciserais avec le code couleurs
 
 ---
-In this chapter I will set up a common "standard" aka **Normalisation** for the different elements<br>
+Reminder of the common "standard" aka **Normalisation** for the different elements<br>
 The first element is the Language<br>
 To distinguish French from English I will use the following icons:<br>
 🔵⚪️🔴 In French<br>
