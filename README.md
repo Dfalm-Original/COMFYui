@@ -44,9 +44,7 @@ When these colors are specific I will specify it with the color code
 ## B - WorkFlows
 Dans ce chapitre je propose des WorkFlow, les liens des exemples, des images et autres...
 
-VOIR LA PAGE AD HOC : [WorkFLows ](WorkFLows)
-<br>
-REFER TO AD HOC PAGE: [WorkFLows ](WorkFLows)
+#### VOIR LA PAGE AD HOC : [ <u>WorkFLows</u> ](WorkFLows)<br>REFER TO AD HOC PAGE: [ <u>WorkFLows</u> ](WorkFLows)
 
 
 
@@ -54,11 +52,7 @@ REFER TO AD HOC PAGE: [WorkFLows ](WorkFLows)
 ----
 
 ## C - Misc
-Divers à déterminer
-
-Ce **README** est une simple présentation<br>
-( *Plus de détails dans un fichier spécifique* )
-
+### Conseil / Advice & Bugs 
 
 -----
 -----
@@ -228,6 +222,21 @@ Puis vérifier que les liens sont actifs / Then check that the links are active 
 <img src="images/everywhere-VAE.png"><br>
 
 2️⃣ cg-use-everywhere : https://github.com/chrisgoringe/cg-use-everywhere
+
+<hr>
+
+## <u>Bug 'poisoning' ☣️</u>
+<img src="images/BUGz-notes.jpg" width="70%"><br>
+
+🔵⚪️🔴  Parfois le **SD Parameter Generator ℹ️** buggue ☣️<br>
+Les valeurs se melangent ( partie gauche **BUG** ) : il faut les corriger correctement ( partir droite **OK** )<br>  
+Pas d'autres solutions a ma connaissance
+
+🌎🌍🌏  Sometimes the **SD ​​Parameter Generator ℹ️** bugs ☣️<br>
+The values are mixed ( left part **BUG** ): they must be corrected correctly ( right part **OK** )<br>
+No other solutions to my knowledge
+
+ℹ️ SD Prompt Reader Node : https://github.com/receyuki/comfyui-prompt-reader-node<br>
 
 ---
 <h1>D - In Fine</h1>
