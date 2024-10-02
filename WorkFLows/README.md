@@ -167,10 +167,7 @@ L'option **💛i** permet de choisir entre différentes options d'images : Load 
 💛 - La troisieme option est '**load image from URL**' permet d'utiliser une images 'direct' depuis l'adresse Web sans avoir besoin de la telecharger pour l'utiliser dans l'option [1] - 💚<br>
 
 ### Toutes les Options restent comnunes :
-#### - **🧡ON/OFF**
-#### - **⚪️L** (Lora)
-#### - **🔘P** (Prompt)
-#### - **🔴S** Sauvegarde / Save<br>
+#### - **🧡ON/OFF**<br> - **⚪️L** (Lora)<br>- **🔘P** (Prompt)<br>- **🔴S** Save<br>
 
 #### 🌎🌍🌏 Allows you to Upscale images with 2 Upscalers<br>- By default the "Hires/Lent" U2💜 UPscaler is disabled ❌<br><br>
 
@@ -186,10 +183,7 @@ The **💛i** option allows you to choose between different image options: Load 
 💛 - The third option is '**load image from URL**', allows you to use an image 'direct' from the web address without having to download it to use it in option [1] - 💚<br>
 
 ### All Options remain common:
-#### - **🧡ON/OFF**
-#### - **⚪️L** (Lora)
-#### - **🔘P** (Prompt)
-#### - **🔴S** Save
+#### - **🧡ON/OFF**<br> - **⚪️L** (Lora)<br>- **🔘P** (Prompt)<br>- **🔴S** Save<br>
 
 ## - Pour les UPScaler voir le chapitre idoine : <u>4️⃣ Upscalers </u>
 
@@ -202,11 +196,7 @@ The **💛i** option allows you to choose between different image options: Load 
 #### 🔵⚪️🔴 Combine le Modele A et le Modele B<br>
 A - Permet de faire image-to-image avec des options de *prompts* <br>
 ### Toutes les Options restent comnunes :
-#### - **🧡ON/OFF**
-#### - **⚪️L** (Lora)
-#### - **🔘P** (Prompt)
-#### - **🔴S** Sauvegarde / Save    
-#### - **💛i** (Load-s Images)
+#### - **🧡ON/OFF**<br>- **⚪️L** (Lora)<br>- **🔘P** (Prompt)<br>- **🔴S** Sauvegarde / Save<br>- **💛i** (Load-s Images)
 
 ## - **⚫️C** Choix de generation d'image
 Choisir entre 4 options :
@@ -242,11 +232,7 @@ L'option **💛i** permet de choisir entre différentes options d'images : Load 
 #### 🌎🌍🌏 Combine Model A and Model B<br>
 A - Allows image-to-image with *prompts* options <br>
 ### All Options remain common:
-#### - **🧡ON/OFF**
-#### - **⚪️L** (Lora)
-#### - **🔘P** (Prompt)
-#### - **🔴S** Sauvegarde / Save
-#### - **💛i** (Load-s Images)
+#### - **🧡ON/OFF**<br>- **⚪️L** (Lora)<br>- **🔘P** (Prompt)<br>- **🔴S** Sauvegarde / Save<br>- **💛i** (Load-s Images)<br>
 
 ## - **⚫️C** Image generation choice
 Choose between 4 options:
