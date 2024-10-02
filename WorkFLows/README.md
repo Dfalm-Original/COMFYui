@@ -9,7 +9,7 @@ Dans ce chaptire je vais mettre en place une "norme" commune : **Normalisation**
 Le premier élément est la Langue<br>
 Pour distinguer le Français de l'Anglais je vais utiliser les icones suivantes :<br>
 🔵⚪️🔴 En Français<br>
-🌎🌍🌏 In English
+🌎🌍🌏 En Anglais
 
 Autre exemple trivial pour le Prompt Positif je vais utiliser la couleur "vert" et pour le prompt négatif la couleur "rouge"<br>
 Couleur par défaut proposée par COMFYui<br>
@@ -68,7 +68,7 @@ REFER TO AD HOC PAGE: [README ](https://github.com/Dfalm-Original/COMFYui)
 Vert = Positif / Green = Positive -- Rouge = Negatif / Red = Negative<br>
 
 - iv) Control<br>
-<img src="Defaut/images/control-nom.png" width="50%"><br>
+<img src="Defaut/images/control-nom.png" width="40%"><br>
 Controle le nom du fichier / Check the file name : **Nom-Fichier+Checkpoint**
 
 - v) Sauvegarde Type de fichier & metadata - Save File type & metadata<br>
@@ -78,7 +78,7 @@ Controle le nom du fichier / Check the file name : **Nom-Fichier+Checkpoint**
 💚Permet de sauvegarder en PNG - JPG - JPEG - WEBP<br>  💚Allows you to save in PNG - JPG - JPEG - WEBP<br><img src="Defaut/images/format-image.png"><br>
 
 - vi) Preview image<br>
-<img src="Defaut/images/preview-image.png" width="50%"><br>
+<img src="Defaut/images/preview-image.png" width="40%"><br>
 🗃 Noir / Black
 
 ### 🔵⚪️🔴 Tous ces elements sont communs aux differents workflows<br>  
@@ -91,8 +91,8 @@ I) WorkFlows par defaut :
 #### -A-  DEFAUT_MODEL-A_Text-2-Img+UPscalersV1.00
 <img src="Defaut/images/DEFAUT_MODEL-A_Text-2-Img+UPscalersV1.00-notes.jpg" height="50%"><br>
 
-🔵⚪️🔴 Permet de faire image-to-image avec des options de *prompts* et la possibilité d'*UPScaler* l'image rendue <br>- Par defaut les deux UPscalers sont désactivés<br><br>
-## - U1💚/U2💜
+🔵⚪️🔴 Permet de faire image-to-image avec des options de *prompts* et la possibilité d'*UPScaler* l'image rendue <br>- Par defaut les deux UPscalers sont désactivés ❌<br><br>
+## - U1💚/U2💜 - Upscalers ( desactives par defaut )
 
 Le premier Upscaler **U1💚** est un Upscaler "simple" qui agrandit l'image sans post-traitement<br>
 Le second Upscaler **U2💜** est un 'refiner' il utilise un Ksampler, la seed, la VAE ...
@@ -103,7 +103,7 @@ L'interrupteur note **🧡ON/OFF** permet d'activer / desactiver les groupes :  
 ## - **⚪️L** (Lora)
 L'option **⚪️L** permet d'ajouter un Lora lors de la generation de l'images<br>- Par defaut l'option est desactivee<br>
 
-## - Sauvegarde / Save  
+## - **🔴S** Sauvegarde / Save  
 Sauvegarde / Save **🔴S** Ref : *0️⃣BASIC-V1.00
 
 ## **🔘P** (Prompt)
@@ -123,18 +123,82 @@ Permet de choisir 4 Options<br>
 <hr>
 
 #### -B- DEFAUT_MODEL-B_Load-ImgZ+UPscalersV1.00
-<img src="Defaut/images/DEFAUT_MODEL-B_Load-ImgZ+UPscalersV1.00.jpg" height="50%">
-Permet d'Upscaler des images
+<img src="Defaut/images/DEFAUT_MODEL-B_Load-ImgZ+UPscalersV1.00-notes.jpg" height="50%"><br>
+
+🔵⚪️🔴 Permet d'Upscaler des images avec 2 Upscalers<br>- Par defaut l'UPscaler "Hires/Lent" U2💜 est désactivé ❌<br><br>
+
+## - U1💚/U2💜 - Upscalers
+Le premier Upscaler **U1💚** est un Upscaler "simple" qui agrandit l'image sans post-traitement<br>
+Le second Upscaler **U2💜** est un 'refiner' il utilise un Ksampler, la seed, la VAE ...<br> Desactive par defaut
+
+## - **💛i** (Load-s Images)
+L'option **💛i** permet de choisir entre différentes options d'images : Load Images<br>
+<img src="Defaut/images/loads-images.png" width="30%"><br>
+💚 - La première option est l'option '**classic**' lecture / load image simple : 1 image<br>
+💙 - La deuxième option est '**load image batch**' permet de prendre toutes les images d'un repertoire<br>
+💛 - La troisieme option est '**load image from URL**' permet d'utiliser une images 'direct' depuis l'adresse Web sans avoir besoin de la telecharger pour l'utiliser dans l'option [1] - 💚<br>
+
+### Toutes les Options restent comnunes :
+#### - **🧡ON/OFF**
+#### - **⚪️L** (Lora)
+#### - **🔘P** (Prompt)
+#### - **🔴S** Sauvegarde / Save  
+
+#### - Pour les UPScaler voir le chapitre idoine : <u>4️⃣ Upscalers </u>
+
 <hr>
 
 #### - C - DEFAUT_Text-2-Img+UPscalersV1.1.3-Valerie
-<img src="Defaut/images/DEFAUT_MODEL-C_Text-2-Img+LoadImage+UPscalers.jpg" height="50%">
+<img src="Defaut/images/DEFAUT_MODEL-C_Text-2-Img+LoadImage+UPscalers-notes.jpg" height="50%">
 
+🔵⚪️🔴 Combine le Modele A et le Modele B<br>
+A - Permet de faire image-to-image avec des options de *prompts* <br>
+### Toutes les Options restent comnunes :
+#### - **🧡ON/OFF**
+#### - **⚪️L** (Lora)
+#### - **🔘P** (Prompt)
+#### - **🔴S** Sauvegarde / Save    
+#### - **💛i** (Load-s Images)
 
-IV) Upscalers :
+## - **⚫️C** Choix de generation d'image
+Choisir entre 4 options :
+- [1] <b>text 2 image </b> -  Ksampler "calcul" de l'image <br>
+- [2]  <b>Load-Image </b>: une seule image <br>
+- [3]  <b>Load Batch image </b> / répertoire  <br>
+- [4]  <b>Load Image From URL </b>: depuis 'internet' <br>
+
+## - **💙 D** Denoise
+Permet de modifier le '**denoise**' pour les options 2 3 et 4<b> ( *Load-Image - Load Batch image - Load Image From URL* )
+Le '**denoise**' est force a **1** pour l'option **[1]**
+
+## - U1💚/U2💜 - Upscalers ( desactives par defaut )
+Le premier Upscaler **U1💚** est un Upscaler "simple" qui agrandit l'image sans post-traitement<br>
+Le second Upscaler **U2💜** est un 'refiner' il utilise un Ksampler, la seed, la VAE ...<br>
+
+## - **🧡ON/OFF**
+L'interrupteur note **🧡ON/OFF** permet d'activer / desactiver les groupes :  U1💚/U2💜 en fonction des besoin d'UPScale
+
+## - **⚪️L** (Lora)
+L'option **⚪️L** permet d'ajouter un Lora lors de la generation de l'images<br>- Par defaut l'option est desactivee<br>
+
+## - Sauvegarde / Save  
+Sauvegarde / Save **🔴S** Ref : *0️⃣BASIC-V1.00
+
+## - **💛i** (Load-s Images)
+L'option **💛i** permet de choisir entre différentes options d'images : Load Images<br>
+<img src="Defaut/images/loads-images.png" width="30%"><br>
+💚 - La première option est l'option '**classic**' lecture / load image simple : 1 image<br>
+💙 - La deuxième option est '**load image batch**' permet de prendre toutes les images d'un repertoire<br>
+💛 - La troisieme option est '**load image from URL**' permet d'utiliser une images 'direct' depuis l'adresse Web sans avoir besoin de la telecharger pour l'utiliser dans l'option [1] - 💚<br>
+
+#### - Pour les UPScaler voir le chapitre idoine : <u>4️⃣ Upscalers </u>
+
+<hr>
+
+IV) Upscalers 4️⃣:
 ### Hires - Lent / Slow  
 #### -- Desactive par defaut // Disabled by default
-<img src="Defaut/images/upscaler-hires.png" height="50%">
+<img src="Defaut/images/upscaler-hires.png" width="60%">
 
 #### 🔵⚪️🔴  Modifier le coeeficient multiplicateur <br>
 -Par défaut (3)  

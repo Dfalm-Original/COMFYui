@@ -10,7 +10,7 @@ Dans ce chaptire je vais mettre en place une "norme" commune : **Normalisation**
 Le premier élément est la Langue<br>
 Pour distinguer le Français de l'Anglais je vais utiliser les icones suivantes :<br>
 🔵⚪️🔴 En Français<br>
-🌎🌍🌏 In English
+🌎🌍🌏 En Anglais
 
 Autre exemple trivial pour le Prompt Positif je vais utiliser la couleur "vert" et pour le prompt négatif la couleur "rouge"<br>
 Couleur par défaut proposée par COMFYui<br>
@@ -108,8 +108,8 @@ Il s'agit d'un / Is a : "Show Text 🐍"<br>
 <img src="images/show-text.png">
 
 J'utilise deux couleurs / I use 2 colors
-- CYAN : 0-255-200 <br>
-<img src="images/controlcyan.png">
+- Emeuraude : 10 140 100<br>
+<img src="images/controlemeuraude.png">
 
 - Safran : 220-200-30<br>
 <img src="images/controlsafran.png">
