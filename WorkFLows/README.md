@@ -38,8 +38,7 @@ When these colors are specific I will specify it with the color code
 🔵⚪️🔴 Dans ce chapitre je propose des WorkFlow, les liens des exemples, des images et autres...<br>🌎🌍🌏 In this chapter I propose WorkFlow, links to examples, images and others...
 <hr>
 
-## 0) Basic
-#### BASIC-V1.00
+## 0) BASIC-V1.00
 <img src="Defaut/images/BASIC-V1.00-notes.jpg" width="60%"><br>
 🔵⚪️🔴  Remplace le workflow **"default"**<br>  🌎🌍🌏 Replaces **"default"** workflow<br>
 <img src="Defaut/images/default.png" width="30%"><br>
@@ -297,7 +296,7 @@ J'ai choisi arbitrairement d'utiliser des coefficients entiers : la primitive "M
 
 
 #### 🌎🌍🌏 Modify the multiplier coefficient <br>
--By default (3)
+-By default (3)<br>
 -- Choose the "Upscaler" model<br>
 #### ℹ️ The multiplier coefficient is independent of the choice of the upscaler model<br>
 <u>EXAMPLE</u>: We can use the model **8x** *_NMKD-Superscale_150000_G* with a coefficient of **3** <br>
@@ -328,18 +327,7 @@ Je conseille d'utiliser les "SD" Prompt generator et Prompt Saver 1️⃣ pour d
 🌎🌍🌏 For the preview image I also use black color and only "PREVIEW IMAGE"<br>
 I recommend using the "SD" Prompt generator and Prompt Saver 1️⃣ for various reasons
 
-### BUGS imprevu / unexpected
-🔵⚪️🔴 Pour une raison non determinee il semble y avoir des problemes de performances avec "SD Parameter Generator" 1️⃣<br>
-Une astuce consiste a ne pas utiliser la "seed" du noeud, j'utilise (de preference) "Seed Everywhere" 2️⃣
-
-🌎🌍🌏 For some reason there seems to be performance issues with "SD Parameter Generator" 1️⃣<br>
-A tip is to not use the node "seed". I use (preferably) "Seed Everywhere" 2️⃣<br>
-<br>
-Couleur / Color : 255 - 150 - 30<br>
-<img src="../images/seed-everywhere.png">
-
 1️⃣ SD Prompt Reader Node : https://github.com/receyuki/comfyui-prompt-reader-node<br>
-2️⃣ cg-use-everywhere : https://github.com/chrisgoringe/cg-use-everywhere
 
 # BUG
 
