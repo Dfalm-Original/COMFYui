@@ -150,7 +150,7 @@ Allows you to choose 4 Options<br>
 <hr>
 
 ## II) -B- DEFAUT_MODEL-B_Load-ImgZ+UPscalers
-[ CLICK TO DOWNLOAD PNG WORKFLOW ]<br>  
+[ CLICK TO DOWNLOAD PNG WORKFLOW ]<br>
 <a href="Defaut/images/DEFAUT_MODEL-B_Load-ImgZ+UPscalersV1.00.png"><img src="Defaut/images/DEFAUT_MODEL-B_Load-ImgZ+UPscalersV1.00-notes.jpg" height="50%"></a><br>
 
 #### 🔵⚪️🔴 Permet d'Upscaler des images avec 2 Upscalers<br>- Par defaut l'UPscaler "Hires/Lent" U2💜 est désactivé ❌<br><br>
