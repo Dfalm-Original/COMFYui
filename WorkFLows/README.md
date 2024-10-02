@@ -39,7 +39,9 @@ When these colors are specific I will specify it with the color code
 <hr>
 
 ## 0) BASIC-V1.00
-<img src="Defaut/images/BASIC-V1.00-notes.jpg" width="60%"><br>
+[ CLICK TO DOWNLOAD PNG WORKFLOW ]<br>
+<a href="Defaut/images/BASIC-V1.00.png"><img src="Defaut/images/BASIC-V1.00-notes.jpg" width="60%"></a><br>
+
 🔵⚪️🔴  Remplace le workflow **"default"**<br>  🌎🌍🌏 Replaces **"default"** workflow<br>
 <img src="Defaut/images/default.png" width="30%"><br>
 
@@ -85,8 +87,10 @@ Controle le nom du fichier / Check the file name : **Nom-Fichier+Checkpoint**
 
 <hr>
 
-## I) -A-  DEFAUT_MODEL-A_Text-2-Img+UPscalersV1.00
-<img src="Defaut/images/DEFAUT_MODEL-A_Text-2-Img+UPscalersV1.00-notes.jpg" height="50%"><br>
+## I) -A-  DEFAUT_MODEL-A_Text-2-Img+UPscalers
+[ CLICK TO DOWNLOAD PNG WORKFLOW ]<br>
+<a href="Defaut/images/DEFAUT_MODEL-A_Text-2-Img+UPscalersV1.00.png"><img src="Defaut/images/DEFAUT_MODEL-A_Text-2-Img+UPscalersV1.00-notes.jpg" height="50%"></a><br>  
+
 
 #### 🔵⚪️🔴 Permet de faire image-to-image avec des options de *prompts* et la possibilité d'*UPScaler* l'image rendue <br>- Par defaut les deux UPscalers sont désactivés ❌<br><br>
 ## - U1💚/U2💜 - Upscalers ( desactives par defaut )
@@ -145,8 +149,9 @@ Allows you to choose 4 Options<br>
 
 <hr>
 
-## II) -B- DEFAUT_MODEL-B_Load-ImgZ+UPscalersV1.00
-<img src="Defaut/images/DEFAUT_MODEL-B_Load-ImgZ+UPscalersV1.00-notes.jpg" height="50%"><br>
+## II) -B- DEFAUT_MODEL-B_Load-ImgZ+UPscalers
+[ CLICK TO DOWNLOAD PNG WORKFLOW ]<br>  
+<a href="Defaut/images/DEFAUT_MODEL-B_Load-ImgZ+UPscalersV1.00.png"><img src="Defaut/images/DEFAUT_MODEL-B_Load-ImgZ+UPscalersV1.00-notes.jpg" height="50%"></a><br>
 
 #### 🔵⚪️🔴 Permet d'Upscaler des images avec 2 Upscalers<br>- Par defaut l'UPscaler "Hires/Lent" U2💜 est désactivé ❌<br><br>
 
@@ -190,8 +195,9 @@ The **💛i** option allows you to choose between different image options: Load 
 
 <hr>
 
-## III) - C - DEFAUT_Text-2-Img+UPscalersV1.1.3-Valerie
-<img src="Defaut/images/DEFAUT_MODEL-C_Text-2-Img+LoadImage+UPscalers-notes.jpg" height="50%">
+## III) - C - DEFAUT_MODEL-C_Text-2-Img+LoadImage+UPscalers 
+[ CLICK TO DOWNLOAD PNG WORKFLOW ]<br>
+<a href="Defaut/images/DEFAUT_MODEL-C_Text-2-Img+LoadImage+UPscalersV1.00.png"><img src="Defaut/images/DEFAUT_MODEL-C_Text-2-Img+LoadImage+UPscalersV1.00.jpg" height="50%">
 
 #### 🔵⚪️🔴 Combine le Modele A et le Modele B<br>
 A - Permet de faire image-to-image avec des options de *prompts* <br>
