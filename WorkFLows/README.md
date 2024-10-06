@@ -1,5 +1,4 @@
 ### <a href="https://creativecommons.org/publicdomain/zero/1.0/"><img src="../images/CC-0-Violet.png" height="48"></a> Dfalm.<i>[Licence ](https://github.com/Dfalm-Original/COMFYui?tab=License-1-ov-file)</i><a href="https://fr.wikipedia.org/wiki/WTFPL"><img src="../images/WTFPL_logo.svg.png" height="48"></a>
-# **-- WorkFlows --** 🚧🚧 WORK IN PROGRESS 🚧🚧
 <hr>
 
 #### A - Normalisation<br>B - WorkFlows<br>C - Misc<br>D - In Fine
