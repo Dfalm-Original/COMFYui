@@ -51,7 +51,6 @@ When these colors are specific I will specify it with the color code
 <img src="Defaut/images/fichier-repertoire.png" width="50%"><br>
 - ii) Reglages / Settings <br>
 <img src="Defaut/images/Start-lora.png" width="50%"><br>
-
 1 - Lora<br>
 2 - CheckPoint<br>
 3 - **No-VAE** - la VAE n'est pas exploitee ici = Aucune influence / inutile de la renseigner<br>
