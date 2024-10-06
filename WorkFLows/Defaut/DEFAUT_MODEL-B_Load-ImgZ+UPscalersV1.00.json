@@ -24,7 +24,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 71,
+      "order": 67,
       "mode": 0,
       "inputs": [
         {
@@ -82,7 +82,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 62,
+      "order": 61,
       "mode": 0,
       "inputs": [
         {
@@ -413,7 +413,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 87,
+      "order": 91,
       "mode": 2,
       "inputs": [
         {
@@ -601,7 +601,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 78,
+      "order": 81,
       "mode": 2,
       "inputs": [
         {
@@ -1257,7 +1257,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 77,
+      "order": 80,
       "mode": 2,
       "inputs": [
         {
@@ -1320,7 +1320,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 69,
+      "order": 72,
       "mode": 2,
       "inputs": [
         {
@@ -1377,7 +1377,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 89,
+      "order": 83,
       "mode": 2,
       "inputs": [
         {
@@ -1428,7 +1428,7 @@
         "1": 76
       },
       "flags": {},
-      "order": 85,
+      "order": 89,
       "mode": 0,
       "inputs": [
         {
@@ -1479,7 +1479,7 @@
         "1": 76
       },
       "flags": {},
-      "order": 86,
+      "order": 90,
       "mode": 0,
       "inputs": [
         {
@@ -1533,7 +1533,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 67,
+      "order": 70,
       "mode": 0,
       "inputs": [
         {
@@ -2276,7 +2276,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 91,
+      "order": 85,
       "mode": 0,
       "inputs": [
         {
@@ -2352,8 +2352,9 @@
         "color_restricted": 0
       },
       "widgets_values": [
-        499330294705197,
-        "randomize"
+        1084536352514826,
+        "randomize",
+        "348489511110729"
       ],
       "color": "#ffaa32",
       "bgcolor": "#ff961e"
@@ -2500,7 +2501,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 74,
+      "order": 77,
       "mode": 0,
       "inputs": [
         {
@@ -2565,7 +2566,7 @@
         "1": 76
       },
       "flags": {},
-      "order": 93,
+      "order": 96,
       "mode": 0,
       "inputs": [
         {
@@ -2616,7 +2617,7 @@
         "1": 76
       },
       "flags": {},
-      "order": 94,
+      "order": 97,
       "mode": 0,
       "inputs": [
         {
@@ -2669,7 +2670,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 84,
+      "order": 88,
       "mode": 0,
       "inputs": [
         {
@@ -2920,7 +2921,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 92,
+      "order": 95,
       "mode": 0,
       "inputs": [
         {
@@ -2982,7 +2983,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 82,
+      "order": 86,
       "mode": 0,
       "inputs": [
         {
@@ -3046,7 +3047,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 75,
+      "order": 78,
       "mode": 0,
       "inputs": [
         {
@@ -3106,7 +3107,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 76,
+      "order": 79,
       "mode": 0,
       "inputs": [
         {
@@ -3166,7 +3167,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 98,
+      "order": 94,
       "mode": 2,
       "inputs": [
         {
@@ -3241,7 +3242,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 90,
+      "order": 84,
       "mode": 2,
       "inputs": [
         {
@@ -3294,7 +3295,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 83,
+      "order": 87,
       "mode": 0,
       "inputs": [
         {
@@ -3491,7 +3492,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 96,
+      "order": 93,
       "mode": 2,
       "inputs": [
         {
@@ -3733,7 +3734,7 @@
         "%date/",
         "FLUX\\creapromptFlux1Dev_v10.safetensors",
         "Flux_vae.safetensors",
-        1010210833109719,
+        982981016945546,
         "randomize",
         20,
         8,
@@ -3779,7 +3780,7 @@
         "1": 614
       },
       "flags": {},
-      "order": 97,
+      "order": 98,
       "mode": 2,
       "inputs": [
         {
@@ -3870,7 +3871,7 @@
       },
       "widgets_values": [
         2,
-        771185999638832,
+        197443725478478,
         "randomize",
         8,
         4,
@@ -4082,7 +4083,7 @@
         "%date/",
         "FLUX\\creapromptFlux1Dev_v10.safetensors",
         "Flux_vae.safetensors",
-        195391135169624,
+        922008029639020,
         "randomize",
         20,
         8,
@@ -4109,6 +4110,194 @@
       "bgcolor": "#ff5c7c"
     },
     {
+      "id": 194,
+      "type": "SDParameterGenerator",
+      "pos": {
+        "0": -966.298583984375,
+        "1": 180.77926635742188,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0
+      },
+      "size": {
+        "0": 555.4171142578125,
+        "1": 956
+      },
+      "flags": {},
+      "order": 29,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "MODEL_NAME",
+          "type": "COMBO",
+          "links": [
+            810,
+            1169,
+            1190,
+            1347
+          ],
+          "slot_index": 0,
+          "shape": 3
+        },
+        {
+          "name": "VAE_NAME",
+          "type": "COMBO",
+          "links": [],
+          "slot_index": 1,
+          "shape": 3
+        },
+        {
+          "name": "MODEL",
+          "type": "MODEL",
+          "links": [
+            884
+          ],
+          "slot_index": 2,
+          "shape": 3
+        },
+        {
+          "name": "CLIP",
+          "type": "CLIP",
+          "links": [],
+          "slot_index": 3,
+          "shape": 3
+        },
+        {
+          "name": "VAE",
+          "type": "VAE",
+          "links": [],
+          "slot_index": 4,
+          "shape": 3
+        },
+        {
+          "name": "SEED",
+          "type": "INT",
+          "links": [],
+          "slot_index": 5,
+          "shape": 3
+        },
+        {
+          "name": "STEPS",
+          "type": "INT",
+          "links": [
+            1172,
+            1193
+          ],
+          "slot_index": 6,
+          "shape": 3
+        },
+        {
+          "name": "REFINER_START_STEP",
+          "type": "INT",
+          "links": null,
+          "shape": 3
+        },
+        {
+          "name": "CFG",
+          "type": "FLOAT",
+          "links": [
+            1173,
+            1194
+          ],
+          "shape": 3
+        },
+        {
+          "name": "SAMPLER_NAME",
+          "type": "COMBO",
+          "links": [
+            1174,
+            1195
+          ],
+          "slot_index": 9,
+          "shape": 3
+        },
+        {
+          "name": "SCHEDULER",
+          "type": "COMBO",
+          "links": [
+            1175,
+            1196
+          ],
+          "shape": 3
+        },
+        {
+          "name": "POSITIVE_ASCORE",
+          "type": "FLOAT",
+          "links": null,
+          "shape": 3
+        },
+        {
+          "name": "NEGATIVE_ASCORE",
+          "type": "FLOAT",
+          "links": null,
+          "shape": 3
+        },
+        {
+          "name": "WIDTH",
+          "type": "INT",
+          "links": [],
+          "slot_index": 13,
+          "shape": 3
+        },
+        {
+          "name": "HEIGHT",
+          "type": "INT",
+          "links": [],
+          "slot_index": 14,
+          "shape": 3
+        },
+        {
+          "name": "BATCH_SIZE",
+          "type": "INT",
+          "links": [],
+          "shape": 3
+        },
+        {
+          "name": "PARAMETERS",
+          "type": "STRING",
+          "links": null,
+          "shape": 3
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "SDParameterGenerator"
+      },
+      "widgets_values": [
+        "sd_xl_base_1.0.safetensors",
+        "sdxl_vae.safetensors",
+        "SDXL 1024px",
+        "none",
+        816481989522648,
+        "randomize",
+        7,
+        0.8,
+        5,
+        "euler_ancestral",
+        "karras",
+        6,
+        6,
+        "custom",
+        720,
+        1280,
+        "1",
+        "Total steps: 7,\nRefiner start at step: 5 (80%)",
+        "Custom aspect ratio: 720 x 1280",
+        "Total steps: 13,\nRefiner start at step: 10 (80%)",
+        "Total steps: 7,\nRefiner start at step: 5 (80%)",
+        "Custom aspect ratio: 720 x 1280",
+        true,
+        true
+      ],
+      "color": "#328cff",
+      "bgcolor": "#1e78ff"
+    },
+    {
       "id": 335,
       "type": "Note Plus (mtb)",
       "pos": {
@@ -4128,7 +4317,7 @@
         "1": 590.7530517578125
       },
       "flags": {},
-      "order": 29,
+      "order": 30,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -4164,7 +4353,7 @@
         "1": 115.99164581298828
       },
       "flags": {},
-      "order": 30,
+      "order": 31,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -4200,7 +4389,7 @@
         "1": 590.8599853515625
       },
       "flags": {},
-      "order": 31,
+      "order": 32,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -4236,7 +4425,7 @@
         "1": 129.84320068359375
       },
       "flags": {},
-      "order": 32,
+      "order": 33,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -4272,7 +4461,7 @@
         "1": 219.67355346679688
       },
       "flags": {},
-      "order": 33,
+      "order": 34,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -4308,7 +4497,7 @@
         "1": 114
       },
       "flags": {},
-      "order": 80,
+      "order": 75,
       "mode": 0,
       "inputs": [
         {
@@ -4467,7 +4656,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 81,
+      "order": 76,
       "mode": 0,
       "inputs": [
         {
@@ -4545,7 +4734,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 34,
+      "order": 35,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -4589,7 +4778,7 @@
         "1": 76
       },
       "flags": {},
-      "order": 95,
+      "order": 92,
       "mode": 0,
       "inputs": [
         {
@@ -4642,7 +4831,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 88,
+      "order": 82,
       "mode": 0,
       "inputs": [
         {
@@ -4708,7 +4897,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 79,
+      "order": 74,
       "mode": 0,
       "inputs": [
         {
@@ -4764,7 +4953,7 @@
         "1": 408
       },
       "flags": {},
-      "order": 35,
+      "order": 36,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -4822,7 +5011,7 @@
         "1": 378.6979064941406
       },
       "flags": {},
-      "order": 36,
+      "order": 37,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -4872,7 +5061,7 @@
         "1": 283.6979064941406
       },
       "flags": {},
-      "order": 37,
+      "order": 38,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -4927,7 +5116,7 @@
         26
       ],
       "flags": {},
-      "order": 38,
+      "order": 39,
       "mode": 0,
       "inputs": [
         {
@@ -4975,7 +5164,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 70,
+      "order": 73,
       "mode": 0,
       "inputs": [
         {
@@ -5013,7 +5202,7 @@
         "1": 219.27676391601562
       },
       "flags": {},
-      "order": 39,
+      "order": 40,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -5049,7 +5238,7 @@
         "1": 135.91024780273438
       },
       "flags": {},
-      "order": 40,
+      "order": 41,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -5085,7 +5274,7 @@
         "1": 136.91024780273438
       },
       "flags": {},
-      "order": 41,
+      "order": 42,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -5121,7 +5310,7 @@
         "1": 136.91024780273438
       },
       "flags": {},
-      "order": 42,
+      "order": 43,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -5159,7 +5348,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 63,
+      "order": 62,
       "mode": 0,
       "inputs": [
         {
@@ -5237,7 +5426,7 @@
         "1": 130.64468383789062
       },
       "flags": {},
-      "order": 43,
+      "order": 44,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -5273,7 +5462,7 @@
         "1": 146
       },
       "flags": {},
-      "order": 72,
+      "order": 68,
       "mode": 0,
       "inputs": [
         {
@@ -5347,7 +5536,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 73,
+      "order": 69,
       "mode": 0,
       "inputs": [
         {
@@ -5363,7 +5552,9 @@
         "group_restricted": 0,
         "color_restricted": 0
       },
-      "widgets_values": [],
+      "widgets_values": [
+        "<comfy.sd.VAE object at 0x0000018F214C3490>"
+      ],
       "color": "#ffff78",
       "bgcolor": "#ffff64"
     },
@@ -5387,7 +5578,7 @@
         "1": 129.830322265625
       },
       "flags": {},
-      "order": 44,
+      "order": 45,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -5425,7 +5616,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 68,
+      "order": 71,
       "mode": 0,
       "inputs": [
         {
@@ -5483,7 +5674,7 @@
         "1": 75.7318115234375
       },
       "flags": {},
-      "order": 45,
+      "order": 46,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -5519,7 +5710,7 @@
         "1": 274
       },
       "flags": {},
-      "order": 46,
+      "order": 47,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -5560,7 +5751,7 @@
         "1": 127.263427734375
       },
       "flags": {},
-      "order": 61,
+      "order": 63,
       "mode": 0,
       "inputs": [
         {
@@ -5634,7 +5825,7 @@
         "1": 269.074462890625
       },
       "flags": {},
-      "order": 47,
+      "order": 48,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -5670,7 +5861,7 @@
         "1": 269.685302734375
       },
       "flags": {},
-      "order": 48,
+      "order": 49,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -5706,7 +5897,7 @@
         "1": 267.6526184082031
       },
       "flags": {},
-      "order": 49,
+      "order": 50,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -5742,7 +5933,7 @@
         "1": 166.2142333984375
       },
       "flags": {},
-      "order": 50,
+      "order": 51,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -5778,7 +5969,7 @@
         "1": 166.30284118652344
       },
       "flags": {},
-      "order": 51,
+      "order": 52,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -5814,7 +6005,7 @@
         "1": 250.31661987304688
       },
       "flags": {},
-      "order": 52,
+      "order": 53,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -5829,193 +6020,6 @@
       "color": "#14ff14",
       "bgcolor": "#00ff00",
       "shape": 1
-    },
-    {
-      "id": 194,
-      "type": "SDParameterGenerator",
-      "pos": {
-        "0": -966.298583984375,
-        "1": 180.77926635742188,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
-      },
-      "size": {
-        "0": 555.4171142578125,
-        "1": 956
-      },
-      "flags": {},
-      "order": 53,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "MODEL_NAME",
-          "type": "COMBO",
-          "links": [
-            810,
-            1169,
-            1190,
-            1347
-          ],
-          "slot_index": 0,
-          "shape": 3
-        },
-        {
-          "name": "VAE_NAME",
-          "type": "COMBO",
-          "links": [],
-          "slot_index": 1,
-          "shape": 3
-        },
-        {
-          "name": "MODEL",
-          "type": "MODEL",
-          "links": [
-            884
-          ],
-          "slot_index": 2,
-          "shape": 3
-        },
-        {
-          "name": "CLIP",
-          "type": "CLIP",
-          "links": [],
-          "slot_index": 3,
-          "shape": 3
-        },
-        {
-          "name": "VAE",
-          "type": "VAE",
-          "links": [],
-          "slot_index": 4,
-          "shape": 3
-        },
-        {
-          "name": "SEED",
-          "type": "INT",
-          "links": [],
-          "slot_index": 5,
-          "shape": 3
-        },
-        {
-          "name": "STEPS",
-          "type": "INT",
-          "links": [
-            1172,
-            1193
-          ],
-          "slot_index": 6,
-          "shape": 3
-        },
-        {
-          "name": "REFINER_START_STEP",
-          "type": "INT",
-          "links": null,
-          "shape": 3
-        },
-        {
-          "name": "CFG",
-          "type": "FLOAT",
-          "links": [
-            1173,
-            1194
-          ],
-          "shape": 3
-        },
-        {
-          "name": "SAMPLER_NAME",
-          "type": "COMBO",
-          "links": [
-            1174,
-            1195
-          ],
-          "slot_index": 9,
-          "shape": 3
-        },
-        {
-          "name": "SCHEDULER",
-          "type": "COMBO",
-          "links": [
-            1175,
-            1196
-          ],
-          "shape": 3
-        },
-        {
-          "name": "POSITIVE_ASCORE",
-          "type": "FLOAT",
-          "links": null,
-          "shape": 3
-        },
-        {
-          "name": "NEGATIVE_ASCORE",
-          "type": "FLOAT",
-          "links": null,
-          "shape": 3
-        },
-        {
-          "name": "WIDTH",
-          "type": "INT",
-          "links": [],
-          "slot_index": 13,
-          "shape": 3
-        },
-        {
-          "name": "HEIGHT",
-          "type": "INT",
-          "links": [],
-          "slot_index": 14,
-          "shape": 3
-        },
-        {
-          "name": "BATCH_SIZE",
-          "type": "INT",
-          "links": [],
-          "shape": 3
-        },
-        {
-          "name": "PARAMETERS",
-          "type": "STRING",
-          "links": null,
-          "shape": 3
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "SDParameterGenerator"
-      },
-      "widgets_values": [
-        "sd_xl_base_1.0.safetensors",
-        "sdxl_vae.safetensors",
-        "SDXL 1024px",
-        "none",
-        816481989522648,
-        7,
-        0.8,
-        5,
-        "euler_ancestral",
-        "karras",
-        6,
-        6,
-        "custom",
-        720,
-        1280,
-        1,
-        "1",
-        "Total steps: 7,\nRefiner start at step: 5 (80%)",
-        "Custom aspect ratio: 720 x 1280",
-        "Total steps: 13,\nRefiner start at step: 10 (80%)",
-        "Total steps: 7,\nRefiner start at step: 5 (80%)",
-        true,
-        true
-      ],
-      "color": "#328cff",
-      "bgcolor": "#1e78ff"
     },
     {
       "id": 549,
@@ -6046,8 +6050,7 @@
       "widgets_values": [
         "DEFAUT_MODEL-B_Load-ImgZ+UPscalersV1.00\n"
       ],
-      "color": "#222",
-      "bgcolor": "#000"
+      "color": "rgba(0,0,0,.8)"
     }
   ],
   "links": [
@@ -7053,10 +7056,10 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 0.5644739300537773,
+      "scale": 1.7715610000000017,
       "offset": [
-        2470.233641363814,
-        1474.9072223371747
+        3227.506891356476,
+        732.2434212205904
       ]
     },
     "groupNodes": {}

@@ -1,11 +1,11 @@
 ### <a href="https://creativecommons.org/publicdomain/zero/1.0/"><img src="../images/CC-0-Violet.png" height="48"></a> Dfalm.<i>[Licence ](https://github.com/Dfalm-Original/COMFYui?tab=License-1-ov-file)</i><a href="https://fr.wikipedia.org/wiki/WTFPL"><img src="../images/WTFPL_logo.svg.png" height="48"></a>
-# **-- WorkFlows --**
+# **-- WorkFlows --** 🚧🚧 WORK IN PROGRESS 🚧🚧
 <hr>
 
 #### A - Normalisation<br>B - WorkFlows<br>C - Misc<br>D - In Fine
 ----
 ## INTRODUCTION
-Rappel de la "norme" commune : **Normalisation** pour les différents éléments<br>
+Dans ce chaptire je vais mettre en place une "norme" commune : **Normalisation** pour les différents éléments<br>
 Le premier élément est la Langue<br>
 Pour distinguer le Français de l'Anglais je vais utiliser les icones suivantes :<br>
 🔵⚪️🔴 En Français<br>
@@ -16,7 +16,7 @@ Couleur par défaut proposée par COMFYui<br>
 Lorsque ces couleurs sont spécifiques je le préciserais avec le code couleurs
 
 ---
-Reminder of the common "standard" aka **Normalisation** for the different elements<br>
+In this chapter I will set up a common "standard" aka **Normalisation** for the different elements<br>
 The first element is the Language<br>
 To distinguish French from English I will use the following icons:<br>
 🔵⚪️🔴 In French<br>
@@ -28,20 +28,20 @@ When these colors are specific I will specify it with the color code
 
 ---
 ## A - Normalisation
-#### VOIR LA PAGE AD HOC :  [ <u>README</u> ](https://github.com/Dfalm-Original/COMFYui)<br>REFER TO AD HOC PAGE: [ <u>README</u> ](https://github.com/Dfalm-Original/COMFYui)
-
+VOIR LA PAGE AD HOC :  [README ](https://github.com/Dfalm-Original/COMFYui)
+<br>
+REFER TO AD HOC PAGE: [README ](https://github.com/Dfalm-Original/COMFYui)
 
 -----
 -----
 
-## B - WorkFlows
+## B - WorkFlow
 🔵⚪️🔴 Dans ce chapitre je propose des WorkFlow, les liens des exemples, des images et autres...<br>🌎🌍🌏 In this chapter I propose WorkFlow, links to examples, images and others...
 <hr>
 
-## 0) BASIC-V1.00
-[ CLICK TO DOWNLOAD PNG WORKFLOW ]<br>
-<a href="Defaut/images/BASIC-V1.00.png"><img src="Defaut/images/BASIC-V1.00-notes.jpg" width="60%"></a><br>
-
+0) Basic
+#### BASIC-V1.00
+<img src="Defaut/images/BASIC-V1.00.png" width="60%"><br>
 🔵⚪️🔴  Remplace le workflow **"default"**<br>  🌎🌍🌏 Replaces **"default"** workflow<br>
 <img src="Defaut/images/default.png" width="30%"><br>
 
@@ -68,7 +68,7 @@ When these colors are specific I will specify it with the color code
 Vert = Positif / Green = Positive -- Rouge = Negatif / Red = Negative<br>
 
 - iv) Control<br>
-<img src="Defaut/images/control-nom.png" width="40%"><br>
+<img src="Defaut/images/control-nom.png" width="50%"><br>
 Controle le nom du fichier / Check the file name : **Nom-Fichier+Checkpoint**
 
 - v) Sauvegarde Type de fichier & metadata - Save File type & metadata<br>
@@ -78,7 +78,7 @@ Controle le nom du fichier / Check the file name : **Nom-Fichier+Checkpoint**
 💚Permet de sauvegarder en PNG - JPG - JPEG - WEBP<br>  💚Allows you to save in PNG - JPG - JPEG - WEBP<br><img src="Defaut/images/format-image.png"><br>
 
 - vi) Preview image<br>
-<img src="Defaut/images/preview-image.png" width="40%"><br>
+<img src="Defaut/images/preview-image.png" width="50%"><br>
 🗃 Noir / Black
 
 ### 🔵⚪️🔴 Tous ces elements sont communs aux differents workflows<br>  
@@ -86,14 +86,13 @@ Controle le nom du fichier / Check the file name : **Nom-Fichier+Checkpoint**
 
 
 <hr>
+I) WorkFlows par defaut :
 
-## I) -A-  DEFAUT_MODEL-A_Text-2-Img+UPscalers
-[ CLICK TO DOWNLOAD PNG WORKFLOW ]<br>
-<a href="Defaut/images/DEFAUT_MODEL-A_Text-2-Img+UPscalersV1.00.png"><img src="Defaut/images/DEFAUT_MODEL-A_Text-2-Img+UPscalersV1.00-notes.jpg" height="50%"></a><br>  
+#### -A-  DEFAUT_MODEL-A_Text-2-Img+UPscalersV1.00
+<img src="Defaut/images/DEFAUT_MODEL-A_Text-2-Img+UPscalersV1.00-notes.jpg" height="50%"><br>
 
-
-#### 🔵⚪️🔴 Permet de faire *text-to-image* avec des options de *prompts* et la possibilité d'*UPScaler* l'image rendue <br>- Par defaut les deux UPscalers sont désactivés ❌<br><br>
-## - U1💚/U2💜 - Upscalers ( desactives par defaut )
+🔵⚪️🔴 Permet de faire image-to-image avec des options de *prompts* et la possibilité d'*UPScaler* l'image rendue <br>- Par defaut les deux UPscalers sont désactivés<br><br>
+## - U1💚/U2💜
 
 Le premier Upscaler **U1💚** est un Upscaler "simple" qui agrandit l'image sans post-traitement<br>
 Le second Upscaler **U2💜** est un 'refiner' il utilise un Ksampler, la seed, la VAE ...
@@ -104,7 +103,7 @@ L'interrupteur note **🧡ON/OFF** permet d'activer / desactiver les groupes :  
 ## - **⚪️L** (Lora)
 L'option **⚪️L** permet d'ajouter un Lora lors de la generation de l'images<br>- Par defaut l'option est desactivee<br>
 
-## - **🔴S** Sauvegarde / Save  
+## - Sauvegarde / Save  
 Sauvegarde / Save **🔴S** Ref : *0️⃣BASIC-V1.00
 
 ## **🔘P** (Prompt)
@@ -118,163 +117,24 @@ Permet de choisir 4 Options<br>
 4 Prompt Fichier "Batch" + Bonus = amélioré par une série de mots --**💗P**--<br>
  -> *1 Ligne = 1 Prompt* + "Bonus amélioré"<br>
 
-#### 🌎🌍🌏 Allows you to do image-to-image with *prompts* options and the ability to *UPScaler* the rendered image <br>- By default both UPscalers are disabled ❌<br><br>
-## - U1💚/U2💜 - Upscalers (disabled by default)
 
-The first Upscaler **U1💚** is a "simple" Upscaler that enlarges the image without post-processing<br>
-The second Upscaler **U2💜** is a 'refiner' it uses a Ksampler, the seed, the VAE ...
-
-## - **🧡ON/OFF**
-The switch note **🧡ON/OFF** allows you to activate / deactivate the groups: U1💚/U2💜 depending on the UPScale needs
-
-## - **⚪️L** (Lora)
-The **⚪️L** option allows you to add a Lora when generating the images<br>- By default the option is disabled<br>
-
-## - **🔴S** Save / Save
-Save / Save **🔴S** Ref: *0️⃣BASIC-V1.00
-
-## **🔘P** (Prompt)
-Prompt **🔘P**<br>
-There is a "Prompt" option Classic / Batch & Vanilla / Improved"
-Allows you to choose 4 Options<br>
-1 Prompt Classic 'Vanilla'<br>
-2 Prompt Classic + Bonus = improved by a series of words --**💗P**--<br>
-3 Prompt File "Batch"<br>
--> *1 Line = 1 Prompt*<br>
-4 Prompt File "Batch" + Bonus = enhanced by a series of words --**💗P**--<br>
--> *1 Line = 1 Prompt* + "Enhanced Bonus"<br>
-
-
-## - Pour les UPScaler voir le chapitre idoine / UPScaler go to : <u>4️⃣ Upscalers </u>
+#### - Pour les UPScaler voir le chapitre idoine : <u>4️⃣ Upscalers </u>
 
 <hr>
 
-## II) -B- DEFAUT_MODEL-B_Load-ImgZ+UPscalers
-[ CLICK TO DOWNLOAD PNG WORKFLOW ]<br>
-<a href="Defaut/images/DEFAUT_MODEL-B_Load-ImgZ+UPscalersV1.00.png"><img src="Defaut/images/DEFAUT_MODEL-B_Load-ImgZ+UPscalersV1.00-notes.jpg" height="50%"></a><br>
-
-#### 🔵⚪️🔴 Permet d'Upscaler des images avec 2 Upscalers<br>- Par defaut l'UPscaler "Hires/Lent" U2💜 est désactivé ❌<br><br>
-
-## - U1💚/U2💜 - Upscalers
-Le premier Upscaler **U1💚** est un Upscaler "simple" qui agrandit l'image sans post-traitement<br>
-Le second Upscaler **U2💜** est un 'refiner' il utilise un Ksampler, la seed, la VAE ...<br> Desactive par defaut
-
-## - **💛i** (Load-s Images)
-L'option **💛i** permet de choisir entre différentes options d'images : Load Images<br>
-<img src="Defaut/images/loads-images.png" width="30%"><br>
-💚 - La première option est l'option '**classic**' lecture / load image simple : 1 image<br>
-💙 - La deuxième option est '**load image batch**' permet de prendre toutes les images d'un repertoire<br>
-💛 - La troisieme option est '**load image from URL**' permet d'utiliser une images 'direct' depuis l'adresse Web sans avoir besoin de la telecharger pour l'utiliser dans l'option [1] - 💚<br>
-
-### Toutes les Options restent comnunes :
-#### - **🧡ON/OFF**<br> - **⚪️L** (Lora)<br>- **🔘P** (Prompt)<br>- **🔴S** Save<br>
-
-#### 🌎🌍🌏 Allows you to Upscale images with 2 Upscalers<br>- By default the "Hires/Lent" U2💜 UPscaler is disabled ❌<br><br>
-
-## - U1💚/U2💜 - Upscalers
-The first Upscaler **U1💚** is a "simple" Upscaler that enlarges the image without post-processing<br>
-The second Upscaler **U2💜** is a 'refiner' it uses a Ksampler, the seed, the VAE ...<br> Disabled by default
-
-## - **💛i** (Load-s Images)
-The **💛i** option allows you to choose between different image options: Load Images<br>
-<img src="Defaut/images/loads-images.png" width="30%"><br>
-💚 - The first option is the '**classic**' option, read / load single image: 1 image<br>
-💙 - The second option is '**load image batch**', allows you to take all the images from a directory<br>
-💛 - The third option is '**load image from URL**', allows you to use an image 'direct' from the web address without having to download it to use it in option [1] - 💚<br>
-
-### All Options remain common:
-#### - **🧡ON/OFF**<br> - **⚪️L** (Lora)<br>- **🔘P** (Prompt)<br>- **🔴S** Save<br>
-
-## - Pour les UPScaler voir le chapitre idoine / UPScaler go to : <u>4️⃣ Upscalers </u>
-
+#### -B- DEFAUT_MODEL-B_Load-ImgZ+UPscalersV1.00
+<img src="Defaut/images/DEFAUT_MODEL-B_Load-ImgZ+UPscalersV1.00.jpg" height="50%">
+Permet d'Upscaler des images
 <hr>
 
-## III) - C - DEFAUT_MODEL-C_Text-2-Img+LoadImage+UPscalers 
-[ CLICK TO DOWNLOAD PNG WORKFLOW ]<br>
-<a href="Defaut/images/DEFAUT_MODEL-C_Text-2-Img+LoadImage+UPscalersV1.00.png"><img src="Defaut/images/DEFAUT_MODEL-C_Text-2-Img+LoadImage+UPscalersV1.00.jpg" height="50%">
+#### - C - DEFAUT_Text-2-Img+UPscalersV1.1.3-Valerie
+<img src="Defaut/images/DEFAUT_MODEL-C_Text-2-Img+LoadImage+UPscalers.jpg" height="50%">
 
-#### 🔵⚪️🔴 Combine le Modele A et le Modele B<br>
-A - Permet de faire *text-to-image* avec des options de *prompts* <br>
-B - Permet de faire du *image-to-image* avec des options de *prompts* avec l'option '**denoise**' ( **💙 D** )<br>
-### Toutes les Options restent comnunes :
-#### - **🧡ON/OFF**<br>- **⚪️L** (Lora)<br>- **🔘P** (Prompt)<br>- **🔴S** Sauvegarde / Save<br>- **💛i** (Load-s Images)
 
-## - **⚫️C** Choix de generation d'image
-Choisir entre 4 options :
-- [1] <b>text 2 image </b> -  Ksampler "calcul" de l'image <br>
-- [2] <b>Load-Image </b>: une seule image <br>
-- [3] <b>Load Batch image </b> / répertoire  <br>
-- [4] <b>Load Image From URL </b>: depuis 'internet' <br>
-
-## - **💙 D** Denoise
-Permet de modifier le '**denoise**' pour les options 2 3 et 4<b> ( *Load-Image - Load Batch image - Load Image From URL* )<br>
-Le '**denoise**' est force a **1.00** pour l'option **[1]**
-
-## - U1💚/U2💜 - Upscalers ( desactives par defaut )
-Le premier Upscaler **U1💚** est un Upscaler "simple" qui agrandit l'image sans post-traitement<br>
-Le second Upscaler **U2💜** est un 'refiner' il utilise un Ksampler, la seed, la VAE ...<br>
-
-## - **🧡ON/OFF**
-L'interrupteur note **🧡ON/OFF** permet d'activer / desactiver les groupes :  U1💚/U2💜 en fonction des besoin d'UPScale
-
-## - **⚪️L** (Lora)
-L'option **⚪️L** permet d'ajouter un Lora lors de la generation de l'images<br>- Par defaut l'option est desactivee<br>
-
-## - Sauvegarde / Save  
-Sauvegarde / Save **🔴S** Ref : *0️⃣BASIC-V1.00
-
-## - **💛i** (Load-s Images)
-L'option **💛i** permet de choisir entre différentes options d'images : Load Images<br>
-<img src="Defaut/images/loads-images.png" width="30%"><br>
-💚 - La première option est l'option '**classic**' lecture / load image simple : 1 image<br>
-💙 - La deuxième option est '**load image batch**' permet de prendre toutes les images d'un repertoire<br>
-💛 - La troisieme option est '**load image from URL**' permet d'utiliser une images 'direct' depuis l'adresse Web sans avoir besoin de la telecharger pour l'utiliser dans l'option [1] - 💚<br>
-
-#### 🌎🌍🌏 Combine Model A and Model B<br>
-A - Allows you to do *text-to-image* with *prompts* options <br>
-B - Allows you to do *image-to-image* with *prompts* options with the '**denoise**' option ( **💙 D** )<br>
-### All Options remain common:
-#### - **🧡ON/OFF**<br>- **⚪️L** (Lora)<br>- **🔘P** (Prompt)<br>- **🔴S** Sauvegarde / Save<br>- **💛i** (Load-s Images)<br>
-
-## - **⚫️C** Image generation choice
-Choose between 4 options:
-- [1] <b>text 2 image</b> - Ksampler "calculation" of the image <br>
-- [2] <b>Load-Image</b>: a single image <br>
-- [3] <b>Load Batch image</b> / directory <br>
-- [4] <b>Load Image From URL</b>: from 'internet' <br>
-
-## - **💙 D** Denoise
-Allows to modify the '**denoise**' for options 2 3 and 4<b> ( *Load-Image - Load Batch image - Load Image From URL* )<br>
-'**denoise**' is forced to **1.00** for option **[1]**
-
-## - U1💚/U2💜 - Upscalers ( disabled by default )
-The first Upscaler **U1💚** is a "simple" Upscaler that enlarges the image without post-processing<br>
-The second Upscaler **U2💜** is a 'refiner' it uses a Ksampler, the seed, the VAE ...<br>
-
-## - **🧡ON/OFF**
-The switch notes **🧡ON/OFF** allows you to activate/deactivate the groups: U1💚/U2💜 depending on UPScale's needs
-
-## - **⚪️L** (Lora)
-The **⚪️L** option allows you to add a Lora when generating the images<br>- By default the option is disabled<br>
-
-## - Save / Save
-Save / Save **🔴S** Ref: *0️⃣BASIC-V1.00
-
-## - **💛i** (Load-s Images)
-The **💛i** option allows you to choose between different image options: Load Images<br>
-<img src="Defaut/images/loads-images.png" width="30%"><br>
-💚 - The first option is the '**classic**' option, read / load simple image : 1 image<br>
-💙 - The second option is '**load image batch**' allows you to take all the images from a directory<br>
-💛 - The third option is '**load image from URL**' allows you to use an image 'direct' from the web address without having to download it to use it in option [1] - 💚<br>
-
-## - Pour les UPScaler voir le chapitre idoine / UPScaler go to : <u>4️⃣ Upscalers </u>
-
-<hr>
-
-## IV) Upscalers 4️⃣:
+IV) Upscalers :
 ### Hires - Lent / Slow  
 #### -- Desactive par defaut // Disabled by default
-<img src="Defaut/images/upscaler-hires.png" width="60%">
+<img src="Defaut/images/upscaler-hires.png" height="50%">
 
 #### 🔵⚪️🔴  Modifier le coeeficient multiplicateur <br>
 -Par défaut (3)  
@@ -288,20 +148,6 @@ On peut utiliser de cette manière des coefficient impair<br>
 
 J'ai choisi arbitrairement d'utiliser des coefficients entiers : la primitive "MULTIPLICATEUR" ne permet pas les nombres a virgule ( Libre a vous de le modifier - La Dfalm.<i>[Licence ](https://github.com/Dfalm-Original/COMFYui?tab=License-1-ov-file)</i> le permet )<br>
 
-
-#### 🌎🌍🌏 Modify the multiplier coefficient <br>
--By default (3)<br>
--- Choose the "Upscaler" model<br>
-#### ℹ️ The multiplier coefficient is independent of the choice of the upscaler model<br>
-<u>EXAMPLE</u>: We can use the model **8x** *_NMKD-Superscale_150000_G* with a coefficient of **3** <br>
-Conversely, we can use a coefficient of 4 with the model **2x***Higurashi_v1_compact_270k*<br>
-
-It is preferable that the multiplier coefficient is lower than that of the model<br>
-We can use odd coefficients in this way<br>
-
-I arbitrarily chose to use integer coefficients: the primitive "MULTIPLIER" does not allow numbers with a comma (You are free to modify it - The Dfalm.<i>[License ](https://github.com/Dfalm-Original/COMFYui?tab=License-1-ov-file)</i> allows it )<br>
-
-
 ## 📥 Telecharger des modeles / download models :
  [OPEN UPSCALER](https://openmodeldb.info) : https://openmodeldb.info
 
@@ -309,8 +155,43 @@ I arbitrarily chose to use integer coefficients: the primitive "MULTIPLIER" does
 
 .\ComfyUI\Models\upscale_models
 
+----
+----
+
+## C - Misc
+Divers à déterminer
+
+Ce **README** est une simple présentation<br>
+( *Plus de détails dans un fichier spécifique* )
+
+
 -----
 -----
+
+<font color="#001100">
+<h1 id="attention"> A - NORMALISATION  🗃️ </h1></font>
+
+## Permier / First :  Langue / Language
+<h1>🔵⚪️🔴 En Français</h1>
+<h1>🌎🌍🌏 In English</h1>
+
+----
+- ## PREVIEW
+A Gauche 🔵⚪️🔴 En Français // In Right 🌎🌍🌏 In English<br>
+In Left 🔵⚪️🔴 In French // A Droite 🌎🌍🌏 En Anglais
+<br>
+[ CLICK TO DOWNLOAD PNG WORKFLOW ]<br>
+<a href="../images/NORME.png"><img src="../images/preview.png"></a>
+
+----
+
+----
+
+<h1>B - WORKFLOW</h1>
+Coming soon...
+
+
+----
 
 <h1>C - MISC</h1>
 
@@ -321,14 +202,41 @@ Je conseille d'utiliser les "SD" Prompt generator et Prompt Saver 1️⃣ pour d
 🌎🌍🌏 For the preview image I also use black color and only "PREVIEW IMAGE"<br>
 I recommend using the "SD" Prompt generator and Prompt Saver 1️⃣ for various reasons
 
+### BUGS imprevu / unexpected
+🔵⚪️🔴 Pour une raison non determinee il semble y avoir des problemes de performances avec "SD Parameter Generator" 1️⃣<br>
+Une astuce consiste a ne pas utiliser la "seed" du noeud, j'utilise (de preference) "Seed Everywhere" 2️⃣
+
+🌎🌍🌏 For some reason there seems to be performance issues with "SD Parameter Generator" 1️⃣<br>
+A tip is to not use the node "seed". I use (preferably) "Seed Everywhere" 2️⃣<br>
+<br>
+Couleur / Color : 255 - 150 - 30<br>
+<img src="../images/seed-everywhere.png">
+
 1️⃣ SD Prompt Reader Node : https://github.com/receyuki/comfyui-prompt-reader-node<br>
+2️⃣ cg-use-everywhere : https://github.com/chrisgoringe/cg-use-everywhere
 
 # BUG
+🔵⚪️🔴  <u>Bug trivial</u> : parfois la VAE ou la Seed ou les deux sont "déconnectées"<br>
+Le noeud "Everywhere" 2️⃣ ne transmet pas la VAE/seed
 
-### VOIR LA PAGE AD HOC :  [ <u>README - Section Bugs</u> ](https://github.com/Dfalm-Original/COMFYui)<br>REFER TO AD HOC PAGE:[ <u>README - Bugs Section </u>](https://github.com/Dfalm-Original/COMFYui)
+🌎🌍🌏 <u>Trivial bug</u>: sometimes VAE or Seed or both are "disconnected"<br>
+The "Everywhere" node 2️⃣ does not transmit VAE/seed
+
+<img src="../images/BUG-everywhere-BUG.png" width="30%">
+
+
+## RESOLUTION : 🔵⚪️🔴  / 🌎🌍🌏
+### [F5] rafraichissement du navigateur<br>[F5] browser refresh
+
+
+Puis vérifier que les liens sont actifs / Then check that the links are active :
+<img src="../images/Everywhere-Seed.png"><br>
+
+<img src="../images/everywhere-VAE.png"><br>
+
+2️⃣ cg-use-everywhere : https://github.com/chrisgoringe/cg-use-everywhere
 
 ---
-
 <h1>D - In Fine</h1>
 
 ## Liens Utiles - Links usefull :

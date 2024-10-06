@@ -1,6 +1,6 @@
 ### <a href="https://creativecommons.org/publicdomain/zero/1.0/"><img src="images/CC-0-Violet.png" height="48"></a> Dfalm.<i>[Licence ](https://github.com/Dfalm-Original/COMFYui?tab=License-1-ov-file)</i><a href="https://fr.wikipedia.org/wiki/WTFPL"><img src="images/WTFPL_logo.svg.png" height="48"></a>
 # **Divers WorkFlow + Tutos + Config + Misc COMFYui**
-
+# 🚧🚧 WORK IN PROGRESS 🚧🚧
 <hr>
 
 #### A - Normalisation<br>B - WorkFlows<br>C - Misc<br>D - In Fine
@@ -42,9 +42,11 @@ When these colors are specific I will specify it with the color code
 -----
 
 ## B - WorkFlows
-🔵⚪️🔴 Dans ce chapitre je propose des WorkFlow, les liens des exemples, des images et autres...<br>🌎🌍🌏 In this chapter I propose WorkFlow, links to examples, images and others...
+Dans ce chapitre je propose des WorkFlow, les liens des exemples, des images et autres...
 
-#### VOIR LA PAGE AD HOC : [ <u>WorkFLows</u> ](WorkFLows)<br>REFER TO AD HOC PAGE: [ <u>WorkFLows</u> ](WorkFLows)
+VOIR LA PAGE AD HOC : [WorkFLows ](WorkFLows)
+<br>
+REFER TO AD HOC PAGE: [WorkFLows ](WorkFLows)
 
 
 
@@ -52,7 +54,11 @@ When these colors are specific I will specify it with the color code
 ----
 
 ## C - Misc
-### Conseil / Advice & Bugs 
+Divers à déterminer
+
+Ce **README** est une simple présentation<br>
+( *Plus de détails dans un fichier spécifique* )
+
 
 -----
 -----
@@ -175,8 +181,7 @@ Hauteur / Height : brown (maron)<br>
 ----
 
 <h1>B - WORKFLOW</h1>
-
-#### VOIR LA PAGE AD HOC : [ <u>WorkFLows</u> ](WorkFLows)<br>REFER TO AD HOC PAGE: [ <u>WorkFLows</u> ](WorkFLows)
+Coming soon...
 
 
 ----
@@ -223,21 +228,6 @@ Puis vérifier que les liens sont actifs / Then check that the links are active 
 <img src="images/everywhere-VAE.png"><br>
 
 2️⃣ cg-use-everywhere : https://github.com/chrisgoringe/cg-use-everywhere
-
-<hr>
-
-## <u>Bug 'poisoning' ☣️</u>
-<img src="images/BUGz-notes.jpg" width="70%"><br>
-
-🔵⚪️🔴  Parfois le **SD Parameter Generator ℹ️** buggue ☣️<br>
-Les valeurs se melangent ( partie gauche **BUG** ) : il faut les corriger correctement ( partir droite **OK** )<br>  
-Pas d'autres solutions a ma connaissance
-
-🌎🌍🌏  Sometimes the **SD ​​Parameter Generator ℹ️** bugs ☣️<br>
-The values are mixed ( left part **BUG** ): they must be corrected correctly ( right part **OK** )<br>
-No other solutions to my knowledge
-
-ℹ️ SD Prompt Reader Node : https://github.com/receyuki/comfyui-prompt-reader-node<br>
 
 ---
 <h1>D - In Fine</h1>
