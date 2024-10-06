@@ -322,7 +322,6 @@ I recommend using the "SD" Prompt generator and Prompt Saver 1️⃣ for various
 1️⃣ SD Prompt Reader Node : https://github.com/receyuki/comfyui-prompt-reader-node<br>
 
 # BUG
-
 ## 🐞 BUG TRIVIAL 🐞  
 #### 🔵⚪️🔴  Specifique au 'MODEL-C' ( DEFAUT_MODEL-C_Text-2-Img+LoadImage+UPscalers )
 #### 🌎🌍🌏  Specific to 'MODEL-C' ( DEFAULT_MODEL-C_Text-2-Img+LoadImage+UPscalers )
