@@ -1,6 +1,6 @@
 {
-  "last_node_id": 564,
-  "last_link_id": 1362,
+  "last_node_id": 566,
+  "last_link_id": 1363,
   "nodes": [
     {
       "id": 222,
@@ -24,7 +24,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 71,
+      "order": 73,
       "mode": 0,
       "inputs": [
         {
@@ -82,7 +82,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 62,
+      "order": 64,
       "mode": 0,
       "inputs": [
         {
@@ -193,8 +193,8 @@
       "id": 322,
       "type": "Note Plus (mtb)",
       "pos": {
-        "0": -3884.81591796875,
-        "1": 356.3019104003906,
+        "0": -3887.97998046875,
+        "1": 354.90484619140625,
         "2": 0,
         "3": 0,
         "4": 0,
@@ -231,8 +231,8 @@
       "id": 323,
       "type": "Note Plus (mtb)",
       "pos": {
-        "0": -3884.81591796875,
-        "1": 556.3016357421875,
+        "0": -3887.97998046875,
+        "1": 554.9046630859375,
         "2": 0,
         "3": 0,
         "4": 0,
@@ -267,8 +267,8 @@
       "id": 327,
       "type": "Note Plus (mtb)",
       "pos": {
-        "0": -3884.81591796875,
-        "1": 1366.3016357421875,
+        "0": -3887.97998046875,
+        "1": 1364.904541015625,
         "2": 0,
         "3": 0,
         "4": 0,
@@ -413,7 +413,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 87,
+      "order": 89,
       "mode": 2,
       "inputs": [
         {
@@ -500,7 +500,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 64,
+      "order": 66,
       "mode": 2,
       "inputs": [
         {
@@ -601,7 +601,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 78,
+      "order": 80,
       "mode": 2,
       "inputs": [
         {
@@ -664,7 +664,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 56,
+      "order": 58,
       "mode": 2,
       "inputs": [
         {
@@ -718,7 +718,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 65,
+      "order": 67,
       "mode": 2,
       "inputs": [
         {
@@ -825,7 +825,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 58,
+      "order": 60,
       "mode": 0,
       "inputs": [
         {
@@ -883,7 +883,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 66,
+      "order": 68,
       "mode": 0,
       "inputs": [
         {
@@ -923,8 +923,8 @@
       "id": 326,
       "type": "Note Plus (mtb)",
       "pos": {
-        "0": -3884.81591796875,
-        "1": 1126.3016357421875,
+        "0": -3887.97998046875,
+        "1": 1124.904541015625,
         "2": 0,
         "3": 0,
         "4": 0,
@@ -959,8 +959,8 @@
       "id": 325,
       "type": "Note Plus (mtb)",
       "pos": {
-        "0": -3884.81591796875,
-        "1": 936.301513671875,
+        "0": -3887.97998046875,
+        "1": 934.904541015625,
         "2": 0,
         "3": 0,
         "4": 0,
@@ -1011,7 +1011,7 @@
         "1": 76
       },
       "flags": {},
-      "order": 108,
+      "order": 110,
       "mode": 2,
       "inputs": [
         {
@@ -1062,7 +1062,7 @@
         "1": 76
       },
       "flags": {},
-      "order": 107,
+      "order": 109,
       "mode": 2,
       "inputs": [
         {
@@ -1097,8 +1097,8 @@
       "id": 321,
       "type": "Note Plus (mtb)",
       "pos": {
-        "0": -3884.81591796875,
-        "1": 76.30191040039062,
+        "0": -3887.97998046875,
+        "1": 74.90485382080078,
         "2": 0,
         "3": 0,
         "4": 0,
@@ -1257,7 +1257,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 77,
+      "order": 79,
       "mode": 2,
       "inputs": [
         {
@@ -1320,7 +1320,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 69,
+      "order": 71,
       "mode": 2,
       "inputs": [
         {
@@ -1377,7 +1377,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 89,
+      "order": 91,
       "mode": 2,
       "inputs": [
         {
@@ -1428,7 +1428,7 @@
         "1": 76
       },
       "flags": {},
-      "order": 85,
+      "order": 87,
       "mode": 0,
       "inputs": [
         {
@@ -1479,7 +1479,7 @@
         "1": 76
       },
       "flags": {},
-      "order": 86,
+      "order": 88,
       "mode": 0,
       "inputs": [
         {
@@ -1533,7 +1533,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 67,
+      "order": 69,
       "mode": 0,
       "inputs": [
         {
@@ -1623,7 +1623,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 57,
+      "order": 59,
       "mode": 2,
       "inputs": [
         {
@@ -1714,8 +1714,8 @@
       "id": 330,
       "type": "String Literal",
       "pos": {
-        "0": -3061.10546875,
-        "1": 1616.6676025390625,
+        "0": -3064.26953125,
+        "1": 1615.2705078125,
         "2": 0,
         "3": 0,
         "4": 0,
@@ -1763,8 +1763,8 @@
       "id": 329,
       "type": "Note Plus (mtb)",
       "pos": {
-        "0": -3885.10595703125,
-        "1": 1575.6676025390625,
+        "0": -3888.27001953125,
+        "1": 1574.2705078125,
         "2": 0,
         "3": 0,
         "4": 0,
@@ -1799,8 +1799,8 @@
       "id": 328,
       "type": "CLIPTextEncode",
       "pos": {
-        "0": -2821.10546875,
-        "1": 1596.6676025390625,
+        "0": -2824.26953125,
+        "1": 1595.2705078125,
         "2": 0,
         "3": 0,
         "4": 0,
@@ -1815,7 +1815,7 @@
         "1": 59
       },
       "flags": {},
-      "order": 60,
+      "order": 62,
       "mode": 2,
       "inputs": [
         {
@@ -1898,8 +1898,8 @@
       "id": 525,
       "type": "Note Plus (mtb)",
       "pos": {
-        "0": -3460.10546875,
-        "1": 936.6679077148438,
+        "0": -3463.26953125,
+        "1": 935.2709350585938,
         "2": 0,
         "3": 0,
         "4": 0,
@@ -1934,8 +1934,8 @@
       "id": 526,
       "type": "Note Plus (mtb)",
       "pos": {
-        "0": -3460.10546875,
-        "1": 1127.6676025390625,
+        "0": -3463.26953125,
+        "1": 1126.2705078125,
         "2": 0,
         "3": 0,
         "4": 0,
@@ -1970,8 +1970,8 @@
       "id": 527,
       "type": "Note Plus (mtb)",
       "pos": {
-        "0": -3461.10546875,
-        "1": 1366.6676025390625,
+        "0": -3464.26953125,
+        "1": 1365.2705078125,
         "2": 0,
         "3": 0,
         "4": 0,
@@ -2078,8 +2078,8 @@
       "id": 486,
       "type": "Note Plus (mtb)",
       "pos": {
-        "0": -3884.10595703125,
-        "1": 1787.6676025390625,
+        "0": -3887.27001953125,
+        "1": 1786.2705078125,
         "2": 0,
         "3": 0,
         "4": 0,
@@ -2114,8 +2114,8 @@
       "id": 487,
       "type": "Note Plus (mtb)",
       "pos": {
-        "0": -3883.10595703125,
-        "1": 1997.6676025390625,
+        "0": -3886.27001953125,
+        "1": 1996.2705078125,
         "2": 0,
         "3": 0,
         "4": 0,
@@ -2150,8 +2150,8 @@
       "id": 530,
       "type": "Note Plus (mtb)",
       "pos": {
-        "0": -3460.10546875,
-        "1": 1996.6676025390625,
+        "0": -3463.26953125,
+        "1": 1995.2705078125,
         "2": 0,
         "3": 0,
         "4": 0,
@@ -2186,8 +2186,8 @@
       "id": 517,
       "type": "Note Plus (mtb)",
       "pos": {
-        "0": -3460.10546875,
-        "1": 1574.6676025390625,
+        "0": -3463.26953125,
+        "1": 1573.2705078125,
         "2": 0,
         "3": 0,
         "4": 0,
@@ -2222,8 +2222,8 @@
       "id": 529,
       "type": "Note Plus (mtb)",
       "pos": {
-        "0": -3460.10546875,
-        "1": 1788.6676025390625,
+        "0": -3463.26953125,
+        "1": 1787.2705078125,
         "2": 0,
         "3": 0,
         "4": 0,
@@ -2276,7 +2276,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 91,
+      "order": 93,
       "mode": 0,
       "inputs": [
         {
@@ -2352,7 +2352,7 @@
         "color_restricted": 0
       },
       "widgets_values": [
-        499330294705197,
+        479002993082222,
         "randomize"
       ],
       "color": "#ffaa32",
@@ -2380,7 +2380,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 104,
+      "order": 106,
       "mode": 2,
       "inputs": [
         {
@@ -2440,7 +2440,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 106,
+      "order": 108,
       "mode": 2,
       "inputs": [
         {
@@ -2500,7 +2500,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 74,
+      "order": 76,
       "mode": 0,
       "inputs": [
         {
@@ -2565,7 +2565,7 @@
         "1": 76
       },
       "flags": {},
-      "order": 93,
+      "order": 95,
       "mode": 0,
       "inputs": [
         {
@@ -2616,7 +2616,7 @@
         "1": 76
       },
       "flags": {},
-      "order": 94,
+      "order": 96,
       "mode": 0,
       "inputs": [
         {
@@ -2669,7 +2669,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 84,
+      "order": 86,
       "mode": 0,
       "inputs": [
         {
@@ -2727,7 +2727,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 102,
+      "order": 104,
       "mode": 2,
       "inputs": [
         {
@@ -2791,7 +2791,7 @@
         "1": 76
       },
       "flags": {},
-      "order": 99,
+      "order": 101,
       "mode": 0,
       "inputs": [
         {
@@ -2845,7 +2845,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 101,
+      "order": 103,
       "mode": 0,
       "inputs": [
         {
@@ -2920,7 +2920,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 92,
+      "order": 94,
       "mode": 0,
       "inputs": [
         {
@@ -2982,7 +2982,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 82,
+      "order": 84,
       "mode": 0,
       "inputs": [
         {
@@ -3046,7 +3046,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 75,
+      "order": 77,
       "mode": 0,
       "inputs": [
         {
@@ -3106,7 +3106,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 76,
+      "order": 78,
       "mode": 0,
       "inputs": [
         {
@@ -3166,7 +3166,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 98,
+      "order": 100,
       "mode": 2,
       "inputs": [
         {
@@ -3241,7 +3241,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 90,
+      "order": 92,
       "mode": 2,
       "inputs": [
         {
@@ -3294,7 +3294,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 83,
+      "order": 85,
       "mode": 0,
       "inputs": [
         {
@@ -3355,7 +3355,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 59,
+      "order": 61,
       "mode": 2,
       "inputs": [
         {
@@ -3416,7 +3416,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 100,
+      "order": 102,
       "mode": 0,
       "inputs": [
         {
@@ -3491,7 +3491,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 96,
+      "order": 98,
       "mode": 2,
       "inputs": [
         {
@@ -3564,7 +3564,7 @@
         "1": 860.9612426757812
       },
       "flags": {},
-      "order": 103,
+      "order": 105,
       "mode": 0,
       "inputs": [
         {
@@ -3733,7 +3733,7 @@
         "%date/",
         "FLUX\\creapromptFlux1Dev_v10.safetensors",
         "Flux_vae.safetensors",
-        1010210833109719,
+        760369511501390,
         "randomize",
         20,
         8,
@@ -3779,7 +3779,7 @@
         "1": 614
       },
       "flags": {},
-      "order": 97,
+      "order": 99,
       "mode": 2,
       "inputs": [
         {
@@ -3870,7 +3870,7 @@
       },
       "widgets_values": [
         2,
-        771185999638832,
+        651929191512210,
         "randomize",
         8,
         4,
@@ -3913,7 +3913,7 @@
         "1": 860.9612426757812
       },
       "flags": {},
-      "order": 105,
+      "order": 107,
       "mode": 2,
       "inputs": [
         {
@@ -4082,7 +4082,7 @@
         "%date/",
         "FLUX\\creapromptFlux1Dev_v10.safetensors",
         "Flux_vae.safetensors",
-        195391135169624,
+        967161792790950,
         "randomize",
         20,
         8,
@@ -4148,8 +4148,8 @@
       "id": 554,
       "type": "Note Plus (mtb)",
       "pos": {
-        "0": -3021.10546875,
-        "1": 536.6679077148438,
+        "0": -3024.26953125,
+        "1": 535.2709350585938,
         "2": 0,
         "3": 0,
         "4": 0,
@@ -4308,7 +4308,7 @@
         "1": 114
       },
       "flags": {},
-      "order": 80,
+      "order": 82,
       "mode": 0,
       "inputs": [
         {
@@ -4396,7 +4396,7 @@
         "1": 78
       },
       "flags": {},
-      "order": 55,
+      "order": 57,
       "mode": 0,
       "inputs": [
         {
@@ -4467,7 +4467,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 81,
+      "order": 83,
       "mode": 0,
       "inputs": [
         {
@@ -4589,7 +4589,7 @@
         "1": 76
       },
       "flags": {},
-      "order": 95,
+      "order": 97,
       "mode": 0,
       "inputs": [
         {
@@ -4642,7 +4642,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 88,
+      "order": 90,
       "mode": 0,
       "inputs": [
         {
@@ -4708,7 +4708,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 79,
+      "order": 81,
       "mode": 0,
       "inputs": [
         {
@@ -4975,7 +4975,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 70,
+      "order": 72,
       "mode": 0,
       "inputs": [
         {
@@ -5159,7 +5159,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 63,
+      "order": 65,
       "mode": 0,
       "inputs": [
         {
@@ -5221,8 +5221,8 @@
       "id": 553,
       "type": "Note Plus (mtb)",
       "pos": {
-        "0": -3021,
-        "1": 367,
+        "0": -3024.1640625,
+        "1": 365.6029357910156,
         "2": 0,
         "3": 0,
         "4": 0,
@@ -5273,7 +5273,7 @@
         "1": 146
       },
       "flags": {},
-      "order": 72,
+      "order": 74,
       "mode": 0,
       "inputs": [
         {
@@ -5347,7 +5347,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 73,
+      "order": 75,
       "mode": 0,
       "inputs": [
         {
@@ -5425,7 +5425,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 68,
+      "order": 70,
       "mode": 0,
       "inputs": [
         {
@@ -5560,7 +5560,7 @@
         "1": 127.263427734375
       },
       "flags": {},
-      "order": 61,
+      "order": 63,
       "mode": 0,
       "inputs": [
         {
@@ -5690,8 +5690,8 @@
       "id": 548,
       "type": "Note Plus (mtb)",
       "pos": {
-        "0": -2986,
-        "1": 45,
+        "0": -2989.1640625,
+        "1": 43.60295104980469,
         "2": 0,
         "3": 0,
         "4": 0,
@@ -5726,8 +5726,8 @@
       "id": 324,
       "type": "Note Plus (mtb)",
       "pos": {
-        "0": -3884.81591796875,
-        "1": 746.301513671875,
+        "0": -3887.97998046875,
+        "1": 744.904541015625,
         "2": 0,
         "3": 0,
         "4": 0,
@@ -5762,8 +5762,8 @@
       "id": 524,
       "type": "Note Plus (mtb)",
       "pos": {
-        "0": -3459.10546875,
-        "1": 747.6679077148438,
+        "0": -3462.26953125,
+        "1": 746.2709350585938,
         "2": 0,
         "3": 0,
         "4": 0,
@@ -5798,8 +5798,8 @@
       "id": 523,
       "type": "Note Plus (mtb)",
       "pos": {
-        "0": -3460.10546875,
-        "1": 76.66813659667969,
+        "0": -3463.26953125,
+        "1": 75.27108001708984,
         "2": 0,
         "3": 0,
         "4": 0,
@@ -6018,6 +6018,91 @@
       "bgcolor": "#1e78ff"
     },
     {
+      "id": 566,
+      "type": "Checkpoint",
+      "pos": {
+        "0": -4567,
+        "1": 32,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0
+      },
+      "size": {
+        "0": 640.1082153320312,
+        "1": 1060.8734130859375
+      },
+      "flags": {},
+      "order": 54,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "Selected Checkpoints",
+          "type": "*",
+          "links": null,
+          "shape": 6
+        }
+      ],
+      "title": "TOUS MES TENSEURs (Checkpoints)",
+      "properties": {
+        "Node name for S&R": "Checkpoint"
+      },
+      "widgets_values": [
+        "SDXL-TURBO\\sd_xl_turbo_1.0.safetensors\nSDXLTurboPixelArtSuper_turbo.safetensors\namalgamationxl_v70Theta.safetensors\naniverse_v20HDPruned.safetensors\nartisanalXL_alpha1.safetensors\nbraindance_BD071.safetensors\ncookiecutter_flexV101.safetensors\ndarkPizzaXLOriginXL_v40.safetensors\ndreamshaperXL_turboDpmppSDE.safetensors\nfantasyWorld_v1.safetensors\nfluffyTart_v60.safetensors\nfoolkatGODOF_v3.safetensors\ngrogmixTURBO_v10.safetensors\nimpastomix_v10.safetensors\njuggernautXL_v8Rundiffusion.safetensors\njuggernautXL_v9Rdphoto2Lightning.safetensors\nkawaiiMonke_v120.safetensors\nlazymixRealAmateur_v40.safetensors\nleosamsFilmgirlUltra_ultraBaseModel.safetensors\nleosamsHelloworldXL_helloworldXL50GPT4V.safetensors\nleosamsHelloworldXL_hw50EulerALightning.safetensors\nnightvisionXLPhotorealisticPortrait_v0791Bakedvae.safetensors\nponyDiffusionV6XL_v6StartWithThisOne.safetensors\nrealWowXL_v20.safetensors\nrealcartoon3d_v14.safetensors\nrealcartoonAnime_v11.safetensors\nrealismBYSTABLEYOGI_sdxlV1LCM.safetensors\nrealvisxlV40_v40LightningBakedvae.safetensors\nrmsdxlHybridTurboXL_aries.safetensors\nsd-v1-5-inpainting.ckpt\nsdXL_v10VAEFix_2.safetensors\nsd_xl_base_1.0.safetensors\nsd_xl_refiner_1.0.safetensors\nsdvn7Nijistylexl_v1.safetensors\nsdxlNijiSpecial_sdxlNijiSE.safetensors\nsdxlYamersRealistic5_v5Rundiffusion.safetensors\nstableFusionXLTurbo_v15.safetensors\nstableFusionXLTurbo_v161.safetensors\nsynthpunkSearch_vivid.safetensors\nsynthwavepunk_v2.ckpt\nturbomixxlSoFastAnd_v20.safetensors\nturbovisionxlSuperFastXLBasedOnNew_tvxlV32Bakedvae.safetensors\nturbovisionxlSuperFastXLBasedOnNew_tvxlV431Bakedvae.safetensors\nwildcardxXLLIGHTNING_wildcardxXL.safetensors\nxxmix9realisticsdxl_v10.safetensors\nzavychromaxl_v40.safetensors",
+        true
+      ],
+      "color": "#e7a6a6",
+      "bgcolor": "#d39292"
+    },
+    {
+      "id": 565,
+      "type": "Lora",
+      "pos": {
+        "0": -5198,
+        "1": 32,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0
+      },
+      "size": {
+        "0": 601.4506225585938,
+        "1": 1742.95263671875
+      },
+      "flags": {},
+      "order": 55,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "Selected Loras",
+          "type": "*",
+          "links": [],
+          "slot_index": 0,
+          "shape": 6
+        }
+      ],
+      "title": "TOUTES MES LORAs",
+      "properties": {
+        "Node name for S&R": "Lora"
+      },
+      "widgets_values": [
+        "ABARA.safetensors\nAlphonse Mucha Style.safetensors\nAndrew Atroshenko Style.safetensors\nAndrew Atroshenko Style_2.safetensors\nCelestialSkin2.safetensors\nCellShading.safetensors\nChildren_Illustration_SDXL.safetensors\nCircleArt_Sora.safetensors\nCircleArt_Sora_SD15.safetensors\nConcept Art Twilight Style SDXL_LoRA_Pony Diffusion V6 XL.safetensors\nCyberpunk _Anime_sdxl.safetensors\nDeathMoon.safetensors\nDiscoElysiumStyle.safetensors\nDonMn1ghtm4reXL.safetensors\nDrawing.safetensors\nDreamscape-000008.safetensors\nDreamwave v2.5_8200.safetensors\nFaeTastic2.safetensors\nFilip Hodas Style.safetensors\nFusionDraw9257_Nebula_SDXL.safetensors\nFusionDraw9527_Nebula_SDXL_V2_4800.safetensors\nFuturisticScape-V3.safetensors\nGC-.safetensors\nGlitching.safetensors\nIPXL_v2.safetensors\nIPXL_v8.safetensors\nIridescence.safetensors\nJames_Webb_Space_Telescope.safetensors\nJasmineBWXLDoguMini.safetensors\nKawaii Graffit.safetensors\nKawaikute Gomen.safetensors\nLazrPopXL-000013.safetensors\nLineAniRedmond-LineAniAF.safetensors\nLogoRedmondV2-Logo-LogoRedmAF.safetensors\nLogoRedmond_LogoRedAF.safetensors\nMoXinV1.safetensors\nNatureTech_Residencies.safetensors\nNatureVRMv15.safetensors\nNotSoASCII_v1.safetensors\nOilPaint.safetensors\nPE_EpicLand.safetensors\nPastel color.safetensors\nPerfect Hands v2.safetensors\nPixel Sorting.safetensors\nPixelScenery.safetensors\nRMSDXL_Darkness_Cinema.safetensors\nRealistic_Ebony_Plus.safetensors\nRetrowaveTech-20.safetensors\nSDXLPaintSplash.safetensors\nSDXL_Sewing_doll.safetensors\nSanaaSD1-5.safetensors\nSketchStyle.safetensors\nStained Glass Portrait.safetensors\nT-shirt-08.safetensors\nTShirtDesignRedmondV2-Tshirtdesign-TshirtDesignAF.safetensors\nTUYA5.safetensors\nTakate_Kote_XL-000003.safetensors\nTrueLoveStyle.safetensors\nTshirtDesignRedmond-TshirtDesignAF.safetensors\nUkiyo-e Art.safetensors\nUkiyo-e.safetensors\nVG-000010.safetensors\nWizards_Vintage_Rubber_Hose__1930s_Animation_Style.safetensors\nadd-detail-xl.safetensors\nadd_detail.safetensors\naenami_v2-000022.safetensors\nanimeBondage_bondageShibariV3.pt\nanyloraCheckpoint_bakedvaeBlessedFp16.safetensors\nanythingKlF8Anime2VaeFtMse840000_klF8Anime2.safetensors\nanything_fp16.pt\nascii_art-sdxl.safetensors\nbadhandv4.pt\nbdsm_SDXL_1_.safetensors\nbichu-v0612.safetensors\nblack_and_white_1920s-10.safetensors\nblacklight_makeup_v2.safetensors\nbreakcore_sdxl.safetensors\ncheeseDaddys_35.safetensors\nchibi-v1.safetensors\ncoldUniverse.safetensors\nconcept_akiraposter-11.safetensors\ncrotchrope2-02.safetensors\ndamselpose-03-bsesd-2e-5-4500.safetensors\ndataviz_style_xl_v1.safetensors\ndoortoinfinity.safetensors\nf865513d-a5e9-4b5e-8e4e-82db39442444.safetensors\nflowersea.safetensors\nfuturistic_interior_composer.safetensors\nghibli_style_offset.safetensors\nholov7.safetensors\nipadapter\\ip-adapter-faceid-plusv2_sd15.bin\nipadapter\\ip-adapter-faceid-plusv2_sdxl.bin\nipadapter\\ip-adapter-faceid-plusv2_sdxl_lora.safetensors\nkLabyrinth.safetensors\nlcm\\SD1.5\\LCM_LoRA_Weights_SD15.safetensors\nlcm\\SD1.5\\pytorch_lora_weights.safetensors\nlcm\\SDXL\\LCM_lora-stable-diffusion-xl .safetensors\nlcm\\SDXL\\pytorch_lora_weights.safetensors\nlcm\\SSD-1B\\LCMTurboMix_Euler_A_fix.safetensors\nlcm\\SSD-1B\\pytorch_lora_weights.safetensors\nlego_v2.0_XL_32.safetensors\nlineart + flat colors v2.safetensors\nloha_animal_sdxl.safetensors\nmodel_SDXL.safetensors\nnaturepron_nolabels.safetensors\nnlc_green.safetensors\nphotorealisticbondage_v1.safetensors\npixel-art-xl-v1.1.safetensors\npixel_art.safetensors\npixel_f2.safetensors\npixelartV3.safetensors\npollock-01.safetensors\nretrowave_0.12.safetensors\nropeharness-02.safetensors\nrppc-final.safetensors\nsd_xl_offset_example-lora_1.0.safetensors\nshibari_bondage_-_v0.9.1.2-000010.safetensors\nshibari_v20.safetensors\nshibarionelegup-02.safetensors\nsidesuspension-02.safetensors\nsmall-planet-04.safetensors\nstreet_tones.safetensors\nsuspension.safetensors\ntakatekote-02.safetensors\ntexta.safetensors\nvaporwave.pt\nvintage_illust.safetensors\nvolcano.safetensors\nw0rld - World Inside Body.safetensors\nwavebackground.safetensors\nxl_NatureVRM.safetensors\nxl_ink wash painting style(pony).safetensors\nxl_more_art-full_v1.safetensors\nxlsanaa woman.safetensors\nzxs.safetensors\n【Muggle Lora】extremeangle 广角仰拍.safetensors\n简约黑白头像_极简风头像_v1.0.safetensors",
+        true
+      ],
+      "color": "#9678be",
+      "bgcolor": "#8264aa"
+    },
+    {
       "id": 549,
       "type": "Note",
       "pos": {
@@ -6037,7 +6122,7 @@
         "1": 78.32833862304688
       },
       "flags": {},
-      "order": 54,
+      "order": 56,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -6938,6 +7023,14 @@
       436,
       6,
       "INT"
+    ],
+    [
+      1363,
+      531,
+      0,
+      436,
+      6,
+      "INT"
     ]
   ],
   "groups": [
@@ -7016,8 +7109,8 @@
     {
       "title": "NOMENCLATURE",
       "bounding": [
-        -3895,
-        3,
+        -3898,
+        2,
         1294,
         2192
       ],
@@ -7053,10 +7146,10 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 0.5644739300537773,
+      "scale": 0.45000000000000895,
       "offset": [
-        2470.233641363814,
-        1474.9072223371747
+        4524.592523312253,
+        1335.9755746936735
       ]
     },
     "groupNodes": {}

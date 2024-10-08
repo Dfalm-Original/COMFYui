@@ -325,12 +325,12 @@ I recommend using the "SD" Prompt generator and Prompt Saver 1️⃣ for various
 #### 🔵⚪️🔴  Specifique au 'MODEL-C' ( DEFAUT_MODEL-C_Text-2-Img+LoadImage+UPscalers )
 #### 🌎🌍🌏  Specific to 'MODEL-C' ( DEFAULT_MODEL-C_Text-2-Img+LoadImage+UPscalers )
 
-🔵⚪️🔴 Il y a un BIG non-resolu lorqu'on utilise des tenseurs "FLUX" : erreur VAE<br>
-🌎🌍🌏 There is an unresolved BUG when using "FLUX" tensors: VAE error<br>
+🔵⚪️🔴 Il y a un BUG  resolu : C'est un conflit entre ** text-to-image** VS **image-to-image** : <u>erreur VAE</u><br>
+🌎🌍🌏 There is a BUG fixed: It is a conflict between ** text-to-image** VS ** image-to-image** : <u>VAE error</u><br><br>
 <img src="Defaut/images/FLUX-bug-VAE.png" width="40%">
 
-⚪️🔴Pour contourner le probleme il faut desactiver/activer le "groupe" ad-hoc : **[ 🐞 FLUX / NO FLUX bug 🐞 ]**<br>
-🌎🌍🌏To get around the problem you have to deactivate/activate the ad-hoc "group": **[ 🐞 FLUX / NO FLUX bug 🐞 ]**<br>
+🔵⚪️🔴  Pour contourner le probleme il faut desactiver/activer le "groupe" ad-hoc : **[ 🐞 TEXT-to-IMAGE / IMAGE-to-IMAGE 🐞 ]**<br>
+🌎🌍🌏 To work around the problem, you need to deactivate/activate the ad-hoc "group": **[ 🐞 TEXT-to-IMAGE / IMAGE-to-IMAGE 🐞 ]**<br>
 <img src="Defaut/images/DEFAUT_MODEL-C_Text-2-Img+LoadImage+UPscalersV1.01-notes.jpg" width="40%"><br>
 ✅ ACITIVE = NO-FLUX ( tensor ) // ❌ DESACTIVE = FLUX ( tensor )
 

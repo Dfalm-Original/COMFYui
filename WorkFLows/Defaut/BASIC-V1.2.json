@@ -1,5 +1,5 @@
 {
-  "last_node_id": 520,
+  "last_node_id": 522,
   "last_link_id": 1294,
   "nodes": [
     {
@@ -58,7 +58,7 @@
         "1": 59
       },
       "flags": {},
-      "order": 29,
+      "order": 31,
       "mode": 2,
       "inputs": [
         {
@@ -730,9 +730,8 @@
         "color_restricted": 0
       },
       "widgets_values": [
-        821246811071649,
-        "randomize",
-        "689634704615396"
+        1125035144357099,
+        "randomize"
       ],
       "color": "#ffaa32",
       "bgcolor": "#ff961e"
@@ -829,7 +828,7 @@
         "1": 85.7379150390625
       },
       "flags": {},
-      "order": 31,
+      "order": 33,
       "mode": 0,
       "inputs": [
         {
@@ -902,7 +901,7 @@
         "1": 864.5598754882812
       },
       "flags": {},
-      "order": 37,
+      "order": 39,
       "mode": 0,
       "inputs": [
         {
@@ -945,12 +944,7 @@
       ],
       "outputs": [],
       "properties": {
-        "Node name for S&R": "SaveImageExtended",
-        "ttNbgOverride": {
-          "color": "#222",
-          "bgcolor": "#000",
-          "groupcolor": "#444"
-        }
+        "Node name for S&R": "SaveImageExtended"
       },
       "widgets_values": [
         "zext-save",
@@ -1085,7 +1079,7 @@
         "1": 146
       },
       "flags": {},
-      "order": 30,
+      "order": 32,
       "mode": 0,
       "inputs": [
         {
@@ -1437,7 +1431,7 @@
         "1": 59
       },
       "flags": {},
-      "order": 33,
+      "order": 35,
       "mode": 0,
       "inputs": [
         {
@@ -1498,7 +1492,7 @@
         "1": 59
       },
       "flags": {},
-      "order": 32,
+      "order": 34,
       "mode": 0,
       "inputs": [
         {
@@ -1557,7 +1551,7 @@
         "1": 218
       },
       "flags": {},
-      "order": 34,
+      "order": 36,
       "mode": 0,
       "inputs": [
         {
@@ -1642,7 +1636,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        176970452740053,
+        788449285104219,
         "randomize",
         20,
         8,
@@ -1673,7 +1667,7 @@
         "1": 46
       },
       "flags": {},
-      "order": 35,
+      "order": 37,
       "mode": 0,
       "inputs": [
         {
@@ -1733,7 +1727,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 36,
+      "order": 38,
       "mode": 0,
       "inputs": [
         {
@@ -1890,6 +1884,91 @@
       ],
       "color": "#222",
       "bgcolor": "#000"
+    },
+    {
+      "id": 522,
+      "type": "Checkpoint",
+      "pos": {
+        "0": -3946,
+        "1": -49,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0
+      },
+      "size": {
+        "0": 640.1082153320312,
+        "1": 1060.8734130859375
+      },
+      "flags": {},
+      "order": 29,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "Selected Checkpoints",
+          "type": "*",
+          "links": null,
+          "shape": 6
+        }
+      ],
+      "title": "TOUS MES TENSEURs (Checkpoints)",
+      "properties": {
+        "Node name for S&R": "Checkpoint"
+      },
+      "widgets_values": [
+        "SDXL-TURBO\\sd_xl_turbo_1.0.safetensors\nSDXLTurboPixelArtSuper_turbo.safetensors\namalgamationxl_v70Theta.safetensors\naniverse_v20HDPruned.safetensors\nartisanalXL_alpha1.safetensors\nbraindance_BD071.safetensors\ncookiecutter_flexV101.safetensors\ndarkPizzaXLOriginXL_v40.safetensors\ndreamshaperXL_turboDpmppSDE.safetensors\nfantasyWorld_v1.safetensors\nfluffyTart_v60.safetensors\nfoolkatGODOF_v3.safetensors\ngrogmixTURBO_v10.safetensors\nimpastomix_v10.safetensors\njuggernautXL_v8Rundiffusion.safetensors\njuggernautXL_v9Rdphoto2Lightning.safetensors\nkawaiiMonke_v120.safetensors\nlazymixRealAmateur_v40.safetensors\nleosamsFilmgirlUltra_ultraBaseModel.safetensors\nleosamsHelloworldXL_helloworldXL50GPT4V.safetensors\nleosamsHelloworldXL_hw50EulerALightning.safetensors\nnightvisionXLPhotorealisticPortrait_v0791Bakedvae.safetensors\nponyDiffusionV6XL_v6StartWithThisOne.safetensors\nrealWowXL_v20.safetensors\nrealcartoon3d_v14.safetensors\nrealcartoonAnime_v11.safetensors\nrealismBYSTABLEYOGI_sdxlV1LCM.safetensors\nrealvisxlV40_v40LightningBakedvae.safetensors\nrmsdxlHybridTurboXL_aries.safetensors\nsd-v1-5-inpainting.ckpt\nsdXL_v10VAEFix_2.safetensors\nsd_xl_base_1.0.safetensors\nsd_xl_refiner_1.0.safetensors\nsdvn7Nijistylexl_v1.safetensors\nsdxlNijiSpecial_sdxlNijiSE.safetensors\nsdxlYamersRealistic5_v5Rundiffusion.safetensors\nstableFusionXLTurbo_v15.safetensors\nstableFusionXLTurbo_v161.safetensors\nsynthpunkSearch_vivid.safetensors\nsynthwavepunk_v2.ckpt\nturbomixxlSoFastAnd_v20.safetensors\nturbovisionxlSuperFastXLBasedOnNew_tvxlV32Bakedvae.safetensors\nturbovisionxlSuperFastXLBasedOnNew_tvxlV431Bakedvae.safetensors\nwildcardxXLLIGHTNING_wildcardxXL.safetensors\nxxmix9realisticsdxl_v10.safetensors\nzavychromaxl_v40.safetensors",
+        true
+      ],
+      "color": "#e7a6a6",
+      "bgcolor": "#d39292"
+    },
+    {
+      "id": 521,
+      "type": "Lora",
+      "pos": {
+        "0": -4578,
+        "1": -49,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0
+      },
+      "size": {
+        "0": 601.4506225585938,
+        "1": 1742.95263671875
+      },
+      "flags": {},
+      "order": 30,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "Selected Loras",
+          "type": "*",
+          "links": [],
+          "slot_index": 0,
+          "shape": 6
+        }
+      ],
+      "title": "TOUTES MES LORAs",
+      "properties": {
+        "Node name for S&R": "Lora"
+      },
+      "widgets_values": [
+        "ABARA.safetensors\nAlphonse Mucha Style.safetensors\nAndrew Atroshenko Style.safetensors\nAndrew Atroshenko Style_2.safetensors\nCelestialSkin2.safetensors\nCellShading.safetensors\nChildren_Illustration_SDXL.safetensors\nCircleArt_Sora.safetensors\nCircleArt_Sora_SD15.safetensors\nConcept Art Twilight Style SDXL_LoRA_Pony Diffusion V6 XL.safetensors\nCyberpunk _Anime_sdxl.safetensors\nDeathMoon.safetensors\nDiscoElysiumStyle.safetensors\nDonMn1ghtm4reXL.safetensors\nDrawing.safetensors\nDreamscape-000008.safetensors\nDreamwave v2.5_8200.safetensors\nFaeTastic2.safetensors\nFilip Hodas Style.safetensors\nFusionDraw9257_Nebula_SDXL.safetensors\nFusionDraw9527_Nebula_SDXL_V2_4800.safetensors\nFuturisticScape-V3.safetensors\nGC-.safetensors\nGlitching.safetensors\nIPXL_v2.safetensors\nIPXL_v8.safetensors\nIridescence.safetensors\nJames_Webb_Space_Telescope.safetensors\nJasmineBWXLDoguMini.safetensors\nKawaii Graffit.safetensors\nKawaikute Gomen.safetensors\nLazrPopXL-000013.safetensors\nLineAniRedmond-LineAniAF.safetensors\nLogoRedmondV2-Logo-LogoRedmAF.safetensors\nLogoRedmond_LogoRedAF.safetensors\nMoXinV1.safetensors\nNatureTech_Residencies.safetensors\nNatureVRMv15.safetensors\nNotSoASCII_v1.safetensors\nOilPaint.safetensors\nPE_EpicLand.safetensors\nPastel color.safetensors\nPerfect Hands v2.safetensors\nPixel Sorting.safetensors\nPixelScenery.safetensors\nRMSDXL_Darkness_Cinema.safetensors\nRealistic_Ebony_Plus.safetensors\nRetrowaveTech-20.safetensors\nSDXLPaintSplash.safetensors\nSDXL_Sewing_doll.safetensors\nSanaaSD1-5.safetensors\nSketchStyle.safetensors\nStained Glass Portrait.safetensors\nT-shirt-08.safetensors\nTShirtDesignRedmondV2-Tshirtdesign-TshirtDesignAF.safetensors\nTUYA5.safetensors\nTakate_Kote_XL-000003.safetensors\nTrueLoveStyle.safetensors\nTshirtDesignRedmond-TshirtDesignAF.safetensors\nUkiyo-e Art.safetensors\nUkiyo-e.safetensors\nVG-000010.safetensors\nWizards_Vintage_Rubber_Hose__1930s_Animation_Style.safetensors\nadd-detail-xl.safetensors\nadd_detail.safetensors\naenami_v2-000022.safetensors\nanimeBondage_bondageShibariV3.pt\nanyloraCheckpoint_bakedvaeBlessedFp16.safetensors\nanythingKlF8Anime2VaeFtMse840000_klF8Anime2.safetensors\nanything_fp16.pt\nascii_art-sdxl.safetensors\nbadhandv4.pt\nbdsm_SDXL_1_.safetensors\nbichu-v0612.safetensors\nblack_and_white_1920s-10.safetensors\nblacklight_makeup_v2.safetensors\nbreakcore_sdxl.safetensors\ncheeseDaddys_35.safetensors\nchibi-v1.safetensors\ncoldUniverse.safetensors\nconcept_akiraposter-11.safetensors\ncrotchrope2-02.safetensors\ndamselpose-03-bsesd-2e-5-4500.safetensors\ndataviz_style_xl_v1.safetensors\ndoortoinfinity.safetensors\nf865513d-a5e9-4b5e-8e4e-82db39442444.safetensors\nflowersea.safetensors\nfuturistic_interior_composer.safetensors\nghibli_style_offset.safetensors\nholov7.safetensors\nipadapter\\ip-adapter-faceid-plusv2_sd15.bin\nipadapter\\ip-adapter-faceid-plusv2_sdxl.bin\nipadapter\\ip-adapter-faceid-plusv2_sdxl_lora.safetensors\nkLabyrinth.safetensors\nlcm\\SD1.5\\LCM_LoRA_Weights_SD15.safetensors\nlcm\\SD1.5\\pytorch_lora_weights.safetensors\nlcm\\SDXL\\LCM_lora-stable-diffusion-xl .safetensors\nlcm\\SDXL\\pytorch_lora_weights.safetensors\nlcm\\SSD-1B\\LCMTurboMix_Euler_A_fix.safetensors\nlcm\\SSD-1B\\pytorch_lora_weights.safetensors\nlego_v2.0_XL_32.safetensors\nlineart + flat colors v2.safetensors\nloha_animal_sdxl.safetensors\nmodel_SDXL.safetensors\nnaturepron_nolabels.safetensors\nnlc_green.safetensors\nphotorealisticbondage_v1.safetensors\npixel-art-xl-v1.1.safetensors\npixel_art.safetensors\npixel_f2.safetensors\npixelartV3.safetensors\npollock-01.safetensors\nretrowave_0.12.safetensors\nropeharness-02.safetensors\nrppc-final.safetensors\nsd_xl_offset_example-lora_1.0.safetensors\nshibari_bondage_-_v0.9.1.2-000010.safetensors\nshibari_v20.safetensors\nshibarionelegup-02.safetensors\nsidesuspension-02.safetensors\nsmall-planet-04.safetensors\nstreet_tones.safetensors\nsuspension.safetensors\ntakatekote-02.safetensors\ntexta.safetensors\nvaporwave.pt\nvintage_illust.safetensors\nvolcano.safetensors\nw0rld - World Inside Body.safetensors\nwavebackground.safetensors\nxl_NatureVRM.safetensors\nxl_ink wash painting style(pony).safetensors\nxl_more_art-full_v1.safetensors\nxlsanaa woman.safetensors\nzxs.safetensors\n【Muggle Lora】extremeangle 广角仰拍.safetensors\n简约黑白头像_极简风头像_v1.0.safetensors",
+        true
+      ],
+      "color": "#9678be",
+      "bgcolor": "#8264aa"
     }
   ],
   "links": [
@@ -2191,10 +2270,10 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 0.9090909090909098,
+      "scale": 2.274511628246869,
       "offset": [
-        2831.893695781551,
-        793.1871358028224
+        4243.6438802141665,
+        291.1277763726165
       ]
     },
     "groupNodes": {}
