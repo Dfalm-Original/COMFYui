@@ -35,6 +35,10 @@ When these colors are specific I will specify it with the color code
 -----
 <img src="Infinite-Zoom/images/auto-queue.png" width="50%"><br>
 
+
+
+<img src="https://raw.githubusercontent.com/Dfalm-Original/COMFYui/main/WorkFLows/Infinite-Zoom/images/auto-queue.png" width="40%"><br>
+
 .
 .
 .
