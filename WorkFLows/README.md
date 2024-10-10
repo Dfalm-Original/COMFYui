@@ -329,10 +329,42 @@ I recommend using the "SD" Prompt generator and Prompt Saver 1️⃣ for various
 🌎🌍🌏 There is a BUG fixed: It is a conflict between ** text-to-image** VS ** image-to-image** : <u>VAE error</u><br><br>
 <img src="Defaut/images/FLUX-bug-VAE.png" width="40%">
 
-🔵⚪️🔴  Pour contourner le probleme il faut desactiver/activer le "groupe" ad-hoc : **[ 🐞 TEXT-to-IMAGE / IMAGE-to-IMAGE 🐞 ]**<br>
-🌎🌍🌏 To work around the problem, you need to deactivate/activate the ad-hoc "group": **[ 🐞 TEXT-to-IMAGE / IMAGE-to-IMAGE 🐞 ]**<br>
+🔵⚪️🔴  2 Solutions : Pour contourner le probleme il faut desactiver/activer la VAE  <br>  
+<u>Solution 1</u> : Manuellement desactiver/activer le "groupe" ad-hoc : **[ 🐞 TEXT-to-IMAGE / IMAGE-to-IMAGE 🐞 ]**<br>
+🌎🌍🌏 2 Solutions: To get around the problem, you have to deactivate/activate the VAE <br>
+<u>Solution 1</u>: Manually deactivate/activate the ad-hoc "group": **[ 🐞 TEXT-to-IMAGE / IMAGE-to-IMAGE 🐞 ]**<br>
 <img src="Defaut/images/DEFAUT_MODEL-C_Text-2-Img+LoadImage+UPscalersV1.01-notes.jpg" width="40%"><br>
-✅ ACITIVE = NO-FLUX ( tensor ) // ❌ DESACTIVE = FLUX ( tensor )
+✅ ACITIVE = TEXT-to-IMAGE  // ❌ DESACTIVE = IMAGE-to-IMAGE
+
+🔵⚪️🔴 <u>Solution 2</u> : Automatiquement = ne rien faire<br>  J'ai ajoute un noeud auto *mutte / demutte* qui actionne automatiquement la solution 1<br>
+( Mais il y a un inconvenient 📑 )<br>
+Lancer la queue normalement une erreur va apparaitre : [ KSampler ] ou [ VAEENCODE ]<br>
+🌎🌍🌏 <u>Solution 2</u>: Automatically = do nothing<br> I added an auto node *mutte / demutte* which automatically activates solution 1<br>
+( But there is a drawback 📑 )<br>
+Launch the queue normally an error will appear: [ KSampler ] or [ VAEENCODE ]<br>
+<img src="Defaut/images/ERROR-Ksampler.png" width="40%"><img src="Defaut/images/ERROR-VAE.png" width="40%"><br>
+
+🔵⚪️🔴 Il suffit de relancer la queue pour que ça fonctionne correctement
+### 📑 L'erreur se reproduira au premier changement text-to-image 🔂 image-to-text
+
+🌎🌍🌏 Just restart the queue for it to work properly
+### 📑 The error will reoccur on the first text-to-image change 🔂 image-to-text
+
+### 🔵⚪️🔴 <u> EXPLICATION</u> L’interrupteur "auto mutte" fonctionne avec un cycle de retard<br>🌎🌍🌏 <u>EXPLANATION</u> The "auto mute" switch operates with a delay cycle<br>
+<img src="Defaut/images/ERROR-auto-correction.png" width="40%"><br>
+🔵⚪️🔴 Si la VAE est dans un etat (ON📲/📴OFF) et qu'on permutte la generation d'image text-to-image 🔂 image-to-text<br>  
+Lorsqu'on a va generer la nouvelle image avec le nouveau choix( image-to-text 🔂 text-to-image ) la VAE est n'est pas dans l'etat correct (📴OFF/ON📲)<br>
+1) Ca provoque l'erreur [ KSampler ] ou [ VAEENCODE ]<br>  
+2) L'etat de la VAE bascule dans l'etat correct (ON📲/📴OFF) : on peut desormais generer l'image
+
+🌎🌍🌏 If the VAE is in a state (ON📲/📴OFF) and we switch the image generation text-to-image 🔂 image-to-text<br>
+When we are going to generate the new image with the new choice (image-to-text 🔂 text-to-image) the VAE is not in the correct state (📴OFF/ON📲)<br>
+1) This causes the error [ KSampler ] or [ VAEENCODE ]<br>
+2) The state of the VAE switches to the correct state (ON📲/📴OFF): we can now generate the image
+
+### 🔵⚪️🔴 Soit on desactive/active manuellement soit en automatique avec une erreur non bloquante<br>🌎🌍🌏 Either manually deactivate/activate or automatically with a non-blocking error
+<br>
+
 
 ### AUTRES BUGS :<br>VOIR LA PAGE AD HOC :  [ <u>README - Section Bugs</u> ](https://github.com/Dfalm-Original/COMFYui)<br>REFER TO AD HOC PAGE:[ <u>README - Bugs Section </u>](https://github.com/Dfalm-Original/COMFYui)
 
