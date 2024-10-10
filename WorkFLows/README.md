@@ -36,6 +36,14 @@ When these colors are specific I will specify it with the color code
 
 ## B - WorkFlows
 🔵⚪️🔴 Dans ce chapitre je propose des WorkFlow, les liens des exemples, des images et autres...<br>🌎🌍🌏 In this chapter I propose WorkFlow, links to examples, images and others...
+
+
+0) <u>BASIC</u> - Presentation et bases -- Presentation and basics
+1) <u>DEFAUT_MODEL-A_Text-2-Img+UPscalers</u> - Pour generer 'text-to-image' -- To generate 'text-to-image'
+2) <u>DEFAUT_MODEL-B_Load-ImgZ+UPscalers</u> - Pour generer 'image(s)-to-image' -- To generate 'image(s)-to-image'
+3) <u>DEFAUT_MODEL-C_Text-2-Img+LoadImage+UPscalers</u> - Combine le Modele A et le Modele B -- Combine Model A and Model B
+4) <u>Upscalers</u>
+
 <hr>
 
 ## 0) BASIC-V1.2
@@ -85,7 +93,7 @@ Vert = Positif / Green = Positive -- Rouge = Negatif / Red = Negative<br>
 
 ## I) -A-  DEFAUT_MODEL-A_Text-2-Img+UPscalers
 [ CLICK TO DOWNLOAD PNG WORKFLOW ]<br>
-<a href="Defaut/images/DEFAUT_MODEL-A_Text-2-Img+UPscalersV1.2.png"><img src="Defaut/images/DEFAUT_MODEL-A_Text-2-Img+UPscalersV1.00-notes.jpg" height="50%"></a><br>  
+<a href="Defaut/images/DEFAUT_MODEL-A_Text-2-Img+UPscalersV1.00.png"><img src="Defaut/images/DEFAUT_MODEL-A_Text-2-Img+UPscalersV1.00-notes.jpg" height="50%"></a><br>  
 
 
 ## 🔵⚪️🔴 Permet de faire *text-to-image* avec des options de *prompts* et la possibilité d'*UPScaler* l'image rendue <br>- Par defaut les deux UPscalers sont désactivés ❌<br><br>
@@ -331,7 +339,7 @@ I recommend using the "SD" Prompt generator and Prompt Saver 1️⃣ for various
 
 🔵⚪️🔴  2 Solutions : Pour contourner le probleme il faut desactiver/activer la VAE  <br>  
 <u>Solution 1</u> : Manuellement desactiver/activer le "groupe" ad-hoc : **[ 🐞 TEXT-to-IMAGE / IMAGE-to-IMAGE 🐞 ]**<br>
-🌎🌍🌏 2 Solutions: To get around the problem, you have to deactivate/activate the VAE <br>
+🌎🌍🌏 2 Solutions : To get around the problem, you have to deactivate/activate the VAE <br>
 <u>Solution 1</u>: Manually deactivate/activate the ad-hoc "group": **[ 🐞 TEXT-to-IMAGE / IMAGE-to-IMAGE 🐞 ]**<br>
 <img src="Defaut/images/DEFAUT_MODEL-C_Text-2-Img+LoadImage+UPscalersV1.01-notes.jpg" width="40%"><br>
 ✅ ACITIVE = TEXT-to-IMAGE  // ❌ DESACTIVE = IMAGE-to-IMAGE
