@@ -49,7 +49,7 @@ B ) INTENSITE DE L'IMAGE<br>
 **1.00** = 100 %<br>
 Conseil ne pas dépasser 90% ( 0.90 ) au-dela de 0.90 l'image a tendance a "deriver"<br>
 
-<img src="images/Choix-Image+Force_FR.png" width="40%"><br>
+<img src="images/Choix-Image-Force_FR.png" width="40%"><br>
 🌎🌍🌏
 A ) IMAGE SOURCE 4 CHOICES:
 - 1 Load Image
@@ -61,7 +61,7 @@ B ) IMAGE INTENSITY
 **0.00** = not taken into account<br>
 **1.00** = 100%<br>
 Advice do not exceed 90% (0.90) beyond 0.90 the image tends to "drift"<br>
-<img src="images/Choix-Image+Force_EN.png" width="40%"><br>
+<img src="images/Choix-Image-Force_EN.png" width="40%"><br>
 
 
 
