@@ -132,7 +132,7 @@
         "1": 77.48472595214844
       },
       "flags": {},
-      "order": 120,
+      "order": 119,
       "mode": 0,
       "inputs": [
         {
@@ -158,9 +158,9 @@
       },
       "widgets_values": [
         [
-          "Fichier_07-10_SDXL--stableFusionXLTurbo_v161"
+          "FICHIER_21-40_SDXL--sd_xl_base_1.0"
         ],
-        "FICHIER_21-42_SDXL--sd_xl_base_1.0"
+        "FICHIER_22-56_SDXL--sd_xl_base_1.0"
       ],
       "color": "#1ea078",
       "bgcolor": "#0a8c64"
@@ -245,7 +245,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 101,
+      "order": 102,
       "mode": 2,
       "inputs": [
         {
@@ -1243,7 +1243,7 @@
         "1": 78
       },
       "flags": {},
-      "order": 107,
+      "order": 105,
       "mode": 0,
       "inputs": [
         {
@@ -2273,7 +2273,7 @@
         "%date/",
         "FLUX\\creapromptFlux1Dev_v10.safetensors",
         "Flux_vae.safetensors",
-        555876655355252,
+        1098464387439404,
         "randomize",
         20,
         8,
@@ -2418,7 +2418,7 @@
       },
       "widgets_values": [
         "cosmic-terms",
-        634273500961973,
+        641144090317196,
         "randomize"
       ],
       "color": "#222",
@@ -2615,7 +2615,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 105,
+      "order": 108,
       "mode": 0,
       "inputs": [
         {
@@ -2737,7 +2737,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 86,
+      "order": 94,
       "mode": 0,
       "inputs": [
         {
@@ -2837,7 +2837,7 @@
       },
       "widgets_values": [
         "cosmic-galaxy",
-        893238452594753,
+        360843063855396,
         "randomize"
       ],
       "color": "#222",
@@ -2950,7 +2950,7 @@
       },
       "widgets_values": [
         "cosmic-nebula",
-        526194720396259,
+        447414212473131,
         "randomize"
       ],
       "color": "#222",
@@ -3003,7 +3003,7 @@
       },
       "widgets_values": [
         "scenario-desc",
-        671852492225363,
+        754229893818024,
         "randomize"
       ],
       "color": "#222",
@@ -3598,7 +3598,7 @@
         "1": 347.5412902832031
       },
       "flags": {},
-      "order": 109,
+      "order": 113,
       "mode": 0,
       "inputs": [
         {
@@ -3624,9 +3624,9 @@
       },
       "widgets_values": [
         [
-          "blue cat"
+          "blue cat, beach, yellow sun, palm tree, blue skyabstract, watercolor on photo,Colors are: orange, olive green, purple, black, deep teal, light sky blue, soft sky blue, white,Splattered paint effect,woman and man"
         ],
-        "blue cat, beach, yellow sun, palm tree, blue skyabstract, watercolor on photo,Colors are: orange, olive green, purple, black, deep teal, light sky blue, soft sky blue, white,Splattered paint effect,woman and man"
+        "blue catabstract, watercolor on photo,Colors are: orange, olive green, purple, black, deep teal, light sky blue, soft sky blue, white,Splattered paint effect,woman and man"
       ],
       "color": "#cd41ba",
       "bgcolor": "#b92da6"
@@ -3876,7 +3876,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 87,
+      "order": 86,
       "mode": 0,
       "inputs": [
         {
@@ -3956,7 +3956,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 99,
+      "order": 98,
       "mode": 0,
       "inputs": [
         {
@@ -4118,7 +4118,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 91,
+      "order": 93,
       "mode": 2,
       "inputs": [
         {
@@ -4179,7 +4179,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 121,
+      "order": 120,
       "mode": 2,
       "inputs": [
         {
@@ -4254,7 +4254,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 119,
+      "order": 118,
       "mode": 2,
       "inputs": [
         {
@@ -4355,7 +4355,7 @@
         [
           "2880"
         ],
-        "1440"
+        "2880"
       ],
       "color": "#2a363b",
       "bgcolor": "#3f5159"
@@ -4783,7 +4783,7 @@
         [
           "5120"
         ],
-        "2560"
+        "5120"
       ],
       "color": "#332922",
       "bgcolor": "#593930"
@@ -4810,7 +4810,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 108,
+      "order": 106,
       "mode": 0,
       "inputs": [
         {
@@ -4868,7 +4868,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 100,
+      "order": 99,
       "mode": 0,
       "inputs": [
         {
@@ -4926,7 +4926,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 88,
+      "order": 87,
       "mode": 0,
       "inputs": [
         {
@@ -5178,7 +5178,7 @@
         "%date/",
         "FLUX\\creapromptFlux1Dev_v10.safetensors",
         "Flux_vae.safetensors",
-        360263784645864,
+        567257801250800,
         "randomize",
         20,
         8,
@@ -5449,51 +5449,6 @@
       "bgcolor": "#3f5159"
     },
     {
-      "id": 332,
-      "type": "String Literal",
-      "pos": {
-        "0": -1308.258544921875,
-        "1": 139.04095458984375,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
-      },
-      "size": {
-        "0": 548.0327758789062,
-        "1": 472.123046875
-      },
-      "flags": {},
-      "order": 46,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            1622,
-            1623
-          ],
-          "slot_index": 0,
-          "shape": 3
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "String Literal"
-      },
-      "widgets_values": [
-        "blue cat, beach, yellow sun, palm tree, blue sky",
-        true
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
       "id": 688,
       "type": "CR Text Input Switch (4 way)",
       "pos": {
@@ -5513,7 +5468,7 @@
         "1": 118
       },
       "flags": {},
-      "order": 97,
+      "order": 103,
       "mode": 0,
       "inputs": [
         {
@@ -5602,7 +5557,7 @@
         "1": 78
       },
       "flags": {},
-      "order": 104,
+      "order": 107,
       "mode": 0,
       "inputs": [
         {
@@ -5648,59 +5603,6 @@
       "bgcolor": "#00ff00"
     },
     {
-      "id": 207,
-      "type": "ShowText|pysssss",
-      "pos": {
-        "0": 2382,
-        "1": 76,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
-      },
-      "size": {
-        "0": 488.283447265625,
-        "1": 1020.7913208007812
-      },
-      "flags": {},
-      "order": 143,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "text",
-          "type": "STRING",
-          "link": 805,
-          "widget": {
-            "name": "text"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [],
-          "shape": 6
-        }
-      ],
-      "title": "Show Text 🐍 -- CONTROL metad-données",
-      "properties": {
-        "Node name for S&R": "ShowText|pysssss"
-      },
-      "widgets_values": [
-        [
-          "Positive prompt :  vived colors , pop art, mountain , overprint\nNegative prompt: \nSteps: 7, Sampler: euler_ancestral_karras, CFG scale: 4.5, Seed: 0, Size: 720x1024, Model: turbovisionxlSuperFastXLBasedOnNew_tvxlV431Bakedvae, VAE: sdxl_vae, Version: ComfyUI, Extra info: Lora :  InkArtXL_1.2 --- Par Dfalm 2024 --------------"
-        ],
-        "Positive prompt :  blue cat, beach, yellow sun, palm tree, blue skyabstract, watercolor on photo,Colors are: orange, olive green, purple, black, deep teal, light sky blue, soft sky blue, white,Splattered paint effect,woman and man\nNegative prompt: \nSteps: 30, Sampler: dpmpp_3m_sde_gpu_exponential, CFG scale: 9.0, Seed: 836338688914665, Size: 720x1280, Model: sd_xl_base_1.0, VAE: sdxl_vae, Version: ComfyUI, Extra info: Lora :  add-detail-xl --- Par Dfalm 2024 ---  https://github.com/Dfalm-Original/COMFYui -- https://www.youtube.com/@Dfalm "
-      ],
-      "color": "#bea31d",
-      "bgcolor": "#aa8f09"
-    },
-    {
       "id": 810,
       "type": "JWDatetimeString",
       "pos": {
@@ -5722,7 +5624,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 47,
+      "order": 46,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -5772,7 +5674,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 115,
+      "order": 112,
       "mode": 0,
       "inputs": [
         {
@@ -5826,223 +5728,6 @@
       "bgcolor": "#000"
     },
     {
-      "id": 176,
-      "type": "SDPromptSaver",
-      "pos": {
-        "0": 1951,
-        "1": 238,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
-      },
-      "size": {
-        "0": 418.5574951171875,
-        "1": 860.9612426757812
-      },
-      "flags": {},
-      "order": 134,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "images",
-          "type": "IMAGE",
-          "link": 807,
-          "slot_index": 0
-        },
-        {
-          "name": "lora_name",
-          "type": "*",
-          "link": null,
-          "slot_index": 1
-        },
-        {
-          "name": "filename",
-          "type": "STRING",
-          "link": 1159,
-          "slot_index": 3,
-          "widget": {
-            "name": "filename"
-          }
-        },
-        {
-          "name": "path",
-          "type": "STRING",
-          "link": 859,
-          "widget": {
-            "name": "path"
-          }
-        },
-        {
-          "name": "model_name",
-          "type": "COMBO",
-          "link": 1167,
-          "slot_index": 4,
-          "widget": {
-            "name": "model_name"
-          }
-        },
-        {
-          "name": "vae_name",
-          "type": "COMBO",
-          "link": 779,
-          "slot_index": 5,
-          "widget": {
-            "name": "vae_name"
-          }
-        },
-        {
-          "name": "seed",
-          "type": "INT",
-          "link": null,
-          "slot_index": 6,
-          "widget": {
-            "name": "seed"
-          }
-        },
-        {
-          "name": "steps",
-          "type": "INT",
-          "link": 781,
-          "slot_index": 7,
-          "widget": {
-            "name": "steps"
-          }
-        },
-        {
-          "name": "cfg",
-          "type": "FLOAT",
-          "link": 782,
-          "slot_index": 8,
-          "widget": {
-            "name": "cfg"
-          }
-        },
-        {
-          "name": "sampler_name",
-          "type": "COMBO",
-          "link": 783,
-          "slot_index": 9,
-          "widget": {
-            "name": "sampler_name"
-          }
-        },
-        {
-          "name": "scheduler",
-          "type": "COMBO",
-          "link": 784,
-          "slot_index": 10,
-          "widget": {
-            "name": "scheduler"
-          }
-        },
-        {
-          "name": "width",
-          "type": "INT",
-          "link": 1322,
-          "slot_index": 11,
-          "widget": {
-            "name": "width"
-          }
-        },
-        {
-          "name": "height",
-          "type": "INT",
-          "link": 1323,
-          "slot_index": 12,
-          "widget": {
-            "name": "height"
-          }
-        },
-        {
-          "name": "positive",
-          "type": "STRING",
-          "link": 1890,
-          "widget": {
-            "name": "positive"
-          }
-        },
-        {
-          "name": "negative",
-          "type": "STRING",
-          "link": 1889,
-          "widget": {
-            "name": "negative"
-          }
-        },
-        {
-          "name": "extra_info",
-          "type": "STRING",
-          "link": 1178,
-          "widget": {
-            "name": "extra_info"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "FILENAME",
-          "type": "STRING",
-          "links": [],
-          "slot_index": 0,
-          "shape": 3
-        },
-        {
-          "name": "FILE_PATH",
-          "type": "STRING",
-          "links": [],
-          "slot_index": 1,
-          "shape": 3
-        },
-        {
-          "name": "METADATA",
-          "type": "STRING",
-          "links": [
-            805
-          ],
-          "slot_index": 2,
-          "shape": 3
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "SDPromptSaver"
-      },
-      "widgets_values": [
-        "ComfyUI_%time_%seed_%counter",
-        "%date/",
-        "FLUX\\creapromptFlux1Dev_v10.safetensors",
-        "Flux_vae.safetensors",
-        978161566123896,
-        "randomize",
-        20,
-        8,
-        "euler",
-        "normal",
-        1,
-        1,
-        "",
-        "",
-        "png",
-        false,
-        true,
-        true,
-        100,
-        "%Y-%m-%d",
-        "%H%M%S",
-        false,
-        "--- Par Valérie 2024 ---",
-        true,
-        true,
-        true
-      ],
-      "color": "#ff7090",
-      "bgcolor": "#ff5c7c"
-    },
-    {
       "id": 334,
       "type": "TextConcat",
       "pos": {
@@ -6064,7 +5749,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 110,
+      "order": 115,
       "mode": 0,
       "inputs": [
         {
@@ -6125,7 +5810,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 114,
+      "order": 111,
       "mode": 0,
       "inputs": [
         {
@@ -6184,7 +5869,7 @@
         "1": 54
       },
       "flags": {},
-      "order": 112,
+      "order": 110,
       "mode": 0,
       "inputs": [
         {
@@ -6246,7 +5931,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 48,
+      "order": 47,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -6381,7 +6066,7 @@
       },
       "widgets_values": [
         2,
-        503967195520649,
+        627055596001330,
         "randomize",
         8,
         5,
@@ -6424,7 +6109,7 @@
         "1": 936
       },
       "flags": {},
-      "order": 49,
+      "order": 48,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -6625,7 +6310,7 @@
         "1": 114
       },
       "flags": {},
-      "order": 106,
+      "order": 104,
       "mode": 0,
       "inputs": [
         {
@@ -6695,191 +6380,6 @@
       "bgcolor": "#103a7f"
     },
     {
-      "id": 454,
-      "type": "Fast Groups Muter (rgthree)",
-      "pos": {
-        "0": 2570,
-        "1": -611,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
-      },
-      "size": {
-        "0": 418.5631408691406,
-        "1": 466
-      },
-      "flags": {},
-      "order": 50,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "OPT_CONNECTION",
-          "type": "*",
-          "links": [],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "matchColors": "",
-        "matchTitle": "",
-        "showNav": true,
-        "sort": "position",
-        "customSortAlphabet": "",
-        "toggleRestriction": "default"
-      },
-      "color": "#46ff46",
-      "bgcolor": "#32ff32"
-    },
-    {
-      "id": 204,
-      "type": "Lora Loader",
-      "pos": {
-        "0": -1922,
-        "1": 159,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
-      },
-      "size": {
-        "0": 551.5555419921875,
-        "1": 146
-      },
-      "flags": {},
-      "order": 98,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "model",
-          "type": "MODEL",
-          "link": 1578
-        },
-        {
-          "name": "clip",
-          "type": "CLIP",
-          "link": 1579
-        }
-      ],
-      "outputs": [
-        {
-          "name": "MODEL",
-          "type": "MODEL",
-          "links": [
-            1584
-          ],
-          "slot_index": 0,
-          "shape": 3
-        },
-        {
-          "name": "CLIP",
-          "type": "CLIP",
-          "links": [
-            1585
-          ],
-          "slot_index": 1,
-          "shape": 3
-        },
-        {
-          "name": "NAME_STRING",
-          "type": "STRING",
-          "links": [
-            1034
-          ],
-          "slot_index": 2,
-          "shape": 3
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "Lora Loader"
-      },
-      "widgets_values": [
-        "add-detail-xl.safetensors",
-        1,
-        1
-      ],
-      "color": "#ff14ff",
-      "bgcolor": "#fa00ff"
-    },
-    {
-      "id": 264,
-      "type": "Binary INT Switch",
-      "pos": {
-        "0": -4819.56591796875,
-        "1": 770.5604248046875,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
-      },
-      "size": {
-        "0": 210,
-        "1": 78
-      },
-      "flags": {},
-      "order": 83,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "int1",
-          "type": "INT",
-          "link": 907,
-          "widget": {
-            "name": "int1"
-          }
-        },
-        {
-          "name": "int2",
-          "type": "INT",
-          "link": 908,
-          "widget": {
-            "name": "int2"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "choice",
-          "type": "INT",
-          "links": [
-            911,
-            912
-          ],
-          "slot_index": 0,
-          "shape": 3
-        },
-        {
-          "name": "discord",
-          "type": "STRING",
-          "links": null,
-          "shape": 3
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "Binary INT Switch"
-      },
-      "widgets_values": [
-        2,
-        0,
-        0
-      ],
-      "color": "#46ff46",
-      "bgcolor": "#32ff32"
-    },
-    {
       "id": 794,
       "type": "KSampler",
       "pos": {
@@ -6899,7 +6399,7 @@
         "1": 218
       },
       "flags": {},
-      "order": 111,
+      "order": 109,
       "mode": 0,
       "inputs": [
         {
@@ -6984,7 +6484,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        675741005763382,
+        896845792461389,
         "randomize",
         20,
         8,
@@ -7017,7 +6517,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 113,
+      "order": 114,
       "mode": 0,
       "inputs": [
         {
@@ -7060,50 +6560,6 @@
       "bgcolor": "#353"
     },
     {
-      "id": 829,
-      "type": "CLIPVisionLoader",
-      "pos": {
-        "0": -1904,
-        "1": 39,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
-      },
-      "size": {
-        "0": 517.7606201171875,
-        "1": 71.82254028320312
-      },
-      "flags": {},
-      "order": 51,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "CLIP_VISION",
-          "type": "CLIP_VISION",
-          "links": [
-            2027,
-            2028
-          ],
-          "slot_index": 0,
-          "shape": 3
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "CLIPVisionLoader"
-      },
-      "widgets_values": [
-        "clip_vision_g.safetensors"
-      ],
-      "color": "#50dcdc",
-      "bgcolor": "#3cc8c8"
-    },
-    {
       "id": 9,
       "type": "EmptyLatentImage",
       "pos": {
@@ -7123,7 +6579,7 @@
         "1": 85.7379150390625
       },
       "flags": {},
-      "order": 89,
+      "order": 88,
       "mode": 0,
       "inputs": [
         {
@@ -7198,7 +6654,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 52,
+      "order": 49,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -7257,7 +6713,7 @@
         690
       ],
       "flags": {},
-      "order": 53,
+      "order": 50,
       "mode": 0,
       "inputs": [
         {
@@ -7318,7 +6774,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 54,
+      "order": 51,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -7370,7 +6826,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 55,
+      "order": 52,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -7422,7 +6878,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 56,
+      "order": 53,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -7480,7 +6936,7 @@
         "1": 118
       },
       "flags": {},
-      "order": 94,
+      "order": 90,
       "mode": 0,
       "inputs": [
         {
@@ -7550,7 +7006,7 @@
         "1": 118
       },
       "flags": {},
-      "order": 93,
+      "order": 91,
       "mode": 0,
       "inputs": [
         {
@@ -7622,7 +7078,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 102,
+      "order": 101,
       "mode": 0,
       "inputs": [
         {
@@ -7675,7 +7131,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 103,
+      "order": 100,
       "mode": 0,
       "inputs": [
         {
@@ -7837,7 +7293,7 @@
         690
       ],
       "flags": {},
-      "order": 57,
+      "order": 54,
       "mode": 0,
       "inputs": [
         {
@@ -7998,7 +7454,7 @@
         "1": 951.547119140625
       },
       "flags": {},
-      "order": 58,
+      "order": 55,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -8034,7 +7490,7 @@
         "1": 123.81094360351562
       },
       "flags": {},
-      "order": 59,
+      "order": 56,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -8070,7 +7526,7 @@
         "1": 275.11114501953125
       },
       "flags": {},
-      "order": 60,
+      "order": 57,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -8106,7 +7562,7 @@
         "1": 128.35450744628906
       },
       "flags": {},
-      "order": 61,
+      "order": 58,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -8144,7 +7600,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 62,
+      "order": 59,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8169,75 +7625,6 @@
       "bgcolor": "#000"
     },
     {
-      "id": 846,
-      "type": "Binary INT Switch",
-      "pos": {
-        "0": -4820,
-        "1": 276.276611328125,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
-      },
-      "size": {
-        "0": 210,
-        "1": 78
-      },
-      "flags": {},
-      "order": 90,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "int1",
-          "type": "INT",
-          "link": 1916,
-          "widget": {
-            "name": "int1"
-          }
-        },
-        {
-          "name": "int2",
-          "type": "INT",
-          "link": 1917,
-          "widget": {
-            "name": "int2"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "choice",
-          "type": "INT",
-          "links": [
-            1918,
-            1919
-          ],
-          "slot_index": 0,
-          "shape": 3
-        },
-        {
-          "name": "discord",
-          "type": "STRING",
-          "links": null,
-          "shape": 3
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "Binary INT Switch"
-      },
-      "widgets_values": [
-        1,
-        0,
-        0
-      ],
-      "color": "#46ff46",
-      "bgcolor": "#32ff32"
-    },
-    {
       "id": 840,
       "type": "ConditioningZeroOut",
       "pos": {
@@ -8259,7 +7646,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 118,
+      "order": 121,
       "mode": 0,
       "inputs": [
         {
@@ -8494,7 +7881,7 @@
         "1": 225.47122192382812
       },
       "flags": {},
-      "order": 63,
+      "order": 60,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -8530,7 +7917,7 @@
         "1": 225.152587890625
       },
       "flags": {},
-      "order": 64,
+      "order": 61,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -8566,7 +7953,7 @@
         "1": 278.8194580078125
       },
       "flags": {},
-      "order": 65,
+      "order": 62,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -8602,7 +7989,7 @@
         "1": 218.74119567871094
       },
       "flags": {},
-      "order": 66,
+      "order": 63,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -8638,7 +8025,7 @@
         "1": 1060.8734130859375
       },
       "flags": {},
-      "order": 67,
+      "order": 64,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8680,7 +8067,7 @@
         "1": 963.73095703125
       },
       "flags": {},
-      "order": 68,
+      "order": 65,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -8716,7 +8103,7 @@
         "1": 587.6063232421875
       },
       "flags": {},
-      "order": 69,
+      "order": 66,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -8752,7 +8139,7 @@
         "1": 588.0550537109375
       },
       "flags": {},
-      "order": 70,
+      "order": 67,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -8788,7 +8175,7 @@
         "1": 189.68896484375
       },
       "flags": {},
-      "order": 71,
+      "order": 68,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -8824,7 +8211,7 @@
         "1": 185.62905883789062
       },
       "flags": {},
-      "order": 72,
+      "order": 69,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -8839,50 +8226,6 @@
       "color": "#cd1ee6",
       "bgcolor": "#b90ad2",
       "shape": 1
-    },
-    {
-      "id": 667,
-      "type": "Seed Everywhere",
-      "pos": {
-        "0": -1799.678466796875,
-        "1": 1348.7215576171875,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
-      },
-      "size": {
-        "0": 315,
-        "1": 124
-      },
-      "flags": {},
-      "order": 73,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "INT",
-          "type": "INT",
-          "links": [],
-          "slot_index": 0,
-          "shape": 3
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "Seed Everywhere",
-        "group_restricted": 0,
-        "color_restricted": 0
-      },
-      "widgets_values": [
-        924104658771791,
-        "randomize"
-      ],
-      "color": "#ffaa32",
-      "bgcolor": "#ff961e"
     },
     {
       "id": 236,
@@ -8904,7 +8247,7 @@
         "1": 58
       },
       "flags": {},
-      "order": 74,
+      "order": 70,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8931,11 +8274,11 @@
       "bgcolor": "#00ff00"
     },
     {
-      "id": 680,
-      "type": "Note",
+      "id": 875,
+      "type": "ImageReceiver",
       "pos": {
-        "0": -2174,
-        "1": -810,
+        "0": -3069.71630859375,
+        "1": 1659.035888671875,
         "2": 0,
         "3": 0,
         "4": 0,
@@ -8946,72 +8289,150 @@
         "9": 0
       },
       "size": {
-        "0": 428.7532958984375,
-        "1": 77.19602966308594
+        "0": 441.4825134277344,
+        "1": 407.3432312011719
       },
       "flags": {},
-      "order": 75,
+      "order": 71,
       "mode": 0,
-      "inputs": [],
-      "outputs": [],
-      "title": "Note - VERSION",
-      "properties": {},
-      "widgets_values": [
-        "COMBINE-4TYPES_Images+UPscalersV1.00"
-      ],
-      "color": "#222",
-      "bgcolor": "#000"
-    },
-    {
-      "id": 347,
-      "type": "PrimitiveNode",
-      "pos": {
-        "0": 4110,
-        "1": 52,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
-      },
-      "size": {
-        "0": 226.8000030517578,
-        "1": 82
-      },
-      "flags": {
-        "collapsed": false
-      },
-      "order": 76,
-      "mode": 2,
       "inputs": [],
       "outputs": [
         {
-          "name": "INT",
-          "type": "INT",
+          "name": "IMAGE",
+          "type": "IMAGE",
           "links": [
-            1044,
-            1045,
-            1565
+            2013
           ],
           "slot_index": 0,
+          "shape": 3
+        },
+        {
+          "name": "MASK",
+          "type": "MASK",
+          "links": [],
+          "slot_index": 1,
+          "shape": 3
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "ImageReceiver"
+      },
+      "widgets_values": [
+        "ImgSender_temp_ckvoj_00001_.png [temp]",
+        0,
+        false,
+        "",
+        false
+      ],
+      "color": "#c83c3c",
+      "bgcolor": "#b42828"
+    },
+    {
+      "id": 895,
+      "type": "ImageReceiver",
+      "pos": {
+        "0": -3070.11328125,
+        "1": 545.5321044921875,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0
+      },
+      "size": {
+        "0": 441.4825134277344,
+        "1": 407.3432312011719
+      },
+      "flags": {},
+      "order": 72,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "IMAGE",
+          "type": "IMAGE",
+          "links": [
+            2016
+          ],
+          "slot_index": 0,
+          "shape": 3
+        },
+        {
+          "name": "MASK",
+          "type": "MASK",
+          "links": [],
+          "slot_index": 1,
+          "shape": 3
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "ImageReceiver"
+      },
+      "widgets_values": [
+        "ImgSender_temp_ckvoj_00001_.png [temp]",
+        0,
+        false,
+        "",
+        false
+      ],
+      "color": "#5578f5",
+      "bgcolor": "#4164e1"
+    },
+    {
+      "id": 207,
+      "type": "ShowText|pysssss",
+      "pos": {
+        "0": 2382,
+        "1": 76,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0
+      },
+      "size": {
+        "0": 488.283447265625,
+        "1": 1020.7913208007812
+      },
+      "flags": {},
+      "order": 143,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "text",
+          "type": "STRING",
+          "link": 805,
           "widget": {
-            "name": "b"
+            "name": "text"
           }
         }
       ],
-      "title": "Primitive -- MULTIPLICATEUR",
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [],
+          "shape": 6
+        }
+      ],
+      "title": "Show Text 🐍 -- CONTROL metad-données",
       "properties": {
-        "Run widget replace on values": false
+        "Node name for S&R": "ShowText|pysssss"
       },
       "widgets_values": [
-        4,
-        "fixed"
+        [
+          "Positive prompt :  vived colors , pop art, mountain , overprint\nNegative prompt: \nSteps: 7, Sampler: euler_ancestral_karras, CFG scale: 4.5, Seed: 0, Size: 720x1024, Model: turbovisionxlSuperFastXLBasedOnNew_tvxlV431Bakedvae, VAE: sdxl_vae, Version: ComfyUI, Extra info: Lora :  InkArtXL_1.2 --- Par Dfalm 2024 --------------"
+        ],
+        "Positive prompt :  blue catabstract, watercolor on photo,Colors are: orange, olive green, purple, black, deep teal, light sky blue, soft sky blue, white,Splattered paint effect,woman and man\nNegative prompt: \nSteps: 30, Sampler: dpmpp_3m_sde_gpu_exponential, CFG scale: 9.0, Seed: 275820681445797, Size: 720x1280, Model: sd_xl_base_1.0, VAE: sdxl_vae, Version: ComfyUI, Extra info: Lora :  xl_ink wash painting style(pony) --- Par Dfalm 2024 ---  https://github.com/Dfalm-Original/COMFYui -- https://www.youtube.com/@Dfalm "
       ],
-      "color": "#14ff14",
-      "bgcolor": "#00ff00"
+      "color": "#bea31d",
+      "bgcolor": "#aa8f09"
     },
     {
       "id": 456,
@@ -9033,7 +8454,7 @@
         "1": 78
       },
       "flags": {},
-      "order": 77,
+      "order": 73,
       "mode": 2,
       "inputs": [],
       "outputs": [
@@ -9067,11 +8488,11 @@
       "bgcolor": "#c8ff00"
     },
     {
-      "id": 895,
-      "type": "ImageReceiver",
+      "id": 347,
+      "type": "PrimitiveNode",
       "pos": {
-        "0": -3070.11328125,
-        "1": 545.5321044921875,
+        "0": 4110,
+        "1": 52,
         "2": 0,
         "3": 0,
         "4": 0,
@@ -9082,8 +8503,191 @@
         "9": 0
       },
       "size": {
-        "0": 441.4825134277344,
-        "1": 407.3432312011719
+        "0": 226.8000030517578,
+        "1": 82
+      },
+      "flags": {
+        "collapsed": false
+      },
+      "order": 74,
+      "mode": 2,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "INT",
+          "type": "INT",
+          "links": [
+            1044,
+            1045,
+            1565
+          ],
+          "slot_index": 0,
+          "widget": {
+            "name": "b"
+          }
+        }
+      ],
+      "title": "Primitive -- MULTIPLICATEUR",
+      "properties": {
+        "Run widget replace on values": false
+      },
+      "widgets_values": [
+        4,
+        "fixed"
+      ],
+      "color": "#14ff14",
+      "bgcolor": "#00ff00"
+    },
+    {
+      "id": 667,
+      "type": "Seed Everywhere",
+      "pos": {
+        "0": -1799.678466796875,
+        "1": 1348.7215576171875,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0
+      },
+      "size": {
+        "0": 315,
+        "1": 124
+      },
+      "flags": {},
+      "order": 75,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "INT",
+          "type": "INT",
+          "links": [],
+          "slot_index": 0,
+          "shape": 3
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "Seed Everywhere",
+        "group_restricted": 0,
+        "color_restricted": 0
+      },
+      "widgets_values": [
+        829289256864782,
+        "randomize",
+        "275820681445797"
+      ],
+      "color": "#ffaa32",
+      "bgcolor": "#ff961e"
+    },
+    {
+      "id": 454,
+      "type": "Fast Groups Muter (rgthree)",
+      "pos": {
+        "0": 2570,
+        "1": -611,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0
+      },
+      "size": {
+        "0": 418.5631408691406,
+        "1": 466
+      },
+      "flags": {},
+      "order": 76,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "OPT_CONNECTION",
+          "type": "*",
+          "links": [],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "matchColors": "",
+        "matchTitle": "",
+        "showNav": true,
+        "sort": "position",
+        "customSortAlphabet": "",
+        "toggleRestriction": "default"
+      },
+      "color": "#46ff46",
+      "bgcolor": "#32ff32"
+    },
+    {
+      "id": 332,
+      "type": "String Literal",
+      "pos": {
+        "0": -1308.258544921875,
+        "1": 139.04095458984375,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0
+      },
+      "size": {
+        "0": 548.0327758789062,
+        "1": 472.123046875
+      },
+      "flags": {},
+      "order": 77,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            1622,
+            1623
+          ],
+          "slot_index": 0,
+          "shape": 3
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "String Literal"
+      },
+      "widgets_values": [
+        "blue cat",
+        true
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 829,
+      "type": "CLIPVisionLoader",
+      "pos": {
+        "0": -1904,
+        "1": 39,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0
+      },
+      "size": {
+        "0": 517.7606201171875,
+        "1": 71.82254028320312
       },
       "flags": {},
       "order": 78,
@@ -9091,41 +8695,31 @@
       "inputs": [],
       "outputs": [
         {
-          "name": "IMAGE",
-          "type": "IMAGE",
+          "name": "CLIP_VISION",
+          "type": "CLIP_VISION",
           "links": [
-            2016
+            2027,
+            2028
           ],
           "slot_index": 0,
-          "shape": 3
-        },
-        {
-          "name": "MASK",
-          "type": "MASK",
-          "links": [],
-          "slot_index": 1,
           "shape": 3
         }
       ],
       "properties": {
-        "Node name for S&R": "ImageReceiver"
+        "Node name for S&R": "CLIPVisionLoader"
       },
       "widgets_values": [
-        "Paint_0.png",
-        0,
-        false,
-        "",
-        false
+        "clip_vision_g.safetensors"
       ],
-      "color": "#5578f5",
-      "bgcolor": "#4164e1"
+      "color": "#50dcdc",
+      "bgcolor": "#3cc8c8"
     },
     {
-      "id": 875,
-      "type": "ImageReceiver",
+      "id": 176,
+      "type": "SDPromptSaver",
       "pos": {
-        "0": -3069.71630859375,
-        "1": 1659.035888671875,
+        "0": 1951,
+        "1": 238,
         "2": 0,
         "3": 0,
         "4": 0,
@@ -9136,43 +8730,450 @@
         "9": 0
       },
       "size": {
-        "0": 441.4825134277344,
-        "1": 407.3432312011719
+        "0": 418.5574951171875,
+        "1": 860.9612426757812
       },
       "flags": {},
-      "order": 79,
+      "order": 134,
       "mode": 0,
-      "inputs": [],
+      "inputs": [
+        {
+          "name": "images",
+          "type": "IMAGE",
+          "link": 807,
+          "slot_index": 0
+        },
+        {
+          "name": "lora_name",
+          "type": "*",
+          "link": null,
+          "slot_index": 1
+        },
+        {
+          "name": "filename",
+          "type": "STRING",
+          "link": 1159,
+          "slot_index": 3,
+          "widget": {
+            "name": "filename"
+          }
+        },
+        {
+          "name": "path",
+          "type": "STRING",
+          "link": 859,
+          "widget": {
+            "name": "path"
+          }
+        },
+        {
+          "name": "model_name",
+          "type": "COMBO",
+          "link": 1167,
+          "slot_index": 4,
+          "widget": {
+            "name": "model_name"
+          }
+        },
+        {
+          "name": "vae_name",
+          "type": "COMBO",
+          "link": 779,
+          "slot_index": 5,
+          "widget": {
+            "name": "vae_name"
+          }
+        },
+        {
+          "name": "seed",
+          "type": "INT",
+          "link": null,
+          "slot_index": 6,
+          "widget": {
+            "name": "seed"
+          }
+        },
+        {
+          "name": "steps",
+          "type": "INT",
+          "link": 781,
+          "slot_index": 7,
+          "widget": {
+            "name": "steps"
+          }
+        },
+        {
+          "name": "cfg",
+          "type": "FLOAT",
+          "link": 782,
+          "slot_index": 8,
+          "widget": {
+            "name": "cfg"
+          }
+        },
+        {
+          "name": "sampler_name",
+          "type": "COMBO",
+          "link": 783,
+          "slot_index": 9,
+          "widget": {
+            "name": "sampler_name"
+          }
+        },
+        {
+          "name": "scheduler",
+          "type": "COMBO",
+          "link": 784,
+          "slot_index": 10,
+          "widget": {
+            "name": "scheduler"
+          }
+        },
+        {
+          "name": "width",
+          "type": "INT",
+          "link": 1322,
+          "slot_index": 11,
+          "widget": {
+            "name": "width"
+          }
+        },
+        {
+          "name": "height",
+          "type": "INT",
+          "link": 1323,
+          "slot_index": 12,
+          "widget": {
+            "name": "height"
+          }
+        },
+        {
+          "name": "positive",
+          "type": "STRING",
+          "link": 1890,
+          "widget": {
+            "name": "positive"
+          }
+        },
+        {
+          "name": "negative",
+          "type": "STRING",
+          "link": 1889,
+          "widget": {
+            "name": "negative"
+          }
+        },
+        {
+          "name": "extra_info",
+          "type": "STRING",
+          "link": 1178,
+          "widget": {
+            "name": "extra_info"
+          }
+        }
+      ],
       "outputs": [
         {
-          "name": "IMAGE",
-          "type": "IMAGE",
+          "name": "FILENAME",
+          "type": "STRING",
+          "links": [],
+          "slot_index": 0,
+          "shape": 3
+        },
+        {
+          "name": "FILE_PATH",
+          "type": "STRING",
+          "links": [],
+          "slot_index": 1,
+          "shape": 3
+        },
+        {
+          "name": "METADATA",
+          "type": "STRING",
           "links": [
-            2013
+            805
+          ],
+          "slot_index": 2,
+          "shape": 3
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "SDPromptSaver"
+      },
+      "widgets_values": [
+        "ComfyUI_%time_%seed_%counter",
+        "%date/",
+        "FLUX\\creapromptFlux1Dev_v10.safetensors",
+        "Flux_vae.safetensors",
+        20948360967857,
+        "randomize",
+        20,
+        8,
+        "euler",
+        "normal",
+        1,
+        1,
+        "",
+        "",
+        "png",
+        false,
+        true,
+        true,
+        100,
+        "%Y-%m-%d",
+        "%H%M%S",
+        false,
+        "--- Par Valérie 2024 ---",
+        true,
+        true,
+        true
+      ],
+      "color": "#ff7090",
+      "bgcolor": "#ff5c7c"
+    },
+    {
+      "id": 204,
+      "type": "Lora Loader",
+      "pos": {
+        "0": -1922,
+        "1": 159,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0
+      },
+      "size": {
+        "0": 551.5555419921875,
+        "1": 146
+      },
+      "flags": {},
+      "order": 97,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 1578
+        },
+        {
+          "name": "clip",
+          "type": "CLIP",
+          "link": 1579
+        }
+      ],
+      "outputs": [
+        {
+          "name": "MODEL",
+          "type": "MODEL",
+          "links": [
+            1584
           ],
           "slot_index": 0,
           "shape": 3
         },
         {
-          "name": "MASK",
-          "type": "MASK",
-          "links": [],
+          "name": "CLIP",
+          "type": "CLIP",
+          "links": [
+            1585
+          ],
           "slot_index": 1,
+          "shape": 3
+        },
+        {
+          "name": "NAME_STRING",
+          "type": "STRING",
+          "links": [
+            1034
+          ],
+          "slot_index": 2,
           "shape": 3
         }
       ],
       "properties": {
-        "Node name for S&R": "ImageReceiver"
+        "Node name for S&R": "Lora Loader"
       },
       "widgets_values": [
-        "Paint_0.png",
-        0,
-        false,
-        "",
-        false
+        "add-detail-xl.safetensors",
+        1,
+        1
       ],
-      "color": "#c83c3c",
-      "bgcolor": "#b42828"
+      "color": "#ff14ff",
+      "bgcolor": "#fa00ff"
+    },
+    {
+      "id": 846,
+      "type": "Binary INT Switch",
+      "pos": {
+        "0": -4820,
+        "1": 276.276611328125,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0
+      },
+      "size": {
+        "0": 210,
+        "1": 78
+      },
+      "flags": {},
+      "order": 89,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "int1",
+          "type": "INT",
+          "link": 1916,
+          "widget": {
+            "name": "int1"
+          }
+        },
+        {
+          "name": "int2",
+          "type": "INT",
+          "link": 1917,
+          "widget": {
+            "name": "int2"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "choice",
+          "type": "INT",
+          "links": [
+            1918,
+            1919
+          ],
+          "slot_index": 0,
+          "shape": 3
+        },
+        {
+          "name": "discord",
+          "type": "STRING",
+          "links": null,
+          "shape": 3
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "Binary INT Switch"
+      },
+      "widgets_values": [
+        1,
+        0,
+        0
+      ],
+      "color": "#46ff46",
+      "bgcolor": "#32ff32"
+    },
+    {
+      "id": 264,
+      "type": "Binary INT Switch",
+      "pos": {
+        "0": -4819.56591796875,
+        "1": 770.5604248046875,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0
+      },
+      "size": {
+        "0": 210,
+        "1": 78
+      },
+      "flags": {},
+      "order": 83,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "int1",
+          "type": "INT",
+          "link": 907,
+          "widget": {
+            "name": "int1"
+          }
+        },
+        {
+          "name": "int2",
+          "type": "INT",
+          "link": 908,
+          "widget": {
+            "name": "int2"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "choice",
+          "type": "INT",
+          "links": [
+            911,
+            912
+          ],
+          "slot_index": 0,
+          "shape": 3
+        },
+        {
+          "name": "discord",
+          "type": "STRING",
+          "links": null,
+          "shape": 3
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "Binary INT Switch"
+      },
+      "widgets_values": [
+        1,
+        0,
+        0
+      ],
+      "color": "#46ff46",
+      "bgcolor": "#32ff32"
+    },
+    {
+      "id": 680,
+      "type": "Note",
+      "pos": {
+        "0": -2174,
+        "1": -810,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0
+      },
+      "size": {
+        "0": 428.7532958984375,
+        "1": 77.19602966308594
+      },
+      "flags": {},
+      "order": 79,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "title": "Note - VERSION",
+      "properties": {},
+      "widgets_values": [
+        "COMBINE-4TYPES_Images+UPscalersV1.00"
+      ],
+      "color": "#222",
+      "bgcolor": "#000"
     }
   ],
   "links": [
@@ -11522,14 +11523,6 @@
     ],
     [
       2068,
-      667,
-      0,
-      176,
-      6,
-      "INT"
-    ],
-    [
-      2069,
       903,
       0,
       794,
@@ -11537,7 +11530,7 @@
       "CONDITIONING"
     ],
     [
-      2070,
+      2069,
       845,
       0,
       794,
@@ -11545,11 +11538,19 @@
       "CONDITIONING"
     ],
     [
-      2071,
+      2070,
       667,
       0,
       794,
       4,
+      "INT"
+    ],
+    [
+      2071,
+      667,
+      0,
+      176,
+      6,
       "INT"
     ]
   ],
@@ -11714,10 +11715,10 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 0.8140274938684868,
+      "scale": 0.67274999493264,
       "offset": [
-        4087.0170092235358,
-        -302.38338260369784
+        2864.0345702601244,
+        768.4407130016552
       ]
     },
     "groupNodes": {}
