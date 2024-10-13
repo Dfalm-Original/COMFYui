@@ -1,6 +1,6 @@
 {
   "last_node_id": 826,
-  "last_link_id": 1883,
+  "last_link_id": 1892,
   "nodes": [
     {
       "id": 322,
@@ -132,7 +132,7 @@
         "1": 77.48472595214844
       },
       "flags": {},
-      "order": 137,
+      "order": 136,
       "mode": 0,
       "inputs": [
         {
@@ -185,7 +185,7 @@
         "1": 1020.7913208007812
       },
       "flags": {},
-      "order": 158,
+      "order": 157,
       "mode": 0,
       "inputs": [
         {
@@ -614,7 +614,7 @@
         "1": 76
       },
       "flags": {},
-      "order": 163,
+      "order": 162,
       "mode": 2,
       "inputs": [
         {
@@ -667,7 +667,7 @@
         "1": 76
       },
       "flags": {},
-      "order": 162,
+      "order": 161,
       "mode": 2,
       "inputs": [
         {
@@ -777,7 +777,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 144,
+      "order": 143,
       "mode": 2,
       "inputs": [
         {
@@ -829,7 +829,7 @@
         26
       ],
       "flags": {},
-      "order": 142,
+      "order": 141,
       "mode": 0,
       "inputs": [
         {
@@ -1475,7 +1475,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 170,
+      "order": 169,
       "mode": 2,
       "inputs": [
         {
@@ -1535,7 +1535,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 172,
+      "order": 171,
       "mode": 2,
       "inputs": [
         {
@@ -1595,7 +1595,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 148,
+      "order": 147,
       "mode": 2,
       "inputs": [
         {
@@ -1662,7 +1662,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 156,
+      "order": 155,
       "mode": 2,
       "inputs": [
         {
@@ -1722,7 +1722,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 149,
+      "order": 148,
       "mode": 0,
       "inputs": [
         {
@@ -1782,7 +1782,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 151,
+      "order": 150,
       "mode": 0,
       "inputs": [
         {
@@ -1842,7 +1842,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 155,
+      "order": 154,
       "mode": 2,
       "inputs": [
         {
@@ -1902,7 +1902,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 154,
+      "order": 153,
       "mode": 2,
       "inputs": [
         {
@@ -1966,7 +1966,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 167,
+      "order": 166,
       "mode": 2,
       "inputs": [
         {
@@ -2041,7 +2041,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 161,
+      "order": 160,
       "mode": 2,
       "inputs": [
         {
@@ -2103,7 +2103,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 166,
+      "order": 165,
       "mode": 2,
       "inputs": [
         {
@@ -2194,7 +2194,7 @@
         "color_restricted": 0
       },
       "widgets_values": [
-        1025116861928993,
+        640823360962714,
         "randomize"
       ],
       "color": "#ffaa32",
@@ -2256,7 +2256,7 @@
         "1": 860.9612426757812
       },
       "flags": {},
-      "order": 169,
+      "order": 168,
       "mode": 2,
       "inputs": [
         {
@@ -2425,7 +2425,7 @@
         "%date/",
         "FLUX\\creapromptFlux1Dev_v10.safetensors",
         "Flux_vae.safetensors",
-        483779379622266,
+        598637250637009,
         "randomize",
         20,
         8,
@@ -2639,7 +2639,7 @@
       },
       "widgets_values": [
         "cosmic-terms",
-        936327652783469,
+        741869892890664,
         "randomize"
       ],
       "color": "#222",
@@ -3058,7 +3058,7 @@
       },
       "widgets_values": [
         "cosmic-galaxy",
-        130331336414210,
+        951839898710188,
         "randomize"
       ],
       "color": "#222",
@@ -3084,7 +3084,7 @@
         "1": 54
       },
       "flags": {},
-      "order": 131,
+      "order": 130,
       "mode": 0,
       "inputs": [
         {
@@ -3144,7 +3144,7 @@
         "1": 46
       },
       "flags": {},
-      "order": 145,
+      "order": 144,
       "mode": 0,
       "inputs": [
         {
@@ -3206,7 +3206,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 133,
+      "order": 132,
       "mode": 0,
       "inputs": [
         {
@@ -3292,7 +3292,7 @@
       },
       "widgets_values": [
         "cosmic-nebula",
-        1085549930389630,
+        767230257496647,
         "randomize"
       ],
       "color": "#222",
@@ -3345,7 +3345,7 @@
       },
       "widgets_values": [
         "scenario-desc",
-        590667850571867,
+        919446687875312,
         "randomize"
       ],
       "color": "#222",
@@ -3528,7 +3528,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 147,
+      "order": 146,
       "mode": 0,
       "inputs": [
         {
@@ -3566,7 +3566,7 @@
         "1": 76
       },
       "flags": {},
-      "order": 159,
+      "order": 158,
       "mode": 0,
       "inputs": [
         {
@@ -3621,7 +3621,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 129,
+      "order": 128,
       "mode": 0,
       "inputs": [
         {
@@ -4416,7 +4416,7 @@
         "1": 76
       },
       "flags": {},
-      "order": 165,
+      "order": 164,
       "mode": 2,
       "inputs": [
         {
@@ -4520,59 +4520,6 @@
       "color": "#1ea078",
       "bgcolor": "#0a8c64",
       "shape": 1
-    },
-    {
-      "id": 702,
-      "type": "ShowText|pysssss",
-      "pos": {
-        "0": -751.17236328125,
-        "1": 261,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
-      },
-      "size": {
-        "0": 445.5078430175781,
-        "1": 347.5412902832031
-      },
-      "flags": {},
-      "order": 128,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "text",
-          "type": "STRING",
-          "link": 1621,
-          "widget": {
-            "name": "text"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [],
-          "slot_index": 0,
-          "shape": 6
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "ShowText|pysssss"
-      },
-      "widgets_values": [
-        [
-          "blue cat"
-        ],
-        "blue cat"
-      ],
-      "color": "#cd41ba",
-      "bgcolor": "#b92da6"
     },
     {
       "id": 335,
@@ -4953,7 +4900,7 @@
         "1": 74
       },
       "flags": {},
-      "order": 139,
+      "order": 138,
       "mode": 0,
       "inputs": [
         {
@@ -5253,7 +5200,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 153,
+      "order": 152,
       "mode": 2,
       "inputs": [
         {
@@ -5316,7 +5263,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 146,
+      "order": 145,
       "mode": 2,
       "inputs": [
         {
@@ -5434,7 +5381,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 138,
+      "order": 137,
       "mode": 2,
       "inputs": [
         {
@@ -5509,7 +5456,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 136,
+      "order": 135,
       "mode": 2,
       "inputs": [
         {
@@ -5582,7 +5529,7 @@
         "1": 76
       },
       "flags": {},
-      "order": 173,
+      "order": 172,
       "mode": 2,
       "inputs": [
         {
@@ -5637,7 +5584,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 168,
+      "order": 167,
       "mode": 2,
       "inputs": [
         {
@@ -5750,7 +5697,7 @@
         "1": 860.9612426757812
       },
       "flags": {},
-      "order": 150,
+      "order": 149,
       "mode": 0,
       "inputs": [
         {
@@ -5921,7 +5868,7 @@
         "%date/",
         "FLUX\\creapromptFlux1Dev_v10.safetensors",
         "Flux_vae.safetensors",
-        831264916852636,
+        239835004293414,
         "randomize",
         20,
         8,
@@ -6025,7 +5972,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 160,
+      "order": 159,
       "mode": 2,
       "inputs": [
         {
@@ -6112,7 +6059,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 152,
+      "order": 151,
       "mode": 2,
       "inputs": [
         {
@@ -6278,7 +6225,7 @@
         "1": 614
       },
       "flags": {},
-      "order": 164,
+      "order": 163,
       "mode": 2,
       "inputs": [
         {
@@ -6369,7 +6316,7 @@
       },
       "widgets_values": [
         2,
-        645145874835235,
+        752490013057396,
         "randomize",
         8,
         5,
@@ -6412,7 +6359,7 @@
         "1": 76
       },
       "flags": {},
-      "order": 174,
+      "order": 173,
       "mode": 2,
       "inputs": [
         {
@@ -6668,7 +6615,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 134,
+      "order": 133,
       "mode": 0,
       "inputs": [
         {
@@ -6741,7 +6688,7 @@
         "1": 860.9612426757812
       },
       "flags": {},
-      "order": 171,
+      "order": 170,
       "mode": 2,
       "inputs": [
         {
@@ -6910,7 +6857,7 @@
         "%date/",
         "FLUX\\creapromptFlux1Dev_v10.safetensors",
         "Flux_vae.safetensors",
-        651935289680090,
+        838106578988546,
         "randomize",
         20,
         8,
@@ -7244,7 +7191,7 @@
         "1": 1195.78466796875
       },
       "flags": {},
-      "order": 143,
+      "order": 142,
       "mode": 0,
       "inputs": [
         {
@@ -7284,7 +7231,7 @@
         "1": 46
       },
       "flags": {},
-      "order": 141,
+      "order": 140,
       "mode": 0,
       "inputs": [
         {
@@ -8167,7 +8114,7 @@
         "1": 46
       },
       "flags": {},
-      "order": 135,
+      "order": 134,
       "mode": 2,
       "inputs": [
         {
@@ -8601,48 +8548,6 @@
       "bgcolor": "#000"
     },
     {
-      "id": 763,
-      "type": "chaosaiart_Number2",
-      "pos": {
-        "0": -2323,
-        "1": 655,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
-      },
-      "size": {
-        "0": 360.1264953613281,
-        "1": 58
-      },
-      "flags": {},
-      "order": 80,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "FLOAT",
-          "type": "FLOAT",
-          "links": [
-            1691
-          ],
-          "shape": 3
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "chaosaiart_Number2"
-      },
-      "widgets_values": [
-        0.6
-      ],
-      "color": "#14ff14",
-      "bgcolor": "#00ff00"
-    },
-    {
       "id": 794,
       "type": "KSampler",
       "pos": {
@@ -8662,7 +8567,7 @@
         "1": 218
       },
       "flags": {},
-      "order": 140,
+      "order": 139,
       "mode": 0,
       "inputs": [
         {
@@ -8755,7 +8660,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        536099165034710,
+        985383021806738,
         "randomize",
         20,
         8,
@@ -8786,7 +8691,7 @@
         "1": 76
       },
       "flags": {},
-      "order": 157,
+      "order": 156,
       "mode": 0,
       "inputs": [
         {
@@ -8841,7 +8746,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 132,
+      "order": 131,
       "mode": 0,
       "inputs": [
         {
@@ -8973,59 +8878,6 @@
       "bgcolor": "#103a7f"
     },
     {
-      "id": 825,
-      "type": "ShowText|pysssss",
-      "pos": {
-        "0": -1067,
-        "1": -28,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
-      },
-      "size": {
-        "0": 532.4415893554688,
-        "1": 130.17164611816406
-      },
-      "flags": {},
-      "order": 130,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "text",
-          "type": "STRING",
-          "link": 1877,
-          "widget": {
-            "name": "text"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": null,
-          "shape": 6
-        }
-      ],
-      "title": "Show Text 🐍 CONTROL Prompt",
-      "properties": {
-        "Node name for S&R": "ShowText|pysssss"
-      },
-      "widgets_values": [
-        [
-          "720"
-        ],
-        "blue cat"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
       "id": 493,
       "type": "LoadImage",
       "pos": {
@@ -9045,7 +8897,7 @@
         "1": 378.6979064941406
       },
       "flags": {},
-      "order": 81,
+      "order": 80,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -9095,7 +8947,7 @@
         "1": 341.17425537109375
       },
       "flags": {},
-      "order": 82,
+      "order": 81,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -9275,42 +9127,6 @@
       "bgcolor": "#00ff00"
     },
     {
-      "id": 502,
-      "type": "Note Plus (mtb)",
-      "pos": {
-        "0": -3169,
-        "1": 85,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
-      },
-      "size": {
-        "0": 816.4134521484375,
-        "1": 415.2282409667969
-      },
-      "flags": {},
-      "order": 83,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [],
-      "title": "Unnamed",
-      "properties": {},
-      "widgets_values": [
-        "<h1>🔵⚪️🔴</h1>\n<font color=\"#001100\">\n#<b>⚠️⚠️ ATTENTION️ ⚠️⚠️</b></font><hr>\n\n# SWITCH POUR CHOISIR L'IMAGE  ⏩⏩⏩\n<hr>\n# 💗️ [1] <b> text 2 image </b> -  Ksampler \"calcul\" de l'image <br>\n# 💚 [2]  <b>Load-Image </b>: une seule image <br>\n# 💙 [3]  <b>Load Batch image </b> / répertoire  <br>\n# 💛 [4]  <b>Load Image From URL </b>: depuis 'internet' <br>\n# 💜 [5]  <b>Image Reveiver</b>: Boucle = permet de re-injecter l'image produite pour la retravailler<br>",
-        "markdown",
-        "",
-        "one_dark"
-      ],
-      "color": "#28aaaa",
-      "bgcolor": "#149696",
-      "shape": 1
-    },
-    {
       "id": 660,
       "type": "Note Plus (mtb)",
       "pos": {
@@ -9330,7 +9146,7 @@
         "1": 414.58734130859375
       },
       "flags": {},
-      "order": 84,
+      "order": 82,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -9366,7 +9182,7 @@
         "1": 472.123046875
       },
       "flags": {},
-      "order": 85,
+      "order": 83,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -9436,10 +9252,9 @@
           "name": "STRING",
           "type": "STRING",
           "links": [
-            1621,
             1630,
             1876,
-            1877
+            1888
           ],
           "slot_index": 0,
           "shape": 3
@@ -9566,7 +9381,7 @@
         "1": 936
       },
       "flags": {},
-      "order": 86,
+      "order": 84,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -9767,7 +9582,7 @@
         "1": 498.19091796875
       },
       "flags": {},
-      "order": 87,
+      "order": 85,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -9802,6 +9617,95 @@
       "bgcolor": "#09dc65"
     },
     {
+      "id": 502,
+      "type": "Note Plus (mtb)",
+      "pos": {
+        "0": -3169,
+        "1": 85,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0
+      },
+      "size": {
+        "0": 816.4134521484375,
+        "1": 415.2282409667969
+      },
+      "flags": {},
+      "order": 86,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "title": "Unnamed",
+      "properties": {},
+      "widgets_values": [
+        "<h1>🔵⚪️🔴</h1>\n<font color=\"#001100\">\n#<b>⚠️⚠️ ATTENTION️ ⚠️⚠️</b></font><hr>\n\n# SWITCH POUR CHOISIR L'IMAGE  ⏩⏩⏩\n<hr>\n# 💗️ [1] <b> text 2 image </b> -  Ksampler \"calcul\" de l'image <br>\n# 💚 [2]  <b>Load-Image </b>: une seule image <br>\n# 💙 [3]  <b>Load Batch image </b> / répertoire  <br>\n# 💛 [4]  <b>Load Image From URL </b>: depuis 'internet' <br>\n# 💜 [5]  <b>Image Receiver</b>: Boucle = permet de re-injecter l'image produite pour la retravailler<br>",
+        "markdown",
+        "",
+        "one_dark"
+      ],
+      "color": "#28aaaa",
+      "bgcolor": "#149696",
+      "shape": 1
+    },
+    {
+      "id": 702,
+      "type": "ShowText|pysssss",
+      "pos": {
+        "0": -751.17236328125,
+        "1": 261,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0
+      },
+      "size": {
+        "0": 445.5078430175781,
+        "1": 347.5412902832031
+      },
+      "flags": {},
+      "order": 129,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "text",
+          "type": "STRING",
+          "link": 1888,
+          "widget": {
+            "name": "text"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [],
+          "slot_index": 0,
+          "shape": 6
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "ShowText|pysssss"
+      },
+      "widgets_values": [
+        [
+          "blue cat"
+        ],
+        "blue cat"
+      ],
+      "color": "#cd41ba",
+      "bgcolor": "#b92da6"
+    },
+    {
       "id": 680,
       "type": "Note",
       "pos": {
@@ -9821,7 +9725,7 @@
         "1": 77.19602966308594
       },
       "flags": {},
-      "order": 88,
+      "order": 87,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -9832,6 +9736,48 @@
       ],
       "color": "#222",
       "bgcolor": "#000"
+    },
+    {
+      "id": 763,
+      "type": "chaosaiart_Number2",
+      "pos": {
+        "0": -2323,
+        "1": 655,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0
+      },
+      "size": {
+        "0": 360.1264953613281,
+        "1": 58
+      },
+      "flags": {},
+      "order": 88,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "FLOAT",
+          "type": "FLOAT",
+          "links": [
+            1691
+          ],
+          "shape": 3
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "chaosaiart_Number2"
+      },
+      "widgets_values": [
+        0.4
+      ],
+      "color": "#14ff14",
+      "bgcolor": "#00ff00"
     }
   ],
   "links": [
@@ -11060,14 +11006,6 @@
       "STRING"
     ],
     [
-      1621,
-      690,
-      0,
-      702,
-      0,
-      "STRING"
-    ],
-    [
       1622,
       332,
       0,
@@ -12036,14 +11974,6 @@
       "STRING"
     ],
     [
-      1877,
-      690,
-      0,
-      825,
-      0,
-      "STRING"
-    ],
-    [
       1878,
       667,
       0,
@@ -12085,6 +12015,62 @@
     ],
     [
       1883,
+      667,
+      0,
+      794,
+      4,
+      "INT"
+    ],
+    [
+      1884,
+      667,
+      0,
+      176,
+      6,
+      "INT"
+    ],
+    [
+      1885,
+      681,
+      2,
+      205,
+      1,
+      "VAE"
+    ],
+    [
+      1886,
+      667,
+      0,
+      794,
+      4,
+      "INT"
+    ],
+    [
+      1888,
+      690,
+      0,
+      702,
+      0,
+      "STRING"
+    ],
+    [
+      1890,
+      667,
+      0,
+      176,
+      6,
+      "INT"
+    ],
+    [
+      1891,
+      681,
+      2,
+      205,
+      1,
+      "VAE"
+    ],
+    [
+      1892,
       667,
       0,
       794,
@@ -12265,10 +12251,10 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 1,
+      "scale": 0.5644739300537773,
       "offset": [
-        2066.1390899609087,
-        1081.8930867131985
+        2561.000828011243,
+        259.50190417952035
       ]
     },
     "groupNodes": {}
