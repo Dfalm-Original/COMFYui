@@ -1,6 +1,6 @@
 {
   "last_node_id": 566,
-  "last_link_id": 1413,
+  "last_link_id": 1416,
   "nodes": [
     {
       "id": 209,
@@ -24,7 +24,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 71,
+      "order": 73,
       "mode": 0,
       "inputs": [
         {
@@ -632,7 +632,7 @@
       },
       "widgets_values": [
         "",
-        "Positive prompt :  Blue cat\nNegative prompt: \nSteps: 7, Sampler: euler_ancestral_karras, CFG scale: 5.0, Seed: 777926433347134, Size: 720x1280, Model: sd_xl_base_1.0, Version: ComfyUI, Extra info: Lora :  RIEN_PAS_DE_LORA --- Par Dfalm 2024 ---  https://github.com/Dfalm-Original/COMFYui -- https://www.youtube.com/@Dfalm "
+        "Positive prompt :  Blue cat\nNegative prompt: \nSteps: 7, Sampler: euler_ancestral_karras, CFG scale: 5.0, Seed: 995289519193312, Size: 720x1280, Model: sd_xl_base_1.0, Version: ComfyUI, Extra info: Lora :  RIEN_PAS_DE_LORA --- Par Dfalm 2024 ---  https://github.com/Dfalm-Original/COMFYui -- https://www.youtube.com/@Dfalm "
       ],
       "color": "#bea31d",
       "bgcolor": "#aa8f09"
@@ -659,7 +659,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 75,
+      "order": 72,
       "mode": 2,
       "inputs": [
         {
@@ -717,7 +717,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 82,
+      "order": 79,
       "mode": 2,
       "inputs": [
         {
@@ -824,7 +824,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 74,
+      "order": 71,
       "mode": 2,
       "inputs": [
         {
@@ -1926,7 +1926,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        817291923190021,
+        409494942094415,
         "randomize",
         20,
         8,
@@ -2077,7 +2077,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 81,
+      "order": 78,
       "mode": 2,
       "inputs": [
         {
@@ -3097,7 +3097,7 @@
         "%date/",
         "FLUX\\creapromptFlux1Dev_v10.safetensors",
         "Flux_vae.safetensors",
-        91255384315752,
+        869264165594423,
         "randomize",
         20,
         8,
@@ -3234,7 +3234,7 @@
       },
       "widgets_values": [
         2,
-        1067441828328396,
+        93763237018833,
         "randomize",
         8,
         4,
@@ -3446,7 +3446,7 @@
         "%date/",
         "FLUX\\creapromptFlux1Dev_v10.safetensors",
         "Flux_vae.safetensors",
-        875391311735268,
+        631043354557557,
         "randomize",
         20,
         8,
@@ -3927,7 +3927,7 @@
         "%date/",
         "FLUX\\creapromptFlux1Dev_v10.safetensors",
         "Flux_vae.safetensors",
-        841753558032818,
+        255387295143950,
         "randomize",
         20,
         8,
@@ -4192,7 +4192,7 @@
         "1": 85.7379150390625
       },
       "flags": {},
-      "order": 73,
+      "order": 75,
       "mode": 0,
       "inputs": [
         {
@@ -4338,7 +4338,7 @@
       },
       "widgets_values": [
         "",
-        "FICHIER_sd_xl_base_1.0"
+        "FICHIER_21-00_SDXL--sd_xl_base_1.0"
       ],
       "color": "#149478",
       "bgcolor": "#008064"
@@ -4365,7 +4365,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 78,
+      "order": 80,
       "mode": 0,
       "inputs": [
         {
@@ -4604,78 +4604,6 @@
       "shape": 1
     },
     {
-      "id": 558,
-      "type": "Note Plus (mtb)",
-      "pos": {
-        "0": -3852,
-        "1": 401,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
-      },
-      "size": {
-        "0": 750.3287963867188,
-        "1": 279.3503112792969
-      },
-      "flags": {},
-      "order": 36,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [],
-      "title": "Unnamed",
-      "properties": {},
-      "widgets_values": [
-        "🔵⚪️🔴<font color=\"#001100\">\n<h1> <b>⚠️⚠️ ATTENTION️ ⚠️⚠️</b></h1></font><b>\n<hr>\n# SWITCH TO CHOOSE THE TYPE OF PROMPT ⏩⏩<br>\n<hr>\n## 💚 [1]  Prompt classic = NO-Batch<br>\n## 💙 [2]  Prompt + BONUS = NO-Batch<br>\n## 💛 [3]  Batch file Prompt <br>\n## 💜️ [4] Batch file Prompt + BONUS\n# SWITCH TO CHOOSE THE TYPE OF PROMPT ⏩⏩</b>",
-        "markdown",
-        "",
-        "one_dark"
-      ],
-      "color": "#28aaaa",
-      "bgcolor": "#149696",
-      "shape": 1
-    },
-    {
-      "id": 559,
-      "type": "Note Plus (mtb)",
-      "pos": {
-        "0": -3850,
-        "1": 702,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
-      },
-      "size": {
-        "0": 748.5842895507812,
-        "1": 223.02471923828125
-      },
-      "flags": {},
-      "order": 37,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [],
-      "title": "Unnamed",
-      "properties": {},
-      "widgets_values": [
-        "🔵⚪️🔴<font color=\"#001100\">\n<h1> <b>⚠️⚠️ ATTENTION️ ⚠️⚠️</b></h1></font><b>\n<hr>\n# SWITCH TO CHOOSE PROMPT IMPROVEMENT ⏩⏩\n<hr>\n## 💚 [1] Prompts Vanilla (No modification)<br>\n## 💙 [2] Prompts + RANDOM (adds words)<br>\n# SWITCH TO CHOOSE PROMPT IMPROVEMENT ⏩⏩</b>",
-        "markdown",
-        "",
-        "one_dark"
-      ],
-      "color": "#2860a8",
-      "bgcolor": "#144c94",
-      "shape": 1
-    },
-    {
       "id": 247,
       "type": "Note Plus (mtb)",
       "pos": {
@@ -4695,7 +4623,7 @@
         "1": 223.5563201904297
       },
       "flags": {},
-      "order": 38,
+      "order": 36,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -4731,7 +4659,7 @@
         "1": 223.28709411621094
       },
       "flags": {},
-      "order": 39,
+      "order": 37,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -4769,7 +4697,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 40,
+      "order": 38,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -4794,7 +4722,7 @@
       },
       "widgets_values": [
         "cosmic-galaxy",
-        367262751356400,
+        651914042782624,
         "randomize"
       ],
       "color": "#222",
@@ -4822,7 +4750,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 41,
+      "order": 39,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -4847,7 +4775,7 @@
       },
       "widgets_values": [
         "cosmic-terms",
-        381794078795549,
+        1121301973573491,
         "randomize"
       ],
       "color": "#222",
@@ -4875,7 +4803,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 42,
+      "order": 40,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -4900,7 +4828,7 @@
       },
       "widgets_values": [
         "cosmic-nebula",
-        791456536449037,
+        563995364267694,
         "randomize"
       ],
       "color": "#222",
@@ -4928,7 +4856,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 43,
+      "order": 41,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -4953,7 +4881,7 @@
       },
       "widgets_values": [
         "scenario-desc",
-        934365329245765,
+        482065126169294,
         "randomize"
       ],
       "color": "#222",
@@ -4979,7 +4907,7 @@
         "1": 213.9044952392578
       },
       "flags": {},
-      "order": 44,
+      "order": 42,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -5015,7 +4943,7 @@
         "1": 130.64468383789062
       },
       "flags": {},
-      "order": 45,
+      "order": 43,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -5051,7 +4979,7 @@
         "1": 115.99164581298828
       },
       "flags": {},
-      "order": 46,
+      "order": 44,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -5176,7 +5104,7 @@
         "1": 146
       },
       "flags": {},
-      "order": 79,
+      "order": 81,
       "mode": 0,
       "inputs": [
         {
@@ -5354,7 +5282,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 72,
+      "order": 74,
       "mode": 0,
       "inputs": [
         {
@@ -5434,7 +5362,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 47,
+      "order": 45,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -5452,8 +5380,9 @@
         "color_restricted": 0
       },
       "widgets_values": [
-        237113242251394,
-        "randomize"
+        147110387690997,
+        "randomize",
+        "995289519193312"
       ],
       "color": "#ffaa32",
       "bgcolor": "#ff961e"
@@ -5480,14 +5409,14 @@
       "flags": {
         "collapsed": true
       },
-      "order": 80,
+      "order": 82,
       "mode": 0,
       "inputs": [
         {
           "name": "VAE",
           "type": "*",
           "link": 1295,
-          "color_on": "#FF6E6E"
+          "color_on": "#e4ff6e"
         }
       ],
       "outputs": [],
@@ -5496,7 +5425,9 @@
         "group_restricted": 0,
         "color_restricted": 0
       },
-      "widgets_values": [],
+      "widgets_values": [
+        "<comfy.sd.VAE object at 0x0000015ABEA6B190>"
+      ],
       "color": "#ffff78",
       "bgcolor": "#ffff64"
     },
@@ -5669,7 +5600,7 @@
         "1": 174
       },
       "flags": {},
-      "order": 48,
+      "order": 46,
       "mode": 0,
       "inputs": [
         {
@@ -5736,7 +5667,7 @@
         "1": 531.4080810546875
       },
       "flags": {},
-      "order": 49,
+      "order": 47,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -5782,7 +5713,7 @@
         "1": 178
       },
       "flags": {},
-      "order": 50,
+      "order": 48,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -6056,7 +5987,7 @@
         "1": 214.49623107910156
       },
       "flags": {},
-      "order": 51,
+      "order": 49,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -6330,7 +6261,7 @@
         "1": 140.39767456054688
       },
       "flags": {},
-      "order": 52,
+      "order": 50,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -6519,7 +6450,7 @@
         "1": 130.8046875
       },
       "flags": {},
-      "order": 53,
+      "order": 51,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -6555,7 +6486,7 @@
         "1": 166.2142333984375
       },
       "flags": {},
-      "order": 54,
+      "order": 52,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -6591,7 +6522,7 @@
         "1": 165.0363006591797
       },
       "flags": {},
-      "order": 55,
+      "order": 53,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -6661,6 +6592,469 @@
       "bgcolor": "#0a8c64"
     },
     {
+      "id": 565,
+      "type": "Checkpoint",
+      "pos": {
+        "0": -5879,
+        "1": 32,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0
+      },
+      "size": {
+        "0": 640.1082153320312,
+        "1": 1060.8734130859375
+      },
+      "flags": {},
+      "order": 54,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "Selected Checkpoints",
+          "type": "*",
+          "links": null,
+          "shape": 6
+        }
+      ],
+      "title": "TOUS MES TENSEURs (Checkpoints)",
+      "properties": {
+        "Node name for S&R": "Checkpoint"
+      },
+      "widgets_values": [
+        "SDXL-TURBO\\sd_xl_turbo_1.0.safetensors\nSDXLTurboPixelArtSuper_turbo.safetensors\namalgamationxl_v70Theta.safetensors\naniverse_v20HDPruned.safetensors\nartisanalXL_alpha1.safetensors\nbraindance_BD071.safetensors\ncookiecutter_flexV101.safetensors\ndarkPizzaXLOriginXL_v40.safetensors\ndreamshaperXL_turboDpmppSDE.safetensors\nfantasyWorld_v1.safetensors\nfluffyTart_v60.safetensors\nfoolkatGODOF_v3.safetensors\ngrogmixTURBO_v10.safetensors\nimpastomix_v10.safetensors\njuggernautXL_v8Rundiffusion.safetensors\njuggernautXL_v9Rdphoto2Lightning.safetensors\nkawaiiMonke_v120.safetensors\nlazymixRealAmateur_v40.safetensors\nleosamsFilmgirlUltra_ultraBaseModel.safetensors\nleosamsHelloworldXL_helloworldXL50GPT4V.safetensors\nleosamsHelloworldXL_hw50EulerALightning.safetensors\nnightvisionXLPhotorealisticPortrait_v0791Bakedvae.safetensors\nponyDiffusionV6XL_v6StartWithThisOne.safetensors\nrealWowXL_v20.safetensors\nrealcartoon3d_v14.safetensors\nrealcartoonAnime_v11.safetensors\nrealismBYSTABLEYOGI_sdxlV1LCM.safetensors\nrealvisxlV40_v40LightningBakedvae.safetensors\nrmsdxlHybridTurboXL_aries.safetensors\nsd-v1-5-inpainting.ckpt\nsdXL_v10VAEFix_2.safetensors\nsd_xl_base_1.0.safetensors\nsd_xl_refiner_1.0.safetensors\nsdvn7Nijistylexl_v1.safetensors\nsdxlNijiSpecial_sdxlNijiSE.safetensors\nsdxlYamersRealistic5_v5Rundiffusion.safetensors\nstableFusionXLTurbo_v15.safetensors\nstableFusionXLTurbo_v161.safetensors\nsynthpunkSearch_vivid.safetensors\nsynthwavepunk_v2.ckpt\nturbomixxlSoFastAnd_v20.safetensors\nturbovisionxlSuperFastXLBasedOnNew_tvxlV32Bakedvae.safetensors\nturbovisionxlSuperFastXLBasedOnNew_tvxlV431Bakedvae.safetensors\nwildcardxXLLIGHTNING_wildcardxXL.safetensors\nxxmix9realisticsdxl_v10.safetensors\nzavychromaxl_v40.safetensors",
+        true
+      ],
+      "color": "#e7a6a6",
+      "bgcolor": "#d39292"
+    },
+    {
+      "id": 564,
+      "type": "Lora",
+      "pos": {
+        "0": -6503,
+        "1": 32,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0
+      },
+      "size": {
+        "0": 601.4506225585938,
+        "1": 1742.95263671875
+      },
+      "flags": {},
+      "order": 55,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "Selected Loras",
+          "type": "*",
+          "links": [],
+          "slot_index": 0,
+          "shape": 6
+        }
+      ],
+      "title": "TOUTES MES LORAs",
+      "properties": {
+        "Node name for S&R": "Lora"
+      },
+      "widgets_values": [
+        "ABARA.safetensors\nAlphonse Mucha Style.safetensors\nAndrew Atroshenko Style.safetensors\nAndrew Atroshenko Style_2.safetensors\nCelestialSkin2.safetensors\nCellShading.safetensors\nChildren_Illustration_SDXL.safetensors\nCircleArt_Sora.safetensors\nCircleArt_Sora_SD15.safetensors\nConcept Art Twilight Style SDXL_LoRA_Pony Diffusion V6 XL.safetensors\nCyberpunk _Anime_sdxl.safetensors\nDeathMoon.safetensors\nDiscoElysiumStyle.safetensors\nDonMn1ghtm4reXL.safetensors\nDrawing.safetensors\nDreamscape-000008.safetensors\nDreamwave v2.5_8200.safetensors\nFaeTastic2.safetensors\nFilip Hodas Style.safetensors\nFusionDraw9257_Nebula_SDXL.safetensors\nFusionDraw9527_Nebula_SDXL_V2_4800.safetensors\nFuturisticScape-V3.safetensors\nGC-.safetensors\nGlitching.safetensors\nIPXL_v2.safetensors\nIPXL_v8.safetensors\nIridescence.safetensors\nJames_Webb_Space_Telescope.safetensors\nJasmineBWXLDoguMini.safetensors\nKawaii Graffit.safetensors\nKawaikute Gomen.safetensors\nLazrPopXL-000013.safetensors\nLineAniRedmond-LineAniAF.safetensors\nLogoRedmondV2-Logo-LogoRedmAF.safetensors\nLogoRedmond_LogoRedAF.safetensors\nMoXinV1.safetensors\nNatureTech_Residencies.safetensors\nNatureVRMv15.safetensors\nNotSoASCII_v1.safetensors\nOilPaint.safetensors\nPE_EpicLand.safetensors\nPastel color.safetensors\nPerfect Hands v2.safetensors\nPixel Sorting.safetensors\nPixelScenery.safetensors\nRMSDXL_Darkness_Cinema.safetensors\nRealistic_Ebony_Plus.safetensors\nRetrowaveTech-20.safetensors\nSDXLPaintSplash.safetensors\nSDXL_Sewing_doll.safetensors\nSanaaSD1-5.safetensors\nSketchStyle.safetensors\nStained Glass Portrait.safetensors\nT-shirt-08.safetensors\nTShirtDesignRedmondV2-Tshirtdesign-TshirtDesignAF.safetensors\nTUYA5.safetensors\nTakate_Kote_XL-000003.safetensors\nTrueLoveStyle.safetensors\nTshirtDesignRedmond-TshirtDesignAF.safetensors\nUkiyo-e Art.safetensors\nUkiyo-e.safetensors\nVG-000010.safetensors\nWizards_Vintage_Rubber_Hose__1930s_Animation_Style.safetensors\nadd-detail-xl.safetensors\nadd_detail.safetensors\naenami_v2-000022.safetensors\nanimeBondage_bondageShibariV3.pt\nanyloraCheckpoint_bakedvaeBlessedFp16.safetensors\nanythingKlF8Anime2VaeFtMse840000_klF8Anime2.safetensors\nanything_fp16.pt\nascii_art-sdxl.safetensors\nbadhandv4.pt\nbdsm_SDXL_1_.safetensors\nbichu-v0612.safetensors\nblack_and_white_1920s-10.safetensors\nblacklight_makeup_v2.safetensors\nbreakcore_sdxl.safetensors\ncheeseDaddys_35.safetensors\nchibi-v1.safetensors\ncoldUniverse.safetensors\nconcept_akiraposter-11.safetensors\ncrotchrope2-02.safetensors\ndamselpose-03-bsesd-2e-5-4500.safetensors\ndataviz_style_xl_v1.safetensors\ndoortoinfinity.safetensors\nf865513d-a5e9-4b5e-8e4e-82db39442444.safetensors\nflowersea.safetensors\nfuturistic_interior_composer.safetensors\nghibli_style_offset.safetensors\nholov7.safetensors\nipadapter\\ip-adapter-faceid-plusv2_sd15.bin\nipadapter\\ip-adapter-faceid-plusv2_sdxl.bin\nipadapter\\ip-adapter-faceid-plusv2_sdxl_lora.safetensors\nkLabyrinth.safetensors\nlcm\\SD1.5\\LCM_LoRA_Weights_SD15.safetensors\nlcm\\SD1.5\\pytorch_lora_weights.safetensors\nlcm\\SDXL\\LCM_lora-stable-diffusion-xl .safetensors\nlcm\\SDXL\\pytorch_lora_weights.safetensors\nlcm\\SSD-1B\\LCMTurboMix_Euler_A_fix.safetensors\nlcm\\SSD-1B\\pytorch_lora_weights.safetensors\nlego_v2.0_XL_32.safetensors\nlineart + flat colors v2.safetensors\nloha_animal_sdxl.safetensors\nmodel_SDXL.safetensors\nnaturepron_nolabels.safetensors\nnlc_green.safetensors\nphotorealisticbondage_v1.safetensors\npixel-art-xl-v1.1.safetensors\npixel_art.safetensors\npixel_f2.safetensors\npixelartV3.safetensors\npollock-01.safetensors\nretrowave_0.12.safetensors\nropeharness-02.safetensors\nrppc-final.safetensors\nsd_xl_offset_example-lora_1.0.safetensors\nshibari_bondage_-_v0.9.1.2-000010.safetensors\nshibari_v20.safetensors\nshibarionelegup-02.safetensors\nsidesuspension-02.safetensors\nsmall-planet-04.safetensors\nstreet_tones.safetensors\nsuspension.safetensors\ntakatekote-02.safetensors\ntexta.safetensors\nvaporwave.pt\nvintage_illust.safetensors\nvolcano.safetensors\nw0rld - World Inside Body.safetensors\nwavebackground.safetensors\nxl_NatureVRM.safetensors\nxl_ink wash painting style(pony).safetensors\nxl_more_art-full_v1.safetensors\nxlsanaa woman.safetensors\nzxs.safetensors\n【Muggle Lora】extremeangle 广角仰拍.safetensors\n简约黑白头像_极简风头像_v1.0.safetensors",
+        true
+      ],
+      "color": "#9678be",
+      "bgcolor": "#8264aa"
+    },
+    {
+      "id": 241,
+      "type": "DF_String_Concatenate",
+      "pos": {
+        "0": 423,
+        "1": -25,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0
+      },
+      "size": {
+        "0": 210,
+        "1": 78
+      },
+      "flags": {
+        "collapsed": false
+      },
+      "order": 88,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "Prepend",
+          "type": "STRING",
+          "link": 1029,
+          "widget": {
+            "name": "Prepend"
+          }
+        },
+        {
+          "name": "Append",
+          "type": "STRING",
+          "link": 868,
+          "widget": {
+            "name": "Append"
+          }
+        },
+        {
+          "name": "Delimiter",
+          "type": "STRING",
+          "link": 1407,
+          "widget": {
+            "name": "Delimiter"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "TEXT",
+          "type": "STRING",
+          "links": [
+            1039,
+            1159,
+            1202,
+            1317
+          ],
+          "slot_index": 0,
+          "shape": 3
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "DF_String_Concatenate"
+      },
+      "widgets_values": [
+        "",
+        "",
+        "_"
+      ],
+      "color": "#222",
+      "bgcolor": "#000"
+    },
+    {
+      "id": 566,
+      "type": "JWDatetimeString",
+      "pos": {
+        "0": 460,
+        "1": 106,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0
+      },
+      "size": {
+        "0": 210,
+        "1": 58
+      },
+      "flags": {
+        "collapsed": true
+      },
+      "order": 56,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            1407
+          ],
+          "slot_index": 0,
+          "shape": 3
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "JWDatetimeString",
+        "ttNbgOverride": {
+          "color": "#222",
+          "bgcolor": "#000",
+          "groupcolor": "#444"
+        }
+      },
+      "widgets_values": [
+        "_%H-%M_"
+      ],
+      "color": "#222",
+      "bgcolor": "#000"
+    },
+    {
+      "id": 420,
+      "type": "Upscale Model Loader",
+      "pos": {
+        "0": 1509.418212890625,
+        "1": -224.84132385253906,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0
+      },
+      "size": {
+        "0": 570.5856323242188,
+        "1": 78
+      },
+      "flags": {},
+      "order": 57,
+      "mode": 2,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "UPSCALE_MODEL",
+          "type": "UPSCALE_MODEL",
+          "links": [
+            1141
+          ],
+          "slot_index": 0,
+          "shape": 3
+        },
+        {
+          "name": "MODEL_NAME_TEXT",
+          "type": "STRING",
+          "links": [
+            1212,
+            1218
+          ],
+          "slot_index": 1,
+          "shape": 3
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "Upscale Model Loader"
+      },
+      "widgets_values": [
+        "2x_AniScale2_ESRGAN_Lite_i16_165K.pth"
+      ],
+      "color": "#dcff14",
+      "bgcolor": "#c8ff00"
+    },
+    {
+      "id": 456,
+      "type": "Upscale Model Loader",
+      "pos": {
+        "0": 2613,
+        "1": -246,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0
+      },
+      "size": {
+        "0": 575.5458984375,
+        "1": 78
+      },
+      "flags": {},
+      "order": 58,
+      "mode": 2,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "UPSCALE_MODEL",
+          "type": "UPSCALE_MODEL",
+          "links": [
+            1213
+          ],
+          "slot_index": 0,
+          "shape": 3
+        },
+        {
+          "name": "MODEL_NAME_TEXT",
+          "type": "STRING",
+          "links": [
+            1214,
+            1280
+          ],
+          "slot_index": 1,
+          "shape": 3
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "Upscale Model Loader"
+      },
+      "widgets_values": [
+        "4x_foolhardy_Remacri.pth"
+      ],
+      "color": "#dcff14",
+      "bgcolor": "#c8ff00"
+    },
+    {
+      "id": 454,
+      "type": "Fast Groups Muter (rgthree)",
+      "pos": {
+        "0": 1043,
+        "1": -754,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0
+      },
+      "size": {
+        "0": 439.8860168457031,
+        "1": 298
+      },
+      "flags": {
+        "pinned": false
+      },
+      "order": 59,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "OPT_CONNECTION",
+          "type": "*",
+          "links": null
+        }
+      ],
+      "properties": {
+        "matchColors": "",
+        "matchTitle": "",
+        "showNav": true,
+        "sort": "position",
+        "customSortAlphabet": "",
+        "toggleRestriction": "default"
+      },
+      "color": "#46ff46",
+      "bgcolor": "#32ff32"
+    },
+    {
+      "id": 558,
+      "type": "Note Plus (mtb)",
+      "pos": {
+        "0": -3852,
+        "1": 401,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0
+      },
+      "size": {
+        "0": 750.3287963867188,
+        "1": 279.3503112792969
+      },
+      "flags": {},
+      "order": 60,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "title": "Unnamed",
+      "properties": {},
+      "widgets_values": [
+        "🌎🌍🌏<font color=\"#001100\">\n<h1> <b>⚠️⚠️ ATTENTION️ ⚠️⚠️</b></h1></font><b>\n<hr>\n# SWITCH TO CHOOSE THE TYPE OF PROMPT ⏩⏩<br>\n<hr>\n## 💚 [1]  Prompt classic = NO-Batch<br>\n## 💙 [2]  Prompt + BONUS = NO-Batch<br>\n## 💛 [3]  Batch file Prompt <br>\n## 💜️ [4] Batch file Prompt + BONUS\n# SWITCH TO CHOOSE THE TYPE OF PROMPT ⏩⏩</b>",
+        "markdown",
+        "",
+        "one_dark"
+      ],
+      "color": "#28aaaa",
+      "bgcolor": "#149696",
+      "shape": 1
+    },
+    {
+      "id": 559,
+      "type": "Note Plus (mtb)",
+      "pos": {
+        "0": -3850,
+        "1": 702,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0
+      },
+      "size": {
+        "0": 748.5842895507812,
+        "1": 223.02471923828125
+      },
+      "flags": {},
+      "order": 61,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "title": "Unnamed",
+      "properties": {},
+      "widgets_values": [
+        "🌎🌍🌏<font color=\"#001100\">\n<h1> <b>⚠️⚠️ ATTENTION️ ⚠️⚠️</b></h1></font><b>\n<hr>\n# SWITCH TO CHOOSE PROMPT IMPROVEMENT ⏩⏩\n<hr>\n## 💚 [1] Prompts Vanilla (No modification)<br>\n## 💙 [2] Prompts + RANDOM (adds words)<br>\n# SWITCH TO CHOOSE PROMPT IMPROVEMENT ⏩⏩</b>",
+        "markdown",
+        "",
+        "one_dark"
+      ],
+      "color": "#2860a8",
+      "bgcolor": "#144c94",
+      "shape": 1
+    },
+    {
+      "id": 523,
+      "type": "Note",
+      "pos": {
+        "0": -1415,
+        "1": -649,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0
+      },
+      "size": {
+        "0": 492.0579833984375,
+        "1": 68.30645751953125
+      },
+      "flags": {},
+      "order": 62,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "title": "Note - VERSION",
+      "properties": {},
+      "widgets_values": [
+        "DEFAUT_MODEL-A_Text-2-Img+UPscalersV1.01\n"
+      ],
+      "color": "#222",
+      "bgcolor": "#000"
+    },
+    {
       "id": 194,
       "type": "SDParameterGenerator",
       "pos": {
@@ -6680,7 +7074,7 @@
         "1": 936
       },
       "flags": {},
-      "order": 56,
+      "order": 63,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -6837,7 +7231,7 @@
         "Node name for S&R": "SDParameterGenerator"
       },
       "widgets_values": [
-        "sd_xl_base_1.0.safetensors",
+        "SDXL\\sd_xl_base_1.0.safetensors",
         "sdxl_vae.safetensors",
         "SDXL 1024px",
         "none",
@@ -6856,404 +7250,13 @@
         "1",
         "Total steps: 7,\nRefiner start at step: 5 (80%)",
         "Custom aspect ratio: 720 x 1280",
-        "Total steps: 13,\nRefiner start at step: 10 (80%)",
         "Total steps: 7,\nRefiner start at step: 5 (80%)",
+        "Custom aspect ratio: 720 x 1280",
         true,
         true
       ],
       "color": "#328cff",
       "bgcolor": "#1e78ff"
-    },
-    {
-      "id": 565,
-      "type": "Checkpoint",
-      "pos": {
-        "0": -5879,
-        "1": 32,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
-      },
-      "size": {
-        "0": 640.1082153320312,
-        "1": 1060.8734130859375
-      },
-      "flags": {},
-      "order": 57,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "Selected Checkpoints",
-          "type": "*",
-          "links": null,
-          "shape": 6
-        }
-      ],
-      "title": "TOUS MES TENSEURs (Checkpoints)",
-      "properties": {
-        "Node name for S&R": "Checkpoint"
-      },
-      "widgets_values": [
-        "SDXL-TURBO\\sd_xl_turbo_1.0.safetensors\nSDXLTurboPixelArtSuper_turbo.safetensors\namalgamationxl_v70Theta.safetensors\naniverse_v20HDPruned.safetensors\nartisanalXL_alpha1.safetensors\nbraindance_BD071.safetensors\ncookiecutter_flexV101.safetensors\ndarkPizzaXLOriginXL_v40.safetensors\ndreamshaperXL_turboDpmppSDE.safetensors\nfantasyWorld_v1.safetensors\nfluffyTart_v60.safetensors\nfoolkatGODOF_v3.safetensors\ngrogmixTURBO_v10.safetensors\nimpastomix_v10.safetensors\njuggernautXL_v8Rundiffusion.safetensors\njuggernautXL_v9Rdphoto2Lightning.safetensors\nkawaiiMonke_v120.safetensors\nlazymixRealAmateur_v40.safetensors\nleosamsFilmgirlUltra_ultraBaseModel.safetensors\nleosamsHelloworldXL_helloworldXL50GPT4V.safetensors\nleosamsHelloworldXL_hw50EulerALightning.safetensors\nnightvisionXLPhotorealisticPortrait_v0791Bakedvae.safetensors\nponyDiffusionV6XL_v6StartWithThisOne.safetensors\nrealWowXL_v20.safetensors\nrealcartoon3d_v14.safetensors\nrealcartoonAnime_v11.safetensors\nrealismBYSTABLEYOGI_sdxlV1LCM.safetensors\nrealvisxlV40_v40LightningBakedvae.safetensors\nrmsdxlHybridTurboXL_aries.safetensors\nsd-v1-5-inpainting.ckpt\nsdXL_v10VAEFix_2.safetensors\nsd_xl_base_1.0.safetensors\nsd_xl_refiner_1.0.safetensors\nsdvn7Nijistylexl_v1.safetensors\nsdxlNijiSpecial_sdxlNijiSE.safetensors\nsdxlYamersRealistic5_v5Rundiffusion.safetensors\nstableFusionXLTurbo_v15.safetensors\nstableFusionXLTurbo_v161.safetensors\nsynthpunkSearch_vivid.safetensors\nsynthwavepunk_v2.ckpt\nturbomixxlSoFastAnd_v20.safetensors\nturbovisionxlSuperFastXLBasedOnNew_tvxlV32Bakedvae.safetensors\nturbovisionxlSuperFastXLBasedOnNew_tvxlV431Bakedvae.safetensors\nwildcardxXLLIGHTNING_wildcardxXL.safetensors\nxxmix9realisticsdxl_v10.safetensors\nzavychromaxl_v40.safetensors",
-        true
-      ],
-      "color": "#e7a6a6",
-      "bgcolor": "#d39292"
-    },
-    {
-      "id": 564,
-      "type": "Lora",
-      "pos": {
-        "0": -6503,
-        "1": 32,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
-      },
-      "size": {
-        "0": 601.4506225585938,
-        "1": 1742.95263671875
-      },
-      "flags": {},
-      "order": 58,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "Selected Loras",
-          "type": "*",
-          "links": [],
-          "slot_index": 0,
-          "shape": 6
-        }
-      ],
-      "title": "TOUTES MES LORAs",
-      "properties": {
-        "Node name for S&R": "Lora"
-      },
-      "widgets_values": [
-        "ABARA.safetensors\nAlphonse Mucha Style.safetensors\nAndrew Atroshenko Style.safetensors\nAndrew Atroshenko Style_2.safetensors\nCelestialSkin2.safetensors\nCellShading.safetensors\nChildren_Illustration_SDXL.safetensors\nCircleArt_Sora.safetensors\nCircleArt_Sora_SD15.safetensors\nConcept Art Twilight Style SDXL_LoRA_Pony Diffusion V6 XL.safetensors\nCyberpunk _Anime_sdxl.safetensors\nDeathMoon.safetensors\nDiscoElysiumStyle.safetensors\nDonMn1ghtm4reXL.safetensors\nDrawing.safetensors\nDreamscape-000008.safetensors\nDreamwave v2.5_8200.safetensors\nFaeTastic2.safetensors\nFilip Hodas Style.safetensors\nFusionDraw9257_Nebula_SDXL.safetensors\nFusionDraw9527_Nebula_SDXL_V2_4800.safetensors\nFuturisticScape-V3.safetensors\nGC-.safetensors\nGlitching.safetensors\nIPXL_v2.safetensors\nIPXL_v8.safetensors\nIridescence.safetensors\nJames_Webb_Space_Telescope.safetensors\nJasmineBWXLDoguMini.safetensors\nKawaii Graffit.safetensors\nKawaikute Gomen.safetensors\nLazrPopXL-000013.safetensors\nLineAniRedmond-LineAniAF.safetensors\nLogoRedmondV2-Logo-LogoRedmAF.safetensors\nLogoRedmond_LogoRedAF.safetensors\nMoXinV1.safetensors\nNatureTech_Residencies.safetensors\nNatureVRMv15.safetensors\nNotSoASCII_v1.safetensors\nOilPaint.safetensors\nPE_EpicLand.safetensors\nPastel color.safetensors\nPerfect Hands v2.safetensors\nPixel Sorting.safetensors\nPixelScenery.safetensors\nRMSDXL_Darkness_Cinema.safetensors\nRealistic_Ebony_Plus.safetensors\nRetrowaveTech-20.safetensors\nSDXLPaintSplash.safetensors\nSDXL_Sewing_doll.safetensors\nSanaaSD1-5.safetensors\nSketchStyle.safetensors\nStained Glass Portrait.safetensors\nT-shirt-08.safetensors\nTShirtDesignRedmondV2-Tshirtdesign-TshirtDesignAF.safetensors\nTUYA5.safetensors\nTakate_Kote_XL-000003.safetensors\nTrueLoveStyle.safetensors\nTshirtDesignRedmond-TshirtDesignAF.safetensors\nUkiyo-e Art.safetensors\nUkiyo-e.safetensors\nVG-000010.safetensors\nWizards_Vintage_Rubber_Hose__1930s_Animation_Style.safetensors\nadd-detail-xl.safetensors\nadd_detail.safetensors\naenami_v2-000022.safetensors\nanimeBondage_bondageShibariV3.pt\nanyloraCheckpoint_bakedvaeBlessedFp16.safetensors\nanythingKlF8Anime2VaeFtMse840000_klF8Anime2.safetensors\nanything_fp16.pt\nascii_art-sdxl.safetensors\nbadhandv4.pt\nbdsm_SDXL_1_.safetensors\nbichu-v0612.safetensors\nblack_and_white_1920s-10.safetensors\nblacklight_makeup_v2.safetensors\nbreakcore_sdxl.safetensors\ncheeseDaddys_35.safetensors\nchibi-v1.safetensors\ncoldUniverse.safetensors\nconcept_akiraposter-11.safetensors\ncrotchrope2-02.safetensors\ndamselpose-03-bsesd-2e-5-4500.safetensors\ndataviz_style_xl_v1.safetensors\ndoortoinfinity.safetensors\nf865513d-a5e9-4b5e-8e4e-82db39442444.safetensors\nflowersea.safetensors\nfuturistic_interior_composer.safetensors\nghibli_style_offset.safetensors\nholov7.safetensors\nipadapter\\ip-adapter-faceid-plusv2_sd15.bin\nipadapter\\ip-adapter-faceid-plusv2_sdxl.bin\nipadapter\\ip-adapter-faceid-plusv2_sdxl_lora.safetensors\nkLabyrinth.safetensors\nlcm\\SD1.5\\LCM_LoRA_Weights_SD15.safetensors\nlcm\\SD1.5\\pytorch_lora_weights.safetensors\nlcm\\SDXL\\LCM_lora-stable-diffusion-xl .safetensors\nlcm\\SDXL\\pytorch_lora_weights.safetensors\nlcm\\SSD-1B\\LCMTurboMix_Euler_A_fix.safetensors\nlcm\\SSD-1B\\pytorch_lora_weights.safetensors\nlego_v2.0_XL_32.safetensors\nlineart + flat colors v2.safetensors\nloha_animal_sdxl.safetensors\nmodel_SDXL.safetensors\nnaturepron_nolabels.safetensors\nnlc_green.safetensors\nphotorealisticbondage_v1.safetensors\npixel-art-xl-v1.1.safetensors\npixel_art.safetensors\npixel_f2.safetensors\npixelartV3.safetensors\npollock-01.safetensors\nretrowave_0.12.safetensors\nropeharness-02.safetensors\nrppc-final.safetensors\nsd_xl_offset_example-lora_1.0.safetensors\nshibari_bondage_-_v0.9.1.2-000010.safetensors\nshibari_v20.safetensors\nshibarionelegup-02.safetensors\nsidesuspension-02.safetensors\nsmall-planet-04.safetensors\nstreet_tones.safetensors\nsuspension.safetensors\ntakatekote-02.safetensors\ntexta.safetensors\nvaporwave.pt\nvintage_illust.safetensors\nvolcano.safetensors\nw0rld - World Inside Body.safetensors\nwavebackground.safetensors\nxl_NatureVRM.safetensors\nxl_ink wash painting style(pony).safetensors\nxl_more_art-full_v1.safetensors\nxlsanaa woman.safetensors\nzxs.safetensors\n【Muggle Lora】extremeangle 广角仰拍.safetensors\n简约黑白头像_极简风头像_v1.0.safetensors",
-        true
-      ],
-      "color": "#9678be",
-      "bgcolor": "#8264aa"
-    },
-    {
-      "id": 241,
-      "type": "DF_String_Concatenate",
-      "pos": {
-        "0": 423,
-        "1": -25,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
-      },
-      "size": {
-        "0": 210,
-        "1": 78
-      },
-      "flags": {
-        "collapsed": false
-      },
-      "order": 88,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "Prepend",
-          "type": "STRING",
-          "link": 1029,
-          "widget": {
-            "name": "Prepend"
-          }
-        },
-        {
-          "name": "Append",
-          "type": "STRING",
-          "link": 868,
-          "widget": {
-            "name": "Append"
-          }
-        },
-        {
-          "name": "Delimiter",
-          "type": "STRING",
-          "link": 1407,
-          "widget": {
-            "name": "Delimiter"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "TEXT",
-          "type": "STRING",
-          "links": [
-            1039,
-            1159,
-            1202,
-            1317
-          ],
-          "slot_index": 0,
-          "shape": 3
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "DF_String_Concatenate"
-      },
-      "widgets_values": [
-        "",
-        "",
-        "_"
-      ],
-      "color": "#222",
-      "bgcolor": "#000"
-    },
-    {
-      "id": 566,
-      "type": "JWDatetimeString",
-      "pos": {
-        "0": 460,
-        "1": 106,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
-      },
-      "size": {
-        "0": 210,
-        "1": 58
-      },
-      "flags": {
-        "collapsed": true
-      },
-      "order": 59,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            1407
-          ],
-          "slot_index": 0,
-          "shape": 3
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "JWDatetimeString",
-        "ttNbgOverride": {
-          "color": "#222",
-          "bgcolor": "#000",
-          "groupcolor": "#444"
-        }
-      },
-      "widgets_values": [
-        "_%H-%M_"
-      ],
-      "color": "#222",
-      "bgcolor": "#000"
-    },
-    {
-      "id": 420,
-      "type": "Upscale Model Loader",
-      "pos": {
-        "0": 1509.418212890625,
-        "1": -224.84132385253906,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
-      },
-      "size": {
-        "0": 570.5856323242188,
-        "1": 78
-      },
-      "flags": {},
-      "order": 60,
-      "mode": 2,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "UPSCALE_MODEL",
-          "type": "UPSCALE_MODEL",
-          "links": [
-            1141
-          ],
-          "slot_index": 0,
-          "shape": 3
-        },
-        {
-          "name": "MODEL_NAME_TEXT",
-          "type": "STRING",
-          "links": [
-            1212,
-            1218
-          ],
-          "slot_index": 1,
-          "shape": 3
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "Upscale Model Loader"
-      },
-      "widgets_values": [
-        "2x_AniScale2_ESRGAN_Lite_i16_165K.pth"
-      ],
-      "color": "#dcff14",
-      "bgcolor": "#c8ff00"
-    },
-    {
-      "id": 456,
-      "type": "Upscale Model Loader",
-      "pos": {
-        "0": 2613,
-        "1": -246,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
-      },
-      "size": {
-        "0": 575.5458984375,
-        "1": 78
-      },
-      "flags": {},
-      "order": 61,
-      "mode": 2,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "UPSCALE_MODEL",
-          "type": "UPSCALE_MODEL",
-          "links": [
-            1213
-          ],
-          "slot_index": 0,
-          "shape": 3
-        },
-        {
-          "name": "MODEL_NAME_TEXT",
-          "type": "STRING",
-          "links": [
-            1214,
-            1280
-          ],
-          "slot_index": 1,
-          "shape": 3
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "Upscale Model Loader"
-      },
-      "widgets_values": [
-        "4x_foolhardy_Remacri.pth"
-      ],
-      "color": "#dcff14",
-      "bgcolor": "#c8ff00"
-    },
-    {
-      "id": 454,
-      "type": "Fast Groups Muter (rgthree)",
-      "pos": {
-        "0": 1043,
-        "1": -754,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
-      },
-      "size": {
-        "0": 439.8860168457031,
-        "1": 298
-      },
-      "flags": {
-        "pinned": false
-      },
-      "order": 62,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "OPT_CONNECTION",
-          "type": "*",
-          "links": null
-        }
-      ],
-      "properties": {
-        "matchColors": "",
-        "matchTitle": "",
-        "showNav": true,
-        "sort": "position",
-        "customSortAlphabet": "",
-        "toggleRestriction": "default"
-      },
-      "color": "#46ff46",
-      "bgcolor": "#32ff32"
-    },
-    {
-      "id": 523,
-      "type": "Note",
-      "pos": {
-        "0": -1415,
-        "1": -649,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
-      },
-      "size": {
-        "0": 492.0579833984375,
-        "1": 68.30645751953125
-      },
-      "flags": {},
-      "order": 63,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [],
-      "title": "Note - VERSION",
-      "properties": {},
-      "widgets_values": [
-        "DEFAUT_MODEL-A_Text-2-Img+UPscalersV1.01\n"
-      ],
-      "color": "#222",
-      "bgcolor": "#000"
     }
   ],
   "links": [
@@ -8752,6 +8755,30 @@
       205,
       1,
       "VAE"
+    ],
+    [
+      1414,
+      515,
+      0,
+      196,
+      4,
+      "INT"
+    ],
+    [
+      1415,
+      515,
+      0,
+      176,
+      6,
+      "INT"
+    ],
+    [
+      1416,
+      524,
+      2,
+      205,
+      1,
+      "VAE"
     ]
   ],
   "groups": [
@@ -8879,10 +8906,10 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 0.5644739300537773,
+      "scale": 0.740024994425886,
       "offset": [
-        2860.4489380256628,
-        713.4162125449294
+        2219.465926543327,
+        1275.4757180203062
       ]
     },
     "groupNodes": {}

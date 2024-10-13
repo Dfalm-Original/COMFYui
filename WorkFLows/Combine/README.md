@@ -37,7 +37,10 @@ When these colors are specific I will specify it with the color code
 # ** 🚧🚧 WORK IN PROGRESS 🚧🚧  --**
 READ ME IS COMING
 
-🔵⚪️🔴
+# 🔵⚪️🔴
+# Permet de combiner 2 images ensemble
+## IMAGE 1🔵 avec IMAGE 2🔴
+## <u>Parametres individuels de chaque image</u> : 
 A ) SOURCE DE L'IMAGE 4 CHOIX :
 - 1 Load Image
 - 2 Image From URL
@@ -50,7 +53,10 @@ B ) INTENSITE DE L'IMAGE<br>
 Conseil ne pas dépasser 90% ( 0.90 ) au-dela de 0.90 l'image a tendance a "deriver"<br>
 
 <img src="images/Choix-Image-Force_FR.png" width="40%"><br>
-🌎🌍🌏
+# 🌎🌍🌏
+# Allows you to combine 2 images together
+## IMAGE 1🔵 with IMAGE 2🔴
+## <u>Individual settings for each image</u>:
 A ) IMAGE SOURCE 4 CHOICES:
 - 1 Load Image
 - 2 Image From URL

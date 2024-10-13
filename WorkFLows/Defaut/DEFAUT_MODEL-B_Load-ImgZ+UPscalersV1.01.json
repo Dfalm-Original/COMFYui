@@ -1,6 +1,6 @@
 {
   "last_node_id": 567,
-  "last_link_id": 1365,
+  "last_link_id": 1366,
   "nodes": [
     {
       "id": 222,
@@ -2246,9 +2246,9 @@
         "color_restricted": 0
       },
       "widgets_values": [
-        811686175779194,
+        256370183451873,
         "randomize",
-        "294912915630604"
+        "545548677324170"
       ],
       "color": "#ffaa32",
       "bgcolor": "#ff961e"
@@ -3628,7 +3628,7 @@
         "%date/",
         "FLUX\\creapromptFlux1Dev_v10.safetensors",
         "Flux_vae.safetensors",
-        591695326808648,
+        784927295357269,
         "randomize",
         20,
         8,
@@ -3765,7 +3765,7 @@
       },
       "widgets_values": [
         2,
-        592194373423570,
+        684343389017272,
         "randomize",
         8,
         4,
@@ -3977,7 +3977,7 @@
         "%date/",
         "FLUX\\creapromptFlux1Dev_v10.safetensors",
         "Flux_vae.safetensors",
-        70828045741445,
+        121870260287645,
         "randomize",
         20,
         8,
@@ -4510,7 +4510,7 @@
       },
       "widgets_values": [
         "",
-        "FICHIER_19-33_SDXL--sd_xl_base_1.0"
+        "FICHIER_21-02_SDXL--sd_xl_base_1.0"
       ],
       "color": "#1ea078",
       "bgcolor": "#0a8c64"
@@ -5183,7 +5183,7 @@
           "name": "VAE",
           "type": "*",
           "link": 1346,
-          "color_on": "#FF6E6E"
+          "color_on": "#e4ff6e"
         }
       ],
       "outputs": [],
@@ -5193,7 +5193,7 @@
         "color_restricted": 0
       },
       "widgets_values": [
-        "<comfy.sd.VAE object at 0x000001911FF24210>"
+        "<comfy.sd.VAE object at 0x0000015ABE1D60D0>"
       ],
       "color": "#ffff78",
       "bgcolor": "#ffff64"
@@ -5936,38 +5936,6 @@
       "bgcolor": "#c8ff00"
     },
     {
-      "id": 549,
-      "type": "Note",
-      "pos": {
-        "0": -981,
-        "1": -813,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
-      },
-      "size": {
-        "0": 454.45062255859375,
-        "1": 78.32833862304688
-      },
-      "flags": {},
-      "order": 55,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [],
-      "title": "Note - VERSION",
-      "properties": {},
-      "widgets_values": [
-        "DEFAUT_MODEL-B_Load-ImgZ+UPscalersV1.01"
-      ],
-      "color": "#222",
-      "bgcolor": "#000"
-    },
-    {
       "id": 194,
       "type": "SDParameterGenerator",
       "pos": {
@@ -5987,7 +5955,7 @@
         "1": 956
       },
       "flags": {},
-      "order": 56,
+      "order": 55,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -6174,7 +6142,7 @@
         "1": 274
       },
       "flags": {},
-      "order": 57,
+      "order": 56,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -6194,6 +6162,38 @@
       },
       "color": "#46ff46",
       "bgcolor": "#32ff32"
+    },
+    {
+      "id": 549,
+      "type": "Note",
+      "pos": {
+        "0": -981,
+        "1": -813,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0
+      },
+      "size": {
+        "0": 454.45062255859375,
+        "1": 78.32833862304688
+      },
+      "flags": {},
+      "order": 57,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "title": "Note - VERSION",
+      "properties": {},
+      "widgets_values": [
+        "DEFAUT_MODEL-B_Load-ImgZ+UPscalersV1.01"
+      ],
+      "color": "#222",
+      "bgcolor": "#000"
     }
   ],
   "links": [
@@ -7108,6 +7108,14 @@
       436,
       6,
       "INT"
+    ],
+    [
+      1366,
+      531,
+      0,
+      436,
+      6,
+      "INT"
     ]
   ],
   "groups": [
@@ -7223,10 +7231,10 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 0.6830134553650709,
+      "scale": 0.5559917313492756,
       "offset": [
-        1623.8451296553278,
-        1199.499109964195
+        2674.661651881476,
+        894.4101047846344
       ]
     },
     "groupNodes": {}
