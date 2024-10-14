@@ -1,6 +1,6 @@
 {
-  "last_node_id": 921,
-  "last_link_id": 2071,
+  "last_node_id": 923,
+  "last_link_id": 2076,
   "nodes": [
     {
       "id": 322,
@@ -132,7 +132,7 @@
         "1": 77.48472595214844
       },
       "flags": {},
-      "order": 119,
+      "order": 121,
       "mode": 0,
       "inputs": [
         {
@@ -160,7 +160,7 @@
         [
           "FICHIER_21-40_SDXL--sd_xl_base_1.0"
         ],
-        "FICHIER_22-56_SDXL--sd_xl_base_1.0"
+        "FICHIER_08-26_SDXL--sd_xl_base_1.0"
       ],
       "color": "#1ea078",
       "bgcolor": "#0a8c64"
@@ -303,7 +303,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 85,
+      "order": 87,
       "mode": 2,
       "inputs": [
         {
@@ -361,7 +361,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 96,
+      "order": 98,
       "mode": 2,
       "inputs": [
         {
@@ -561,7 +561,7 @@
         "1": 76
       },
       "flags": {},
-      "order": 149,
+      "order": 151,
       "mode": 2,
       "inputs": [
         {
@@ -614,7 +614,7 @@
         "1": 76
       },
       "flags": {},
-      "order": 148,
+      "order": 150,
       "mode": 2,
       "inputs": [
         {
@@ -669,7 +669,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 126,
+      "order": 128,
       "mode": 2,
       "inputs": [
         {
@@ -721,7 +721,7 @@
         26
       ],
       "flags": {},
-      "order": 122,
+      "order": 124,
       "mode": 0,
       "inputs": [
         {
@@ -1036,7 +1036,7 @@
         "1": 59
       },
       "flags": {},
-      "order": 80,
+      "order": 82,
       "mode": 0,
       "inputs": [
         {
@@ -1243,7 +1243,7 @@
         "1": 78
       },
       "flags": {},
-      "order": 105,
+      "order": 107,
       "mode": 0,
       "inputs": [
         {
@@ -1367,7 +1367,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 156,
+      "order": 158,
       "mode": 2,
       "inputs": [
         {
@@ -1427,7 +1427,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 158,
+      "order": 160,
       "mode": 2,
       "inputs": [
         {
@@ -1487,7 +1487,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 132,
+      "order": 134,
       "mode": 2,
       "inputs": [
         {
@@ -1554,7 +1554,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 141,
+      "order": 143,
       "mode": 2,
       "inputs": [
         {
@@ -1614,7 +1614,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 133,
+      "order": 135,
       "mode": 0,
       "inputs": [
         {
@@ -1674,7 +1674,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 135,
+      "order": 137,
       "mode": 0,
       "inputs": [
         {
@@ -1734,7 +1734,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 140,
+      "order": 142,
       "mode": 2,
       "inputs": [
         {
@@ -1794,7 +1794,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 139,
+      "order": 141,
       "mode": 2,
       "inputs": [
         {
@@ -1858,7 +1858,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 153,
+      "order": 155,
       "mode": 2,
       "inputs": [
         {
@@ -1933,7 +1933,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 147,
+      "order": 149,
       "mode": 2,
       "inputs": [
         {
@@ -1995,7 +1995,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 152,
+      "order": 154,
       "mode": 2,
       "inputs": [
         {
@@ -2104,7 +2104,7 @@
         "1": 860.9612426757812
       },
       "flags": {},
-      "order": 155,
+      "order": 157,
       "mode": 2,
       "inputs": [
         {
@@ -2273,7 +2273,7 @@
         "%date/",
         "FLUX\\creapromptFlux1Dev_v10.safetensors",
         "Flux_vae.safetensors",
-        1098464387439404,
+        276580958003455,
         "randomize",
         20,
         8,
@@ -2418,7 +2418,7 @@
       },
       "widgets_values": [
         "cosmic-terms",
-        641144090317196,
+        307682652973889,
         "randomize"
       ],
       "color": "#222",
@@ -2446,7 +2446,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 81,
+      "order": 83,
       "mode": 0,
       "inputs": [
         {
@@ -2542,7 +2542,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 82,
+      "order": 84,
       "mode": 0,
       "inputs": [
         {
@@ -2615,7 +2615,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 108,
+      "order": 110,
       "mode": 0,
       "inputs": [
         {
@@ -2837,7 +2837,7 @@
       },
       "widgets_values": [
         "cosmic-galaxy",
-        360843063855396,
+        1064965618217307,
         "randomize"
       ],
       "color": "#222",
@@ -2863,7 +2863,7 @@
         "1": 46
       },
       "flags": {},
-      "order": 127,
+      "order": 129,
       "mode": 0,
       "inputs": [
         {
@@ -2950,7 +2950,7 @@
       },
       "widgets_values": [
         "cosmic-nebula",
-        447414212473131,
+        595428118991785,
         "randomize"
       ],
       "color": "#222",
@@ -3003,7 +3003,7 @@
       },
       "widgets_values": [
         "scenario-desc",
-        754229893818024,
+        231057732301281,
         "randomize"
       ],
       "color": "#222",
@@ -3078,7 +3078,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 129,
+      "order": 131,
       "mode": 0,
       "inputs": [
         {
@@ -3116,7 +3116,7 @@
         "1": 76
       },
       "flags": {},
-      "order": 144,
+      "order": 146,
       "mode": 0,
       "inputs": [
         {
@@ -3473,7 +3473,7 @@
         "1": 76
       },
       "flags": {},
-      "order": 151,
+      "order": 153,
       "mode": 2,
       "inputs": [
         {
@@ -3598,7 +3598,7 @@
         "1": 347.5412902832031
       },
       "flags": {},
-      "order": 113,
+      "order": 115,
       "mode": 0,
       "inputs": [
         {
@@ -3876,7 +3876,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 86,
+      "order": 88,
       "mode": 0,
       "inputs": [
         {
@@ -3956,14 +3956,14 @@
       "flags": {
         "collapsed": true
       },
-      "order": 98,
+      "order": 100,
       "mode": 0,
       "inputs": [
         {
           "name": "VAE",
           "type": "*",
           "link": 1763,
-          "color_on": "#e4ff6e"
+          "color_on": "#facfad"
         }
       ],
       "outputs": [],
@@ -3998,7 +3998,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 137,
+      "order": 139,
       "mode": 2,
       "inputs": [
         {
@@ -4061,7 +4061,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 128,
+      "order": 130,
       "mode": 2,
       "inputs": [
         {
@@ -4179,7 +4179,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 120,
+      "order": 122,
       "mode": 2,
       "inputs": [
         {
@@ -4254,7 +4254,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 118,
+      "order": 120,
       "mode": 2,
       "inputs": [
         {
@@ -4327,7 +4327,7 @@
         "1": 76
       },
       "flags": {},
-      "order": 159,
+      "order": 161,
       "mode": 2,
       "inputs": [
         {
@@ -4382,7 +4382,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 154,
+      "order": 156,
       "mode": 2,
       "inputs": [
         {
@@ -4497,7 +4497,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 95,
+      "order": 97,
       "mode": 2,
       "inputs": [
         {
@@ -4553,7 +4553,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 145,
+      "order": 147,
       "mode": 2,
       "inputs": [
         {
@@ -4640,7 +4640,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 136,
+      "order": 138,
       "mode": 2,
       "inputs": [
         {
@@ -4703,7 +4703,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 84,
+      "order": 86,
       "mode": 2,
       "inputs": [
         {
@@ -4755,7 +4755,7 @@
         "1": 76
       },
       "flags": {},
-      "order": 160,
+      "order": 162,
       "mode": 2,
       "inputs": [
         {
@@ -4810,7 +4810,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 106,
+      "order": 108,
       "mode": 0,
       "inputs": [
         {
@@ -4868,7 +4868,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 99,
+      "order": 101,
       "mode": 0,
       "inputs": [
         {
@@ -4926,7 +4926,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 87,
+      "order": 89,
       "mode": 0,
       "inputs": [
         {
@@ -5009,7 +5009,7 @@
         "1": 860.9612426757812
       },
       "flags": {},
-      "order": 157,
+      "order": 159,
       "mode": 2,
       "inputs": [
         {
@@ -5178,7 +5178,7 @@
         "%date/",
         "FLUX\\creapromptFlux1Dev_v10.safetensors",
         "Flux_vae.safetensors",
-        567257801250800,
+        956444205050704,
         "randomize",
         20,
         8,
@@ -5321,7 +5321,7 @@
         "1": 1195.78466796875
       },
       "flags": {},
-      "order": 123,
+      "order": 125,
       "mode": 0,
       "inputs": [
         {
@@ -5361,7 +5361,7 @@
         "1": 46
       },
       "flags": {},
-      "order": 116,
+      "order": 118,
       "mode": 0,
       "inputs": [
         {
@@ -5415,7 +5415,7 @@
         "1": 76
       },
       "flags": {},
-      "order": 142,
+      "order": 144,
       "mode": 0,
       "inputs": [
         {
@@ -5557,7 +5557,7 @@
         "1": 78
       },
       "flags": {},
-      "order": 107,
+      "order": 109,
       "mode": 0,
       "inputs": [
         {
@@ -5674,7 +5674,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 112,
+      "order": 114,
       "mode": 0,
       "inputs": [
         {
@@ -5749,7 +5749,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 115,
+      "order": 117,
       "mode": 0,
       "inputs": [
         {
@@ -5810,7 +5810,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 111,
+      "order": 113,
       "mode": 0,
       "inputs": [
         {
@@ -5869,7 +5869,7 @@
         "1": 54
       },
       "flags": {},
-      "order": 110,
+      "order": 112,
       "mode": 0,
       "inputs": [
         {
@@ -5975,7 +5975,7 @@
         "1": 614
       },
       "flags": {},
-      "order": 150,
+      "order": 152,
       "mode": 2,
       "inputs": [
         {
@@ -6066,7 +6066,7 @@
       },
       "widgets_values": [
         2,
-        627055596001330,
+        304669406252041,
         "randomize",
         8,
         5,
@@ -6310,7 +6310,7 @@
         "1": 114
       },
       "flags": {},
-      "order": 104,
+      "order": 106,
       "mode": 0,
       "inputs": [
         {
@@ -6399,7 +6399,7 @@
         "1": 218
       },
       "flags": {},
-      "order": 109,
+      "order": 111,
       "mode": 0,
       "inputs": [
         {
@@ -6484,7 +6484,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        896845792461389,
+        499292490970388,
         "randomize",
         20,
         8,
@@ -6517,7 +6517,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 114,
+      "order": 116,
       "mode": 0,
       "inputs": [
         {
@@ -6579,7 +6579,7 @@
         "1": 85.7379150390625
       },
       "flags": {},
-      "order": 88,
+      "order": 90,
       "mode": 0,
       "inputs": [
         {
@@ -6694,65 +6694,6 @@
       "bgcolor": "#fa7f70"
     },
     {
-      "id": 900,
-      "type": "PainterNode",
-      "pos": {
-        "0": -2609.71630859375,
-        "1": 1103.035888671875,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
-      },
-      "size": [
-        600,
-        690
-      ],
-      "flags": {},
-      "order": 50,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "images",
-          "type": "IMAGE",
-          "link": null
-        }
-      ],
-      "outputs": [
-        {
-          "name": "IMAGE",
-          "type": "IMAGE",
-          "links": [
-            2020
-          ],
-          "slot_index": 0,
-          "shape": 3
-        },
-        {
-          "name": "MASK",
-          "type": "MASK",
-          "links": null,
-          "shape": 3
-        }
-      ],
-      "title": "PainterNode - 512x512",
-      "properties": {
-        "Node name for S&R": "PainterNode"
-      },
-      "widgets_values": [
-        "Paint_900.png",
-        true,
-        "clear_painer",
-        null
-      ],
-      "color": "#a01414",
-      "bgcolor": "#8c0000"
-    },
-    {
       "id": 889,
       "type": "LoadImage",
       "pos": {
@@ -6774,7 +6715,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 51,
+      "order": 50,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -6826,7 +6767,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 52,
+      "order": 51,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -6878,7 +6819,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 53,
+      "order": 52,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -6936,7 +6877,7 @@
         "1": 118
       },
       "flags": {},
-      "order": 90,
+      "order": 96,
       "mode": 0,
       "inputs": [
         {
@@ -7006,7 +6947,7 @@
         "1": 118
       },
       "flags": {},
-      "order": 91,
+      "order": 95,
       "mode": 0,
       "inputs": [
         {
@@ -7078,7 +7019,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 101,
+      "order": 104,
       "mode": 0,
       "inputs": [
         {
@@ -7131,7 +7072,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 100,
+      "order": 105,
       "mode": 0,
       "inputs": [
         {
@@ -7182,7 +7123,7 @@
         "1": 102
       },
       "flags": {},
-      "order": 130,
+      "order": 132,
       "mode": 0,
       "inputs": [
         {
@@ -7237,7 +7178,7 @@
         "1": 102
       },
       "flags": {},
-      "order": 131,
+      "order": 133,
       "mode": 0,
       "inputs": [
         {
@@ -7293,7 +7234,7 @@
         690
       ],
       "flags": {},
-      "order": 54,
+      "order": 53,
       "mode": 0,
       "inputs": [
         {
@@ -7352,20 +7293,20 @@
         "1": 46
       },
       "flags": {},
-      "order": 146,
+      "order": 148,
       "mode": 0,
       "inputs": [
         {
           "name": "CONDITIONING",
           "type": "*",
           "link": 2034,
-          "color_on": "#FFA931"
+          "color_on": "#d33682"
         },
         {
           "name": "CONDITIONING",
           "type": "*",
           "link": 2037,
-          "color_on": "#FFA931"
+          "color_on": "#d33682"
         }
       ],
       "outputs": [],
@@ -7398,7 +7339,7 @@
         "1": 46
       },
       "flags": {},
-      "order": 138,
+      "order": 140,
       "mode": 0,
       "inputs": [
         {
@@ -7435,42 +7376,6 @@
       "bgcolor": "#000"
     },
     {
-      "id": 919,
-      "type": "Note Plus (mtb)",
-      "pos": {
-        "0": -4527.0009765625,
-        "1": 1074.60546875,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
-      },
-      "size": {
-        "0": 947.1397094726562,
-        "1": 951.547119140625
-      },
-      "flags": {},
-      "order": 55,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [],
-      "title": "Unnamed",
-      "properties": {},
-      "widgets_values": [
-        "# 🌎🌍🌏\n# Allows you to combine 2 images together\n## IMAGE 1🔵 with IMAGE 2🔴\n## <u>Individual settings for each image</u>:\nA ) IMAGE SOURCE 4 CHOICES:\n- 1 Load Image\n- 2 Image From URL\n- 3 Reicever (generated / reinjected image)\n- 4 Painter\n\nB ) IMAGE INTENSITY\n**0.00** = not taken into account<br>\n**1.00** = 100%<br>\nAdvice do not exceed 90% (0.90) beyond 0.90 the image tends to \"drift\"<br>\n<img width=\"100%\" src=\"https://raw.githubusercontent.com/Dfalm-Original/COMFYui/refs/heads/main/WorkFLows/Combine/images/Choix-Image-Force_EN.png\"><br>\n",
-        "markdown",
-        "",
-        "one_dark"
-      ],
-      "color": "#463232",
-      "bgcolor": "#321e1e",
-      "shape": 1
-    },
-    {
       "id": 705,
       "type": "Note Plus (mtb)",
       "pos": {
@@ -7490,7 +7395,7 @@
         "1": 123.81094360351562
       },
       "flags": {},
-      "order": 56,
+      "order": 54,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -7526,7 +7431,7 @@
         "1": 275.11114501953125
       },
       "flags": {},
-      "order": 57,
+      "order": 55,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -7562,7 +7467,7 @@
         "1": 128.35450744628906
       },
       "flags": {},
-      "order": 58,
+      "order": 56,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -7600,7 +7505,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 59,
+      "order": 57,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -7646,7 +7551,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 121,
+      "order": 123,
       "mode": 0,
       "inputs": [
         {
@@ -7694,7 +7599,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 125,
+      "order": 127,
       "mode": 0,
       "inputs": [
         {
@@ -7765,7 +7670,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 117,
+      "order": 119,
       "mode": 0,
       "inputs": [
         {
@@ -7813,7 +7718,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 124,
+      "order": 126,
       "mode": 0,
       "inputs": [
         {
@@ -7881,7 +7786,7 @@
         "1": 225.47122192382812
       },
       "flags": {},
-      "order": 60,
+      "order": 58,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -7917,7 +7822,7 @@
         "1": 225.152587890625
       },
       "flags": {},
-      "order": 61,
+      "order": 59,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -7953,7 +7858,7 @@
         "1": 278.8194580078125
       },
       "flags": {},
-      "order": 62,
+      "order": 60,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -7989,7 +7894,7 @@
         "1": 218.74119567871094
       },
       "flags": {},
-      "order": 63,
+      "order": 61,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -8025,7 +7930,7 @@
         "1": 1060.8734130859375
       },
       "flags": {},
-      "order": 64,
+      "order": 62,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8067,7 +7972,7 @@
         "1": 963.73095703125
       },
       "flags": {},
-      "order": 65,
+      "order": 63,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -8103,7 +8008,7 @@
         "1": 587.6063232421875
       },
       "flags": {},
-      "order": 66,
+      "order": 64,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -8117,42 +8022,6 @@
       ],
       "color": "#ff1414",
       "bgcolor": "#ff0000",
-      "shape": 1
-    },
-    {
-      "id": 661,
-      "type": "Note Plus (mtb)",
-      "pos": {
-        "0": -2603,
-        "1": -714,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
-      },
-      "size": {
-        "0": 602.2638549804688,
-        "1": 588.0550537109375
-      },
-      "flags": {},
-      "order": 67,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [],
-      "title": "Unnamed",
-      "properties": {},
-      "widgets_values": [
-        "🌎🌍🌏\n<font color=\"#001100\">\n<h1>🗃️ NOMENCLATURE️</h1></font>\n\n## NAME : DEFAUT_Text-2-Img+LoadImage+UPscalers\n\n# WORKFLOW \"COMBINE\"\n## Allows you to combine 2 images depending on the source<br>\n## IMAGE 1🔵 with IMAGE 2🔴\n## 4 Options for each image source\n- 1 Load Image\n- 2 Image From URL\n- 3 Reicever (generated / reinjected image)\n- 4 Painter\n\n## \"IMAGE INTENSITY\" option<br>\nAllows you to adjust the intensity of image 1🔵 compared to image 2🔴<br>\n**0.00** = is not taken into account<br>\n**1.00** = 100%<br>\nAdvice do not exceed 90% (0.90)<br>Beyond 0.90 the image tends to \"drift\"<br>\n### 127 50 50\n<hr>\n\n\n<p><img width=\"32\" src=\"http://Dfalm.fr/ComfyUI/Git-Logo.png\" alt=\"Github\">github : <a href=\"https://github.com/Dfalm-Original/COMFYui\">https://github.com/Dfalm-Original/COMFYui</a></p>\n<p><img width=\"32\" src=\"http://Dfalm.fr/ComfyUI/youtube+logoToon.png\" alt=\"Youtube\">Youtube : <a href=\"https://www.youtube.com/@Dfalm\">https://www.youtube.com/@Dfalm</a></p>",
-        "markdown",
-        "",
-        "one_dark"
-      ],
-      "color": "#934646",
-      "bgcolor": "#7f3232",
       "shape": 1
     },
     {
@@ -8175,7 +8044,7 @@
         "1": 189.68896484375
       },
       "flags": {},
-      "order": 68,
+      "order": 65,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -8211,7 +8080,7 @@
         "1": 185.62905883789062
       },
       "flags": {},
-      "order": 69,
+      "order": 66,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -8247,7 +8116,7 @@
         "1": 58
       },
       "flags": {},
-      "order": 70,
+      "order": 67,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8274,114 +8143,6 @@
       "bgcolor": "#00ff00"
     },
     {
-      "id": 875,
-      "type": "ImageReceiver",
-      "pos": {
-        "0": -3069.71630859375,
-        "1": 1659.035888671875,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
-      },
-      "size": {
-        "0": 441.4825134277344,
-        "1": 407.3432312011719
-      },
-      "flags": {},
-      "order": 71,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "IMAGE",
-          "type": "IMAGE",
-          "links": [
-            2013
-          ],
-          "slot_index": 0,
-          "shape": 3
-        },
-        {
-          "name": "MASK",
-          "type": "MASK",
-          "links": [],
-          "slot_index": 1,
-          "shape": 3
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "ImageReceiver"
-      },
-      "widgets_values": [
-        "ImgSender_temp_ckvoj_00001_.png [temp]",
-        0,
-        false,
-        "",
-        false
-      ],
-      "color": "#c83c3c",
-      "bgcolor": "#b42828"
-    },
-    {
-      "id": 895,
-      "type": "ImageReceiver",
-      "pos": {
-        "0": -3070.11328125,
-        "1": 545.5321044921875,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
-      },
-      "size": {
-        "0": 441.4825134277344,
-        "1": 407.3432312011719
-      },
-      "flags": {},
-      "order": 72,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "IMAGE",
-          "type": "IMAGE",
-          "links": [
-            2016
-          ],
-          "slot_index": 0,
-          "shape": 3
-        },
-        {
-          "name": "MASK",
-          "type": "MASK",
-          "links": [],
-          "slot_index": 1,
-          "shape": 3
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "ImageReceiver"
-      },
-      "widgets_values": [
-        "ImgSender_temp_ckvoj_00001_.png [temp]",
-        0,
-        false,
-        "",
-        false
-      ],
-      "color": "#5578f5",
-      "bgcolor": "#4164e1"
-    },
-    {
       "id": 207,
       "type": "ShowText|pysssss",
       "pos": {
@@ -8401,7 +8162,7 @@
         "1": 1020.7913208007812
       },
       "flags": {},
-      "order": 143,
+      "order": 145,
       "mode": 0,
       "inputs": [
         {
@@ -8429,7 +8190,7 @@
         [
           "Positive prompt :  vived colors , pop art, mountain , overprint\nNegative prompt: \nSteps: 7, Sampler: euler_ancestral_karras, CFG scale: 4.5, Seed: 0, Size: 720x1024, Model: turbovisionxlSuperFastXLBasedOnNew_tvxlV431Bakedvae, VAE: sdxl_vae, Version: ComfyUI, Extra info: Lora :  InkArtXL_1.2 --- Par Dfalm 2024 --------------"
         ],
-        "Positive prompt :  blue catabstract, watercolor on photo,Colors are: orange, olive green, purple, black, deep teal, light sky blue, soft sky blue, white,Splattered paint effect,woman and man\nNegative prompt: \nSteps: 30, Sampler: dpmpp_3m_sde_gpu_exponential, CFG scale: 9.0, Seed: 275820681445797, Size: 720x1280, Model: sd_xl_base_1.0, VAE: sdxl_vae, Version: ComfyUI, Extra info: Lora :  xl_ink wash painting style(pony) --- Par Dfalm 2024 ---  https://github.com/Dfalm-Original/COMFYui -- https://www.youtube.com/@Dfalm "
+        "Positive prompt :  blue catabstract, watercolor on photo,Colors are: orange, olive green, purple, black, deep teal, light sky blue, soft sky blue, white,Splattered paint effect,woman and man\nNegative prompt: \nSteps: 30, Sampler: dpmpp_3m_sde_gpu_exponential, CFG scale: 9.0, Seed: 850266733184606, Size: 720x1280, Model: sd_xl_base_1.0, VAE: sdxl_vae, Version: ComfyUI, Extra info: Lora :  RIEN_PAS_DE_LORA --- Par Dfalm 2024 ---  https://github.com/Dfalm-Original/COMFYui -- https://www.youtube.com/@Dfalm "
       ],
       "color": "#bea31d",
       "bgcolor": "#aa8f09"
@@ -8454,7 +8215,7 @@
         "1": 78
       },
       "flags": {},
-      "order": 73,
+      "order": 68,
       "mode": 2,
       "inputs": [],
       "outputs": [
@@ -8509,7 +8270,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 74,
+      "order": 69,
       "mode": 2,
       "inputs": [],
       "outputs": [
@@ -8558,7 +8319,7 @@
         "1": 124
       },
       "flags": {},
-      "order": 75,
+      "order": 70,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8576,9 +8337,8 @@
         "color_restricted": 0
       },
       "widgets_values": [
-        829289256864782,
-        "randomize",
-        "275820681445797"
+        804998340875048,
+        "randomize"
       ],
       "color": "#ffaa32",
       "bgcolor": "#ff961e"
@@ -8603,7 +8363,7 @@
         "1": 466
       },
       "flags": {},
-      "order": 76,
+      "order": 71,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8645,7 +8405,7 @@
         "1": 472.123046875
       },
       "flags": {},
-      "order": 77,
+      "order": 72,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8690,7 +8450,7 @@
         "1": 71.82254028320312
       },
       "flags": {},
-      "order": 78,
+      "order": 73,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8734,7 +8494,7 @@
         "1": 860.9612426757812
       },
       "flags": {},
-      "order": 134,
+      "order": 136,
       "mode": 0,
       "inputs": [
         {
@@ -8905,7 +8665,7 @@
         "%date/",
         "FLUX\\creapromptFlux1Dev_v10.safetensors",
         "Flux_vae.safetensors",
-        20948360967857,
+        860804461737461,
         "randomize",
         20,
         8,
@@ -8951,7 +8711,7 @@
         "1": 146
       },
       "flags": {},
-      "order": 97,
+      "order": 99,
       "mode": 0,
       "inputs": [
         {
@@ -9025,7 +8785,7 @@
         "1": 78
       },
       "flags": {},
-      "order": 89,
+      "order": 91,
       "mode": 0,
       "inputs": [
         {
@@ -9094,7 +8854,7 @@
         "1": 78
       },
       "flags": {},
-      "order": 83,
+      "order": 85,
       "mode": 0,
       "inputs": [
         {
@@ -9144,6 +8904,317 @@
       "bgcolor": "#32ff32"
     },
     {
+      "id": 895,
+      "type": "ImageReceiver",
+      "pos": {
+        "0": -3070.11328125,
+        "1": 545.5321044921875,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0
+      },
+      "size": {
+        "0": 441.4825134277344,
+        "1": 407.3432312011719
+      },
+      "flags": {},
+      "order": 74,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "IMAGE",
+          "type": "IMAGE",
+          "links": [
+            2016
+          ],
+          "slot_index": 0,
+          "shape": 3
+        },
+        {
+          "name": "MASK",
+          "type": "MASK",
+          "links": [],
+          "slot_index": 1,
+          "shape": 3
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "ImageReceiver"
+      },
+      "widgets_values": [
+        "Paint_0.png",
+        0,
+        false,
+        "",
+        false
+      ],
+      "color": "#5578f5",
+      "bgcolor": "#4164e1"
+    },
+    {
+      "id": 875,
+      "type": "ImageReceiver",
+      "pos": {
+        "0": -3069.71630859375,
+        "1": 1659.035888671875,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0
+      },
+      "size": {
+        "0": 441.4825134277344,
+        "1": 407.3432312011719
+      },
+      "flags": {},
+      "order": 75,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "IMAGE",
+          "type": "IMAGE",
+          "links": [
+            2013
+          ],
+          "slot_index": 0,
+          "shape": 3
+        },
+        {
+          "name": "MASK",
+          "type": "MASK",
+          "links": [],
+          "slot_index": 1,
+          "shape": 3
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "ImageReceiver"
+      },
+      "widgets_values": [
+        "Paint_0.png",
+        0,
+        false,
+        "",
+        false
+      ],
+      "color": "#c83c3c",
+      "bgcolor": "#b42828"
+    },
+    {
+      "id": 919,
+      "type": "Note Plus (mtb)",
+      "pos": {
+        "0": -4527,
+        "1": 1075,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0
+      },
+      "size": {
+        "0": 947.1397094726562,
+        "1": 951.547119140625
+      },
+      "flags": {},
+      "order": 76,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "title": "Unnamed",
+      "properties": {},
+      "widgets_values": [
+        "# 🌎🌍🌏\n# Allows you to combine 2 images together\n## IMAGE 1🔵 with IMAGE 2🔴\n## <u>Individual settings for each image</u>:\nA ) IMAGE SOURCE 4 CHOICES:\n- 1 Load Image\n- 2 Image From URL\n- 3 Reicever (generated / reinjected image)\n- 4 Painter\n\nB ) IMAGE INTENSITY\n**0.00** = not taken into account<br>\n**1.00** = 100%<br>\nAdvice do not exceed 90% (0.90) beyond 0.90 the image tends to \"drift\"<br>\n<img width=\"100%\" src=\"https://raw.githubusercontent.com/Dfalm-Original/COMFYui/refs/heads/main/WorkFLows/Combine/images/Choix-Image-Force_EN.png\"><br>\n",
+        "markdown",
+        "",
+        "one_dark"
+      ],
+      "color": "#463232",
+      "bgcolor": "#321e1e",
+      "shape": 1
+    },
+    {
+      "id": 661,
+      "type": "Note Plus (mtb)",
+      "pos": {
+        "0": -2603,
+        "1": -714,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0
+      },
+      "size": {
+        "0": 602.2638549804688,
+        "1": 588.0550537109375
+      },
+      "flags": {},
+      "order": 77,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "title": "Unnamed",
+      "properties": {},
+      "widgets_values": [
+        "🌎🌍🌏\n<font color=\"#001100\">\n<h1>🗃️ NOMENCLATURE️</h1></font>\n\n## NAME : DEFAUT_Text-2-Img+LoadImage+UPscalers\n\n# WORKFLOW \"COMBINE\"\n## Allows you to combine 2 images depending on the source<br>\n## IMAGE 1🔵 with IMAGE 2🔴\n## 4 Options for each image source\n- 1 Load Image\n- 2 Image From URL\n- 3 Reicever (generated / reinjected image)\n- 4 Painter\n\n## \"IMAGE INTENSITY\" option<br>\nAllows you to adjust the intensity of image 1🔵 compared to image 2🔴<br>\n**0.00** = is not taken into account<br>\n**1.00** = 100%<br>\nAdvice do not exceed 90% (0.90)<br>Beyond 0.90 the image tends to \"drift\"<br>\n### 127 50 50\n<hr>\n\n\n<p><img width=\"32\" src=\"http://Dfalm.fr/ComfyUI/Git-Logo.png\" alt=\"Github\">github : <a href=\"https://github.com/Dfalm-Original/COMFYui\">https://github.com/Dfalm-Original/COMFYui</a></p>\n<p><img width=\"32\" src=\"http://Dfalm.fr/ComfyUI/youtube+logoToon.png\" alt=\"Youtube\">Youtube : <a href=\"https://www.youtube.com/@Dfalm\">https://www.youtube.com/@Dfalm</a></p>",
+        "markdown",
+        "",
+        "one_dark"
+      ],
+      "color": "#934646",
+      "bgcolor": "#7f3232",
+      "shape": 1
+    },
+    {
+      "id": 900,
+      "type": "PainterNode",
+      "pos": {
+        "0": -2610,
+        "1": 1103,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0
+      },
+      "size": [
+        600,
+        690
+      ],
+      "flags": {},
+      "order": 78,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "images",
+          "type": "IMAGE",
+          "link": null
+        }
+      ],
+      "outputs": [
+        {
+          "name": "IMAGE",
+          "type": "IMAGE",
+          "links": [
+            2020
+          ],
+          "slot_index": 0,
+          "shape": 3
+        },
+        {
+          "name": "MASK",
+          "type": "MASK",
+          "links": null,
+          "shape": 3
+        }
+      ],
+      "title": "PainterNode - 512x512",
+      "properties": {
+        "Node name for S&R": "PainterNode"
+      },
+      "widgets_values": [
+        "Paint_900.png",
+        true,
+        "clear_painer",
+        null
+      ],
+      "color": "#a01414",
+      "bgcolor": "#8c0000"
+    },
+    {
+      "id": 922,
+      "type": "Note Plus (mtb)",
+      "pos": {
+        "0": -2566,
+        "1": 1824,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0
+      },
+      "size": [
+        548.8084105833154,
+        239
+      ],
+      "flags": {},
+      "order": 79,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "title": "Unnamed",
+      "properties": {},
+      "widgets_values": [
+        "<font color=\"#FF0000\">\n#🔵⚪️🔴⚠️ATTENTION⚠️BUG 🐞\n<hr>\n\n## ⏪ DANS \"*image*\n## ⏪ Il faut spécifier \"**Paint_0.png**\"<br>SINON ERREUR 💣\n<hr>\n\n## ⏪ IN \"*image*\n## ⏪ You must specify \"**Paint_0.png**\"<br>OTHERWISE ERROR 💣</font>",
+        "markdown",
+        "",
+        "one_dark"
+      ],
+      "color": "#ffff14",
+      "bgcolor": "#ffff00",
+      "shape": 1
+    },
+    {
+      "id": 923,
+      "type": "Note Plus (mtb)",
+      "pos": {
+        "0": -2567,
+        "1": 705,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0
+      },
+      "size": [
+        548.8084105833154,
+        239
+      ],
+      "flags": {},
+      "order": 80,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "title": "Unnamed",
+      "properties": {},
+      "widgets_values": [
+        "<font color=\"#FF0000\">\n#🔵⚪️🔴⚠️ATTENTION⚠️BUG 🐞\n<hr>\n\n## ⏪ DANS \"*image*\n## ⏪ Il faut spécifier \"**Paint_0.png**\"<br>SINON ERREUR 💣\n<hr>\n\n## ⏪ IN \"*image*\n## ⏪ You must specify \"**Paint_0.png**\"<br>OTHERWISE ERROR 💣</font>",
+        "markdown",
+        "",
+        "one_dark"
+      ],
+      "color": "#ffff14",
+      "bgcolor": "#ffff00",
+      "shape": 1
+    },
+    {
       "id": 680,
       "type": "Note",
       "pos": {
@@ -9163,7 +9234,7 @@
         "1": 77.19602966308594
       },
       "flags": {},
-      "order": 79,
+      "order": 81,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -11552,6 +11623,46 @@
       176,
       6,
       "INT"
+    ],
+    [
+      2072,
+      681,
+      2,
+      205,
+      1,
+      "VAE"
+    ],
+    [
+      2073,
+      903,
+      0,
+      794,
+      1,
+      "CONDITIONING"
+    ],
+    [
+      2074,
+      845,
+      0,
+      794,
+      2,
+      "CONDITIONING"
+    ],
+    [
+      2075,
+      667,
+      0,
+      794,
+      4,
+      "INT"
+    ],
+    [
+      2076,
+      667,
+      0,
+      176,
+      6,
+      "INT"
     ]
   ],
   "groups": [
@@ -11715,10 +11826,10 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 0.67274999493264,
+      "scale": 0.8954302432553487,
       "offset": [
-        2864.0345702601244,
-        768.4407130016552
+        3764.467424879483,
+        1254.5071783873932
       ]
     },
     "groupNodes": {}
