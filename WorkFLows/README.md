@@ -46,9 +46,9 @@ When these colors are specific I will specify it with the color code
 
 <hr>
 
-## 0) BASIC-V1.2
+## 0) BASIC
 [ CLICK TO DOWNLOAD PNG WORKFLOW ]<br>
-<a href="Defaut/BASIC-V1.2.png"><img src="Defaut/images/BASIC-V1.00-notes.jpg" width="60%"></a><br>
+<a href="Defaut/BASIC.png"><img src="Defaut/images/BASIC-V1.00-notes.jpg" width="60%"></a><br>
 
 🔵⚪️🔴  Remplace le workflow **"default"**<br>  🌎🌍🌏 Replaces **"default"** workflow<br>
 <img src="Defaut/images/default.png" width="30%"><br>
@@ -93,7 +93,7 @@ Vert = Positif / Green = Positive -- Rouge = Negatif / Red = Negative<br>
 
 ## I) -A-  DEFAUT_MODEL-A_Text-2-Img+UPscalers
 [ CLICK TO DOWNLOAD PNG WORKFLOW ]<br>
-<a href="Defaut/images/DEFAUT_MODEL-A_Text-2-Img+UPscalersV1.00.png"><img src="Defaut/images/DEFAUT_MODEL-A_Text-2-Img+UPscalersV1.00-notes.jpg" height="50%"></a><br>  
+<a href="Defaut/DEFAUT_MODEL-A_Text-2-Img+UPscalers.png"><img src="Defaut/images/DEFAUT_MODEL-A_Text-2-Img+UPscalersV1.00-notes.jpg" height="50%"></a><br>  
 
 
 ## 🔵⚪️🔴 Permet de faire *text-to-image* avec des options de *prompts* et la possibilité d'*UPScaler* l'image rendue <br>- Par defaut les deux UPscalers sont désactivés ❌<br><br>
@@ -155,7 +155,7 @@ Allows you to choose 4 Options<br>
 
 ## II) -B- DEFAUT_MODEL-B_Load-ImgZ+UPscalers
 [ CLICK TO DOWNLOAD PNG WORKFLOW ]<br>
-<a href="Defaut/images/DEFAUT_MODEL-B_Load-ImgZ+UPscalersV1.00.png"><img src="Defaut/images/DEFAUT_MODEL-B_Load-ImgZ+UPscalersV1.00-notes.jpg" height="50%"></a><br>
+<a href="Defaut/DEFAUT_MODEL-B_Load-ImgZ+UPscalers.png"><img src="Defaut/images/DEFAUT_MODEL-B_Load-ImgZ+UPscalersV1.00-notes.jpg" height="50%"></a><br>
 
 ## 🔵⚪️🔴 Permet d'Upscaler des images avec 2 Upscalers<br>- Par defaut l'UPscaler "Hires/Lent" U2💜 est désactivé ❌<br><br>
 
@@ -195,7 +195,7 @@ The **💛i** option allows you to choose between different image options: Load 
 
 ## III) - C - DEFAUT_MODEL-C_Text-2-Img+LoadImage+UPscalers 
 [ CLICK TO DOWNLOAD PNG WORKFLOW ]<br>
-<a href="Defaut/WorkFlow-Embedded_DEFAUT_MODEL-C_Text-2-Img+LoadImage+UPscalersV1.01_Blue-Cat_EXEMPLE.png"><img src="Defaut/images/DEFAUT_MODEL-C_Text-2-Img+LoadImage+UPscalersV1.00.jpg" height="50%">
+<a href="Defaut/DEFAUT_MODEL-C_Text-2-Img+LoadImage+UPscalers.png"><img src="Defaut/images/DEFAUT_MODEL-C_Text-2-Img+LoadImage+UPscalersV1.00.jpg" height="50%">
 
 ### 🐞 BUG TRIVIAL 🐞 : - Bug Section - plus bas / Below 
 ## 🔵⚪️🔴 Combine le Modele A et le Modele B<br>
