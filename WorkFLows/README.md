@@ -38,10 +38,10 @@ When these colors are specific I will specify it with the color code
 🔵⚪️🔴 Dans ce chapitre je propose des WorkFlow, les liens des exemples, des images et autres...<br>🌎🌍🌏 In this chapter I propose WorkFlow, links to examples, images and others...
 
 
-0) <u>[BASIC](Defaut/README.md)</u> - Presentation et bases -- Presentation and basics
-1) <u>[DEFAUT_MODEL-A_Text-2-Img+UPscalers](Defaut/README.md)</u> - Pour generer 'text-to-image' -- To generate 'text-to-image'
-2) <u>[DEFAUT_MODEL-B_Load-ImgZ+UPscalers](Defaut/README.md)</u> - Pour generer 'image(s)-to-image' -- To generate 'image(s)-to-image'
-3) <u>[DEFAUT_MODEL-C_Text-2-Img+LoadImage+UPscalers](Defaut/README.md)</u> - Combine le Modele A et le Modele B -- Combine Model A and Model B
+0) <u>[BASIC](Dfalm_Workflows.md)</u> - Presentation et bases -- Presentation and basics
+1) <u>[DEFAUT_MODEL-A_Text-2-Img+UPscalers](Dfalm_Workflows.md)</u> - Pour generer 'text-to-image' -- To generate 'text-to-image'
+2) <u>[DEFAUT_MODEL-B_Load-ImgZ+UPscalers](Dfalm_Workflows.md)</u> - Pour generer 'image(s)-to-image' -- To generate 'image(s)-to-image'
+3) <u>[DEFAUT_MODEL-C_Text-2-Img+LoadImage+UPscalers](Dfalm_Workflows.md)</u> - Combine le Modele A et le Modele B -- Combine Model A and Model B
 4) <u>[DEFAUT_MODEL-D_Text-2-Img+LoadImage+UPscalers](DEFAUT_MODEL-D.md)</u> - Ameliore le Modele B -- Amelioration of B Model
 
 
