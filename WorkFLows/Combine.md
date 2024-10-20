@@ -80,7 +80,7 @@ When these colors are specific I will specify it with the color code
 ❤️C - Commun / Common<br>
 💚U1 / 💜U2 - Upsacalers 1 & 2 <br>
 
-<img src="Combine/images/Commun.png" width="20%"><br>
+<img src="Combine/images/commun.png" width="20%"><br>
 
 # G ) GUIDANCE 
 <img src="Combine/images/guidance.png" width="40%"><br>
