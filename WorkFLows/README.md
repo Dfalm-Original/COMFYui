@@ -38,20 +38,24 @@ When these colors are specific I will specify it with the color code
 🔵⚪️🔴 Dans ce chapitre je propose des WorkFlow, les liens des exemples, des images et autres...<br>🌎🌍🌏 In this chapter I propose WorkFlow, links to examples, images and others...
 
 
-0) <u>[BASIC](Dfalm_Workflows.md)</u> - Presentation et bases -- Presentation and basics
-1) <u>[DEFAUT_MODEL-A_Text-2-Img+UPscalers](Dfalm_Workflows.md)</u> - Pour generer 'text-to-image' -- To generate 'text-to-image'
-2) <u>[DEFAUT_MODEL-B_Load-ImgZ+UPscalers](Dfalm_Workflows.md)</u> - Pour generer 'image(s)-to-image' -- To generate 'image(s)-to-image'
-3) <u>[DEFAUT_MODEL-C_Text-2-Img+LoadImage+UPscalers](Dfalm_Workflows.md)</u> - Combine le Modele A et le Modele B -- Combine Model A and Model B
+0) <u>[BASIC](BASIC.md)</u> - Presentation et bases -- Presentation and basics
+1) <u>[DEFAUT_MODEL-A_Text-2-Img+UPscalers](DEFAUT_MODEL-A.md)</u> - Pour generer 'text-to-image' -- To generate 'text-to-image'
+2) <u>[DEFAUT_MODEL-B_Load-ImgZ+UPscalers](DEFAUT_MODEL-B.md)</u> - Pour generer 'image(s)-to-image' -- To generate 'image(s)-to-image'
+3) <u>[DEFAUT_MODEL-C_Text-2-Img+LoadImage+UPscalers](DEFAUT_MODEL-C.md)</u> - Combine le Modele A et le Modele B -- Combine Model A and Model B
 4) <u>[DEFAUT_MODEL-D_Text-2-Img+LoadImage+UPscalers](DEFAUT_MODEL-D.md)</u> - Ameliore le Modele B -- Amelioration of B Model
 
-
-### 🆙) <u>[Upscalers](DEFAUT_MODEL-D.md)</u>
+### 🆙) <u>[Upscalers](Upscalers.md)</u>
 
 ## 🚧🚧 WORK IN PROGRESS 🚧🚧
-5) <u> INFINITE ZOOM </u>- Permet de faire des Animation / Video de Zoom Infini -- Allows you to make Infinite Zoom Animation/Video<br><br>
+
+#### 🚨🚨 ATTENTION CE N'EST PAS UNE VERSION FINALE !! VERSION ALPHA 🚨🚨
+#### 🚨🚨 ATTENTION THIS IS NOT A FINAL VERSION !! ALPHA VERSION 🚨🚨
+5) <u> [INFINITE ZOOM](Infinite-Zoom.md) </u>- Permet de faire des Animation / Video de Zoom Infini -- Allows you to make Infinite Zoom Animation/Video<br><br>
 > (  exemple 1 : [CIVITAI](https://civitai.com/images/34925284) // exemple 2 : [Youtube](https://youtube.com/shorts/W1ugyeAG0Ys)  )<br> 
 
-6) <u> Re-COMBINE 2 images</u>- Permet de recombiner 2 images pour en faire une nouvelle -- Allows you to recombine 2 images to make a new one<br>
+6) <u> [Re-COMBINE 2 images](Combine.md)</u>- Permet de recombiner 2 images pour en faire une nouvelle -- Allows you to recombine 2 images to make a new one<br>
+#### 🚨🚨 ATTENTION CE N'EST PAS UNE VERSION FINALE !! VERSION ALPHA 🚨🚨
+#### 🚨🚨 ATTENTION THIS IS NOT A FINAL VERSION !! ALPHA VERSION 🚨🚨
 ## 🚧🚧 WORK IN PROGRESS 🚧🚧 
 
 
