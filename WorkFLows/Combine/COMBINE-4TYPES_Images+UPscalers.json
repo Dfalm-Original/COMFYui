@@ -1,6 +1,6 @@
 {
   "last_node_id": 923,
-  "last_link_id": 2076,
+  "last_link_id": 2081,
   "nodes": [
     {
       "id": 322,
@@ -2273,7 +2273,7 @@
         "%date/",
         "FLUX\\creapromptFlux1Dev_v10.safetensors",
         "Flux_vae.safetensors",
-        682852468247609,
+        14286472096703,
         "randomize",
         20,
         8,
@@ -2418,7 +2418,7 @@
       },
       "widgets_values": [
         "cosmic-terms",
-        888238989787008,
+        64625812142586,
         "randomize"
       ],
       "color": "#222",
@@ -2837,7 +2837,7 @@
       },
       "widgets_values": [
         "cosmic-galaxy",
-        291568270572410,
+        678714700944817,
         "randomize"
       ],
       "color": "#222",
@@ -2950,7 +2950,7 @@
       },
       "widgets_values": [
         "cosmic-nebula",
-        991788266545604,
+        379351612069274,
         "randomize"
       ],
       "color": "#222",
@@ -3003,7 +3003,7 @@
       },
       "widgets_values": [
         "scenario-desc",
-        346680086546584,
+        564313914008161,
         "randomize"
       ],
       "color": "#222",
@@ -3916,7 +3916,7 @@
           "name": "VAE",
           "type": "*",
           "link": 1763,
-          "color_on": "#e4ff6e"
+          "color_on": "#FF6E6E"
         }
       ],
       "outputs": [],
@@ -5131,7 +5131,7 @@
         "%date/",
         "FLUX\\creapromptFlux1Dev_v10.safetensors",
         "Flux_vae.safetensors",
-        1004206750400295,
+        533053012817416,
         "randomize",
         20,
         8,
@@ -6019,7 +6019,7 @@
       },
       "widgets_values": [
         2,
-        191177910295687,
+        93365865469365,
         "randomize",
         8,
         5,
@@ -6437,7 +6437,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        770369722824112,
+        456854396892189,
         "randomize",
         20,
         8,
@@ -7518,78 +7518,6 @@
       "shape": 1
     },
     {
-      "id": 920,
-      "type": "Note Plus (mtb)",
-      "pos": {
-        "0": -5392,
-        "1": 207,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
-      },
-      "size": {
-        "0": 384.75433349609375,
-        "1": 189.68896484375
-      },
-      "flags": {},
-      "order": 58,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [],
-      "title": "Unnamed",
-      "properties": {},
-      "widgets_values": [
-        "<h1>🔵⚪️🔴 ⚠️ATTENTION⚠️</h1>\n<hr>\n# CHOIX DE GUIDANCE\n##[1] Pas de prompte pour guider<br>\n##(2) On ajoute le prompt\n( Voir options de prompt plus bas ⬇️ )",
-        "markdown",
-        "",
-        "one_dark"
-      ],
-      "color": "#ff78c8",
-      "bgcolor": "#ff64b4",
-      "shape": 1
-    },
-    {
-      "id": 921,
-      "type": "Note Plus (mtb)",
-      "pos": {
-        "0": -5794,
-        "1": 207,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
-      },
-      "size": {
-        "0": 387.00250244140625,
-        "1": 185.62905883789062
-      },
-      "flags": {},
-      "order": 59,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [],
-      "title": "Unnamed",
-      "properties": {},
-      "widgets_values": [
-        "<h1>⚠️ATTENTION⚠️ 🌎🌍🌏</h1>\n<hr>\n# GUIDANCE CHOICE\n##[1] No prompt to guide<br>\n##(2) We add the prompt\n( See prompt options below ⬇️ )",
-        "markdown",
-        "",
-        "one_dark"
-      ],
-      "color": "#cd1ee6",
-      "bgcolor": "#b90ad2",
-      "shape": 1
-    },
-    {
       "id": 236,
       "type": "JWString",
       "pos": {
@@ -7609,7 +7537,7 @@
         "1": 58
       },
       "flags": {},
-      "order": 60,
+      "order": 58,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -7708,7 +7636,7 @@
         "1": 78
       },
       "flags": {},
-      "order": 61,
+      "order": 59,
       "mode": 2,
       "inputs": [],
       "outputs": [
@@ -7763,7 +7691,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 62,
+      "order": 60,
       "mode": 2,
       "inputs": [],
       "outputs": [
@@ -7812,7 +7740,7 @@
         "1": 124
       },
       "flags": {},
-      "order": 63,
+      "order": 61,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -7830,7 +7758,7 @@
         "color_restricted": 0
       },
       "widgets_values": [
-        371304215212378,
+        452482950463210,
         "randomize"
       ],
       "color": "#ffaa32",
@@ -7856,7 +7784,7 @@
         "1": 466
       },
       "flags": {},
-      "order": 64,
+      "order": 62,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -7898,7 +7826,7 @@
         "1": 472.123046875
       },
       "flags": {},
-      "order": 65,
+      "order": 63,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -7943,7 +7871,7 @@
         "1": 71.82254028320312
       },
       "flags": {},
-      "order": 66,
+      "order": 64,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8158,7 +8086,7 @@
         "%date/",
         "FLUX\\creapromptFlux1Dev_v10.safetensors",
         "Flux_vae.safetensors",
-        1026992993876905,
+        655312765848942,
         "randomize",
         20,
         8,
@@ -8416,7 +8344,7 @@
         "1": 407.3432312011719
       },
       "flags": {},
-      "order": 67,
+      "order": 65,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8470,7 +8398,7 @@
         "1": 407.3432312011719
       },
       "flags": {},
-      "order": 68,
+      "order": 66,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8524,7 +8452,7 @@
         "1": 588.0550537109375
       },
       "flags": {},
-      "order": 69,
+      "order": 67,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -8560,7 +8488,7 @@
         "1": 239
       },
       "flags": {},
-      "order": 70,
+      "order": 68,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -8598,7 +8526,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 71,
+      "order": 69,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8659,7 +8587,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 72,
+      "order": 70,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8711,7 +8639,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 73,
+      "order": 71,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8771,7 +8699,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 74,
+      "order": 72,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8821,7 +8749,7 @@
         690
       ],
       "flags": {},
-      "order": 75,
+      "order": 73,
       "mode": 0,
       "inputs": [
         {
@@ -8880,7 +8808,7 @@
         "1": 239
       },
       "flags": {},
-      "order": 76,
+      "order": 74,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -8916,7 +8844,7 @@
         "1": 963.73095703125
       },
       "flags": {},
-      "order": 77,
+      "order": 75,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -8952,7 +8880,7 @@
         "1": 951.547119140625
       },
       "flags": {},
-      "order": 78,
+      "order": 76,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -8967,38 +8895,6 @@
       "color": "#463232",
       "bgcolor": "#321e1e",
       "shape": 1
-    },
-    {
-      "id": 680,
-      "type": "Note",
-      "pos": {
-        "0": -2174,
-        "1": -810,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
-      },
-      "size": {
-        "0": 428.7532958984375,
-        "1": 77.19602966308594
-      },
-      "flags": {},
-      "order": 79,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [],
-      "title": "Note - VERSION",
-      "properties": {},
-      "widgets_values": [
-        "COMBINE-4TYPES_Images+UPscalersV1.01"
-      ],
-      "color": "#222",
-      "bgcolor": "#000"
     },
     {
       "id": 899,
@@ -9020,7 +8916,7 @@
         690
       ],
       "flags": {},
-      "order": 80,
+      "order": 77,
       "mode": 0,
       "inputs": [
         {
@@ -9219,7 +9115,7 @@
         "1": 468.37261962890625
       },
       "flags": {},
-      "order": 81,
+      "order": 78,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -9245,6 +9141,110 @@
       ],
       "color": "#322",
       "bgcolor": "#533"
+    },
+    {
+      "id": 921,
+      "type": "Note Plus (mtb)",
+      "pos": {
+        "0": -5794,
+        "1": 207,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0
+      },
+      "size": {
+        "0": 387.00250244140625,
+        "1": 185.62905883789062
+      },
+      "flags": {},
+      "order": 79,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "title": "Unnamed",
+      "properties": {},
+      "widgets_values": [
+        "<h1>⚠️ATTENTION⚠️ 🌎🌍🌏</h1>\n<hr>\n# GUIDANCE CHOICE\n##[1] No prompt to guide<br>\n##(2) We add the prompt\n( See prompt options below ⬇️ )",
+        "markdown",
+        "",
+        "one_dark"
+      ],
+      "color": "#cd1ee6",
+      "bgcolor": "#b90ad2",
+      "shape": 1
+    },
+    {
+      "id": 680,
+      "type": "Note",
+      "pos": {
+        "0": -2174,
+        "1": -810,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0
+      },
+      "size": {
+        "0": 428.7532958984375,
+        "1": 77.19602966308594
+      },
+      "flags": {},
+      "order": 80,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "title": "Note - VERSION",
+      "properties": {},
+      "widgets_values": [
+        "COMBINE-4TYPES_Images+UPscalersV1.01"
+      ],
+      "color": "#222",
+      "bgcolor": "#000"
+    },
+    {
+      "id": 920,
+      "type": "Note Plus (mtb)",
+      "pos": {
+        "0": -5392,
+        "1": 207,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0
+      },
+      "size": {
+        "0": 384.75433349609375,
+        "1": 189.68896484375
+      },
+      "flags": {},
+      "order": 81,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "title": "Unnamed",
+      "properties": {},
+      "widgets_values": [
+        "<h1>🔵⚪️🔴 ⚠️ATTENTION⚠️</h1>\n<hr>\n# CHOIX DE GUIDANCE\n##[1] Pas de prompt pour guider<br>\n##(2) On ajoute le prompt\n( Voir options de prompt plus bas ⬇️ )",
+        "markdown",
+        "",
+        "one_dark"
+      ],
+      "color": "#ff78c8",
+      "bgcolor": "#ff64b4",
+      "shape": 1
     }
   ],
   "links": [
@@ -11663,6 +11663,46 @@
       176,
       6,
       "INT"
+    ],
+    [
+      2077,
+      681,
+      2,
+      205,
+      1,
+      "VAE"
+    ],
+    [
+      2078,
+      903,
+      0,
+      794,
+      1,
+      "CONDITIONING"
+    ],
+    [
+      2079,
+      845,
+      0,
+      794,
+      2,
+      "CONDITIONING"
+    ],
+    [
+      2080,
+      667,
+      0,
+      794,
+      4,
+      "INT"
+    ],
+    [
+      2081,
+      667,
+      0,
+      176,
+      6,
+      "INT"
     ]
   ],
   "groups": [
@@ -11826,10 +11866,10 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 0.7400249944259047,
+      "scale": 1,
       "offset": [
-        4130.629686049974,
-        742.8552730489579
+        7291.143757563857,
+        870.4687583064499
       ]
     },
     "groupNodes": {}

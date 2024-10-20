@@ -1,6 +1,6 @@
 {
   "last_node_id": 1090,
-  "last_link_id": 2370,
+  "last_link_id": 2378,
   "nodes": [
     {
       "id": 110,
@@ -4914,9 +4914,8 @@
         "color_restricted": false
       },
       "widgets_values": [
-        434811551481577,
-        "randomize",
-        "1084376809793231"
+        973471520971067,
+        "randomize"
       ],
       "color": "#fa761e",
       "bgcolor": "#e6620a"
@@ -4971,7 +4970,7 @@
       },
       "widgets_values": [
         "",
-        1837,
+        527,
         "randomize",
         "No",
         true
@@ -5309,7 +5308,7 @@
       },
       "widgets_values": [
         "",
-        1780,
+        1120,
         "randomize",
         "No",
         true
@@ -5821,7 +5820,7 @@
         "integer",
         3,
         7,
-        629843190580308,
+        1063952906023893,
         "randomize"
       ],
       "color": "#222",
@@ -5888,7 +5887,7 @@
         "integer",
         3,
         6,
-        986888331356025,
+        678314078647686,
         "randomize"
       ],
       "color": "#222",
@@ -6326,7 +6325,7 @@
       },
       "widgets_values": [
         "pop-culture",
-        39621126954397,
+        701280375084932,
         "randomize"
       ],
       "color": "#46dca0",
@@ -6373,7 +6372,7 @@
       },
       "widgets_values": [
         "cosmic-galaxy",
-        329785794155113,
+        993590203716590,
         "randomize"
       ],
       "color": "#46dca0",
@@ -6420,7 +6419,7 @@
       },
       "widgets_values": [
         "details",
-        3625524489015,
+        74682694046284,
         "randomize"
       ],
       "color": "#46dca0",
@@ -6467,7 +6466,7 @@
       },
       "widgets_values": [
         "cosmic-terms",
-        635618498795515,
+        678026947452298,
         "randomize"
       ],
       "color": "#46dca0",
@@ -6606,7 +6605,7 @@
         "float",
         8,
         13,
-        671929384341353,
+        76525661436691,
         "randomize"
       ],
       "color": "#222",
@@ -7330,7 +7329,7 @@
       },
       "widgets_values": [
         1.1,
-        604330580439035,
+        402829624958068,
         "randomize",
         6,
         5,
@@ -9939,7 +9938,7 @@
         "float",
         8,
         15,
-        694113769652388,
+        318651644902526,
         "randomize"
       ],
       "color": "#222",
@@ -10180,7 +10179,7 @@
         "float",
         0.2,
         0.5,
-        267271818609759,
+        936623054198985,
         "randomize"
       ],
       "color": "#222",
@@ -10262,7 +10261,7 @@
       },
       "widgets_values": [
         "cosmic-nebula",
-        222353218652167,
+        996314501374400,
         "randomize"
       ],
       "color": "#46dca0",
@@ -10765,7 +10764,7 @@
           "name": "VAE",
           "type": "*",
           "link": 1980,
-          "color_on": "#FF6E6E"
+          "color_on": "#e4ff6e"
         }
       ],
       "outputs": [],
@@ -14031,7 +14030,7 @@
       },
       "widgets_values": [
         "",
-        1198,
+        1902,
         "randomize",
         "No",
         true
@@ -18288,6 +18287,70 @@
       337,
       0,
       "STRING"
+    ],
+    [
+      2371,
+      16,
+      2,
+      8,
+      1,
+      "VAE"
+    ],
+    [
+      2372,
+      6,
+      0,
+      3,
+      1,
+      "CONDITIONING"
+    ],
+    [
+      2373,
+      7,
+      0,
+      3,
+      2,
+      "CONDITIONING"
+    ],
+    [
+      2374,
+      6,
+      0,
+      25,
+      2,
+      "CONDITIONING"
+    ],
+    [
+      2375,
+      7,
+      0,
+      25,
+      3,
+      "CONDITIONING"
+    ],
+    [
+      2376,
+      16,
+      2,
+      25,
+      4,
+      "VAE"
+    ],
+    [
+      2377,
+      200,
+      0,
+      25,
+      6,
+      "INT"
+    ],
+    [
+      2378,
+      16,
+      2,
+      72,
+      1,
+      "VAE"
     ]
   ],
   "groups": [
@@ -18424,7 +18487,7 @@
       "locked": false
     },
     {
-      "title": "                                                          5 - [ INIT. / ZOOM ] - CHOIX DEMARRAGE",
+      "title": "                                                          7 - [ INIT. / ZOOM ] - CHOIX DEMARRAGE",
       "bounding": [
         -1760,
         1267,
@@ -18571,10 +18634,10 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 0.620921323059156,
+      "scale": 1,
       "offset": [
-        2324.5405708746066,
-        -824.1385999552292
+        3134.568213899085,
+        -673.1048465062427
       ]
     },
     "groupNodes": {

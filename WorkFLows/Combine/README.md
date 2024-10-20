@@ -34,12 +34,40 @@ When these colors are specific I will specify it with the color code
 -----
 -----
 
-# ** 🚧🚧 WORK IN PROGRESS 🚧🚧  --**
-READ ME IS COMING
+# 🚧🚧 WORK IN PROGRESS 🚧🚧
+## 🚨🚨 ATTENTION CE N'EST PAS UNE VERSION FINALE !! VERSION ALPHA 🚨🚨
+## 🚨🚨 ATTENTION THIS IS NOT A FINAL VERSION !! ALPHA VERSION 🚨🚨
+# 🚧🚧 WORK IN PROGRESS 🚧🚧
+<hr>
+<hr>
 
-# 🔵⚪️🔴
+# 🔵⚪️🔴 
 # Permet de combiner 2 images ensemble
 ## IMAGE 1🔵 avec IMAGE 2🔴
+[ CLICK TO DOWNLOAD PNG WORKFLOW ]<br>
+<a href="COMBINE-4TYPES_Images+UPscalers.png"><img src="COMBINE-4TYPES_Images+UPscalers-notes.jpg" width="50%">
+
+### Toutes les Options restent comnunes au [ [ modele C ](../DEFAUT_MODEL-C.md) ] & au modele [ [BASIC](../BASIC.md) ] :
+❤️C - Commun / Common<br>
+💚U1 / 💜U2 - Upsacalers 1 & 2 <br>
+
+<img src="images/Commun.png" width="20%"><br>
+
+# G ) GUIDANCE 
+<img src="images/guidance.png" width="40%"><br>
+
+## 🔵⚪️🔴 CHOIX DE GUIDANCE
+### [1] Pas de prompt pour guider<br>
+### (2) On ajoute le prompt
+( Voir options de prompt )
+
+
+## 🌎🌍🌏 GUIDANCE CHOICE
+### [1] No prompt to guide<br>
+### (2) We add the prompt
+( See prompt options )
+
+
 ## <u>Parametres individuels de chaque image</u> : 
 A ) SOURCE DE L'IMAGE 4 CHOIX :
 - 1 Load Image

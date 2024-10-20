@@ -1,5 +1,5 @@
 ### <a href="https://creativecommons.org/publicdomain/zero/1.0/"><img src="https://raw.githubusercontent.com/Dfalm-Original/COMFYui/main/images/CC-0-Violet.png" height="48"></a> Dfalm.<i>[Licence ](https://github.com/Dfalm-Original/COMFYui?tab=License-1-ov-file)</i><a href="https://fr.wikipedia.org/wiki/WTFPL"><img src="https://raw.githubusercontent.com/Dfalm-Original/COMFYui/main/images/WTFPL_logo.svg.png" height="48"></a>
-# ** 🚧🚧 WORK IN PROGRESS 🚧🚧  --**
+# **-- WorkFlows --**
 <hr>
 
 #### A - Normalisation<br>B - WorkFlows<br>C - Misc<br>D - In Fine
@@ -34,12 +34,146 @@ When these colors are specific I will specify it with the color code
 -----
 -----
 
-# ** 🚧🚧 WORK IN PROGRESS 🚧🚧  --**
-READ ME IS COMING
+## B - WorkFlows
+🔵⚪️🔴 Dans ce chapitre je propose des WorkFlow, les liens des exemples, des images et autres...<br>🌎🌍🌏 In this chapter I propose WorkFlow, links to examples, images and others...
 
+
+0) <u>[BASIC](BASIC.md)</u> - Presentation et bases -- Presentation and basics
+1) <u>[DEFAUT_MODEL-A_Text-2-Img+UPscalers](DEFAUT_MODEL-A.md)</u> - Pour generer 'text-to-image' -- To generate 'text-to-image'
+2) <u>[DEFAUT_MODEL-B_Load-ImgZ+UPscalers](DEFAUT_MODEL-B.md)</u> - Pour generer 'image(s)-to-image' -- To generate 'image(s)-to-image'
+3) <u>[DEFAUT_MODEL-C_Text-2-Img+LoadImage+UPscalers](DEFAUT_MODEL-C.md)</u> - Combine le Modele A et le Modele B -- Combine Model A and Model B
+4) <u>[DEFAUT_MODEL-D_Text-2-Img+LoadImage+UPscalers](DEFAUT_MODEL-D.md)</u> - Ameliore le Modele B -- Amelioration of B Model
+
+### 🆙) <u>[Upscalers](Upscalers.md)</u>
+
+<hr>
+
+## 0) BASIC
+[ CLICK TO DOWNLOAD PNG WORKFLOW ]<br>
+<a href="Defaut/BASIC.png"><img src="images/BASIC-V1.00-notes.jpg" width="60%"></a><br>
+
+🔵⚪️🔴  Remplace le workflow **"default"**<br>  🌎🌍🌏 Replaces **"default"** workflow<br>
+<img src="images/default.png" width="30%"><br>
+
+## 🔵⚪️🔴 VOIR LE WORKFLOW EN DETAIL  [ CLICK ] [BASIC](BASIC.md)<br>🌎🌍🌏 SEE THE WORKFLOW IN DETAIL [ CLICK ] [BASIC](BASIC.md)
+
+### - Pour les UPScaler voir le chapitre idoine / UPScaler go to : <u>🆙 [Upscalers](Upscalers.md) </u>
+
+<hr>
+
+## I) -A-  DEFAUT_MODEL-A_Text-2-Img+UPscalers
+[ CLICK TO DOWNLOAD PNG WORKFLOW ]<br>
+<a href="Defaut/DEFAUT_MODEL-A_Text-2-Img+UPscalers.png"><img src="images/DEFAUT_MODEL-A_Text-2-Img+UPscalersV1.00-notes.jpg" height="50%"></a><br>  
+
+
+## 🔵⚪️🔴 Permet de faire *text-to-image* avec des options de *prompts* et la possibilité d'*UPScaler* l'image rendue <br>
+#### ( Par defaut les deux UPscalers sont désactivés ❌ )
+### Toutes les Options restent comnunes [ [BASIC](BASIC.md) ] :
+
+## 🌎🌍🌏 Allows to do *text-to-image* with *prompts* options and the ability to *UPScaler* the rendered image <br>
+#### ( By default both UPscalers are disabled ❌ )
+### All Options remain common [ [BASIC](BASIC.md) ] :
+
+## 🔵⚪️🔴 VOIR LE WORKFLOW EN DETAIL  [ CLICK ] [DEFAUT_MODEL-A_Text-2-Img+UPscalers](DEFAUT_MODEL-A.md)<br>🌎🌍🌏 SEE THE WORKFLOW IN DETAIL [ CLICK ] [DEFAUT_MODEL-A_Text-2-Img+UPscalers](DEFAUT_MODEL-A.md)
+
+### - Pour les UPScaler voir le chapitre idoine / UPScaler go to : <u>🆙 [Upscalers](Upscalers.md) </u>
+
+<hr>
+
+## II) -B- DEFAUT_MODEL-B_Load-ImgZ+UPscalers
+[ CLICK TO DOWNLOAD PNG WORKFLOW ]<br>
+<a href="Defaut/DEFAUT_MODEL-B_Load-ImgZ+UPscalers.png"><img src="images/DEFAUT_MODEL-B_Load-ImgZ+UPscalersV1.00-notes.jpg" height="50%"></a><br>
+
+## 🔵⚪️🔴 Permet d'Upscaler des images avec 2 Upscalers<br>
+#### ( Par defaut l'UPscaler "Hires/Lent" U2💜 est désactivé ❌ )
+### Toutes les Options restent comnunes [ [BASIC](BASIC.md) ] :
+
+## 🌎🌍🌏 Allows to Upscale images with 2 Upscalers<br>
+#### ( By default the "Hires/Lent" U2💜 UPscaler is disabled ❌ )
+### All Options remain common [ [BASIC](BASIC.md) ] :
+
+## 🔵⚪️🔴 VOIR LE WORKFLOW EN DETAIL  [ CLICK ] [DEFAUT_MODEL-B_Load-ImgZ+UPscalers](DEFAUT_MODEL-B.md)<br>🌎🌍🌏 SEE THE WORKFLOW IN DETAIL [ CLICK ] [DEFAUT_MODEL-B_Load-ImgZ+UPscalers](DEFAUT_MODEL-B.md)
+
+### - Pour les UPScaler voir le chapitre idoine / UPScaler go to : <u>🆙 [Upscalers](Upscalers.md) </u>
+
+<hr>
+
+## III) - C - DEFAUT_MODEL-C_Text-2-Img+LoadImage+UPscalers 
+[ CLICK TO DOWNLOAD PNG WORKFLOW ]<br>
+<a href="Defaut/DEFAUT_MODEL-C_Text-2-Img+LoadImage+UPscalers.png"><img src="images/DEFAUT_MODEL-C_Text-2-Img+LoadImage+UPscalersV1.00.jpg" height="50%">
+
+### 🐞 BUG TRIVIAL 🐞 : - Bug Section
+## 🔵⚪️🔴 Combine le Modele A et le Modele B<br>
+A - Permet de faire *text-to-image* avec des options de *prompts* <br>
+B - Permet de faire du *image-to-image* avec des options de *prompts* avec l'option '**denoise**' ( **💙 D** )<br>
+### Toutes les Options restent comnunes [ [BASIC](BASIC.md) ] :
+
+## 🌎🌍🌏 Combines Model A and Model B<br>
+A - Allows you to do *text-to-image* with *prompts* options <br>
+B - Allows you to do *image-to-image* with *prompts* options with the '**denoise**' option ( **💙 D** )<br>
+### All Options remain common [ [BASIC](BASIC.md) ] :
+
+## 🔵⚪️🔴 VOIR LE WORKFLOW EN DETAIL  [ CLICK ] [DEFAUT_MODEL-C_Text-2-Img+LoadImage+UPscalers](DEFAUT_MODEL-C.md) <br>🌎🌍🌏 SEE THE WORKFLOW IN DETAIL [ CLICK ] [DEFAUT_MODEL-C_Text-2-Img+LoadImage+UPscalers](DEFAUT_MODEL-C.md)
+
+### - Pour les UPScaler voir le chapitre idoine / UPScaler go to : <u>🆙 [Upscalers](Upscalers.md) </u>
+
+<hr>
+
+## IV) - D - DEFAUT_MODEL-D_Text-2-Img+LoadImage+UPscalers + Boucle (Loop)
+[ CLICK TO DOWNLOAD PNG WORKFLOW ]<br>
+<a href="Defaut/DEFAUT_MODEL-D_Text-2-Img+LoadImage+UPscalers.png"><img src="images/DEFAUT_MODEL-D_Text-2-Img+LoadImage+UPscalers-notes.jpg" height="50%">
+
+### 🐞 BUG TRIVIAL 🐞 : - Bug Section
+## 🔵⚪️🔴 Modele C Ameliore <br>
+Rajoute une boucle (❤️Loop) et permet de re-injecter l'image generer pour la retravailler
+- Option 5 : 💜 [5]  <b>Image Receiver</b>
+### Toutes les Options restent comnunes au [ [ modele C ](DEFAUT_MODEL-C.md) ] & au modele [ [BASIC](BASIC.md) ] :
+
+## 🌎🌍🌏 Improved Model C <br>
+Adds a ❤️Loop and allows to re-inject the generated image to rework it
+- Option 5 : 💜 [5]  <b>Image Receiver</b>
+### All Options remain common to the [ [ C model ](DEFAUT_MODEL-C.md) ] & to the [ [BASIC](BASIC.md) ] model:
+
+## 🔵⚪️🔴 VOIR LE WORKFLOW EN DETAIL  [ CLICK ] [DEFAUT_MODEL-D_Text-2-Img+LoadImage+UPscalers](DEFAUT_MODEL-D.md) <br>🌎🌍🌏 SEE THE WORKFLOW IN DETAIL [ CLICK ] [DEFAUT_MODEL-D_Text-2-Img+LoadImage+UPscalers](DEFAUT_MODEL-D.md)
+
+### - Pour les UPScaler voir le chapitre idoine / UPScaler go to : <u>🆙 [Upscalers](Upscalers.md) </u>
+
+<hr>
+
+## 🆙) Upscalers :
+### Hires - Lent / Slow  
+
+Il y a deux Upscalers, un rapide et un "lent" qui fait du refiner
+
+## 🔵⚪️🔴 VOIR LES DETAILS  [ CLICK ] [Upscalers](Upscalers.md)<br>🌎🌍🌏 SEE DETAILS [ CLICK ] [Upscalers](Upscalers.md)
+
+
+## ℹ️ INFORMATION : 
+## 📥 Telecharger des modeles / download models :
+ [OPEN UPSCALER](https://openmodeldb.info) : https://openmodeldb.info
+#### INSTALLER LES MODELES DANS / INSTALL MODELS IN
+
+.\ComfyUI\Models\upscale_models
 
 -----
 -----
+
+<h1>C - MISC</h1>
+
+### Conseil / Advice
+🔵⚪️🔴 Pour la preview image j'utilise egalement la couleur noire et uniquement "PREVIEW IMAGE"<br>
+Je conseille d'utiliser les "SD" Prompt generator et Prompt Saver 1️⃣ pour diverses raisons
+
+🌎🌍🌏 For the preview image I also use black color and only "PREVIEW IMAGE"<br>
+I recommend using the "SD" Prompt generator and Prompt Saver 1️⃣ for various reasons
+
+1️⃣ SD Prompt Reader Node : https://github.com/receyuki/comfyui-prompt-reader-node<br>
+
+# BUG
+
+### VOIR LA PAGE AD HOC :  [ <u>README - Section Bugs</u> ](https://github.com/Dfalm-Original/COMFYui)<br>REFER TO AD HOC PAGE:[ <u>README - Bugs Section </u>](https://github.com/Dfalm-Original/COMFYui)
+
+---
 
 <h1>D - In Fine</h1>
 
