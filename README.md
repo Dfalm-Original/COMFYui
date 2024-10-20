@@ -2,7 +2,7 @@
 # **Divers WorkFlow + Tutos + Config + Misc COMFYui**
 <hr>
 
-#### A - Normalisation<br>B - WorkFlows<br>C - Misc<br>D - In Fine
+#### A - Normalisation<br>B - [WorkFlows](WorkFLows)<br>C - Misc<br>D - In Fine
 ----
 ## INTRODUCTION
 Dans ce chaptire je vais mettre en place une "norme" commune : **Normalisation** pour les différents éléments<br>
@@ -180,7 +180,9 @@ Hauteur / Height : brown (maron)<br>
 ----
 
 <h1>B - WORKFLOW</h1>
-Coming soon...
+
+## [WorkFlows LISTE ICI - LIST HERE](WorkFLows)
+
 
 
 ----
