@@ -2,7 +2,7 @@
 # **Divers WorkFlow + Tutos + Config + Misc COMFYui**
 <hr>
 
-#### A - Normalisation<br>B - [WorkFlows](WorkFLows)<br>C - Misc<br>D - In Fine
+#### A - [Normalisation](https://github.com/Dfalm-Original/COMFYui/blob/main/images/NORME.png)<br>B - [WorkFlows](WorkFLows)<br>C - Misc<br>D - In Fine
 ----
 ## INTRODUCTION
 Dans ce chaptire je vais mettre en place une "norme" commune : **Normalisation** pour les différents éléments<br>

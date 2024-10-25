@@ -1,21 +1,13 @@
 {
   "last_node_id": 531,
-  "last_link_id": 1314,
+  "last_link_id": 1316,
   "nodes": [
     {
       "id": 323,
       "type": "Note Plus (mtb)",
       "pos": {
         "0": -3274.96337890625,
-        "1": 474.604248046875,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 474.604248046875
       },
       "size": {
         "0": 390.4503479003906,
@@ -43,15 +35,7 @@
       "type": "CLIPTextEncode",
       "pos": {
         "0": -2203.53955078125,
-        "1": 1507.5443115234375,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 1507.5443115234375
       },
       "size": {
         "0": 210,
@@ -106,15 +90,7 @@
       "type": "Note Plus (mtb)",
       "pos": {
         "0": -3275.25341796875,
-        "1": -5.0295915603637695,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": -5.0295915603637695
       },
       "size": {
         "0": 390.4503479003906,
@@ -142,15 +118,7 @@
       "type": "Note Plus (mtb)",
       "pos": {
         "0": -3275.25341796875,
-        "1": 274.9705505371094,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 274.9705505371094
       },
       "size": {
         "0": 390.4503479003906,
@@ -180,15 +148,7 @@
       "type": "Note Plus (mtb)",
       "pos": {
         "0": -3275.25341796875,
-        "1": 854.9705810546875,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 854.9705810546875
       },
       "size": {
         "0": 391.9408874511719,
@@ -216,15 +176,7 @@
       "type": "Note Plus (mtb)",
       "pos": {
         "0": -3275.25341796875,
-        "1": 1044.969970703125,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 1044.969970703125
       },
       "size": {
         "0": 392.6138610839844,
@@ -252,15 +204,7 @@
       "type": "Note Plus (mtb)",
       "pos": {
         "0": -3275.25341796875,
-        "1": 1284.969970703125,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 1284.969970703125
       },
       "size": {
         "0": 391.431396484375,
@@ -288,15 +232,7 @@
       "type": "Note Plus (mtb)",
       "pos": {
         "0": -3275.396484375,
-        "1": 1494.257080078125,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 1494.257080078125
       },
       "size": {
         "0": 390.4503479003906,
@@ -324,15 +260,7 @@
       "type": "Note Plus (mtb)",
       "pos": {
         "0": -2853.53955078125,
-        "1": 1285.5443115234375,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 1285.5443115234375
       },
       "size": {
         "0": 388.15789794921875,
@@ -360,15 +288,7 @@
       "type": "Note Plus (mtb)",
       "pos": {
         "0": -2852.53955078125,
-        "1": 1046.5443115234375,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 1046.5443115234375
       },
       "size": {
         "0": 388.3548583984375,
@@ -396,15 +316,7 @@
       "type": "Note Plus (mtb)",
       "pos": {
         "0": -2852.53955078125,
-        "1": 855.5449829101562,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 855.5449829101562
       },
       "size": {
         "0": 387.6366882324219,
@@ -432,15 +344,7 @@
       "type": "Note Plus (mtb)",
       "pos": {
         "0": -2852.53955078125,
-        "1": 1494.5443115234375,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 1494.5443115234375
       },
       "size": {
         "0": 387.32366943359375,
@@ -468,15 +372,7 @@
       "type": "String Literal",
       "pos": {
         "0": -2443.53955078125,
-        "1": 1527.5443115234375,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 1527.5443115234375
       },
       "size": {
         "0": 210,
@@ -517,15 +413,7 @@
       "type": "Note Plus (mtb)",
       "pos": {
         "0": -2852,
-        "1": 1705,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 1705
       },
       "size": {
         "0": 387.6506042480469,
@@ -553,15 +441,7 @@
       "type": "Note Plus (mtb)",
       "pos": {
         "0": -2853,
-        "1": -4,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": -4
       },
       "size": {
         "0": 398.8148498535156,
@@ -589,15 +469,7 @@
       "type": "Note Plus (mtb)",
       "pos": {
         "0": -3275,
-        "1": 1705,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 1705
       },
       "size": {
         "0": 389.0354309082031,
@@ -625,15 +497,7 @@
       "type": "Note Plus (mtb)",
       "pos": {
         "0": -3274,
-        "1": 1915,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 1915
       },
       "size": {
         "0": 388.8426818847656,
@@ -661,15 +525,7 @@
       "type": "Note Plus (mtb)",
       "pos": {
         "0": -2851,
-        "1": 1916,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 1916
       },
       "size": {
         "0": 386.0211181640625,
@@ -697,15 +553,7 @@
       "type": "Seed Everywhere",
       "pos": {
         "0": -1793,
-        "1": 1155,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 1155
       },
       "size": {
         "0": 315,
@@ -730,9 +578,8 @@
         "color_restricted": 0
       },
       "widgets_values": [
-        470192856389202,
-        "randomize",
-        "1120275113142957"
+        485864923644129,
+        "randomize"
       ],
       "color": "#ffaa32",
       "bgcolor": "#ff961e"
@@ -742,15 +589,7 @@
       "type": "Note Plus (mtb)",
       "pos": {
         "0": -3275.25341796875,
-        "1": 664.9705810546875,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 664.9705810546875
       },
       "size": {
         "0": 393.2670593261719,
@@ -778,15 +617,7 @@
       "type": "Note Plus (mtb)",
       "pos": {
         "0": -2853,
-        "1": 666,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 666
       },
       "size": {
         "0": 387.8760681152344,
@@ -814,15 +645,7 @@
       "type": "EmptyLatentImage",
       "pos": {
         "0": -744.0250244140625,
-        "1": 840.8841552734375,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 840.8841552734375
       },
       "size": {
         "0": 210.98826599121094,
@@ -887,15 +710,7 @@
       "type": "JWString",
       "pos": {
         "0": -1289,
-        "1": 98,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 98
       },
       "size": {
         "0": 361.86480712890625,
@@ -931,15 +746,7 @@
       "type": "String Literal",
       "pos": {
         "0": -1292,
-        "1": 287,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 287
       },
       "size": {
         "0": 519.6839599609375,
@@ -976,15 +783,7 @@
       "type": "CLIPTextEncode",
       "pos": {
         "0": -753,
-        "1": 287,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 287
       },
       "size": {
         "0": 210,
@@ -1037,15 +836,7 @@
       "type": "CLIPTextEncode",
       "pos": {
         "0": -753,
-        "1": 651,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 651
       },
       "size": {
         "0": 210,
@@ -1096,15 +887,7 @@
       "type": "KSampler",
       "pos": {
         "0": -487,
-        "1": -13,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": -13
       },
       "size": {
         "0": 313.4999084472656,
@@ -1196,7 +979,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        497241078697712,
+        181421114560628,
         "randomize",
         20,
         8,
@@ -1212,15 +995,7 @@
       "type": "VAEDecode",
       "pos": {
         "0": -156,
-        "1": -12,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": -12
       },
       "size": {
         "0": 210,
@@ -1262,6 +1037,7 @@
           "groupcolor": "#444"
         }
       },
+      "widgets_values": [],
       "color": "#222",
       "bgcolor": "#000"
     },
@@ -1270,20 +1046,12 @@
       "type": "PreviewImage",
       "pos": {
         "0": -1296,
-        "1": 995,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 995
       },
-      "size": [
-        773.5685424804688,
-        628.2957763671875
-      ],
+      "size": {
+        "0": 773.5685424804688,
+        "1": 628.2957763671875
+      },
       "flags": {
         "pinned": true
       },
@@ -1301,24 +1069,16 @@
       "properties": {
         "Node name for S&R": "PreviewImage"
       },
+      "widgets_values": [],
       "color": "#222",
-      "bgcolor": "#000",
-      "locked": true
+      "bgcolor": "#000"
     },
     {
       "id": 335,
       "type": "Note Plus (mtb)",
       "pos": {
         "0": -1928,
-        "1": -560,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": -560
       },
       "size": {
         "0": 723.9815673828125,
@@ -1346,15 +1106,7 @@
       "type": "Note Plus (mtb)",
       "pos": {
         "0": -1159,
-        "1": -560,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": -560
       },
       "size": {
         "0": 614.92919921875,
@@ -1382,15 +1134,7 @@
       "type": "Note Plus (mtb)",
       "pos": {
         "0": -901,
-        "1": -93,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": -93
       },
       "size": {
         "0": 382.2588806152344,
@@ -1418,15 +1162,7 @@
       "type": "Checkpoint",
       "pos": {
         "0": -3946,
-        "1": -49,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": -49
       },
       "size": {
         "0": 640.1082153320312,
@@ -1460,15 +1196,7 @@
       "type": "Lora",
       "pos": {
         "0": -4578,
-        "1": -49,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": -49
       },
       "size": {
         "0": 601.4506225585938,
@@ -1503,15 +1231,7 @@
       "type": "String Literal",
       "pos": {
         "0": -1290,
-        "1": 642,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 642
       },
       "size": {
         "0": 519.1119995117188,
@@ -1544,24 +1264,705 @@
       "bgcolor": "#533"
     },
     {
+      "id": 526,
+      "type": "Replace Text _O",
+      "pos": {
+        "0": -204.5691375732422,
+        "1": 1261.46435546875
+      },
+      "size": {
+        "0": 210,
+        "1": 87
+      },
+      "flags": {
+        "collapsed": false
+      },
+      "order": 36,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "text",
+          "type": "STRING",
+          "link": 1301,
+          "slot_index": 0,
+          "widget": {
+            "name": "text"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            1302
+          ],
+          "slot_index": 0,
+          "shape": 3
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "Replace Text _O"
+      },
+      "widgets_values": [
+        "",
+        "\\",
+        "--",
+        true
+      ],
+      "color": "#222",
+      "bgcolor": "#000"
+    },
+    {
+      "id": 530,
+      "type": "ShowText|pysssss",
+      "pos": {
+        "0": -483.885986328125,
+        "1": 1391.5401611328125
+      },
+      "size": {
+        "0": 1003.9654541015625,
+        "1": 76
+      },
+      "flags": {},
+      "order": 44,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "text",
+          "type": "STRING",
+          "link": 1307,
+          "widget": {
+            "name": "text"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": null,
+          "shape": 6
+        }
+      ],
+      "title": "Show Text 🐍 -- CONTROL",
+      "properties": {
+        "Node name for S&R": "ShowText|pysssss"
+      },
+      "widgets_values": [
+        "",
+        "FICHIER_15-28-22_SDXL--sd_xl_base_1.0"
+      ],
+      "color": "#1ea078",
+      "bgcolor": "#0a8c64"
+    },
+    {
+      "id": 204,
+      "type": "Lora Loader",
+      "pos": {
+        "0": -1915,
+        "1": -14
+      },
+      "size": {
+        "0": 551.5555419921875,
+        "1": 146
+      },
+      "flags": {},
+      "order": 34,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 1285
+        },
+        {
+          "name": "clip",
+          "type": "CLIP",
+          "link": 1284
+        }
+      ],
+      "outputs": [
+        {
+          "name": "MODEL",
+          "type": "MODEL",
+          "links": [
+            1257
+          ],
+          "slot_index": 0,
+          "shape": 3
+        },
+        {
+          "name": "CLIP",
+          "type": "CLIP",
+          "links": [
+            1255,
+            1256
+          ],
+          "slot_index": 1,
+          "shape": 3
+        },
+        {
+          "name": "NAME_STRING",
+          "type": "STRING",
+          "links": [
+            1310
+          ],
+          "slot_index": 2,
+          "shape": 3
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "Lora Loader"
+      },
+      "widgets_values": [
+        "add-detail-xl.safetensors",
+        1,
+        1
+      ],
+      "color": "#ff14ff",
+      "bgcolor": "#fa00ff"
+    },
+    {
+      "id": 525,
+      "type": "SDTypeConverter",
+      "pos": {
+        "0": -490,
+        "1": 1261
+      },
+      "size": {
+        "0": 267.2269287109375,
+        "1": 74
+      },
+      "flags": {
+        "collapsed": false
+      },
+      "order": 33,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "model_name",
+          "type": "COMBO",
+          "link": 1308,
+          "slot_index": 0,
+          "widget": {
+            "name": "model_name"
+          }
+        },
+        {
+          "name": "sampler_name",
+          "type": "COMBO",
+          "link": null,
+          "widget": {
+            "name": "sampler_name"
+          }
+        },
+        {
+          "name": "scheduler",
+          "type": "COMBO",
+          "link": null,
+          "widget": {
+            "name": "scheduler"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "MODEL_NAME_STR",
+          "type": "STRING",
+          "links": [
+            1301
+          ],
+          "slot_index": 0,
+          "shape": 3
+        },
+        {
+          "name": "SAMPLER_NAME_STR",
+          "type": "STRING",
+          "links": null,
+          "shape": 3
+        },
+        {
+          "name": "SCHEDULER_STR",
+          "type": "STRING",
+          "links": null,
+          "shape": 3
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "SDTypeConverter"
+      },
+      "widgets_values": [
+        "FLUX\\creapromptFlux1Dev_v10.safetensors",
+        "euler",
+        "normal"
+      ],
+      "color": "#222",
+      "bgcolor": "#000"
+    },
+    {
+      "id": 527,
+      "type": "Replace Text _O",
+      "pos": {
+        "0": 31,
+        "1": 1261
+      },
+      "size": {
+        "0": 210,
+        "1": 87
+      },
+      "flags": {
+        "collapsed": false
+      },
+      "order": 40,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "text",
+          "type": "STRING",
+          "link": 1302,
+          "slot_index": 0,
+          "widget": {
+            "name": "text"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            1304
+          ],
+          "slot_index": 0,
+          "shape": 3
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "Replace Text _O"
+      },
+      "widgets_values": [
+        "",
+        ".safetensors",
+        "",
+        true
+      ],
+      "color": "#222",
+      "bgcolor": "#000"
+    },
+    {
+      "id": 528,
+      "type": "DF_String_Concatenate",
+      "pos": {
+        "0": 300.97528076171875,
+        "1": 1207.593994140625
+      },
+      "size": {
+        "0": 210,
+        "1": 78
+      },
+      "flags": {
+        "collapsed": false
+      },
+      "order": 42,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "Prepend",
+          "type": "STRING",
+          "link": 1312,
+          "widget": {
+            "name": "Prepend"
+          }
+        },
+        {
+          "name": "Append",
+          "type": "STRING",
+          "link": 1304,
+          "widget": {
+            "name": "Append"
+          }
+        },
+        {
+          "name": "Delimiter",
+          "type": "STRING",
+          "link": 1305,
+          "widget": {
+            "name": "Delimiter"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "TEXT",
+          "type": "STRING",
+          "links": [
+            1307
+          ],
+          "slot_index": 0,
+          "shape": 3
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "DF_String_Concatenate"
+      },
+      "widgets_values": [
+        "",
+        "",
+        "_"
+      ],
+      "color": "#222",
+      "bgcolor": "#000"
+    },
+    {
+      "id": 237,
+      "type": "JWString",
+      "pos": {
+        "0": -1286,
+        "1": -14
+      },
+      "size": {
+        "0": 359.367431640625,
+        "1": 58
+      },
+      "flags": {},
+      "order": 28,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            1299,
+            1312
+          ],
+          "slot_index": 0,
+          "shape": 3
+        }
+      ],
+      "title": "String - NOM FICHIER",
+      "properties": {
+        "Node name for S&R": "JWString"
+      },
+      "widgets_values": [
+        "FICHIER"
+      ],
+      "color": "#14ff14",
+      "bgcolor": "#00ff00"
+    },
+    {
+      "id": 529,
+      "type": "TextConcat",
+      "pos": {
+        "0": 321,
+        "1": 1327
+      },
+      "size": {
+        "0": 315,
+        "1": 178
+      },
+      "flags": {
+        "collapsed": true
+      },
+      "order": 39,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "text2",
+          "type": "STRING",
+          "link": 1310,
+          "widget": {
+            "name": "text2"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            1309
+          ],
+          "slot_index": 0,
+          "shape": 3
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "TextConcat"
+      },
+      "widgets_values": [
+        " ",
+        "Lora : ",
+        "",
+        "",
+        "",
+        "--- Par Dfalm 2024 ---  https://github.com/Dfalm-Original/COMFYui -- https://www.youtube.com/@Dfalm "
+      ],
+      "color": "#cd5adc",
+      "bgcolor": "#b946c8"
+    },
+    {
+      "id": 531,
+      "type": "JWDatetimeString",
+      "pos": {
+        "0": 96,
+        "1": 1208
+      },
+      "size": {
+        "0": 210,
+        "1": 58
+      },
+      "flags": {
+        "collapsed": true
+      },
+      "order": 29,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            1305
+          ],
+          "slot_index": 0,
+          "shape": 3
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "JWDatetimeString",
+        "ttNbgOverride": {
+          "color": "#222",
+          "bgcolor": "#000",
+          "groupcolor": "#444"
+        }
+      },
+      "widgets_values": [
+        "_%H-%M-%S_"
+      ],
+      "color": "#222",
+      "bgcolor": "#000"
+    },
+    {
+      "id": 519,
+      "type": "Note",
+      "pos": {
+        "0": -1919,
+        "1": -646
+      },
+      "size": {
+        "0": 492.0579833984375,
+        "1": 68.30645751953125
+      },
+      "flags": {},
+      "order": 30,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "title": "Note - VERSION",
+      "properties": {},
+      "widgets_values": [
+        "BASIC-V1.4"
+      ],
+      "color": "#222",
+      "bgcolor": "#000"
+    },
+    {
+      "id": 518,
+      "type": "SDParameterGenerator",
+      "pos": {
+        "0": -1915,
+        "1": 186
+      },
+      "size": {
+        "0": 552.1323852539062,
+        "1": 936
+      },
+      "flags": {},
+      "order": 31,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "MODEL_NAME",
+          "type": "COMBO",
+          "links": [
+            1308
+          ],
+          "slot_index": 0,
+          "shape": 3
+        },
+        {
+          "name": "VAE_NAME",
+          "type": "COMBO",
+          "links": null,
+          "shape": 3
+        },
+        {
+          "name": "MODEL",
+          "type": "MODEL",
+          "links": [
+            1285
+          ],
+          "slot_index": 2,
+          "shape": 3
+        },
+        {
+          "name": "CLIP",
+          "type": "CLIP",
+          "links": [
+            1284
+          ],
+          "slot_index": 3,
+          "shape": 3
+        },
+        {
+          "name": "VAE",
+          "type": "VAE",
+          "links": [
+            1286
+          ],
+          "slot_index": 4,
+          "shape": 3
+        },
+        {
+          "name": "SEED",
+          "type": "INT",
+          "links": [],
+          "shape": 3
+        },
+        {
+          "name": "STEPS",
+          "type": "INT",
+          "links": [
+            1287
+          ],
+          "slot_index": 6,
+          "shape": 3
+        },
+        {
+          "name": "REFINER_START_STEP",
+          "type": "INT",
+          "links": null,
+          "shape": 3
+        },
+        {
+          "name": "CFG",
+          "type": "FLOAT",
+          "links": [
+            1288
+          ],
+          "slot_index": 8,
+          "shape": 3
+        },
+        {
+          "name": "SAMPLER_NAME",
+          "type": "COMBO",
+          "links": [
+            1289
+          ],
+          "slot_index": 9,
+          "shape": 3
+        },
+        {
+          "name": "SCHEDULER",
+          "type": "COMBO",
+          "links": [
+            1290
+          ],
+          "slot_index": 10,
+          "shape": 3
+        },
+        {
+          "name": "POSITIVE_ASCORE",
+          "type": "FLOAT",
+          "links": null,
+          "shape": 3
+        },
+        {
+          "name": "NEGATIVE_ASCORE",
+          "type": "FLOAT",
+          "links": null,
+          "shape": 3
+        },
+        {
+          "name": "WIDTH",
+          "type": "INT",
+          "links": [
+            1291
+          ],
+          "slot_index": 13,
+          "shape": 3
+        },
+        {
+          "name": "HEIGHT",
+          "type": "INT",
+          "links": [
+            1292
+          ],
+          "slot_index": 14,
+          "shape": 3
+        },
+        {
+          "name": "BATCH_SIZE",
+          "type": "INT",
+          "links": [
+            1293
+          ],
+          "slot_index": 15,
+          "shape": 3
+        },
+        {
+          "name": "PARAMETERS",
+          "type": "STRING",
+          "links": null,
+          "shape": 3
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "SDParameterGenerator"
+      },
+      "widgets_values": [
+        "SDXL\\sd_xl_base_1.0.safetensors",
+        "sdxl_vae.safetensors",
+        "SDXL 1024px",
+        "none",
+        564102627114672,
+        "randomize",
+        7,
+        0.8,
+        5,
+        "euler_ancestral",
+        "karras",
+        6,
+        6,
+        "custom",
+        1024,
+        1024,
+        1,
+        "Total steps: 7,\nRefiner start at step: 5 (80%)",
+        "Custom aspect ratio: 1024 x 1024",
+        "Total steps: 7,\nRefiner start at step: 5 (80%)",
+        "Custom aspect ratio: 1024 x 1024",
+        true,
+        true,
+        true
+      ],
+      "color": "#328cff",
+      "bgcolor": "#1e78ff"
+    },
+    {
       "id": 523,
       "type": "SDPromptSaver",
       "pos": {
         "0": -488,
-        "1": 243,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 243
       },
-      "size": [
-        540.2604154693531,
-        862.3761294820074
-      ],
+      "size": {
+        "0": 540.2604370117188,
+        "1": 862.3761596679688
+      },
       "flags": {},
       "order": 46,
       "mode": 0,
@@ -1576,7 +1977,8 @@
           "name": "lora_name",
           "type": "*",
           "link": null,
-          "slot_index": 1
+          "slot_index": 1,
+          "shape": 7
         },
         {
           "name": "filename",
@@ -1732,7 +2134,7 @@
         "%date/",
         "FLUX\\creapromptFlux1Dev_v10.safetensors",
         "Flux_vae.safetensors",
-        10618514730937,
+        852812385180441,
         "randomize",
         20,
         8,
@@ -1757,782 +2159,6 @@
       ],
       "color": "#ff7090",
       "bgcolor": "#ff5c7c"
-    },
-    {
-      "id": 526,
-      "type": "Replace Text _O",
-      "pos": {
-        "0": -204.5691375732422,
-        "1": 1261.46435546875,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
-      },
-      "size": {
-        "0": 210,
-        "1": 87
-      },
-      "flags": {
-        "collapsed": false
-      },
-      "order": 36,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "text",
-          "type": "STRING",
-          "link": 1301,
-          "slot_index": 0,
-          "widget": {
-            "name": "text"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            1302
-          ],
-          "slot_index": 0,
-          "shape": 3
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "Replace Text _O"
-      },
-      "widgets_values": [
-        "",
-        "\\",
-        "--",
-        true
-      ],
-      "color": "#222",
-      "bgcolor": "#000"
-    },
-    {
-      "id": 530,
-      "type": "ShowText|pysssss",
-      "pos": {
-        "0": -483.885986328125,
-        "1": 1391.5401611328125,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
-      },
-      "size": [
-        1003.9654541015625,
-        76
-      ],
-      "flags": {},
-      "order": 44,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "text",
-          "type": "STRING",
-          "link": 1307,
-          "widget": {
-            "name": "text"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": null,
-          "shape": 6
-        }
-      ],
-      "title": "Show Text 🐍 -- CONTROL",
-      "properties": {
-        "Node name for S&R": "ShowText|pysssss"
-      },
-      "widgets_values": [
-        "",
-        "FICHIER_10-11_SDXL--sd_xl_base_1.0"
-      ],
-      "color": "#1ea078",
-      "bgcolor": "#0a8c64"
-    },
-    {
-      "id": 531,
-      "type": "JWDatetimeString",
-      "pos": {
-        "0": 95.975341796875,
-        "1": 1207.593994140625,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
-      },
-      "size": {
-        "0": 210,
-        "1": 58
-      },
-      "flags": {
-        "collapsed": true
-      },
-      "order": 28,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            1305
-          ],
-          "slot_index": 0,
-          "shape": 3
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "JWDatetimeString",
-        "ttNbgOverride": {
-          "color": "#222",
-          "bgcolor": "#000",
-          "groupcolor": "#444"
-        }
-      },
-      "widgets_values": [
-        "_%H-%M_"
-      ],
-      "color": "#222",
-      "bgcolor": "#000"
-    },
-    {
-      "id": 518,
-      "type": "SDParameterGenerator",
-      "pos": {
-        "0": -1915,
-        "1": 186,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
-      },
-      "size": {
-        "0": 552.1323852539062,
-        "1": 916.9662475585938
-      },
-      "flags": {},
-      "order": 29,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "MODEL_NAME",
-          "type": "COMBO",
-          "links": [
-            1308
-          ],
-          "slot_index": 0,
-          "shape": 3
-        },
-        {
-          "name": "VAE_NAME",
-          "type": "COMBO",
-          "links": null,
-          "shape": 3
-        },
-        {
-          "name": "MODEL",
-          "type": "MODEL",
-          "links": [
-            1285
-          ],
-          "slot_index": 2,
-          "shape": 3
-        },
-        {
-          "name": "CLIP",
-          "type": "CLIP",
-          "links": [
-            1284
-          ],
-          "slot_index": 3,
-          "shape": 3
-        },
-        {
-          "name": "VAE",
-          "type": "VAE",
-          "links": [
-            1286
-          ],
-          "slot_index": 4,
-          "shape": 3
-        },
-        {
-          "name": "SEED",
-          "type": "INT",
-          "links": [],
-          "shape": 3
-        },
-        {
-          "name": "STEPS",
-          "type": "INT",
-          "links": [
-            1287
-          ],
-          "slot_index": 6,
-          "shape": 3
-        },
-        {
-          "name": "REFINER_START_STEP",
-          "type": "INT",
-          "links": null,
-          "shape": 3
-        },
-        {
-          "name": "CFG",
-          "type": "FLOAT",
-          "links": [
-            1288
-          ],
-          "slot_index": 8,
-          "shape": 3
-        },
-        {
-          "name": "SAMPLER_NAME",
-          "type": "COMBO",
-          "links": [
-            1289
-          ],
-          "slot_index": 9,
-          "shape": 3
-        },
-        {
-          "name": "SCHEDULER",
-          "type": "COMBO",
-          "links": [
-            1290
-          ],
-          "slot_index": 10,
-          "shape": 3
-        },
-        {
-          "name": "POSITIVE_ASCORE",
-          "type": "FLOAT",
-          "links": null,
-          "shape": 3
-        },
-        {
-          "name": "NEGATIVE_ASCORE",
-          "type": "FLOAT",
-          "links": null,
-          "shape": 3
-        },
-        {
-          "name": "WIDTH",
-          "type": "INT",
-          "links": [
-            1291
-          ],
-          "slot_index": 13,
-          "shape": 3
-        },
-        {
-          "name": "HEIGHT",
-          "type": "INT",
-          "links": [
-            1292
-          ],
-          "slot_index": 14,
-          "shape": 3
-        },
-        {
-          "name": "BATCH_SIZE",
-          "type": "INT",
-          "links": [
-            1293
-          ],
-          "slot_index": 15,
-          "shape": 3
-        },
-        {
-          "name": "PARAMETERS",
-          "type": "STRING",
-          "links": null,
-          "shape": 3
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "SDParameterGenerator"
-      },
-      "widgets_values": [
-        "SDXL\\sd_xl_base_1.0.safetensors",
-        "sdxl_vae.safetensors",
-        "SDXL 1024px",
-        "none",
-        605243996032082,
-        7,
-        0.8,
-        5,
-        "euler",
-        "normal",
-        6,
-        6,
-        "custom",
-        1024,
-        1024,
-        1,
-        "Total steps: 7,\nRefiner start at step: 5 (80%)",
-        "Custom aspect ratio: 1024 x 1024",
-        null,
-        "Total steps: 7,\nRefiner start at step: 5 (80%)",
-        "Custom aspect ratio: 1024 x 1024",
-        true,
-        true
-      ],
-      "color": "#328cff",
-      "bgcolor": "#1e78ff"
-    },
-    {
-      "id": 204,
-      "type": "Lora Loader",
-      "pos": {
-        "0": -1915,
-        "1": -14,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
-      },
-      "size": {
-        "0": 551.5555419921875,
-        "1": 146
-      },
-      "flags": {},
-      "order": 34,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "model",
-          "type": "MODEL",
-          "link": 1285
-        },
-        {
-          "name": "clip",
-          "type": "CLIP",
-          "link": 1284
-        }
-      ],
-      "outputs": [
-        {
-          "name": "MODEL",
-          "type": "MODEL",
-          "links": [
-            1257
-          ],
-          "slot_index": 0,
-          "shape": 3
-        },
-        {
-          "name": "CLIP",
-          "type": "CLIP",
-          "links": [
-            1255,
-            1256
-          ],
-          "slot_index": 1,
-          "shape": 3
-        },
-        {
-          "name": "NAME_STRING",
-          "type": "STRING",
-          "links": [
-            1310
-          ],
-          "slot_index": 2,
-          "shape": 3
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "Lora Loader"
-      },
-      "widgets_values": [
-        "add-detail-xl.safetensors",
-        1,
-        1
-      ],
-      "color": "#ff14ff",
-      "bgcolor": "#fa00ff"
-    },
-    {
-      "id": 525,
-      "type": "SDTypeConverter",
-      "pos": {
-        "0": -490,
-        "1": 1261,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
-      },
-      "size": [
-        267.2269287109375,
-        74
-      ],
-      "flags": {
-        "collapsed": false
-      },
-      "order": 33,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "model_name",
-          "type": "COMBO",
-          "link": 1308,
-          "slot_index": 0,
-          "widget": {
-            "name": "model_name"
-          }
-        },
-        {
-          "name": "sampler_name",
-          "type": "COMBO",
-          "link": null,
-          "widget": {
-            "name": "sampler_name"
-          }
-        },
-        {
-          "name": "scheduler",
-          "type": "COMBO",
-          "link": null,
-          "widget": {
-            "name": "scheduler"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "MODEL_NAME_STR",
-          "type": "STRING",
-          "links": [
-            1301
-          ],
-          "slot_index": 0,
-          "shape": 3
-        },
-        {
-          "name": "SAMPLER_NAME_STR",
-          "type": "STRING",
-          "links": null,
-          "shape": 3
-        },
-        {
-          "name": "SCHEDULER_STR",
-          "type": "STRING",
-          "links": null,
-          "shape": 3
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "SDTypeConverter"
-      },
-      "widgets_values": [
-        "FLUX\\creapromptFlux1Dev_v10.safetensors",
-        "euler",
-        "normal"
-      ],
-      "color": "#222",
-      "bgcolor": "#000"
-    },
-    {
-      "id": 527,
-      "type": "Replace Text _O",
-      "pos": {
-        "0": 31,
-        "1": 1261,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
-      },
-      "size": {
-        "0": 210,
-        "1": 87
-      },
-      "flags": {
-        "collapsed": false
-      },
-      "order": 40,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "text",
-          "type": "STRING",
-          "link": 1302,
-          "slot_index": 0,
-          "widget": {
-            "name": "text"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            1304
-          ],
-          "slot_index": 0,
-          "shape": 3
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "Replace Text _O"
-      },
-      "widgets_values": [
-        "",
-        ".safetensors",
-        "",
-        true
-      ],
-      "color": "#222",
-      "bgcolor": "#000"
-    },
-    {
-      "id": 528,
-      "type": "DF_String_Concatenate",
-      "pos": {
-        "0": 300.97528076171875,
-        "1": 1207.593994140625,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
-      },
-      "size": {
-        "0": 210,
-        "1": 78
-      },
-      "flags": {
-        "collapsed": false
-      },
-      "order": 42,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "Prepend",
-          "type": "STRING",
-          "link": 1312,
-          "widget": {
-            "name": "Prepend"
-          }
-        },
-        {
-          "name": "Append",
-          "type": "STRING",
-          "link": 1304,
-          "widget": {
-            "name": "Append"
-          }
-        },
-        {
-          "name": "Delimiter",
-          "type": "STRING",
-          "link": 1305,
-          "widget": {
-            "name": "Delimiter"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "TEXT",
-          "type": "STRING",
-          "links": [
-            1307
-          ],
-          "slot_index": 0,
-          "shape": 3
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "DF_String_Concatenate"
-      },
-      "widgets_values": [
-        "",
-        "",
-        "_"
-      ],
-      "color": "#222",
-      "bgcolor": "#000"
-    },
-    {
-      "id": 237,
-      "type": "JWString",
-      "pos": {
-        "0": -1286,
-        "1": -14,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
-      },
-      "size": {
-        "0": 359.367431640625,
-        "1": 58
-      },
-      "flags": {},
-      "order": 30,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            1299,
-            1312
-          ],
-          "slot_index": 0,
-          "shape": 3
-        }
-      ],
-      "title": "String - NOM FICHIER",
-      "properties": {
-        "Node name for S&R": "JWString"
-      },
-      "widgets_values": [
-        "FICHIER"
-      ],
-      "color": "#14ff14",
-      "bgcolor": "#00ff00"
-    },
-    {
-      "id": 529,
-      "type": "TextConcat",
-      "pos": {
-        "0": 321,
-        "1": 1327,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
-      },
-      "size": {
-        "0": 315,
-        "1": 178
-      },
-      "flags": {
-        "collapsed": true
-      },
-      "order": 39,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "text2",
-          "type": "STRING",
-          "link": 1310,
-          "widget": {
-            "name": "text2"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            1309
-          ],
-          "slot_index": 0,
-          "shape": 3
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "TextConcat"
-      },
-      "widgets_values": [
-        " ",
-        "Lora : ",
-        "",
-        "",
-        "",
-        "--- Par Dfalm 2024 ---  https://github.com/Dfalm-Original/COMFYui -- https://www.youtube.com/@Dfalm "
-      ],
-      "color": "#cd5adc",
-      "bgcolor": "#b946c8"
-    },
-    {
-      "id": 519,
-      "type": "Note",
-      "pos": {
-        "0": -1919,
-        "1": -646,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
-      },
-      "size": {
-        "0": 492.0579833984375,
-        "1": 68.30645751953125
-      },
-      "flags": {},
-      "order": 31,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [],
-      "title": "Note - VERSION",
-      "properties": {},
-      "widgets_values": [
-        "BASIC-V1.3"
-      ],
-      "color": "#222",
-      "bgcolor": "#000"
     }
   ],
   "links": [
@@ -2855,6 +2481,22 @@
       523,
       6,
       "INT"
+    ],
+    [
+      1315,
+      514,
+      0,
+      196,
+      4,
+      "INT"
+    ],
+    [
+      1316,
+      514,
+      0,
+      523,
+      6,
+      "INT"
     ]
   ],
   "groups": [
@@ -2868,7 +2510,7 @@
       ],
       "color": "#ffffff",
       "font_size": 24,
-      "locked": false
+      "flags": {}
     },
     {
       "title": "kSAMPLER + Image",
@@ -2880,7 +2522,7 @@
       ],
       "color": "#372eb2",
       "font_size": 24,
-      "locked": false
+      "flags": {}
     },
     {
       "title": "PROMPTS POSITIF + NEGATIF",
@@ -2892,7 +2534,7 @@
       ],
       "color": "#d51abc",
       "font_size": 24,
-      "locked": false
+      "flags": {}
     },
     {
       "title": "⌨️ RENSEIGNER",
@@ -2904,7 +2546,7 @@
       ],
       "color": "#00ff00",
       "font_size": 24,
-      "locked": false
+      "flags": {}
     },
     {
       "title": "NOMENCLATURE",
@@ -2916,7 +2558,7 @@
       ],
       "color": "#ff0200",
       "font_size": 24,
-      "locked": false
+      "flags": {}
     },
     {
       "title": "NOM FICHIER + NOM DU MODELE",
@@ -2928,16 +2570,16 @@
       ],
       "color": "#3f789e",
       "font_size": 24,
-      "locked": false
+      "flags": {}
     }
   ],
   "config": {},
   "extra": {
     "ds": {
-      "scale": 0.8140274938685224,
+      "scale": 1.1,
       "offset": [
-        4453.541147702548,
-        1249.238885618651
+        965.4621456250482,
+        545.669067802849
       ]
     },
     "groupNodes": {}

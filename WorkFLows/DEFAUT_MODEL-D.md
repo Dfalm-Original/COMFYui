@@ -44,6 +44,7 @@ When these colors are specific I will specify it with the color code
 2) <u>[DEFAUT_MODEL-B_Load-ImgZ+UPscalers](DEFAUT_MODEL-B.md)</u> - Pour generer 'image(s)-to-image' -- To generate 'image(s)-to-image'
 3) <u>[DEFAUT_MODEL-C_Text-2-Img+LoadImage+UPscalers](DEFAUT_MODEL-C.md)</u> - Combine le Modele A et le Modele B -- Combine Model A and Model B
 4) <u>[DEFAUT_MODEL-D_Text-2-Img+LoadImage+UPscalers](DEFAUT_MODEL-D.md)</u> - Ameliore le Modele C -- Amelioration of C Model
+5) <u>[DEFAUT_MODEL-E_Text-2-Img+LoadImage+UPscalers+Video](DEFAUT_MODEL-E.md)</u> - Modele D avec ajout de "mini video" -- Model D with addition of "mini video"
 
 ### 🆙) <u>[Upscalers](Upscalers.md)</u>
 
@@ -181,7 +182,31 @@ Choose between 5 options:
 ### - Pour les UPScaler voir le chapitre idoine / UPScaler go to : <u>🆙 [Upscalers](Upscalers.md) </u>
 
 <hr>
-<hr>
+
+## V) - E -DEFAUT_MODEL-E_Text-2-Img+LoadImage+UPscalers+Video
+[ CLICK TO DOWNLOAD PNG WORKFLOW ]<br>
+<a href="Defaut/DEFAUT_MODEL-E_Text-2-Img+LoadImage+UPscalers+Video.png"><img src="Defaut/images/DEFAUT_MODEL-E_Text-2-Img+LoadImage+UPscalers+VideoV1.00-notes.jpg" height="50%">
+
+### 🐞 BUG TRIVIAL 🐞 : - Bug Section
+## 🔵⚪️🔴 Modele D Ameliore<br>Il s'agit du Modele D avec l'ajout de "mini" video **V⚪️**
+
+## - **⚪️ Video on/off
+Pour les options voir le GitHub de **[akatz-ai](https://github.com/akatz-ai)** : <u>[ComfyUI-Depthflow-Nodes](https://github.com/akatz-ai/ComfyUI-Depthflow-Nodes)</u>
+
+### Toutes les Options restent comnunes au [ [ modele D ](DEFAUT_MODEL-D.md) ] & au modele [ [BASIC](BASIC.md) ] :
+
+
+## 🌎🌍🌏 Modele D Ameliorations<br>This is Modele D with the addition of "mini" video **V⚪️**
+## - **⚪️ Video on/off
+For options see the GitHub of **[akatz-ai](https://github.com/akatz-ai)**: <u>[ComfyUI-Depthflow-Nodes](https://github.com/akatz-ai/ComfyUI-Depthflow-Nodes)</u>
+
+### All Options remain common to the [ [ D model ](DEFAUT_MODEL-D.md) ] & to the [ [BASIC](BASIC.md) ] model:
+
+
+## 🔵⚪️🔴 VOIR LE WORKFLOW EN DETAIL  [ CLICK ] [DEFAUT_MODEL-E_Text-2-Img+LoadImage+UPscalers+Video](DEFAUT_MODEL-E.md)<br>🌎🌍🌏 SEE THE WORKFLOW IN DETAIL [ CLICK ] [DEFAUT_MODEL-E_Text-2-Img+LoadImage+UPscalers+Video](DEFAUT_MODEL-E.md)
+
+### - Pour les UPScaler voir le chapitre idoine / UPScaler go to : <u>🆙 [Upscalers](Upscalers.md) </u>
+
 <hr>
 <hr>
 

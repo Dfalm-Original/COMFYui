@@ -1,21 +1,13 @@
 {
   "last_node_id": 813,
-  "last_link_id": 1835,
+  "last_link_id": 1838,
   "nodes": [
     {
       "id": 322,
       "type": "Note Plus (mtb)",
       "pos": {
         "0": -5379.75341796875,
-        "1": 356.5327453613281,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 356.5327453613281
       },
       "size": {
         "0": 390.4503479003906,
@@ -45,15 +37,7 @@
       "type": "Note Plus (mtb)",
       "pos": {
         "0": -5379.75341796875,
-        "1": 556.532958984375,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 556.532958984375
       },
       "size": {
         "0": 390.4503479003906,
@@ -81,15 +65,7 @@
       "type": "Note Plus (mtb)",
       "pos": {
         "0": -5379.75341796875,
-        "1": 1366.53271484375,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 1366.53271484375
       },
       "size": {
         "0": 391.431396484375,
@@ -117,22 +93,14 @@
       "type": "ShowText|pysssss",
       "pos": {
         "0": 3018.37841796875,
-        "1": 1102.6527099609375,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 1102.6527099609375
       },
       "size": {
         "0": 929.8154907226562,
         "1": 77.48472595214844
       },
       "flags": {},
-      "order": 130,
+      "order": 134,
       "mode": 0,
       "inputs": [
         {
@@ -160,7 +128,7 @@
         [
           "Fichier_07-10_SDXL--stableFusionXLTurbo_v161"
         ],
-        "FICHIER_20-33_SDXL--sd_xl_base_1.0"
+        "FICHIER_15-36-12_SDXL--sd_xl_base_1.0"
       ],
       "color": "#1ea078",
       "bgcolor": "#0a8c64"
@@ -170,15 +138,7 @@
       "type": "ShowText|pysssss",
       "pos": {
         "0": 2382.146484375,
-        "1": 76.29186248779297,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 76.29186248779297
       },
       "size": {
         "0": 488.283447265625,
@@ -213,7 +173,7 @@
         [
           "Positive prompt :  vived colors , pop art, mountain , overprint\nNegative prompt: \nSteps: 7, Sampler: euler_ancestral_karras, CFG scale: 4.5, Seed: 0, Size: 720x1024, Model: turbovisionxlSuperFastXLBasedOnNew_tvxlV431Bakedvae, VAE: sdxl_vae, Version: ComfyUI, Extra info: Lora :  InkArtXL_1.2 --- Par Dfalm 2024 --------------"
         ],
-        "Positive prompt :  blue cat,\nNegative prompt: deformed, disfigured,\nwatermark, error, blurry, jpeg artifacts, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature,\nusername, artist name, (worst quality, low quality:1.4),\nthin lips, (crossed eyes),\nmake up, cropped, out of frame\nugly, duplicate, morbid, mutilated,poorly drawn hands, poorly drawn face, mutation,\ndeformed, deformed legs, deformed arms, deformed ankle,\nblurry, dehydrated,\nbad anatomy, bad proportions,\nbad hand, bad hands,\nbadhandv4, negative_hand-neg,bad-hands-5,\nmutated hands and fingers, bad anatomy, wrong anatomy, ugly, (mutation:1.3),\n\nextra limbs,extra arms, extra legs,extra fingers,\n\ncloned face, disfigured, gross proportions,\nmalformed limbs, malformed hand, malformed hands, malformed legs,\n\nmissing arms, missing legs, missing leg, missing feet,\n\nfused fingers, too many fingers, long neck, bad arm, bas legs, bad foot, bad feet,  \nskin spots, veins, acnes, skin blemishes, age spot, glan,  fewer fingers, strange fingers,\nmutated hands, mutated hand,distorted hands,fused hands, fused legs,\n\n(((extra fingers,fewer fingers,strange fingers, extra hands, missing fingers, borken hand, more than two hands,\nwell proportioned hands, more than two legs, unclear eyes, missing_arms, extra limbs, extra legs, cloned face,fused fingers))),\n\n((text)), ((english text))\n\ncroped, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, body out of frame, blurry, bad anatomy, blurred, watermark, grainy, signature, cut off, draft, text, logo,\nartist name,signature,\nSteps: 7, Sampler: euler_ancestral_karras, CFG scale: 5.0, Seed: 293387427317133, Size: 720x1280, Model: sd_xl_base_1.0, VAE: sdxl_vae, Version: ComfyUI, Extra info: Lora :  RIEN_PAS_DE_LORA --- Par Dfalm 2024 ---  https://github.com/Dfalm-Original/COMFYui -- https://www.youtube.com/@Dfalm "
+        "Positive prompt :  blue cat,\nNegative prompt: deformed, disfigured,\nwatermark, error, blurry, jpeg artifacts, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature,\nusername, artist name, (worst quality, low quality:1.4),\nthin lips, (crossed eyes),\nmake up, cropped, out of frame\nugly, duplicate, morbid, mutilated,poorly drawn hands, poorly drawn face, mutation,\ndeformed, deformed legs, deformed arms, deformed ankle,\nblurry, dehydrated,\nbad anatomy, bad proportions,\nbad hand, bad hands,\nbadhandv4, negative_hand-neg,bad-hands-5,\nmutated hands and fingers, bad anatomy, wrong anatomy, ugly, (mutation:1.3),\n\nextra limbs,extra arms, extra legs,extra fingers,\n\ncloned face, disfigured, gross proportions,\nmalformed limbs, malformed hand, malformed hands, malformed legs,\n\nmissing arms, missing legs, missing leg, missing feet,\n\nfused fingers, too many fingers, long neck, bad arm, bas legs, bad foot, bad feet,  \nskin spots, veins, acnes, skin blemishes, age spot, glan,  fewer fingers, strange fingers,\nmutated hands, mutated hand,distorted hands,fused hands, fused legs,\n\n(((extra fingers,fewer fingers,strange fingers, extra hands, missing fingers, borken hand, more than two hands,\nwell proportioned hands, more than two legs, unclear eyes, missing_arms, extra limbs, extra legs, cloned face,fused fingers))),\n\n((text)), ((english text))\n\ncroped, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, body out of frame, blurry, bad anatomy, blurred, watermark, grainy, signature, cut off, draft, text, logo,\nartist name,signature,\nSteps: 7, Sampler: euler_ancestral_karras, CFG scale: 5.0, Seed: 69943123468578, Size: 720x1280, Model: sd_xl_base_1.0, VAE: sdxl_vae, Version: ComfyUI, Extra info: Lora :  RIEN_PAS_DE_LORA --- Par Dfalm 2024 ---  https://github.com/Dfalm-Original/COMFYui -- https://www.youtube.com/@Dfalm "
       ],
       "color": "#bea31d",
       "bgcolor": "#aa8f09"
@@ -223,15 +183,7 @@
       "type": "Replace Text _O",
       "pos": {
         "0": 4122.380859375,
-        "1": 592.1077270507812,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 592.1077270507812
       },
       "size": {
         "0": 210,
@@ -281,15 +233,7 @@
       "type": "Replace Text _O",
       "pos": {
         "0": 4122.380859375,
-        "1": 642.1077270507812,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 642.1077270507812
       },
       "size": {
         "0": 210,
@@ -339,15 +283,7 @@
       "type": "Replace Text _O",
       "pos": {
         "0": 3019.815185546875,
-        "1": 275.90631103515625,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 275.90631103515625
       },
       "size": {
         "0": 210,
@@ -397,15 +333,7 @@
       "type": "Replace Text _O",
       "pos": {
         "0": 3203.815185546875,
-        "1": 275.90631103515625,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 275.90631103515625
       },
       "size": {
         "0": 210,
@@ -455,15 +383,7 @@
       "type": "Note Plus (mtb)",
       "pos": {
         "0": -5379.75341796875,
-        "1": 1126.53271484375,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 1126.53271484375
       },
       "size": {
         "0": 392.6138610839844,
@@ -491,15 +411,7 @@
       "type": "Note Plus (mtb)",
       "pos": {
         "0": -5379.75341796875,
-        "1": 936.5328979492188,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 936.5328979492188
       },
       "size": {
         "0": 391.9408874511719,
@@ -523,62 +435,18 @@
       "shape": 1
     },
     {
-      "id": 321,
-      "type": "Note Plus (mtb)",
-      "pos": {
-        "0": -5379.75341796875,
-        "1": 76.53279876708984,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
-      },
-      "size": {
-        "0": 390.4503479003906,
-        "1": 249.2277069091797
-      },
-      "flags": {},
-      "order": 5,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [],
-      "title": "Unnamed",
-      "properties": {},
-      "widgets_values": [
-        "<font color=\"#001100\">\n<h1 id=\"attention\">🗃️ NOMENCLATURE️</h1></font>\n\n#⌨️ PARAMETRER A DETERMINER PAR L'UTILISATEUR\n### C'est une variable à renseigner ou<br>un interrupteur à choix\n## 0 255 0",
-        "markdown",
-        "",
-        "one_dark"
-      ],
-      "color": "#14ff14",
-      "bgcolor": "#00ff00",
-      "shape": 1
-    },
-    {
       "id": 329,
       "type": "Note Plus (mtb)",
       "pos": {
         "0": -5379.72998046875,
-        "1": 1576.086181640625,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 1576.086181640625
       },
       "size": {
         "0": 390.4503479003906,
         "1": 185.97242736816406
       },
       "flags": {},
-      "order": 6,
+      "order": 5,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -599,15 +467,7 @@
       "type": "ShowText|pysssss",
       "pos": {
         "0": 3327.39697265625,
-        "1": 728.7479248046875,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 728.7479248046875
       },
       "size": {
         "0": 257.808837890625,
@@ -652,15 +512,7 @@
       "type": "ShowText|pysssss",
       "pos": {
         "0": 3324.39697265625,
-        "1": 601.7478637695312,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 601.7478637695312
       },
       "size": {
         "0": 260.54095458984375,
@@ -705,22 +557,14 @@
       "type": "Load Image Batch",
       "pos": {
         "0": -234.8057861328125,
-        "1": 393.9058837890625,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 393.9058837890625
       },
       "size": {
         "0": 411.6842346191406,
         "1": 283.6979064941406
       },
       "flags": {},
-      "order": 7,
+      "order": 6,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -760,15 +604,7 @@
       "type": "ImageUpscaleWithModel",
       "pos": {
         "0": 3011.39697265625,
-        "1": 73.74762725830078,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 73.74762725830078
       },
       "size": {
         "0": 340.20001220703125,
@@ -806,6 +642,7 @@
       "properties": {
         "Node name for S&R": "ImageUpscaleWithModel"
       },
+      "widgets_values": [],
       "color": "#222",
       "bgcolor": "#000"
     },
@@ -814,15 +651,7 @@
       "type": "Reroute",
       "pos": {
         "0": -225.56271362304688,
-        "1": 1535.678955078125,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 1535.678955078125
       },
       "size": [
         75,
@@ -860,15 +689,7 @@
       "type": "Reroute",
       "pos": {
         "0": -225.56271362304688,
-        "1": 1485.6787109375,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 1485.6787109375
       },
       "size": [
         75,
@@ -906,22 +727,14 @@
       "type": "Reroute",
       "pos": {
         "0": -225.56271362304688,
-        "1": 1445.6787109375,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 1445.6787109375
       },
       "size": [
         75,
         26
       ],
       "flags": {},
-      "order": 112,
+      "order": 114,
       "mode": 0,
       "inputs": [
         {
@@ -950,15 +763,7 @@
       "type": "Reroute",
       "pos": {
         "0": 2786.146484375,
-        "1": -22.708215713500977,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": -22.708215713500977
       },
       "size": [
         75,
@@ -1000,22 +805,14 @@
       "type": "Reroute",
       "pos": {
         "0": -225.56271362304688,
-        "1": 1575.678955078125,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 1575.678955078125
       },
       "size": [
         75,
         26
       ],
       "flags": {},
-      "order": 101,
+      "order": 98,
       "mode": 0,
       "inputs": [
         {
@@ -1046,22 +843,14 @@
       "type": "Note Plus (mtb)",
       "pos": {
         "0": 4110.38134765625,
-        "1": 143.10772705078125,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 143.10772705078125
       },
       "size": {
         "0": 570.5459594726562,
         "1": 218.65968322753906
       },
       "flags": {},
-      "order": 8,
+      "order": 7,
       "mode": 2,
       "inputs": [],
       "outputs": [],
@@ -1082,22 +871,14 @@
       "type": "Note Plus (mtb)",
       "pos": {
         "0": 4114.380859375,
-        "1": 806.1077270507812,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 806.1077270507812
       },
       "size": {
         "0": 564.9644775390625,
         "1": 216.719970703125
       },
       "flags": {},
-      "order": 9,
+      "order": 8,
       "mode": 2,
       "inputs": [],
       "outputs": [],
@@ -1118,22 +899,14 @@
       "type": "Note Plus (mtb)",
       "pos": {
         "0": -4951.07421875,
-        "1": 1126.8046875,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 1126.8046875
       },
       "size": {
         "0": 377.32501220703125,
         "1": 221.68392944335938
       },
       "flags": {},
-      "order": 10,
+      "order": 9,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -1154,22 +927,14 @@
       "type": "Note Plus (mtb)",
       "pos": {
         "0": -4951.07421875,
-        "1": 1574.8046875,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 1574.8046875
       },
       "size": {
         "0": 375.658935546875,
         "1": 184.5028076171875
       },
       "flags": {},
-      "order": 11,
+      "order": 10,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -1190,22 +955,14 @@
       "type": "Note Plus (mtb)",
       "pos": {
         "0": -4951.07421875,
-        "1": 1366.8046875,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 1366.8046875
       },
       "size": {
         "0": 379.8648681640625,
         "1": 158.02239990234375
       },
       "flags": {},
-      "order": 12,
+      "order": 11,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -1226,22 +983,14 @@
       "type": "Note Plus (mtb)",
       "pos": {
         "0": -4951.07421875,
-        "1": 936.8048706054688,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 936.8048706054688
       },
       "size": {
         "0": 377.4114074707031,
         "1": 164.97625732421875
       },
       "flags": {},
-      "order": 13,
+      "order": 12,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -1262,22 +1011,14 @@
       "type": "String Literal",
       "pos": {
         "0": -4562.07421875,
-        "1": 1830.8046875,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 1830.8046875
       },
       "size": {
         "0": 210,
         "1": 137.42967224121094
       },
       "flags": {},
-      "order": 14,
+      "order": 13,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -1311,15 +1052,7 @@
       "type": "CLIPTextEncode",
       "pos": {
         "0": -4322.07421875,
-        "1": 1810.8046875,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 1810.8046875
       },
       "size": {
         "0": 210,
@@ -1374,22 +1107,14 @@
       "type": "Note Plus (mtb)",
       "pos": {
         "0": -5379.07470703125,
-        "1": 1997.8046875,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 1997.8046875
       },
       "size": {
         "0": 388.8426818847656,
         "1": 188.05438232421875
       },
       "flags": {},
-      "order": 15,
+      "order": 14,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -1410,22 +1135,14 @@
       "type": "Note Plus (mtb)",
       "pos": {
         "0": -5379.07470703125,
-        "1": 1787.8046875,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 1787.8046875
       },
       "size": {
         "0": 389.0354309082031,
         "1": 187.31211853027344
       },
       "flags": {},
-      "order": 16,
+      "order": 15,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -1446,22 +1163,14 @@
       "type": "Note Plus (mtb)",
       "pos": {
         "0": -4950.07421875,
-        "1": 1998.8046875,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 1998.8046875
       },
       "size": {
         "0": 374.7015686035156,
         "1": 182.39852905273438
       },
       "flags": {},
-      "order": 17,
+      "order": 16,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -1482,22 +1191,14 @@
       "type": "Note Plus (mtb)",
       "pos": {
         "0": -4950.07421875,
-        "1": 1786.8046875,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 1786.8046875
       },
       "size": {
         "0": 373.4483947753906,
         "1": 187.624755859375
       },
       "flags": {},
-      "order": 18,
+      "order": 17,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -1518,22 +1219,14 @@
       "type": "CR Text Input Switch",
       "pos": {
         "0": -2216.2978515625,
-        "1": 1005.9561767578125,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 1005.9561767578125
       },
       "size": {
         "0": 255.45191955566406,
         "1": 78
       },
       "flags": {},
-      "order": 119,
+      "order": 121,
       "mode": 0,
       "inputs": [
         {
@@ -1594,15 +1287,7 @@
       "type": "JWString",
       "pos": {
         "0": -2156.2978515625,
-        "1": 1125.956298828125,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 1125.956298828125
       },
       "size": {
         "0": 300.7342529296875,
@@ -1611,7 +1296,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 19,
+      "order": 18,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -1640,15 +1325,7 @@
       "type": "CR Integer To String",
       "pos": {
         "0": 4463.7451171875,
-        "1": 696.4896850585938,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 696.4896850585938
       },
       "size": {
         "0": 210,
@@ -1700,15 +1377,7 @@
       "type": "CR Integer To String",
       "pos": {
         "0": 4464.7451171875,
-        "1": 737.4896850585938,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 737.4896850585938
       },
       "size": {
         "0": 210,
@@ -1760,15 +1429,7 @@
       "type": "GetImageSize+",
       "pos": {
         "0": 3015.39697265625,
-        "1": 113.74761962890625,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 113.74761962890625
       },
       "size": {
         "0": 214.20001220703125,
@@ -1819,6 +1480,7 @@
       "properties": {
         "Node name for S&R": "GetImageSize+"
       },
+      "widgets_values": [],
       "color": "#222",
       "bgcolor": "#000"
     },
@@ -1827,15 +1489,7 @@
       "type": "CR Integer To String",
       "pos": {
         "0": 3164.39697265625,
-        "1": 231.74765014648438,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 231.74765014648438
       },
       "size": {
         "0": 210,
@@ -1887,15 +1541,7 @@
       "type": "CR Integer To String",
       "pos": {
         "0": 1300,
-        "1": -260,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": -260
       },
       "size": {
         "0": 210,
@@ -1947,15 +1593,7 @@
       "type": "CR Integer To String",
       "pos": {
         "0": 1300,
-        "1": -230,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": -230
       },
       "size": {
         "0": 210,
@@ -2007,15 +1645,7 @@
       "type": "CR Integer To String",
       "pos": {
         "0": 3164.39697265625,
-        "1": 194.74765014648438,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 194.74765014648438
       },
       "size": {
         "0": 210,
@@ -2067,15 +1697,7 @@
       "type": "CM_IntBinaryOperation",
       "pos": {
         "0": 3190.39697265625,
-        "1": 110.74761962890625,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 110.74761962890625
       },
       "size": {
         "0": 210,
@@ -2131,15 +1753,7 @@
       "type": "TextConcat",
       "pos": {
         "0": 3415.39697265625,
-        "1": 272.74761962890625,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 272.74761962890625
       },
       "size": {
         "0": 315,
@@ -2206,15 +1820,7 @@
       "type": "CR Integer To String",
       "pos": {
         "0": 3166.39697265625,
-        "1": 151.74765014648438,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 151.74765014648438
       },
       "size": {
         "0": 210,
@@ -2268,15 +1874,7 @@
       "type": "TextConcat",
       "pos": {
         "0": 3412.39697265625,
-        "1": 229.74765014648438,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 229.74765014648438
       },
       "size": {
         "0": 315,
@@ -2343,22 +1941,14 @@
       "type": "Seed Everywhere",
       "pos": {
         "0": -1790,
-        "1": 1166,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 1166
       },
       "size": {
         "0": 315,
         "1": 124
       },
       "flags": {},
-      "order": 20,
+      "order": 19,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -2376,9 +1966,8 @@
         "color_restricted": 0
       },
       "widgets_values": [
-        941530899386884,
-        "randomize",
-        "293387427317133"
+        889184744785040,
+        "randomize"
       ],
       "color": "#ffaa32",
       "bgcolor": "#ff961e"
@@ -2388,22 +1977,14 @@
       "type": "Note Plus (mtb)",
       "pos": {
         "0": -4491.68212890625,
-        "1": 46.16032791137695,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 46.16032791137695
       },
       "size": {
         "0": 375.9128723144531,
         "1": 267.6526184082031
       },
       "flags": {},
-      "order": 21,
+      "order": 20,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -2424,15 +2005,7 @@
       "type": "VAEDecode",
       "pos": {
         "0": 2527.146484375,
-        "1": -21.708213806152344,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": -21.708213806152344
       },
       "size": {
         "0": 210,
@@ -2469,6 +2042,7 @@
       "properties": {
         "Node name for S&R": "VAEDecode"
       },
+      "widgets_values": [],
       "color": "#ffff78",
       "bgcolor": "#faff64"
     },
@@ -2477,15 +2051,7 @@
       "type": "SDPromptSaver",
       "pos": {
         "0": 3602.815673828125,
-        "1": -56.09370422363281,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": -56.09370422363281
       },
       "size": {
         "0": 418.5574951171875,
@@ -2505,7 +2071,8 @@
           "name": "lora_name",
           "type": "*",
           "link": null,
-          "slot_index": 1
+          "slot_index": 1,
+          "shape": 7
         },
         {
           "name": "filename",
@@ -2661,7 +2228,7 @@
         "%date/",
         "FLUX\\creapromptFlux1Dev_v10.safetensors",
         "Flux_vae.safetensors",
-        742318305076094,
+        48145704275689,
         "randomize",
         20,
         8,
@@ -2692,22 +2259,14 @@
       "type": "Note Plus (mtb)",
       "pos": {
         "0": -4553.689453125,
-        "1": 400.0979309082031,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 400.0979309082031
       },
       "size": {
         "0": 359.99700927734375,
         "1": 130.8984832763672
       },
       "flags": {},
-      "order": 22,
+      "order": 21,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -2728,22 +2287,14 @@
       "type": "Note Plus (mtb)",
       "pos": {
         "0": -4553.689453125,
-        "1": 554.0980834960938,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 554.0980834960938
       },
       "size": {
         "0": 360.3477783203125,
         "1": 116.76428985595703
       },
       "flags": {},
-      "order": 23,
+      "order": 22,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -2764,15 +2315,7 @@
       "type": "Binary INT Switch",
       "pos": {
         "0": -2166.2978515625,
-        "1": 885.9561767578125,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 885.9561767578125
       },
       "size": {
         "0": 210,
@@ -2833,15 +2376,7 @@
       "type": "RandomNSP _O",
       "pos": {
         "0": -1312.3447265625,
-        "1": 1011.08203125,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 1011.08203125
       },
       "size": {
         "0": 288.1119079589844,
@@ -2850,7 +2385,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 24,
+      "order": 23,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -2875,7 +2410,7 @@
       },
       "widgets_values": [
         "cosmic-terms",
-        157769999927190,
+        329656607995933,
         "randomize"
       ],
       "color": "#222",
@@ -2886,15 +2421,7 @@
       "type": "CR Text Concatenate",
       "pos": {
         "0": -962.3451538085938,
-        "1": 761.0822143554688,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 761.0822143554688
       },
       "size": {
         "0": 315,
@@ -2903,7 +2430,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 127,
+      "order": 124,
       "mode": 0,
       "inputs": [
         {
@@ -2959,22 +2486,14 @@
       "type": "TextConcat",
       "pos": {
         "0": -1292.3447265625,
-        "1": 651.0822143554688,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 651.0822143554688
       },
       "size": {
         "0": 322.8643798828125,
         "1": 178
       },
       "flags": {},
-      "order": 25,
+      "order": 24,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -3008,22 +2527,14 @@
       "type": "CLIPTextEncode",
       "pos": {
         "0": -540.17236328125,
-        "1": 1160,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 1160
       },
       "size": {
         "0": 210,
         "1": 54
       },
       "flags": {},
-      "order": 123,
+      "order": 126,
       "mode": 0,
       "inputs": [
         {
@@ -3068,15 +2579,7 @@
       "type": "DF_Get_image_size",
       "pos": {
         "0": 1090,
-        "1": -260,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": -260
       },
       "size": {
         "0": 140,
@@ -3120,6 +2623,7 @@
       "properties": {
         "Node name for S&R": "DF_Get_image_size"
       },
+      "widgets_values": [],
       "color": "#323",
       "bgcolor": "#535"
     },
@@ -3128,15 +2632,7 @@
       "type": "TextConcat",
       "pos": {
         "0": -510.17236328125,
-        "1": 180,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 180
       },
       "size": {
         "0": 315,
@@ -3145,7 +2641,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 124,
+      "order": 127,
       "mode": 0,
       "inputs": [
         {
@@ -3189,15 +2685,7 @@
       "type": "CLIPTextEncode",
       "pos": {
         "0": -527.17236328125,
-        "1": -26,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": -26
       },
       "size": {
         "0": 210,
@@ -3206,7 +2694,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 133,
+      "order": 130,
       "mode": 0,
       "inputs": [
         {
@@ -3253,22 +2741,14 @@
       "type": "EmptyLatentImage",
       "pos": {
         "0": -750.17236328125,
-        "1": 140,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 140
       },
       "size": {
         "0": 210.98826599121094,
         "1": 85.7379150390625
       },
       "flags": {},
-      "order": 100,
+      "order": 102,
       "mode": 0,
       "inputs": [
         {
@@ -3327,22 +2807,14 @@
       "type": "Note Plus (mtb)",
       "pos": {
         "0": 196.19422912597656,
-        "1": -47.094024658203125,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": -47.094024658203125
       },
       "size": {
         "0": 357.0318908691406,
         "1": 133.8671112060547
       },
       "flags": {},
-      "order": 26,
+      "order": 25,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -3363,22 +2835,14 @@
       "type": "Note Plus (mtb)",
       "pos": {
         "0": 195.19422912597656,
-        "1": 373.9058837890625,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 373.9058837890625
       },
       "size": {
         "0": 357.2054443359375,
         "1": 131.04893493652344
       },
       "flags": {},
-      "order": 27,
+      "order": 26,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -3399,22 +2863,14 @@
       "type": "Note Plus (mtb)",
       "pos": {
         "0": 373.1942443847656,
-        "1": 546.9060668945312,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 546.9060668945312
       },
       "size": {
         "0": 348.7611999511719,
         "1": 124.09175872802734
       },
       "flags": {},
-      "order": 28,
+      "order": 27,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -3435,20 +2891,12 @@
       "type": "PreviewImage",
       "pos": {
         "0": 758,
-        "1": -68,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": -68
       },
-      "size": [
-        1154.033203125,
-        1196.3399658203125
-      ],
+      "size": {
+        "0": 1154.033203125,
+        "1": 1196.3399658203125
+      },
       "flags": {
         "pinned": true
       },
@@ -3466,24 +2914,16 @@
       "properties": {
         "Node name for S&R": "PreviewImage"
       },
+      "widgets_values": [],
       "color": "#222",
-      "bgcolor": "#000",
-      "locked": true
+      "bgcolor": "#000"
     },
     {
       "id": 513,
       "type": "ShowText|pysssss",
       "pos": {
         "0": 1370,
-        "1": -180,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": -180
       },
       "size": {
         "0": 259.5015563964844,
@@ -3528,15 +2968,7 @@
       "type": "TextConcat",
       "pos": {
         "0": -510,
-        "1": 140,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 140
       },
       "size": {
         "0": 315,
@@ -3545,7 +2977,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 134,
+      "order": 131,
       "mode": 0,
       "inputs": [
         {
@@ -3589,22 +3021,14 @@
       "type": "Text Load Line From File",
       "pos": {
         "0": -2318.04296875,
-        "1": 1689.5316162109375,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 1689.5316162109375
       },
       "size": {
         "0": 361.20001220703125,
         "1": 174
       },
       "flags": {},
-      "order": 29,
+      "order": 28,
       "mode": 0,
       "inputs": [
         {
@@ -3656,15 +3080,7 @@
       "type": "StringToInt",
       "pos": {
         "0": -2326.2978515625,
-        "1": 885.9561767578125,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 885.9561767578125
       },
       "size": {
         "0": 315,
@@ -3673,7 +3089,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 30,
+      "order": 29,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -3702,15 +3118,7 @@
       "type": "StringToInt",
       "pos": {
         "0": -2326.2978515625,
-        "1": 955.9561767578125,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 955.9561767578125
       },
       "size": {
         "0": 315,
@@ -3719,7 +3127,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 31,
+      "order": 30,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -3748,15 +3156,7 @@
       "type": "StringToInt",
       "pos": {
         "0": -236,
-        "1": 1316,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 1316
       },
       "size": {
         "0": 315,
@@ -3765,7 +3165,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 32,
+      "order": 31,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -3798,15 +3198,7 @@
       "type": "StringToInt",
       "pos": {
         "0": -236,
-        "1": 1356,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 1356
       },
       "size": {
         "0": 315,
@@ -3815,7 +3207,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 33,
+      "order": 32,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -3847,15 +3239,7 @@
       "type": "ShowText|pysssss",
       "pos": {
         "0": 1090,
-        "1": -180,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": -180
       },
       "size": {
         "0": 259.9256591796875,
@@ -3900,15 +3284,7 @@
       "type": "CM_IntToFloat",
       "pos": {
         "0": 264,
-        "1": 1276,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 1276
       },
       "size": {
         "0": 210,
@@ -3954,15 +3330,7 @@
       "type": "StringToInt",
       "pos": {
         "0": -236,
-        "1": 1386,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 1386
       },
       "size": {
         "0": 315,
@@ -3971,7 +3339,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 34,
+      "order": 33,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -4003,15 +3371,7 @@
       "type": "StringToInt",
       "pos": {
         "0": -236,
-        "1": 1276,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 1276
       },
       "size": {
         "0": 315,
@@ -4020,7 +3380,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 35,
+      "order": 34,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -4053,43 +3413,39 @@
       "type": "CR Image Input Switch (4 way)",
       "pos": {
         "0": -136,
-        "1": 1476,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 1476
       },
       "size": {
         "0": 268.79998779296875,
         "1": 114
       },
       "flags": {},
-      "order": 113,
+      "order": 109,
       "mode": 0,
       "inputs": [
         {
           "name": "image1",
           "type": "IMAGE",
-          "link": null
+          "link": null,
+          "shape": 7
         },
         {
           "name": "image2",
           "type": "IMAGE",
-          "link": 1518
+          "link": 1518,
+          "shape": 7
         },
         {
           "name": "image3",
           "type": "IMAGE",
-          "link": 1466
+          "link": 1466,
+          "shape": 7
         },
         {
           "name": "image4",
           "type": "IMAGE",
-          "link": 1465
+          "link": 1465,
+          "shape": 7
         },
         {
           "name": "Input",
@@ -4131,15 +3487,7 @@
       "type": "Compare-🔬",
       "pos": {
         "0": 141,
-        "1": 1531,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 1531
       },
       "size": {
         "0": 315,
@@ -4187,15 +3535,7 @@
       "type": "CM_IntToFloat",
       "pos": {
         "0": 268,
-        "1": 1530,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 1530
       },
       "size": {
         "0": 315,
@@ -4241,15 +3581,7 @@
       "type": "CR Set Value On Boolean",
       "pos": {
         "0": 151,
-        "1": 1589,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 1589
       },
       "size": {
         "0": 327.5999755859375,
@@ -4326,22 +3658,14 @@
       "type": "Note Plus (mtb)",
       "pos": {
         "0": 401,
-        "1": 1241,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 1241
       },
       "size": {
         "0": 498.1210021972656,
         "1": 182.88436889648438
       },
       "flags": {},
-      "order": 36,
+      "order": 35,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -4362,22 +3686,14 @@
       "type": "Note Plus (mtb)",
       "pos": {
         "0": 402,
-        "1": 1432,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 1432
       },
       "size": {
         "0": 496.95245361328125,
         "1": 178.81436157226562
       },
       "flags": {},
-      "order": 37,
+      "order": 36,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -4398,22 +3714,14 @@
       "type": "Note Plus (mtb)",
       "pos": {
         "0": -230,
-        "1": 1633,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 1633
       },
       "size": {
         "0": 549.389892578125,
         "1": 167.2373046875
       },
       "flags": {},
-      "order": 38,
+      "order": 37,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -4434,22 +3742,14 @@
       "type": "Note Plus (mtb)",
       "pos": {
         "0": 337,
-        "1": 1633,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 1633
       },
       "size": {
         "0": 561.5573120117188,
         "1": 167.27218627929688
       },
       "flags": {},
-      "order": 39,
+      "order": 38,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -4470,22 +3770,14 @@
       "type": "Note Plus (mtb)",
       "pos": {
         "0": -3169,
-        "1": 521,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 521
       },
       "size": {
         "0": 816.787109375,
         "1": 278.9935607910156
       },
       "flags": {},
-      "order": 40,
+      "order": 39,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -4506,22 +3798,14 @@
       "type": "Note Plus (mtb)",
       "pos": {
         "0": -4015,
-        "1": 85,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 85
       },
       "size": {
         "0": 813.9970703125,
         "1": 414.58734130859375
       },
       "flags": {},
-      "order": 41,
+      "order": 40,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -4542,22 +3826,14 @@
       "type": "Note Plus (mtb)",
       "pos": {
         "0": -3169,
-        "1": 85,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 85
       },
       "size": {
         "0": 816.4134521484375,
         "1": 415.2282409667969
       },
       "flags": {},
-      "order": 42,
+      "order": 41,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -4578,22 +3854,14 @@
       "type": "Note Plus (mtb)",
       "pos": {
         "0": -2780,
-        "1": -60,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": -60
       },
       "size": {
         "0": 427.4862976074219,
         "1": 123.81094360351562
       },
       "flags": {},
-      "order": 43,
+      "order": 42,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -4614,22 +3882,14 @@
       "type": "Note Plus (mtb)",
       "pos": {
         "0": -3111,
-        "1": 850,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 850
       },
       "size": {
         "0": 361.2711486816406,
         "1": 225.152587890625
       },
       "flags": {},
-      "order": 44,
+      "order": 43,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -4650,22 +3910,14 @@
       "type": "Note Plus (mtb)",
       "pos": {
         "0": -2709,
-        "1": 850,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 850
       },
       "size": {
         "0": 357.43194580078125,
         "1": 225.47122192382812
       },
       "flags": {},
-      "order": 45,
+      "order": 44,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -4686,22 +3938,14 @@
       "type": "Note Plus (mtb)",
       "pos": {
         "0": -3093,
-        "1": 1168,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 1168
       },
       "size": {
         "0": 741.0864868164062,
         "1": 275.11114501953125
       },
       "flags": {},
-      "order": 46,
+      "order": 45,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -4722,22 +3966,14 @@
       "type": "Note Plus (mtb)",
       "pos": {
         "0": -2708,
-        "1": 1746,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 1746
       },
       "size": {
         "0": 366.2127380371094,
         "1": 128.35450744628906
       },
       "flags": {},
-      "order": 47,
+      "order": 46,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -4758,22 +3994,14 @@
       "type": "Note Plus (mtb)",
       "pos": {
         "0": -3084,
-        "1": 1747,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 1747
       },
       "size": {
         "0": 365.3507995605469,
         "1": 127.35449981689453
       },
       "flags": {},
-      "order": 48,
+      "order": 47,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -4794,22 +4022,14 @@
       "type": "chaosaiart_Number2",
       "pos": {
         "0": -2320.6962890625,
-        "1": 647.6063842773438,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 647.6063842773438
       },
       "size": {
         "0": 360.1264953613281,
         "1": 58
       },
       "flags": {},
-      "order": 49,
+      "order": 48,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -4836,22 +4056,14 @@
       "type": "Note Plus (mtb)",
       "pos": {
         "0": 1090,
-        "1": -380,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": -380
       },
       "size": {
         "0": 538.310546875,
         "1": 81.76528930664062
       },
       "flags": {},
-      "order": 50,
+      "order": 49,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -4872,22 +4084,14 @@
       "type": "Note Plus (mtb)",
       "pos": {
         "0": 3002,
-        "1": -640,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": -640
       },
       "size": {
         "0": 1026.09326171875,
         "1": 494.65887451171875
       },
       "flags": {},
-      "order": 51,
+      "order": 50,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -4908,22 +4112,14 @@
       "type": "Note Plus (mtb)",
       "pos": {
         "0": 4102,
-        "1": -640,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": -640
       },
       "size": {
         "0": 1029.2769775390625,
         "1": 474.7783203125
       },
       "flags": {},
-      "order": 52,
+      "order": 51,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -4944,15 +4140,7 @@
       "type": "ShowText|pysssss",
       "pos": {
         "0": 3288,
-        "1": 374,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 374
       },
       "size": {
         "0": 294,
@@ -4997,22 +4185,14 @@
       "type": "Note Plus (mtb)",
       "pos": {
         "0": -5379.75341796875,
-        "1": 746.5328979492188,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 746.5328979492188
       },
       "size": {
         "0": 393.2670593261719,
         "1": 166.2142333984375
       },
       "flags": {},
-      "order": 53,
+      "order": 52,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -5033,22 +4213,14 @@
       "type": "Note Plus (mtb)",
       "pos": {
         "0": -4950.689453125,
-        "1": 747.0979614257812,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 747.0979614257812
       },
       "size": {
         "0": 377.6485290527344,
         "1": 167.23536682128906
       },
       "flags": {},
-      "order": 54,
+      "order": 53,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -5069,22 +4241,14 @@
       "type": "ShowText|pysssss",
       "pos": {
         "0": -751.17236328125,
-        "1": 261,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 261
       },
       "size": {
         "0": 445.5078430175781,
         "1": 347.5412902832031
       },
       "flags": {},
-      "order": 132,
+      "order": 129,
       "mode": 0,
       "inputs": [
         {
@@ -5122,22 +4286,14 @@
       "type": "Note Plus (mtb)",
       "pos": {
         "0": -1710,
-        "1": -600,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": -600
       },
       "size": {
         "0": 572.7797241210938,
         "1": 477.9510803222656
       },
       "flags": {},
-      "order": 55,
+      "order": 54,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -5158,22 +4314,14 @@
       "type": "Note Plus (mtb)",
       "pos": {
         "0": -1300,
-        "1": 1130,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 1130
       },
       "size": {
         "0": 354.6163024902344,
         "1": 208.91143798828125
       },
       "flags": {},
-      "order": 56,
+      "order": 55,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -5194,22 +4342,14 @@
       "type": "Note Plus (mtb)",
       "pos": {
         "0": -3230,
-        "1": -60,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": -60
       },
       "size": {
         "0": 426.9847717285156,
         "1": 125.58113098144531
       },
       "flags": {},
-      "order": 57,
+      "order": 56,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -5230,22 +4370,14 @@
       "type": "Note Plus (mtb)",
       "pos": {
         "0": -920.17236328125,
-        "1": 1130,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 1130
       },
       "size": {
         "0": 356.74639892578125,
         "1": 205.98324584960938
       },
       "flags": {},
-      "order": 58,
+      "order": 57,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -5266,22 +4398,14 @@
       "type": "Lora Loader",
       "pos": {
         "0": -1912.771240234375,
-        "1": -23.87244415283203,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": -23.87244415283203
       },
       "size": {
         "0": 551.5555419921875,
         "1": 146
       },
       "flags": {},
-      "order": 109,
+      "order": 111,
       "mode": 0,
       "inputs": [
         {
@@ -5340,22 +4464,14 @@
       "type": "Note Plus (mtb)",
       "pos": {
         "0": 1870,
-        "1": -508,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": -508
       },
       "size": {
         "0": 678.1389770507812,
         "1": 356
       },
       "flags": {},
-      "order": 59,
+      "order": 58,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -5376,22 +4492,14 @@
       "type": "Note Plus (mtb)",
       "pos": {
         "0": -4950.91357421875,
-        "1": 77.16883850097656,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 77.16883850097656
       },
       "size": {
         "0": 376.5315856933594,
         "1": 249.36183166503906
       },
       "flags": {},
-      "order": 60,
+      "order": 59,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -5412,22 +4520,14 @@
       "type": "Checkpoint",
       "pos": {
         "0": -6067,
-        "1": 32,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 32
       },
       "size": {
         "0": 640.1082153320312,
         "1": 1060.8734130859375
       },
       "flags": {},
-      "order": 61,
+      "order": 60,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -5454,22 +4554,14 @@
       "type": "Lora",
       "pos": {
         "0": -6702,
-        "1": 32,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 32
       },
       "size": {
         "0": 601.4506225585938,
         "1": 1742.95263671875
       },
       "flags": {},
-      "order": 62,
+      "order": 61,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -5497,33 +4589,27 @@
       "type": "CR Latent Input Switch",
       "pos": {
         "0": 134,
-        "1": 1356,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 1356
       },
       "size": {
         "0": 248.02291870117188,
         "1": 74
       },
       "flags": {},
-      "order": 126,
+      "order": 123,
       "mode": 0,
       "inputs": [
         {
           "name": "latent1",
           "type": "LATENT",
-          "link": 1740
+          "link": 1740,
+          "shape": 7
         },
         {
           "name": "latent2",
           "type": "LATENT",
-          "link": 1739
+          "link": 1739,
+          "shape": 7
         },
         {
           "name": "Input",
@@ -5565,22 +4651,14 @@
       "type": "VAEEncode",
       "pos": {
         "0": -516,
-        "1": 1443,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 1443
       },
       "size": {
         "0": 210,
         "1": 46
       },
       "flags": {},
-      "order": 121,
+      "order": 118,
       "mode": 2,
       "inputs": [
         {
@@ -5608,6 +4686,7 @@
       "properties": {
         "Node name for S&R": "VAEEncode"
       },
+      "widgets_values": [],
       "color": "#ffff78",
       "bgcolor": "#ffff64"
     },
@@ -5616,15 +4695,7 @@
       "type": "ImpactSwitch",
       "pos": {
         "0": -86,
-        "1": 1276,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 1276
       },
       "size": {
         "0": 210,
@@ -5639,7 +4710,8 @@
         {
           "name": "input1",
           "type": "INT",
-          "link": 1407
+          "link": 1407,
+          "shape": 7
         },
         {
           "name": "input2",
@@ -5714,15 +4786,7 @@
       "type": "CR Set Value On Boolean",
       "pos": {
         "0": 144,
-        "1": 1316,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 1316
       },
       "size": {
         "0": 327.5999755859375,
@@ -5791,15 +4855,7 @@
       "type": "Compare-🔬",
       "pos": {
         "0": 144,
-        "1": 1276,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 1276
       },
       "size": {
         "0": 315,
@@ -5849,15 +4905,7 @@
       "type": "ImpactNodeSetMuteState",
       "pos": {
         "0": -923,
-        "1": 1451,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 1451
       },
       "size": {
         "0": 315,
@@ -5905,22 +4953,14 @@
       "type": "Note Plus (mtb)",
       "pos": {
         "0": -3089,
-        "1": 1461,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 1461
       },
       "size": {
         "0": 740.0864868164062,
         "1": 217.4984893798828
       },
       "flags": {},
-      "order": 63,
+      "order": 62,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -5941,15 +4981,7 @@
       "type": "Checkpoint Loader with Name (Image Saver)",
       "pos": {
         "0": -1788,
-        "1": 1330,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 1330
       },
       "size": {
         "0": 344.3999938964844,
@@ -5958,7 +4990,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 98,
+      "order": 100,
       "mode": 0,
       "inputs": [
         {
@@ -6021,15 +5053,7 @@
       "type": "Anything Everywhere",
       "pos": {
         "0": -1731,
-        "1": 1378,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 1378
       },
       "size": {
         "0": 239.40000915527344,
@@ -6038,14 +5062,15 @@
       "flags": {
         "collapsed": true
       },
-      "order": 110,
+      "order": 112,
       "mode": 0,
       "inputs": [
         {
           "name": "VAE",
           "type": "*",
           "link": 1763,
-          "color_on": "#FF6E6E"
+          "color_on": "#e4ff6e",
+          "shape": 7
         }
       ],
       "outputs": [],
@@ -6054,9 +5079,7 @@
         "group_restricted": 0,
         "color_restricted": 0
       },
-      "widgets_values": [
-        "<comfy.sd.VAE object at 0x0000023F234A0A10>"
-      ],
+      "widgets_values": [],
       "color": "#ffff78",
       "bgcolor": "#ffff64"
     },
@@ -6065,15 +5088,7 @@
       "type": "KSampler",
       "pos": {
         "0": 1959,
-        "1": -27,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": -27
       },
       "size": {
         "0": 210,
@@ -6173,7 +5188,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        191079209565761,
+        488323486221100,
         "randomize",
         20,
         8,
@@ -6189,22 +5204,14 @@
       "type": "LoadImage",
       "pos": {
         "0": -235,
-        "1": -26,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": -26
       },
       "size": {
         "0": 411.6842346191406,
         "1": 378.6979064941406
       },
       "flags": {},
-      "order": 64,
+      "order": 63,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -6239,22 +5246,14 @@
       "type": "Note Plus (mtb)",
       "pos": {
         "0": -2337,
-        "1": -599,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": -599
       },
       "size": {
         "0": 585.2548217773438,
         "1": 478.0906982421875
       },
       "flags": {},
-      "order": 65,
+      "order": 64,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -6275,22 +5274,14 @@
       "type": "Note Plus (mtb)",
       "pos": {
         "0": -1122,
-        "1": 1550,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 1550
       },
       "size": {
         "0": 805.71630859375,
         "1": 1612.5076904296875
       },
       "flags": {},
-      "order": 66,
+      "order": 65,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -6311,15 +5302,7 @@
       "type": "CM_IntBinaryOperation",
       "pos": {
         "0": 4123,
-        "1": 472,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 472
       },
       "size": {
         "0": 210,
@@ -6374,15 +5357,7 @@
       "type": "CM_NearestSDXLResolution",
       "pos": {
         "0": 4122,
-        "1": 422,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 422
       },
       "size": {
         "0": 176.39999389648438,
@@ -6423,6 +5398,7 @@
       "properties": {
         "Node name for S&R": "CM_NearestSDXLResolution"
       },
+      "widgets_values": [],
       "color": "#222",
       "bgcolor": "#000"
     },
@@ -6431,15 +5407,7 @@
       "type": "CR Integer To String",
       "pos": {
         "0": 4289,
-        "1": 640,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 640
       },
       "size": {
         "0": 210,
@@ -6492,15 +5460,7 @@
       "type": "TextConcat",
       "pos": {
         "0": 4300,
-        "1": 589,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 589
       },
       "size": {
         "0": 315,
@@ -6509,7 +5469,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 131,
+      "order": 135,
       "mode": 2,
       "inputs": [
         {
@@ -6567,15 +5527,7 @@
       "type": "TextConcat",
       "pos": {
         "0": 4533,
-        "1": 782,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 782
       },
       "size": {
         "0": 315,
@@ -6584,7 +5536,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 129,
+      "order": 133,
       "mode": 2,
       "inputs": [
         {
@@ -6642,15 +5594,7 @@
       "type": "ShowText|pysssss",
       "pos": {
         "0": 4742,
-        "1": 582,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 582
       },
       "size": {
         "0": 270.57745361328125,
@@ -6695,15 +5639,7 @@
       "type": "GetImageSize+",
       "pos": {
         "0": 4283,
-        "1": 542,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 542
       },
       "size": {
         "0": 214.20001220703125,
@@ -6753,6 +5689,7 @@
       "properties": {
         "Node name for S&R": "GetImageSize+"
       },
+      "widgets_values": [],
       "color": "#222",
       "bgcolor": "#000"
     },
@@ -6761,15 +5698,7 @@
       "type": "PrimitiveNode",
       "pos": {
         "0": 4344,
-        "1": 50,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 50
       },
       "size": {
         "0": 349.1791687011719,
@@ -6778,7 +5707,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 67,
+      "order": 66,
       "mode": 2,
       "inputs": [],
       "outputs": [
@@ -6810,15 +5739,7 @@
       "type": "SDPromptSaver",
       "pos": {
         "0": 1951.1480712890625,
-        "1": 238.2918701171875,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 238.2918701171875
       },
       "size": {
         "0": 418.5574951171875,
@@ -6838,7 +5759,8 @@
           "name": "lora_name",
           "type": "*",
           "link": null,
-          "slot_index": 1
+          "slot_index": 1,
+          "shape": 7
         },
         {
           "name": "filename",
@@ -6996,7 +5918,7 @@
         "%date/",
         "FLUX\\creapromptFlux1Dev_v10.safetensors",
         "Flux_vae.safetensors",
-        965119453650402,
+        910485362837654,
         "randomize",
         20,
         8,
@@ -7027,15 +5949,7 @@
       "type": "CM_FloatBinaryOperation",
       "pos": {
         "0": 4502,
-        "1": 542,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 542
       },
       "size": {
         "0": 315,
@@ -7083,15 +5997,7 @@
       "type": "RecommendedResCalc",
       "pos": {
         "0": 4424,
-        "1": 472,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 472
       },
       "size": {
         "0": 295.6000061035156,
@@ -7170,15 +6076,7 @@
       "type": "CM_IntBinaryOperation",
       "pos": {
         "0": 4332,
-        "1": 422,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 422
       },
       "size": {
         "0": 210,
@@ -7233,15 +6131,7 @@
       "type": "CM_IntToFloat",
       "pos": {
         "0": 4122,
-        "1": 542,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 542
       },
       "size": {
         "0": 210,
@@ -7287,15 +6177,7 @@
       "type": "PrimitiveNode",
       "pos": {
         "0": 4110,
-        "1": 52,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 52
       },
       "size": {
         "0": 226.8000030517578,
@@ -7304,7 +6186,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 68,
+      "order": 67,
       "mode": 2,
       "inputs": [],
       "outputs": [
@@ -7338,15 +6220,7 @@
       "type": "UltimateSDUpscale",
       "pos": {
         "0": 4718,
-        "1": -73,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": -73
       },
       "size": {
         "0": 315,
@@ -7444,7 +6318,7 @@
       },
       "widgets_values": [
         2,
-        210931330037176,
+        803994938515278,
         "randomize",
         8,
         5,
@@ -7472,15 +6346,7 @@
       "type": "ShowText|pysssss",
       "pos": {
         "0": 4742,
-        "1": 712,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 712
       },
       "size": {
         "0": 272.57745361328125,
@@ -7525,15 +6391,7 @@
       "type": "Replace Text _O",
       "pos": {
         "0": 3524,
-        "1": 968,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 968
       },
       "size": {
         "0": 210,
@@ -7542,7 +6400,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 120,
+      "order": 122,
       "mode": 0,
       "inputs": [
         {
@@ -7583,15 +6441,7 @@
       "type": "Replace Text _O",
       "pos": {
         "0": 3303,
-        "1": 966,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 966
       },
       "size": {
         "0": 210,
@@ -7600,7 +6450,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 111,
+      "order": 113,
       "mode": 0,
       "inputs": [
         {
@@ -7641,15 +6491,7 @@
       "type": "SDTypeConverter",
       "pos": {
         "0": 3014,
-        "1": 979,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 979
       },
       "size": {
         "0": 267.2269287109375,
@@ -7658,7 +6500,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 99,
+      "order": 101,
       "mode": 0,
       "inputs": [
         {
@@ -7726,15 +6568,7 @@
       "type": "DF_String_Concatenate",
       "pos": {
         "0": 3744,
-        "1": 913,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 913
       },
       "size": {
         "0": 210,
@@ -7743,7 +6577,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 125,
+      "order": 128,
       "mode": 0,
       "inputs": [
         {
@@ -7801,15 +6635,7 @@
       "type": "SDPromptSaver",
       "pos": {
         "0": 5052,
-        "1": -72,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": -72
       },
       "size": {
         "0": 418.5574951171875,
@@ -7829,7 +6655,8 @@
           "name": "lora_name",
           "type": "*",
           "link": null,
-          "slot_index": 1
+          "slot_index": 1,
+          "shape": 7
         },
         {
           "name": "filename",
@@ -7985,7 +6812,7 @@
         "%date/",
         "FLUX\\creapromptFlux1Dev_v10.safetensors",
         "Flux_vae.safetensors",
-        15039434240829,
+        460803394754171,
         "randomize",
         20,
         8,
@@ -8012,76 +6839,18 @@
       "bgcolor": "#ff5c7c"
     },
     {
-      "id": 810,
-      "type": "JWDatetimeString",
-      "pos": {
-        "0": 3572,
-        "1": 922,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
-      },
-      "size": {
-        "0": 210,
-        "1": 58
-      },
-      "flags": {
-        "collapsed": true
-      },
-      "order": 69,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            1802
-          ],
-          "slot_index": 0,
-          "shape": 3
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "JWDatetimeString",
-        "ttNbgOverride": {
-          "color": "#222",
-          "bgcolor": "#000",
-          "groupcolor": "#444"
-        }
-      },
-      "widgets_values": [
-        "_%H-%M_"
-      ],
-      "color": "#222",
-      "bgcolor": "#000"
-    },
-    {
       "id": 236,
       "type": "JWString",
       "pos": {
         "0": -2328.6962890625,
-        "1": 75.60652160644531,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 75.60652160644531
       },
       "size": {
         "0": 365.8085632324219,
         "1": 58
       },
       "flags": {},
-      "order": 70,
+      "order": 68,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8112,22 +6881,14 @@
       "type": "JWString",
       "pos": {
         "0": -2329,
-        "1": -24,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": -24
       },
       "size": {
         "0": 365.45806884765625,
         "1": 58
       },
       "flags": {},
-      "order": 71,
+      "order": 69,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8156,22 +6917,14 @@
       "type": "Upscale Model Loader",
       "pos": {
         "0": 3011.815185546875,
-        "1": -56.09370422363281,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": -56.09370422363281
       },
       "size": {
         "0": 570.5856323242188,
         "1": 78
       },
       "flags": {},
-      "order": 72,
+      "order": 70,
       "mode": 2,
       "inputs": [],
       "outputs": [
@@ -8209,22 +6962,14 @@
       "type": "Upscale Model Loader",
       "pos": {
         "0": 4110,
-        "1": -68,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": -68
       },
       "size": {
         "0": 583.4688110351562,
         "1": 78
       },
       "flags": {},
-      "order": 73,
+      "order": 71,
       "mode": 2,
       "inputs": [],
       "outputs": [
@@ -8262,22 +7007,14 @@
       "type": "Fast Groups Muter (rgthree)",
       "pos": {
         "0": 2570,
-        "1": -611,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": -611
       },
       "size": {
         "0": 418.5631408691406,
         "1": 370
       },
       "flags": {},
-      "order": 74,
+      "order": 72,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8300,26 +7037,999 @@
       "bgcolor": "#32ff32"
     },
     {
+      "id": 246,
+      "type": "CR Switch Model and CLIP",
+      "pos": {
+        "0": -1302.17236328125,
+        "1": -18
+      },
+      "size": {
+        "0": 226.8000030517578,
+        "1": 114
+      },
+      "flags": {},
+      "order": 120,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "model1",
+          "type": "MODEL",
+          "link": 1582
+        },
+        {
+          "name": "clip1",
+          "type": "CLIP",
+          "link": 1583
+        },
+        {
+          "name": "model2",
+          "type": "MODEL",
+          "link": 1584
+        },
+        {
+          "name": "clip2",
+          "type": "CLIP",
+          "link": 1585
+        },
+        {
+          "name": "Input",
+          "type": "INT",
+          "link": 912,
+          "widget": {
+            "name": "Input"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "MODEL",
+          "type": "MODEL",
+          "links": [
+            1188,
+            1764
+          ],
+          "slot_index": 0,
+          "shape": 3
+        },
+        {
+          "name": "CLIP",
+          "type": "CLIP",
+          "links": [
+            891,
+            895
+          ],
+          "slot_index": 1,
+          "shape": 3
+        },
+        {
+          "name": "show_help",
+          "type": "STRING",
+          "links": null,
+          "shape": 3
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "CR Switch Model and CLIP"
+      },
+      "widgets_values": [
+        2
+      ],
+      "color": "#244e93",
+      "bgcolor": "#103a7f"
+    },
+    {
+      "id": 813,
+      "type": "ShowText|pysssss",
+      "pos": {
+        "0": -1069,
+        "1": -28
+      },
+      "size": {
+        "0": 532.4415893554688,
+        "1": 130.17164611816406
+      },
+      "flags": {},
+      "order": 132,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "text",
+          "type": "STRING",
+          "link": 1812,
+          "widget": {
+            "name": "text"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": null,
+          "shape": 6
+        }
+      ],
+      "title": "Show Text 🐍 CONTROL Prompt",
+      "properties": {
+        "Node name for S&R": "ShowText|pysssss"
+      },
+      "widgets_values": [
+        [
+          "720"
+        ],
+        "blue cat,"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 716,
+      "type": "Note Plus (mtb)",
+      "pos": {
+        "0": -3850,
+        "1": 1164
+      },
+      "size": {
+        "0": 738.7410278320312,
+        "1": 278.8194580078125
+      },
+      "flags": {},
+      "order": 73,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "title": "Unnamed",
+      "properties": {},
+      "widgets_values": [
+        "🌎🌍🌏<font color=\"#001100\">\n<h1> <b>⚠️⚠️ ATTENTION️ ⚠️⚠️</b></h1></font><b>\n<hr>\n# SWITCH TO CHOOSE THE TYPE OF PROMPT ⏩⏩<br>\n<hr>\n## 💚 [1]  Prompt classic = NO-Batch<br>\n## 💙 [2]  Prompt + BONUS = NO-Batch<br>\n## 💛 [3]  Batch file Prompt <br>\n## 💜️ [4] Batch file Prompt + BONUS\n# SWITCH TO CHOOSE THE TYPE OF PROMPT ⏩⏩</b>",
+        "markdown",
+        "",
+        "one_dark"
+      ],
+      "color": "#28aaaa",
+      "bgcolor": "#149696",
+      "shape": 1
+    },
+    {
+      "id": 717,
+      "type": "Note Plus (mtb)",
+      "pos": {
+        "0": -3851,
+        "1": 1460
+      },
+      "size": {
+        "0": 739.6229858398438,
+        "1": 218.74119567871094
+      },
+      "flags": {},
+      "order": 74,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "title": "Unnamed",
+      "properties": {},
+      "widgets_values": [
+        "🌎🌍🌏<font color=\"#001100\">\n<h1> <b>⚠️⚠️ ATTENTION️ ⚠️⚠️</b></h1></font><b>\n<hr>\n# SWITCH TO CHOOSE PROMPT IMPROVEMENT ⏩⏩\n<hr>\n## 💚 [1] Prompts Vanilla (No modification)<br>\n## 💙 [2] Prompts + RANDOM (adds words)<br>\n# SWITCH TO CHOOSE PROMPT IMPROVEMENT ⏩⏩</b>",
+        "markdown",
+        "",
+        "one_dark"
+      ],
+      "color": "#2860a8",
+      "bgcolor": "#144c94",
+      "shape": 1
+    },
+    {
+      "id": 770,
+      "type": "Note Plus (mtb)",
+      "pos": {
+        "0": -4016,
+        "1": 521
+      },
+      "size": {
+        "0": 814.8701782226562,
+        "1": 278.65765380859375
+      },
+      "flags": {},
+      "order": 75,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "title": "Unnamed",
+      "properties": {},
+      "widgets_values": [
+        "<h1>🌎🌍🌏</h1>\n<font color=\"#001100\">\n#<b>⚠️⚠️ ATTENTION️ ⚠️⚠️</b></font><hr>\n\n# Remember to fill in the \"DENOISE\"  ⏩⏩\n<hr>\n## The value is automatically forced to 1.00 to make <b>Text-2-Image</b>\n## To make image-2-image change the value:\n## ~0.40 { between O. 20 and O. 55 } recommended to make <b>Image-2-Image</b>\n<hr>\n# Remember to fill in the \"DENOISE\"  ⏩⏩\n",
+        "markdown",
+        "",
+        "one_dark"
+      ],
+      "color": "#ff4b14",
+      "bgcolor": "#ff3700",
+      "shape": 1
+    },
+    {
+      "id": 200,
+      "type": "String Literal",
+      "pos": {
+        "0": -750.17236328125,
+        "1": 650
+      },
+      "size": {
+        "0": 446.32830810546875,
+        "1": 468.37261962890625
+      },
+      "flags": {},
+      "order": 76,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            792,
+            959,
+            1180,
+            1197
+          ],
+          "slot_index": 0,
+          "shape": 3
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "String Literal"
+      },
+      "widgets_values": [
+        "deformed, disfigured,\nwatermark, error, blurry, jpeg artifacts, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature,\nusername, artist name, (worst quality, low quality:1.4),\nthin lips, (crossed eyes),\nmake up, cropped, out of frame\nugly, duplicate, morbid, mutilated,poorly drawn hands, poorly drawn face, mutation,\ndeformed, deformed legs, deformed arms, deformed ankle,\nblurry, dehydrated,\nbad anatomy, bad proportions,\nbad hand, bad hands,\nbadhandv4, negative_hand-neg,bad-hands-5,\nmutated hands and fingers, bad anatomy, wrong anatomy, ugly, (mutation:1.3),\n\nextra limbs,extra arms, extra legs,extra fingers,\n\ncloned face, disfigured, gross proportions,\nmalformed limbs, malformed hand, malformed hands, malformed legs,\n\nmissing arms, missing legs, missing leg, missing feet,\n\nfused fingers, too many fingers, long neck, bad arm, bas legs, bad foot, bad feet,  \nskin spots, veins, acnes, skin blemishes, age spot, glan,  fewer fingers, strange fingers,\nmutated hands, mutated hand,distorted hands,fused hands, fused legs,\n\n(((extra fingers,fewer fingers,strange fingers, extra hands, missing fingers, borken hand, more than two hands,\nwell proportioned hands, more than two legs, unclear eyes, missing_arms, extra limbs, extra legs, cloned face,fused fingers))),\n\n((text)), ((english text))\n\ncroped, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, body out of frame, blurry, bad anatomy, blurred, watermark, grainy, signature, cut off, draft, text, logo,\nartist name,signature,",
+        true
+      ],
+      "color": "#322",
+      "bgcolor": "#533"
+    },
+    {
+      "id": 500,
+      "type": "LoadImageFromUrl",
+      "pos": {
+        "0": -234.8057861328125,
+        "1": 713.9060668945312
+      },
+      "size": {
+        "0": 959.3316040039062,
+        "1": 408
+      },
+      "flags": {},
+      "order": 77,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "images",
+          "type": "IMAGE",
+          "links": [
+            1307
+          ],
+          "slot_index": 0,
+          "shape": 6
+        },
+        {
+          "name": "masks",
+          "type": "MASK",
+          "links": null,
+          "shape": 6
+        },
+        {
+          "name": "has_image",
+          "type": "BOOLEAN",
+          "links": null,
+          "shape": 3
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "LoadImageFromUrl"
+      },
+      "widgets_values": {
+        "image": "https://raw.githubusercontent.com/Dfalm-Original/COMFYui/refs/heads/main/images/Blue-Cat_LOGO.png",
+        "keep_alpha_channel": false,
+        "output_mode": false,
+        "choose image to upload": "image"
+      },
+      "color": "#969632",
+      "bgcolor": "#82821e"
+    },
+    {
+      "id": 698,
+      "type": "CR Text Concatenate",
+      "pos": {
+        "0": -962,
+        "1": 651
+      },
+      "size": {
+        "0": 315,
+        "1": 126
+      },
+      "flags": {
+        "collapsed": true
+      },
+      "order": 99,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "text1",
+          "type": "STRING",
+          "link": 1623,
+          "widget": {
+            "name": "text1"
+          }
+        },
+        {
+          "name": "text2",
+          "type": "STRING",
+          "link": 1609,
+          "widget": {
+            "name": "text2"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "*",
+          "links": [
+            1624
+          ],
+          "slot_index": 0,
+          "shape": 3
+        },
+        {
+          "name": "show_help",
+          "type": "STRING",
+          "links": null,
+          "shape": 3
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "CR Text Concatenate",
+        "ttNbgOverride": {
+          "color": "#222",
+          "bgcolor": "#000",
+          "groupcolor": "#444"
+        }
+      },
+      "widgets_values": [
+        "",
+        "",
+        ""
+      ],
+      "color": "#222",
+      "bgcolor": "#000"
+    },
+    {
+      "id": 697,
+      "type": "CR Text Concatenate",
+      "pos": {
+        "0": -962,
+        "1": 701
+      },
+      "size": {
+        "0": 315,
+        "1": 126
+      },
+      "flags": {
+        "collapsed": true
+      },
+      "order": 88,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "text1",
+          "type": "STRING",
+          "link": 1627,
+          "widget": {
+            "name": "text1"
+          }
+        },
+        {
+          "name": "text2",
+          "type": "STRING",
+          "link": 1626,
+          "widget": {
+            "name": "text2"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "*",
+          "links": [],
+          "slot_index": 0,
+          "shape": 3
+        },
+        {
+          "name": "show_help",
+          "type": "STRING",
+          "links": [
+            1827
+          ],
+          "slot_index": 1,
+          "shape": 3
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "CR Text Concatenate",
+        "ttNbgOverride": {
+          "color": "#222",
+          "bgcolor": "#000",
+          "groupcolor": "#444"
+        }
+      },
+      "widgets_values": [
+        "",
+        "",
+        ""
+      ],
+      "color": "#222",
+      "bgcolor": "#000"
+    },
+    {
+      "id": 727,
+      "type": "Integer Switch (JPS)",
+      "pos": {
+        "0": -2327,
+        "1": 179
+      },
+      "size": {
+        "0": 364.05950927734375,
+        "1": 138
+      },
+      "flags": {},
+      "order": 92,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "int_1",
+          "type": "INT",
+          "link": 1645,
+          "widget": {
+            "name": "int_1"
+          }
+        },
+        {
+          "name": "int_2",
+          "type": "INT",
+          "link": 1646,
+          "widget": {
+            "name": "int_2"
+          }
+        },
+        {
+          "name": "int_3",
+          "type": "INT",
+          "link": 1647,
+          "widget": {
+            "name": "int_3"
+          }
+        },
+        {
+          "name": "int_4",
+          "type": "INT",
+          "link": 1648,
+          "widget": {
+            "name": "int_4"
+          }
+        },
+        {
+          "name": "int_5",
+          "type": "INT",
+          "link": 1692,
+          "widget": {
+            "name": "int_5"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "int_out",
+          "type": "INT",
+          "links": [
+            1653
+          ],
+          "slot_index": 0,
+          "shape": 3
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "Integer Switch (JPS)"
+      },
+      "widgets_values": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "color": "#14ff14",
+      "bgcolor": "#00ff00"
+    },
+    {
+      "id": 695,
+      "type": "RandomNSP _O",
+      "pos": {
+        "0": -1018,
+        "1": 1011
+      },
+      "size": {
+        "0": 263.6932678222656,
+        "1": 106
+      },
+      "flags": {
+        "collapsed": false
+      },
+      "order": 78,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            1604
+          ],
+          "slot_index": 0,
+          "shape": 3
+        }
+      ],
+      "title": "RandomNSP _O - ✅",
+      "properties": {
+        "Node name for S&R": "RandomNSP _O",
+        "ttNbgOverride": {
+          "color": "#222",
+          "bgcolor": "#000",
+          "groupcolor": "#444"
+        }
+      },
+      "widgets_values": [
+        "scenario-desc",
+        249080034010634,
+        "randomize"
+      ],
+      "color": "#222",
+      "bgcolor": "#000"
+    },
+    {
+      "id": 692,
+      "type": "RandomNSP _O",
+      "pos": {
+        "0": -1019,
+        "1": 871
+      },
+      "size": {
+        "0": 258.6932678222656,
+        "1": 106
+      },
+      "flags": {
+        "collapsed": false
+      },
+      "order": 79,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            1603
+          ],
+          "slot_index": 0,
+          "shape": 3
+        }
+      ],
+      "title": "RandomNSP _O - ✅",
+      "properties": {
+        "Node name for S&R": "RandomNSP _O",
+        "ttNbgOverride": {
+          "color": "#222",
+          "bgcolor": "#000",
+          "groupcolor": "#444"
+        }
+      },
+      "widgets_values": [
+        "cosmic-nebula",
+        393182146351154,
+        "randomize"
+      ],
+      "color": "#222",
+      "bgcolor": "#000"
+    },
+    {
+      "id": 693,
+      "type": "RandomNSP _O",
+      "pos": {
+        "0": -1312,
+        "1": 871
+      },
+      "size": {
+        "0": 288.1119079589844,
+        "1": 106
+      },
+      "flags": {
+        "collapsed": false
+      },
+      "order": 80,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            1602
+          ],
+          "slot_index": 0,
+          "shape": 3
+        }
+      ],
+      "title": "RandomNSP _O - ✅",
+      "properties": {
+        "Node name for S&R": "RandomNSP _O",
+        "ttNbgOverride": {
+          "color": "#222",
+          "bgcolor": "#000",
+          "groupcolor": "#444"
+        }
+      },
+      "widgets_values": [
+        "cosmic-galaxy",
+        170775050486154,
+        "randomize"
+      ],
+      "color": "#222",
+      "bgcolor": "#000"
+    },
+    {
+      "id": 696,
+      "type": "TextConcat",
+      "pos": {
+        "0": -952,
+        "1": 801
+      },
+      "size": {
+        "0": 315,
+        "1": 178
+      },
+      "flags": {
+        "collapsed": true
+      },
+      "order": 119,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "text1",
+          "type": "STRING",
+          "link": 1831,
+          "widget": {
+            "name": "text1"
+          }
+        },
+        {
+          "name": "text2",
+          "type": "STRING",
+          "link": 1602,
+          "widget": {
+            "name": "text2"
+          }
+        },
+        {
+          "name": "text3",
+          "type": "STRING",
+          "link": 1603,
+          "widget": {
+            "name": "text3"
+          }
+        },
+        {
+          "name": "text4",
+          "type": "STRING",
+          "link": 1604,
+          "widget": {
+            "name": "text4"
+          }
+        },
+        {
+          "name": "text5",
+          "type": "STRING",
+          "link": 1605,
+          "widget": {
+            "name": "text5"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            1611,
+            1832
+          ],
+          "slot_index": 0,
+          "shape": 3
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "TextConcat",
+        "ttNbgOverride": {
+          "color": "#222",
+          "bgcolor": "#000",
+          "groupcolor": "#444"
+        }
+      },
+      "widgets_values": [
+        ",",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "color": "#222",
+      "bgcolor": "#000"
+    },
+    {
+      "id": 332,
+      "type": "String Literal",
+      "pos": {
+        "0": -1308.258544921875,
+        "1": 139.04095458984375
+      },
+      "size": {
+        "0": 548.0327758789062,
+        "1": 472.123046875
+      },
+      "flags": {},
+      "order": 81,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            1622,
+            1623
+          ],
+          "slot_index": 0,
+          "shape": 3
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "String Literal"
+      },
+      "widgets_values": [
+        "blue cat,",
+        true
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 688,
+      "type": "CR Text Input Switch (4 way)",
+      "pos": {
+        "0": -2324,
+        "1": 1242
+      },
+      "size": {
+        "0": 352.79998779296875,
+        "1": 118
+      },
+      "flags": {},
+      "order": 110,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "text1",
+          "type": "STRING",
+          "link": 1622,
+          "widget": {
+            "name": "text1"
+          }
+        },
+        {
+          "name": "text2",
+          "type": "STRING",
+          "link": 1624,
+          "widget": {
+            "name": "text2"
+          }
+        },
+        {
+          "name": "text3",
+          "type": "STRING",
+          "link": 1598,
+          "widget": {
+            "name": "text3"
+          }
+        },
+        {
+          "name": "text4",
+          "type": "STRING",
+          "link": 1827,
+          "widget": {
+            "name": "text4"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            1600,
+            1628,
+            1831
+          ],
+          "slot_index": 0,
+          "shape": 3
+        },
+        {
+          "name": "show_help",
+          "type": "STRING",
+          "links": null,
+          "shape": 3
+        }
+      ],
+      "title": "🔀 CR Text Input Switch - BATCH / NO BATCH",
+      "properties": {
+        "Node name for S&R": "CR Text Input Switch (4 way)"
+      },
+      "widgets_values": [
+        1,
+        "",
+        "",
+        "",
+        ""
+      ],
+      "color": "#14ff14",
+      "bgcolor": "#00ff00"
+    },
+    {
+      "id": 690,
+      "type": "easy textSwitch",
+      "pos": {
+        "0": -2267,
+        "1": 1525
+      },
+      "size": {
+        "0": 245.8902130126953,
+        "1": 78
+      },
+      "flags": {},
+      "order": 125,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "text1",
+          "type": "STRING",
+          "link": 1600,
+          "widget": {
+            "name": "text1"
+          }
+        },
+        {
+          "name": "text2",
+          "type": "STRING",
+          "link": 1832,
+          "widget": {
+            "name": "text2"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            1621,
+            1629,
+            1630,
+            1812
+          ],
+          "slot_index": 0,
+          "shape": 3
+        }
+      ],
+      "title": "Text Switch - VANILLA/RANDOM",
+      "properties": {
+        "Node name for S&R": "easy textSwitch"
+      },
+      "widgets_values": [
+        1,
+        "",
+        ""
+      ],
+      "color": "#14ff14",
+      "bgcolor": "#00ff00"
+    },
+    {
+      "id": 810,
+      "type": "JWDatetimeString",
+      "pos": {
+        "0": 3572,
+        "1": 922
+      },
+      "size": {
+        "0": 210,
+        "1": 58
+      },
+      "flags": {
+        "collapsed": true
+      },
+      "order": 82,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            1802
+          ],
+          "slot_index": 0,
+          "shape": 3
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "JWDatetimeString",
+        "ttNbgOverride": {
+          "color": "#222",
+          "bgcolor": "#000",
+          "groupcolor": "#444"
+        }
+      },
+      "widgets_values": [
+        "_%H-%M-%S_"
+      ],
+      "color": "#222",
+      "bgcolor": "#000"
+    },
+    {
+      "id": 680,
+      "type": "Note",
+      "pos": {
+        "0": -1930,
+        "1": -710
+      },
+      "size": {
+        "0": 428.7532958984375,
+        "1": 77.19602966308594
+      },
+      "flags": {},
+      "order": 83,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "title": "Note - VERSION",
+      "properties": {},
+      "widgets_values": [
+        "DEFAUT_MODEL-C_Text-2-Img+LoadImage+UPscalersV1.08"
+      ],
+      "color": "#222",
+      "bgcolor": "#000"
+    },
+    {
       "id": 194,
       "type": "SDParameterGenerator",
       "pos": {
         "0": -1917,
-        "1": 180,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "1": 180
       },
       "size": {
         "0": 555.4171142578125,
         "1": 936
       },
       "flags": {},
-      "order": 75,
+      "order": 84,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8477,7 +8187,8 @@
         "sdxl_vae.safetensors",
         "SDXL 1024px",
         "none",
-        280771600939542,
+        228907569508983,
+        "randomize",
         7,
         0.8,
         5,
@@ -8491,9 +8202,9 @@
         1,
         "Total steps: 7,\nRefiner start at step: 5 (80%)",
         "Custom aspect ratio: 720 x 1280",
-        "Custom aspect ratio: 720 x 1280",
         "Total steps: 7,\nRefiner start at step: 5 (80%)",
         "Custom aspect ratio: 720 x 1280",
+        true,
         true,
         true
       ],
@@ -8501,1087 +8212,32 @@
       "bgcolor": "#1e78ff"
     },
     {
-      "id": 246,
-      "type": "CR Switch Model and CLIP",
-      "pos": {
-        "0": -1302.17236328125,
-        "1": -18,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
-      },
-      "size": {
-        "0": 226.8000030517578,
-        "1": 114
-      },
-      "flags": {},
-      "order": 118,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "model1",
-          "type": "MODEL",
-          "link": 1582
-        },
-        {
-          "name": "clip1",
-          "type": "CLIP",
-          "link": 1583
-        },
-        {
-          "name": "model2",
-          "type": "MODEL",
-          "link": 1584
-        },
-        {
-          "name": "clip2",
-          "type": "CLIP",
-          "link": 1585
-        },
-        {
-          "name": "Input",
-          "type": "INT",
-          "link": 912,
-          "widget": {
-            "name": "Input"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "MODEL",
-          "type": "MODEL",
-          "links": [
-            1188,
-            1764
-          ],
-          "slot_index": 0,
-          "shape": 3
-        },
-        {
-          "name": "CLIP",
-          "type": "CLIP",
-          "links": [
-            891,
-            895
-          ],
-          "slot_index": 1,
-          "shape": 3
-        },
-        {
-          "name": "show_help",
-          "type": "STRING",
-          "links": null,
-          "shape": 3
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "CR Switch Model and CLIP"
-      },
-      "widgets_values": [
-        2
-      ],
-      "color": "#244e93",
-      "bgcolor": "#103a7f"
-    },
-    {
-      "id": 813,
-      "type": "ShowText|pysssss",
-      "pos": {
-        "0": -1069,
-        "1": -28,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
-      },
-      "size": {
-        "0": 532.4415893554688,
-        "1": 130.17164611816406
-      },
-      "flags": {},
-      "order": 135,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "text",
-          "type": "STRING",
-          "link": 1812,
-          "widget": {
-            "name": "text"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": null,
-          "shape": 6
-        }
-      ],
-      "title": "Show Text 🐍 CONTROL Prompt",
-      "properties": {
-        "Node name for S&R": "ShowText|pysssss"
-      },
-      "widgets_values": [
-        [
-          "720"
-        ],
-        "blue cat,"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 716,
+      "id": 321,
       "type": "Note Plus (mtb)",
       "pos": {
-        "0": -3850,
-        "1": 1164,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
+        "0": -5380,
+        "1": 77
       },
       "size": {
-        "0": 738.7410278320312,
-        "1": 278.8194580078125
-      },
-      "flags": {},
-      "order": 76,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [],
-      "title": "Unnamed",
-      "properties": {},
-      "widgets_values": [
-        "🌎🌍🌏<font color=\"#001100\">\n<h1> <b>⚠️⚠️ ATTENTION️ ⚠️⚠️</b></h1></font><b>\n<hr>\n# SWITCH TO CHOOSE THE TYPE OF PROMPT ⏩⏩<br>\n<hr>\n## 💚 [1]  Prompt classic = NO-Batch<br>\n## 💙 [2]  Prompt + BONUS = NO-Batch<br>\n## 💛 [3]  Batch file Prompt <br>\n## 💜️ [4] Batch file Prompt + BONUS\n# SWITCH TO CHOOSE THE TYPE OF PROMPT ⏩⏩</b>",
-        "markdown",
-        "",
-        "one_dark"
-      ],
-      "color": "#28aaaa",
-      "bgcolor": "#149696",
-      "shape": 1
-    },
-    {
-      "id": 717,
-      "type": "Note Plus (mtb)",
-      "pos": {
-        "0": -3851,
-        "1": 1460,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
-      },
-      "size": {
-        "0": 739.6229858398438,
-        "1": 218.74119567871094
-      },
-      "flags": {},
-      "order": 77,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [],
-      "title": "Unnamed",
-      "properties": {},
-      "widgets_values": [
-        "🌎🌍🌏<font color=\"#001100\">\n<h1> <b>⚠️⚠️ ATTENTION️ ⚠️⚠️</b></h1></font><b>\n<hr>\n# SWITCH TO CHOOSE PROMPT IMPROVEMENT ⏩⏩\n<hr>\n## 💚 [1] Prompts Vanilla (No modification)<br>\n## 💙 [2] Prompts + RANDOM (adds words)<br>\n# SWITCH TO CHOOSE PROMPT IMPROVEMENT ⏩⏩</b>",
-        "markdown",
-        "",
-        "one_dark"
-      ],
-      "color": "#2860a8",
-      "bgcolor": "#144c94",
-      "shape": 1
-    },
-    {
-      "id": 770,
-      "type": "Note Plus (mtb)",
-      "pos": {
-        "0": -4016,
-        "1": 521,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
-      },
-      "size": {
-        "0": 814.8701782226562,
-        "1": 278.65765380859375
-      },
-      "flags": {},
-      "order": 78,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [],
-      "title": "Unnamed",
-      "properties": {},
-      "widgets_values": [
-        "<h1>🌎🌍🌏</h1>\n<font color=\"#001100\">\n#<b>⚠️⚠️ ATTENTION️ ⚠️⚠️</b></font><hr>\n\n# Remember to fill in the \"DENOISE\"  ⏩⏩\n<hr>\n## The value is automatically forced to 1.00 to make <b>Text-2-Image</b>\n## To make image-2-image change the value:\n## ~0.40 { between O. 20 and O. 55 } recommended to make <b>Image-2-Image</b>\n<hr>\n# Remember to fill in the \"DENOISE\"  ⏩⏩\n",
-        "markdown",
-        "",
-        "one_dark"
-      ],
-      "color": "#ff4b14",
-      "bgcolor": "#ff3700",
-      "shape": 1
-    },
-    {
-      "id": 200,
-      "type": "String Literal",
-      "pos": {
-        "0": -750.17236328125,
-        "1": 650,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
-      },
-      "size": {
-        "0": 446.32830810546875,
-        "1": 468.37261962890625
-      },
-      "flags": {},
-      "order": 79,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            792,
-            959,
-            1180,
-            1197
-          ],
-          "slot_index": 0,
-          "shape": 3
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "String Literal"
-      },
-      "widgets_values": [
-        "deformed, disfigured,\nwatermark, error, blurry, jpeg artifacts, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature,\nusername, artist name, (worst quality, low quality:1.4),\nthin lips, (crossed eyes),\nmake up, cropped, out of frame\nugly, duplicate, morbid, mutilated,poorly drawn hands, poorly drawn face, mutation,\ndeformed, deformed legs, deformed arms, deformed ankle,\nblurry, dehydrated,\nbad anatomy, bad proportions,\nbad hand, bad hands,\nbadhandv4, negative_hand-neg,bad-hands-5,\nmutated hands and fingers, bad anatomy, wrong anatomy, ugly, (mutation:1.3),\n\nextra limbs,extra arms, extra legs,extra fingers,\n\ncloned face, disfigured, gross proportions,\nmalformed limbs, malformed hand, malformed hands, malformed legs,\n\nmissing arms, missing legs, missing leg, missing feet,\n\nfused fingers, too many fingers, long neck, bad arm, bas legs, bad foot, bad feet,  \nskin spots, veins, acnes, skin blemishes, age spot, glan,  fewer fingers, strange fingers,\nmutated hands, mutated hand,distorted hands,fused hands, fused legs,\n\n(((extra fingers,fewer fingers,strange fingers, extra hands, missing fingers, borken hand, more than two hands,\nwell proportioned hands, more than two legs, unclear eyes, missing_arms, extra limbs, extra legs, cloned face,fused fingers))),\n\n((text)), ((english text))\n\ncroped, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, body out of frame, blurry, bad anatomy, blurred, watermark, grainy, signature, cut off, draft, text, logo,\nartist name,signature,",
-        true
-      ],
-      "color": "#322",
-      "bgcolor": "#533"
-    },
-    {
-      "id": 500,
-      "type": "LoadImageFromUrl",
-      "pos": {
-        "0": -234.8057861328125,
-        "1": 713.9060668945312,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
-      },
-      "size": {
-        "0": 959.3316040039062,
-        "1": 408
-      },
-      "flags": {},
-      "order": 80,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "images",
-          "type": "IMAGE",
-          "links": [
-            1307
-          ],
-          "slot_index": 0,
-          "shape": 6
-        },
-        {
-          "name": "masks",
-          "type": "MASK",
-          "links": null,
-          "shape": 6
-        },
-        {
-          "name": "has_image",
-          "type": "BOOLEAN",
-          "links": null,
-          "shape": 3
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "LoadImageFromUrl"
-      },
-      "widgets_values": {
-        "image": "https://raw.githubusercontent.com/Dfalm-Original/COMFYui/refs/heads/main/images/Blue-Cat_LOGO.png",
-        "keep_alpha_channel": false,
-        "output_mode": false,
-        "choose image to upload": "image"
-      },
-      "color": "#969632",
-      "bgcolor": "#82821e"
-    },
-    {
-      "id": 698,
-      "type": "CR Text Concatenate",
-      "pos": {
-        "0": -962,
-        "1": 651,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
-      },
-      "size": {
-        "0": 315,
-        "1": 126
-      },
-      "flags": {
-        "collapsed": true
-      },
-      "order": 102,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "text1",
-          "type": "STRING",
-          "link": 1623,
-          "widget": {
-            "name": "text1"
-          }
-        },
-        {
-          "name": "text2",
-          "type": "STRING",
-          "link": 1609,
-          "widget": {
-            "name": "text2"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "*",
-          "links": [
-            1624
-          ],
-          "slot_index": 0,
-          "shape": 3
-        },
-        {
-          "name": "show_help",
-          "type": "STRING",
-          "links": null,
-          "shape": 3
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "CR Text Concatenate",
-        "ttNbgOverride": {
-          "color": "#222",
-          "bgcolor": "#000",
-          "groupcolor": "#444"
-        }
-      },
-      "widgets_values": [
-        "",
-        "",
-        ""
-      ],
-      "color": "#222",
-      "bgcolor": "#000"
-    },
-    {
-      "id": 697,
-      "type": "CR Text Concatenate",
-      "pos": {
-        "0": -962,
-        "1": 701,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
-      },
-      "size": {
-        "0": 315,
-        "1": 126
-      },
-      "flags": {
-        "collapsed": true
-      },
-      "order": 88,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "text1",
-          "type": "STRING",
-          "link": 1627,
-          "widget": {
-            "name": "text1"
-          }
-        },
-        {
-          "name": "text2",
-          "type": "STRING",
-          "link": 1626,
-          "widget": {
-            "name": "text2"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "*",
-          "links": [],
-          "slot_index": 0,
-          "shape": 3
-        },
-        {
-          "name": "show_help",
-          "type": "STRING",
-          "links": [
-            1827
-          ],
-          "slot_index": 1,
-          "shape": 3
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "CR Text Concatenate",
-        "ttNbgOverride": {
-          "color": "#222",
-          "bgcolor": "#000",
-          "groupcolor": "#444"
-        }
-      },
-      "widgets_values": [
-        "",
-        "",
-        ""
-      ],
-      "color": "#222",
-      "bgcolor": "#000"
-    },
-    {
-      "id": 727,
-      "type": "Integer Switch (JPS)",
-      "pos": {
-        "0": -2327,
-        "1": 179,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
-      },
-      "size": {
-        "0": 364.05950927734375,
-        "1": 138
-      },
-      "flags": {},
-      "order": 92,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "int_1",
-          "type": "INT",
-          "link": 1645,
-          "widget": {
-            "name": "int_1"
-          }
-        },
-        {
-          "name": "int_2",
-          "type": "INT",
-          "link": 1646,
-          "widget": {
-            "name": "int_2"
-          }
-        },
-        {
-          "name": "int_3",
-          "type": "INT",
-          "link": 1647,
-          "widget": {
-            "name": "int_3"
-          }
-        },
-        {
-          "name": "int_4",
-          "type": "INT",
-          "link": 1648,
-          "widget": {
-            "name": "int_4"
-          }
-        },
-        {
-          "name": "int_5",
-          "type": "INT",
-          "link": 1692,
-          "widget": {
-            "name": "int_5"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "int_out",
-          "type": "INT",
-          "links": [
-            1653
-          ],
-          "slot_index": 0,
-          "shape": 3
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "Integer Switch (JPS)"
-      },
-      "widgets_values": [
-        1,
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
-      "color": "#14ff14",
-      "bgcolor": "#00ff00"
-    },
-    {
-      "id": 695,
-      "type": "RandomNSP _O",
-      "pos": {
-        "0": -1018,
-        "1": 1011,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
-      },
-      "size": {
-        "0": 263.6932678222656,
-        "1": 106
-      },
-      "flags": {
-        "collapsed": false
-      },
-      "order": 81,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            1604
-          ],
-          "slot_index": 0,
-          "shape": 3
-        }
-      ],
-      "title": "RandomNSP _O - ✅",
-      "properties": {
-        "Node name for S&R": "RandomNSP _O",
-        "ttNbgOverride": {
-          "color": "#222",
-          "bgcolor": "#000",
-          "groupcolor": "#444"
-        }
-      },
-      "widgets_values": [
-        "scenario-desc",
-        56309030860324,
-        "randomize"
-      ],
-      "color": "#222",
-      "bgcolor": "#000"
-    },
-    {
-      "id": 692,
-      "type": "RandomNSP _O",
-      "pos": {
-        "0": -1019,
-        "1": 871,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
-      },
-      "size": {
-        "0": 258.6932678222656,
-        "1": 106
-      },
-      "flags": {
-        "collapsed": false
-      },
-      "order": 82,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            1603
-          ],
-          "slot_index": 0,
-          "shape": 3
-        }
-      ],
-      "title": "RandomNSP _O - ✅",
-      "properties": {
-        "Node name for S&R": "RandomNSP _O",
-        "ttNbgOverride": {
-          "color": "#222",
-          "bgcolor": "#000",
-          "groupcolor": "#444"
-        }
-      },
-      "widgets_values": [
-        "cosmic-nebula",
-        633412213324985,
-        "randomize"
-      ],
-      "color": "#222",
-      "bgcolor": "#000"
-    },
-    {
-      "id": 693,
-      "type": "RandomNSP _O",
-      "pos": {
-        "0": -1312,
-        "1": 871,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
-      },
-      "size": {
-        "0": 288.1119079589844,
-        "1": 106
-      },
-      "flags": {
-        "collapsed": false
-      },
-      "order": 83,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            1602
-          ],
-          "slot_index": 0,
-          "shape": 3
-        }
-      ],
-      "title": "RandomNSP _O - ✅",
-      "properties": {
-        "Node name for S&R": "RandomNSP _O",
-        "ttNbgOverride": {
-          "color": "#222",
-          "bgcolor": "#000",
-          "groupcolor": "#444"
-        }
-      },
-      "widgets_values": [
-        "cosmic-galaxy",
-        802247031456372,
-        "randomize"
-      ],
-      "color": "#222",
-      "bgcolor": "#000"
-    },
-    {
-      "id": 696,
-      "type": "TextConcat",
-      "pos": {
-        "0": -952,
-        "1": 801,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
-      },
-      "size": {
-        "0": 315,
-        "1": 178
-      },
-      "flags": {
-        "collapsed": true
-      },
-      "order": 122,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "text1",
-          "type": "STRING",
-          "link": 1831,
-          "widget": {
-            "name": "text1"
-          }
-        },
-        {
-          "name": "text2",
-          "type": "STRING",
-          "link": 1602,
-          "widget": {
-            "name": "text2"
-          }
-        },
-        {
-          "name": "text3",
-          "type": "STRING",
-          "link": 1603,
-          "widget": {
-            "name": "text3"
-          }
-        },
-        {
-          "name": "text4",
-          "type": "STRING",
-          "link": 1604,
-          "widget": {
-            "name": "text4"
-          }
-        },
-        {
-          "name": "text5",
-          "type": "STRING",
-          "link": 1605,
-          "widget": {
-            "name": "text5"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            1611,
-            1832
-          ],
-          "slot_index": 0,
-          "shape": 3
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "TextConcat",
-        "ttNbgOverride": {
-          "color": "#222",
-          "bgcolor": "#000",
-          "groupcolor": "#444"
-        }
-      },
-      "widgets_values": [
-        ",",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "color": "#222",
-      "bgcolor": "#000"
-    },
-    {
-      "id": 680,
-      "type": "Note",
-      "pos": {
-        "0": -1930,
-        "1": -710,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
-      },
-      "size": {
-        "0": 428.7532958984375,
-        "1": 77.19602966308594
-      },
-      "flags": {},
-      "order": 84,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [],
-      "title": "Note - VERSION",
-      "properties": {},
-      "widgets_values": [
-        "DEFAUT_MODEL-C_Text-2-Img+LoadImage+UPscalersV1.07"
-      ],
-      "color": "#222",
-      "bgcolor": "#000"
-    },
-    {
-      "id": 332,
-      "type": "String Literal",
-      "pos": {
-        "0": -1308.258544921875,
-        "1": 139.04095458984375,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
-      },
-      "size": {
-        "0": 548.0327758789062,
-        "1": 472.123046875
+        "0": 390.4503479003906,
+        "1": 249.2277069091797
       },
       "flags": {},
       "order": 85,
       "mode": 0,
       "inputs": [],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            1622,
-            1623
-          ],
-          "slot_index": 0,
-          "shape": 3
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "String Literal"
-      },
+      "outputs": [],
+      "title": "Unnamed",
+      "properties": {},
       "widgets_values": [
-        "blue cat,",
-        true
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 688,
-      "type": "CR Text Input Switch (4 way)",
-      "pos": {
-        "0": -2324,
-        "1": 1242,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
-      },
-      "size": {
-        "0": 352.79998779296875,
-        "1": 118
-      },
-      "flags": {},
-      "order": 114,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "text1",
-          "type": "STRING",
-          "link": 1622,
-          "widget": {
-            "name": "text1"
-          }
-        },
-        {
-          "name": "text2",
-          "type": "STRING",
-          "link": 1624,
-          "widget": {
-            "name": "text2"
-          }
-        },
-        {
-          "name": "text3",
-          "type": "STRING",
-          "link": 1598,
-          "widget": {
-            "name": "text3"
-          }
-        },
-        {
-          "name": "text4",
-          "type": "STRING",
-          "link": 1827,
-          "widget": {
-            "name": "text4"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            1600,
-            1628,
-            1831
-          ],
-          "slot_index": 0,
-          "shape": 3
-        },
-        {
-          "name": "show_help",
-          "type": "STRING",
-          "links": null,
-          "shape": 3
-        }
-      ],
-      "title": "🔀 CR Text Input Switch - BATCH / NO BATCH",
-      "properties": {
-        "Node name for S&R": "CR Text Input Switch (4 way)"
-      },
-      "widgets_values": [
-        1,
+        "<font color=\"#001100\">\n<h1 id=\"attention\">🗃️ NOMENCLATURE️</h1></font>\n\n#⌨️ PARAMETRER A DETERMINER PAR L'UTILISATEUR\n### C'est une variable à renseigner ou<br>un interrupteur à choix\n## 0 255 0",
+        "markdown",
         "",
-        "",
-        "",
-        ""
+        "one_dark"
       ],
       "color": "#14ff14",
-      "bgcolor": "#00ff00"
-    },
-    {
-      "id": 690,
-      "type": "easy textSwitch",
-      "pos": {
-        "0": -2267,
-        "1": 1525,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
-      },
-      "size": {
-        "0": 245.8902130126953,
-        "1": 78
-      },
-      "flags": {},
-      "order": 128,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "text1",
-          "type": "STRING",
-          "link": 1600,
-          "widget": {
-            "name": "text1"
-          }
-        },
-        {
-          "name": "text2",
-          "type": "STRING",
-          "link": 1832,
-          "widget": {
-            "name": "text2"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            1621,
-            1629,
-            1630,
-            1812
-          ],
-          "slot_index": 0,
-          "shape": 3
-        }
-      ],
-      "title": "Text Switch - VANILLA/RANDOM",
-      "properties": {
-        "Node name for S&R": "easy textSwitch"
-      },
-      "widgets_values": [
-        1,
-        "",
-        ""
-      ],
-      "color": "#14ff14",
-      "bgcolor": "#00ff00"
+      "bgcolor": "#00ff00",
+      "shape": 1
     }
   ],
   "links": [
@@ -11888,6 +10544,30 @@
       176,
       6,
       "INT"
+    ],
+    [
+      1836,
+      681,
+      2,
+      205,
+      1,
+      "VAE"
+    ],
+    [
+      1837,
+      667,
+      0,
+      794,
+      4,
+      "INT"
+    ],
+    [
+      1838,
+      667,
+      0,
+      176,
+      6,
+      "INT"
     ]
   ],
   "groups": [
@@ -11901,7 +10581,7 @@
       ],
       "color": "#ff0200",
       "font_size": 24,
-      "locked": false
+      "flags": {}
     },
     {
       "title": "⌨️ RENSEIGNER",
@@ -11913,7 +10593,7 @@
       ],
       "color": "#00ff00",
       "font_size": 24,
-      "locked": false
+      "flags": {}
     },
     {
       "title": "CHOIX - LORA OU PAS DE LORA",
@@ -11925,7 +10605,7 @@
       ],
       "color": "#00ff00",
       "font_size": 24,
-      "locked": false
+      "flags": {}
     },
     {
       "title": "PROMPTS POSITIF + NEGATIF",
@@ -11937,7 +10617,7 @@
       ],
       "color": "#d51abc",
       "font_size": 24,
-      "locked": false
+      "flags": {}
     },
     {
       "title": "kSAMPLER ",
@@ -11949,7 +10629,7 @@
       ],
       "color": "#372eb2",
       "font_size": 24,
-      "locked": false
+      "flags": {}
     },
     {
       "title": "NOM FICHIER + NOM DU MODELE",
@@ -11961,7 +10641,7 @@
       ],
       "color": "#13ec5b",
       "font_size": 24,
-      "locked": false
+      "flags": {}
     },
     {
       "title": "LORA + GENERATOR",
@@ -11973,7 +10653,7 @@
       ],
       "color": "#ffffff",
       "font_size": 24,
-      "locked": false
+      "flags": {}
     },
     {
       "title": "UPSCALER - Simple ( Rapide )",
@@ -11985,7 +10665,7 @@
       ],
       "color": "#19e6b4",
       "font_size": 24,
-      "locked": false
+      "flags": {}
     },
     {
       "title": "UPSCALER - Hires  ( Lent )",
@@ -11997,7 +10677,7 @@
       ],
       "color": "#641ee6",
       "font_size": 24,
-      "locked": false
+      "flags": {}
     },
     {
       "title": "BLACK BOX",
@@ -12009,7 +10689,7 @@
       ],
       "color": "#444",
       "font_size": 24,
-      "locked": false
+      "flags": {}
     },
     {
       "title": "VANILLE / BATCH / RNG",
@@ -12021,7 +10701,7 @@
       ],
       "color": "#00ff00",
       "font_size": 24,
-      "locked": false
+      "flags": {}
     },
     {
       "title": "CHOIX IMAGE",
@@ -12033,7 +10713,7 @@
       ],
       "color": "#3f789e",
       "font_size": 24,
-      "locked": false
+      "flags": {}
     },
     {
       "title": "🐞 TEXT-to-IMAGE / IMAGE-to-IMAGE 🐞",
@@ -12045,16 +10725,16 @@
       ],
       "color": "#ff6400",
       "font_size": 24,
-      "locked": false
+      "flags": {}
     }
   ],
   "config": {},
   "extra": {
     "ds": {
-      "scale": 0.5131581182307069,
+      "scale": 1,
       "offset": [
-        3072.8943886333054,
-        -8.354370272041137
+        6802,
+        810
       ]
     },
     "groupNodes": {}
