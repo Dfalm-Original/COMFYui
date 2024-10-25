@@ -272,6 +272,7 @@ Pour les options voir le GitHub de **[akatz-ai](https://github.com/akatz-ai)** :
 
 ### Toutes les Options restent comnunes au [ [ modele D ](DEFAUT_MODEL-D.md) ] & au modele [ [BASIC](BASIC.md) ] :
 
+<img src="Defaut/DEFAUT_MODEL-E_Text-2-Img+LoadImage+UPscalers+Video.gif" width="20%">
 
 ## 🌎🌍🌏 Modele D Ameliorations<br>This is Modele D with the addition of "mini" video **V⚪️**
 ## - **⚪️ Video on/off

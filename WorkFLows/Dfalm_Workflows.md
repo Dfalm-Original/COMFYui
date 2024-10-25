@@ -174,6 +174,7 @@ For options see the GitHub of **[akatz-ai](https://github.com/akatz-ai)**: <u>[C
 
 ### All Options remain common to the [ [ D model ](DEFAUT_MODEL-D.md) ] & to the [ [BASIC](BASIC.md) ] model:
 
+<img src="Defaut/DEFAUT_MODEL-E_Text-2-Img+LoadImage+UPscalers+Video.gif" width="20%">
 
 ## 🔵⚪️🔴 VOIR LE WORKFLOW EN DETAIL  [ CLICK ] [DEFAUT_MODEL-E_Text-2-Img+LoadImage+UPscalers+Video](DEFAUT_MODEL-E.md)<br>🌎🌍🌏 SEE THE WORKFLOW IN DETAIL [ CLICK ] [DEFAUT_MODEL-E_Text-2-Img+LoadImage+UPscalers+Video](DEFAUT_MODEL-E.md)
 
