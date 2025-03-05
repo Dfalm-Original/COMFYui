@@ -44,8 +44,9 @@ When these colors are specific I will specify it with the color code
 2) <u>[DEFAUT_MODEL-B_Load-ImgZ+UPscalers](DEFAUT_MODEL-B.md)</u> - Pour generer 'image(s)-to-image' -- To generate 'image(s)-to-image'
 3) <u>[DEFAUT_MODEL-C_Text-2-Img+LoadImage+UPscalers](DEFAUT_MODEL-C.md)</u> - Combine le Modele A et le Modele B -- Combine Model A and Model B
 4) <u>[DEFAUT_MODEL-D_Text-2-Img+LoadImage+UPscalers](DEFAUT_MODEL-D.md)</u> - Ameliore le Modele C -- Amelioration of C Model
-5) <u>[DEFAUT_MODEL-E_Text-2-Img+LoadImage+UPscalers+Video](DEFAUT_MODEL-E.md)</u> - Modele D avec ajout de "mini video" -- Model D with addition of "mini video"
+5) <u>[DEFAUT_MODEL-E_Text-2-Img+LoadImage+UPscalers+Video](DEFAUT_MODEL-E.md)</u> - Modele D avec ajout de "mini video" -- Model D with addition of "mini video"  
 
+-- **BONUS** <u>"mini video"</u> Ajout/Add mini vidéo
 ### 🆙) <u>[Upscalers](Upscalers.md)</u>
 
 ## 🚧🚧 WORK IN PROGRESS 🚧🚧
@@ -323,7 +324,16 @@ I recommend using the "SD" Prompt generator and Prompt Saver 1️⃣ for various
 
 ---
 
-<h1>D - In Fine</h1>
+<h1>D - Mini Video</h1>
+🔵⚪️🔴 Permet de créer des "mini" vidéo  TUTO : ## 🚧🚧 WORK IN PROGRESS 🚧🚧
+<br>  
+🌎🌍🌏 Allows you to create "mini" TUTORIAL videos: ## 🚧🚧 WORK IN PROGRESS 🚧🚧
+<br>  
+<img src="Defaut/DEFAUT_MODEL-E_Text-2-Img+LoadImage+UPscalers+Video.gif" width="20%">
+
+---
+
+<h1>E - In Fine</h1>
 
 ## Liens Utiles - Links usefull :
 VIEILLES VERSIONS / OLDS VERSION  <b>COMFYui</b> :
